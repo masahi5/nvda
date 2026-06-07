@@ -10,3 +10,7 @@ dist/
 # OS / editor
 .DS_Store
 Thumbs.db
+
+# ローカル専用ドキュメント（リポジトリには公開しない）
+/CLAUDE.md
+/README.md
