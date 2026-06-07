@@ -1,0 +1,11 @@
+[project]
+name = "nvidia-dashboard-pipeline"
+version = "0.1.0"
+description = "Fetch free NVDA market data and emit static JSON for the dashboard"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yfinance>=0.2.40",
+    "feedparser>=6.0.11",
+    "requests>=2.32.0",
+]

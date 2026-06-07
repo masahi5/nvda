@@ -1,0 +1,20 @@
+{
+  "updated_at": "2026-06-07T14:38:30+00:00",
+  "metrics": {
+    "trailingPE": 31.457056,
+    "forwardPE": 16.172209,
+    "marketCap": 4967727366144.0,
+    "trailingEps": 6.52,
+    "forwardEps": 12.68225,
+    "priceToBook": 31.69036,
+    "pegRatio": 0.6319,
+    "dividendYield": 0.49,
+    "beta": 2.202,
+    "fiftyTwoWeekHigh": 236.54,
+    "fiftyTwoWeekLow": 138.83,
+    "targetMeanPrice": 298.42374,
+    "recommendationKey": "strong_buy",
+    "profitMargins": 0.62966,
+    "revenueGrowth": 0.852
+  }
+}

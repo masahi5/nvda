@@ -1,0 +1,150 @@
+:root {
+  --bg: #0b0e11;
+  --card: #151a21;
+  --card-2: #1c232c;
+  --text: #e7ecf2;
+  --muted: #8b97a6;
+  --line: #232b35;
+  --green: #76b900; /* NVIDIA green */
+  --up: #2ebd85;
+  --down: #f6465d;
+  --accent: #4aa3ff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN",
+    "Yu Gothic", Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 12px 14px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* Topbar */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: max(10px, env(safe-area-inset-top)) 16px 10px;
+  background: rgba(11, 14, 17, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.brand { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.logo {
+  background: var(--green);
+  color: #0b0e11;
+  font-weight: 800;
+  font-size: 14px;
+  padding: 5px 8px;
+  border-radius: 7px;
+  letter-spacing: 0.5px;
+}
+.brand-text h1 { font-size: 15px; margin: 0; line-height: 1.1; }
+.exchange { font-size: 11px; color: var(--muted); }
+.status { text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
+.badge {
+  font-size: 10px;
+  color: #ffd479;
+  border: 1px solid #4a3c1a;
+  background: #2a230f;
+  border-radius: 5px;
+  padding: 2px 6px;
+}
+.updated { font-size: 11px; color: var(--muted); }
+
+/* Cards */
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px;
+}
+.card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  gap: 8px;
+}
+.card-head h2 { font-size: 14px; margin: 0; color: var(--text); }
+.hint { font-size: 11px; color: var(--muted); }
+
+/* Hero */
+.hero { display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+.price { font-size: 40px; font-weight: 800; line-height: 1; letter-spacing: -1px; }
+.change { font-size: 16px; font-weight: 600; margin-top: 6px; }
+.change.up, .metric-up { color: var(--up); }
+.change.down, .metric-down { color: var(--down); }
+.hero-meta { display: flex; gap: 16px; color: var(--muted); font-size: 12px; }
+.hero-meta b { color: var(--text); font-weight: 600; display: block; font-size: 14px; }
+
+/* Ranges */
+.ranges { display: flex; gap: 4px; flex-wrap: wrap; }
+.range-btn {
+  background: var(--card-2);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.range-btn.active { background: var(--green); color: #0b0e11; border-color: var(--green); font-weight: 700; }
+
+.chart { width: 100%; height: 300px; }
+.chart-sm { width: 100%; height: 160px; margin-top: 10px; }
+
+/* Metrics grid */
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+.metric {
+  background: var(--card-2);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.metric .label { font-size: 11px; color: var(--muted); }
+.metric .value { font-size: 18px; font-weight: 700; margin-top: 3px; }
+.metric .sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+/* News */
+.news { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.news li { border-bottom: 1px solid var(--line); }
+.news li:last-child { border-bottom: none; }
+.news a {
+  display: block;
+  padding: 11px 2px;
+  color: var(--text);
+  text-decoration: none;
+}
+.news a:active { background: var(--card-2); }
+.news .n-title { font-size: 13px; line-height: 1.4; }
+.news .n-meta { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+.note { font-size: 11px; color: var(--muted); margin: 12px 0 0; line-height: 1.5; }
+.footer { max-width: 720px; margin: 0 auto; padding: 0 18px 40px; }
+.footer p { font-size: 11px; color: var(--muted); text-align: center; }
+
+@media (min-width: 560px) {
+  .metrics { grid-template-columns: repeat(3, 1fr); }
+  .price { font-size: 48px; }
+}

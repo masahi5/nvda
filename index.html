@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>NVIDIA ダッシュボード</title>
+  <meta name="description" content="NVIDIA (NVDA) の株価・PER・フォワードPER・空売り残高・ニュースをまとめたダッシュボード" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <meta name="theme-color" content="#0b0e11" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="NVDA" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="icon" href="./icons/icon-192.png" />
+
+  <link rel="stylesheet" href="./styles.css" />
+
+  <!-- チャートライブラリ (CDN・無料) -->
+  <script src="https://unpkg.com/lightweight-charts@4.1.3/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">NVDA</span>
+      <div class="brand-text">
+        <h1>NVIDIA Corporation</h1>
+        <span class="exchange">NASDAQ・米ドル</span>
+      </div>
+    </div>
+    <div class="status">
+      <span class="badge" title="無料ソースのため株価は遅延データです">遅延データ</span>
+      <span id="updated" class="updated">読み込み中…</span>
+    </div>
+  </header>
+
+  <main>
+    <!-- 現在値 -->
+    <section class="card hero" id="hero">
+      <div class="price-block">
+        <div id="price" class="price">—</div>
+        <div id="change" class="change">—</div>
+      </div>
+      <div class="hero-meta" id="hero-meta"></div>
+    </section>
+
+    <!-- 株価チャート -->
+    <section class="card">
+      <div class="card-head">
+        <h2>株価チャート</h2>
+        <div class="ranges" id="ranges"></div>
+      </div>
+      <div id="chart" class="chart"></div>
+    </section>
+
+    <!-- 指標 -->
+    <section class="card">
+      <div class="card-head"><h2>バリュエーション指標</h2></div>
+      <div class="metrics" id="metrics"></div>
+    </section>
+
+    <!-- 空売り残高 -->
+    <section class="card">
+      <div class="card-head">
+        <h2>空売り残高 (Short Interest)</h2>
+        <span class="hint" id="si-date"></span>
+      </div>
+      <div class="metrics" id="short-metrics"></div>
+      <div class="chart-sm"><canvas id="short-chart"></canvas></div>
+      <p class="note">※ 米国株のため日本株の信用買い残/売り残は存在しません。FINRA が月2回公開する空売り残高を表示しています。</p>
+    </section>
+
+    <!-- ニュース -->
+    <section class="card">
+      <div class="card-head"><h2>ニュース</h2></div>
+      <ul class="news" id="news"></ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>データ提供: Yahoo Finance / FINRA / 各種RSS（無料ソース）。投資助言ではありません。</p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
