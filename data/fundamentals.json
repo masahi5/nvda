@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-11T19:58:16+00:00",
+  "updated_at": "2026-06-11T21:31:37+00:00",
   "metrics": {
-    "trailingPE": 31.398928,
-    "forwardPE": 16.110048,
-    "marketCap": 4966152929280.0,
+    "trailingPE": 31.37366,
+    "forwardPE": 16.097084,
+    "marketCap": 4962156281856.0,
     "trailingEps": 6.53,
     "forwardEps": 12.72715,
-    "priceToBook": 25.407064,
+    "priceToBook": 25.386618,
     "pegRatio": 0.6168,
     "dividendYield": 0.5,
     "beta": 2.202,
