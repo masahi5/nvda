@@ -1,7 +1,7 @@
 // シンプルな Service Worker。
 // - アプリ本体(HTML/CSS/JS): cache-first（オフラインでも起動）
 // - データJSON: network-first（常に最新を取りに行き、失敗時のみキャッシュ）
-const CACHE = "nvda-dash-v1";
+const CACHE = "nvda-dash-v2";
 const SHELL = [
   "./",
   "./index.html",
