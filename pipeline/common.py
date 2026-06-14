@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -15,6 +16,17 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 def now_iso() -> str:
     """UTC の ISO8601 文字列。"""
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+
+def feed_published_iso(entry: Any) -> str | None:
+    """feedparser エントリの公開日時を ISO8601(UTC) に変換。取れなければ None。"""
+    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
+    if parsed:
+        try:
+            return datetime.fromtimestamp(time.mktime(parsed), tz=timezone.utc).isoformat(timespec="seconds")
+        except (ValueError, OverflowError):
+            return None
+    return None
 
 
 def to_iso(ts: Any) -> str | None:

@@ -14,6 +14,7 @@ from fetch_fundamentals import fetch_fundamentals
 from fetch_news import fetch_news
 from fetch_price import fetch_price
 from fetch_short_interest import fetch_short_interest
+from fetch_x import fetch_x
 
 
 def _run(name: str, filename: str, fn) -> bool:
@@ -46,6 +47,7 @@ def main() -> int:
         "fundamentals": _run("fundamentals", "fundamentals.json", lambda: fetch_fundamentals(info)),
         "short_interest": _run("short_interest", "short_interest.json", lambda: fetch_short_interest(info)),
         "news": _run("news", "news.json", fetch_news),
+        "x": _run("x", "x.json", fetch_x),
     }
 
     ok = sum(results.values())

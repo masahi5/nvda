@@ -1,0 +1,19 @@
+{
+  "quarter": "FY2027 Q1",
+  "period_end": "2026-04-26",
+  "report_date": "2026-05-20",
+  "summary": "売上高は過去最高の $81.6B（前年比 +85%、前期比 +20%）。データセンターが牽引し、Blackwell 製品の量産と InfiniBand / Spectrum-X / NVLink 需要が拡大。非GAAP粗利率は 75.0% と高水準を維持し、Q2 ガイダンスは約 $91B。四半期配当を $0.01→$0.25 に引き上げ、$80B の自社株買い枠を追加した。",
+  "highlights": [
+    { "label": "売上高", "value": "$81.6B", "note": "前年比 +85% / 過去最高" },
+    { "label": "データセンター売上", "value": "$75.2B", "note": "前年比 +92%" },
+    { "label": "ネットワーキング", "value": "$14.8B", "note": "前年比 +199% / 過去最高" },
+    { "label": "非GAAP EPS", "value": "$1.87", "note": "GAAP $2.39" },
+    { "label": "非GAAP粗利率", "value": "75.0%", "note": "GAAP 74.9%" },
+    { "label": "Q2ガイダンス", "value": "約$91B", "note": "売上見通し" }
+  ],
+  "sources": [
+    { "label": "NVIDIA公式プレスリリース", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027" },
+    { "label": "投資家向け (IR)", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx" }
+  ],
+  "updated_at": "2026-06-14"
+}

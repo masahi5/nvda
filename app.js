@@ -120,17 +120,13 @@ function renderMetrics(f) {
     metricCard("時価総額", fmtCompactUsd(m.marketCap)),
     metricCard("実績 EPS", fmtUsd(m.trailingEps)),
     metricCard("予想 EPS", fmtUsd(m.forwardEps)),
-    metricCard("PBR", fmt(m.priceToBook)),
-    metricCard("目標株価", fmtUsd(m.targetMeanPrice), m.recommendationKey || ""),
-    metricCard("52週レンジ", `${fmtUsd(m.fiftyTwoWeekLow, 0)}–${fmtUsd(m.fiftyTwoWeekHigh, 0)}`),
-    metricCard("ベータ", fmt(m.beta)),
   ];
-  if (m.dividendYield != null) cards.push(metricCard("配当利回り", fmtPct(m.dividendYield * 100)));
   if (m.revenueGrowth != null) cards.push(metricCard("増収率", fmtPct(m.revenueGrowth * 100)));
   document.getElementById("metrics").innerHTML = cards.join("");
 }
 
 // ---------- 空売り残高 ----------
+let shortChart = null;
 function renderShort(s) {
   const changeCls = s.shares_short_change_pct == null ? "" : (s.shares_short_change_pct >= 0 ? "metric-up" : "metric-down");
   const changeTxt = s.shares_short_change_pct == null ? "" :
@@ -144,7 +140,8 @@ function renderShort(s) {
 
   if (s.shares_short != null && s.shares_short_prior_month != null && window.Chart) {
     const ctx = document.getElementById("short-chart");
-    new Chart(ctx, {
+    if (shortChart) shortChart.destroy();
+    shortChart = new Chart(ctx, {
       type: "bar",
       data: {
         labels: ["前月", "今回"],
@@ -180,15 +177,61 @@ function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
+// ---------- X(Twitter) ----------
+function renderX(x) {
+  const ul = document.getElementById("x-feed");
+  const items = (x && x.items) || [];
+  ul.innerHTML = items.map((it) => `
+    <li><a href="${it.link}" target="_blank" rel="noopener">
+      <div class="n-title">${escapeHtml(it.text)}</div>
+      <div class="n-meta">${it.author ? escapeHtml(it.author) + "・" : ""}${it.published ? fmtDateTime(it.published) : ""}</div>
+    </a></li>`).join("") || `<li><a>X投稿を取得できませんでした</a></li>`;
+}
+
+// ---------- 決算まとめ ----------
+function renderEarnings(e) {
+  const el = document.getElementById("earnings");
+  if (!e || !e.quarter) {
+    el.innerHTML = `<p class="note">決算情報がまだありません。</p>`;
+    return;
+  }
+  const head = `<div class="card-head"><h2>${escapeHtml(e.quarter)} 決算</h2><span class="hint">${e.report_date ? fmtDate(e.report_date) + " 発表" : ""}</span></div>`;
+  const summary = e.summary ? `<p class="earnings-summary">${escapeHtml(e.summary)}</p>` : "";
+  const cards = (e.highlights || []).map((h) => metricCard(escapeHtml(h.label), escapeHtml(h.value), h.note ? escapeHtml(h.note) : "")).join("");
+  const grid = cards ? `<div class="metrics">${cards}</div>` : "";
+  const sources = (e.sources || []).map((s) =>
+    `<a href="${s.url}" target="_blank" rel="noopener">${escapeHtml(s.label)} ↗</a>`).join("");
+  const src = sources ? `<div class="earnings-sources">情報元: ${sources}</div>` : "";
+  el.innerHTML = head + summary + grid + src;
+}
+
+// ---------- タブ切替 ----------
+function setupTabs() {
+  const btns = document.querySelectorAll(".tab-btn");
+  const panels = document.querySelectorAll(".tab-panel");
+  btns.forEach((btn) => {
+    btn.onclick = () => {
+      const tab = btn.dataset.tab;
+      btns.forEach((b) => b.classList.toggle("active", b === btn));
+      panels.forEach((p) => p.classList.toggle("active", p.id === `tab-${tab}`));
+      // 隠れていたパネルでChart.jsを描画するとサイズ0になるため、表示時にリサイズ
+      if (tab === "short" && shortChart) shortChart.resize();
+    };
+  });
+}
+
 // ---------- 起動 ----------
 async function init() {
   buildChart();
+  setupTabs();
 
   const tasks = [
     ["price.json", (d) => { renderHero(d); renderRanges(d); document.getElementById("updated").textContent = "更新 " + fmtDateTime(d.updated_at); }],
     ["fundamentals.json", renderMetrics],
     ["short_interest.json", renderShort],
     ["news.json", renderNews],
+    ["x.json", renderX],
+    ["earnings.json", renderEarnings],
   ];
   await Promise.all(tasks.map(async ([name, fn]) => {
     try { fn(await loadJson(name)); }

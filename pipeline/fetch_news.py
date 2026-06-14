@@ -1,13 +1,11 @@
 """ニュース取得: 複数の無料RSSを集約して正規化。"""
 from __future__ import annotations
 
-import time
-from datetime import datetime, timezone
 from typing import Any
 
 import feedparser
 
-from common import now_iso
+from common import feed_published_iso, now_iso
 
 # (表示名, RSS URL)
 FEEDS: list[tuple[str, str]] = [
@@ -17,16 +15,6 @@ FEEDS: list[tuple[str, str]] = [
 ]
 
 MAX_ITEMS = 30
-
-
-def _published_iso(entry: Any) -> str | None:
-    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
-    if parsed:
-        try:
-            return datetime.fromtimestamp(time.mktime(parsed), tz=timezone.utc).isoformat(timespec="seconds")
-        except (ValueError, OverflowError):
-            return None
-    return None
 
 
 def fetch_news() -> dict[str, Any]:
@@ -53,7 +41,7 @@ def fetch_news() -> dict[str, Any]:
                     "title": title,
                     "link": link,
                     "source": source,
-                    "published": _published_iso(entry),
+                    "published": feed_published_iso(entry),
                 }
             )
 

@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>NVIDIA ダッシュボード</title>
-  <meta name="description" content="NVIDIA (NVDA) の株価・PER・フォワードPER・空売り残高・ニュースをまとめたダッシュボード" />
+  <meta name="description" content="NVIDIA (NVDA) の株価・PER・フォワードPER・空売り残高・ニュース・X投稿・決算まとめをまとめたダッシュボード" />
 
   <!-- PWA -->
   <link rel="manifest" href="./manifest.webmanifest" />
@@ -61,26 +61,46 @@
       <div class="metrics" id="metrics"></div>
     </section>
 
-    <!-- 空売り残高 -->
-    <section class="card">
-      <div class="card-head">
-        <h2>空売り残高 (Short Interest)</h2>
-        <span class="hint" id="si-date"></span>
+    <!-- タブ（ニュース / X / 決算 / 空売り） -->
+    <section class="card tabs">
+      <div class="tab-bar" role="tablist">
+        <button class="tab-btn active" data-tab="news" role="tab">ニュース</button>
+        <button class="tab-btn" data-tab="x" role="tab">X</button>
+        <button class="tab-btn" data-tab="earnings" role="tab">決算</button>
+        <button class="tab-btn" data-tab="short" role="tab">空売り残高</button>
       </div>
-      <div class="metrics" id="short-metrics"></div>
-      <div class="chart-sm"><canvas id="short-chart"></canvas></div>
-      <p class="note">※ 米国株のため日本株の信用買い残/売り残は存在しません。FINRA が月2回公開する空売り残高を表示しています。</p>
-    </section>
 
-    <!-- ニュース -->
-    <section class="card">
-      <div class="card-head"><h2>ニュース</h2></div>
-      <ul class="news" id="news"></ul>
+      <!-- ニュース -->
+      <div class="tab-panel active" id="tab-news" role="tabpanel">
+        <ul class="news" id="news"></ul>
+      </div>
+
+      <!-- X(Twitter) -->
+      <div class="tab-panel" id="tab-x" role="tabpanel">
+        <ul class="news x-feed" id="x-feed"></ul>
+        <p class="note">※ X投稿は無料RSS経由のため、取得が不安定な場合があります（直近の取得分を表示）。</p>
+      </div>
+
+      <!-- 決算まとめ -->
+      <div class="tab-panel" id="tab-earnings" role="tabpanel">
+        <div id="earnings"></div>
+      </div>
+
+      <!-- 空売り残高 -->
+      <div class="tab-panel" id="tab-short" role="tabpanel">
+        <div class="card-head">
+          <h2>空売り残高 (Short Interest)</h2>
+          <span class="hint" id="si-date"></span>
+        </div>
+        <div class="metrics" id="short-metrics"></div>
+        <div class="chart-sm"><canvas id="short-chart"></canvas></div>
+        <p class="note">※ 米国株のため日本株の信用買い残/売り残は存在しません。FINRA が月2回公開する空売り残高を表示しています。</p>
+      </div>
     </section>
   </main>
 
   <footer class="footer">
-    <p>データ提供: Yahoo Finance / FINRA / 各種RSS（無料ソース）。投資助言ではありません。</p>
+    <p>データ提供: Yahoo Finance / FINRA / 各種RSS・X(Twitter)RSS（無料ソース）。決算まとめは手動更新。投資助言ではありません。</p>
   </footer>
 
   <script src="./app.js"></script>
