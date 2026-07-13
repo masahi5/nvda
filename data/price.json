@@ -1,11 +1,11 @@
 {
   "symbol": "NVDA",
-  "updated_at": "2026-07-12T23:27:22+00:00",
+  "updated_at": "2026-07-13T12:43:32+00:00",
   "quote": {
     "price": 210.96,
-    "previous_close": 202.315,
-    "change": 8.645,
-    "change_pct": 4.27,
+    "previous_close": 210.57,
+    "change": 0.39,
+    "change_pct": 0.19,
     "currency": "USD",
     "day_high": 211.0,
     "day_low": 201.92
