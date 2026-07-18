@@ -1,12 +1,61 @@
 {
-  "updated_at": "2026-07-18T11:27:44+00:00",
+  "updated_at": "2026-07-18T23:27:45+00:00",
   "items": [
     {
-      "text": "RT by @nikkei: NVIDIAファン氏、日本半導体にエール　もつ鍋囲んだ経営者の顔ぶれ https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW001&n_tw=1784331742",
+      "text": "ファン氏の来日に沸く日本の産業界　深まる「NVIDIA頼み」 https://www.nikkei.com/article/DGXZQOUC1723X0X10C26A7000000/?n_cid=SNSTW006&n_tw=1784414179",
       "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2078264844608790725",
+      "link": "https://x.com/nikkei/status/2078610119479140504",
       "source": "X",
-      "published": "2026-07-17T23:45:25+00:00"
+      "published": "2026-07-18T22:37:25+00:00"
+    },
+    {
+      "text": "Global data center electricity consumption is forecast to rise 26% this year to 565 TWh, up from 447 TWh in 2025, per Gartner, driven by strong AI demand. $MSFT $META $AMZN $GOOG $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2078572648838107420",
+      "source": "X",
+      "published": "2026-07-18T20:08:32+00:00"
+    },
+    {
+      "text": "Imagine being an AI VC and not attending Kimi/Moonshot founder Zhilin Yang's session at Nvidia GTC. NGMI.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2078541355026927699",
+      "source": "X",
+      "published": "2026-07-18T18:04:11+00:00"
+    },
+    {
+      "text": "Moonshot Kimi's prior models K2.0/K2.5 was trained on Nvidia H800 GPUs",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2078538907986039083",
+      "source": "X",
+      "published": "2026-07-18T17:54:27+00:00"
+    },
+    {
+      "text": "Kimi/Moonshot founder Zhilin Yang was at Nvidia GTC https://www.youtube.com/watch?v=CwePo4847ho",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2078532596191920489",
+      "source": "X",
+      "published": "2026-07-18T17:29:22+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: Explore the full recap of NVIDIA’s week in Japan. https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2078500836599038099",
+      "source": "X",
+      "published": "2026-07-18T15:23:10+00:00"
+    },
+    {
+      "text": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2078500453164466299",
+      "source": "X",
+      "published": "2026-07-18T15:21:39+00:00"
+    },
+    {
+      "text": "米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（ＣＥＯ）が７月１５日、来日した。セガの元社長である入交昭一郎氏や、「バーチャファイター」の生みの親である著名ゲームデザイナーの鈴木裕氏と都内で面会し、３０年前に自社を救済してくれたことへの感謝を伝えた。",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2078472355693867070",
+      "source": "X",
+      "published": "2026-07-18T13:30:00+00:00"
     },
     {
       "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
@@ -79,32 +128,11 @@
       "published": "2026-07-17T15:36:50+00:00"
     },
     {
-      "text": "R to @StockMKTNewz: Nvidia $NVDA is back on top Jensen said NO",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2078122762414039393",
-      "source": "X",
-      "published": "2026-07-17T14:20:50+00:00"
-    },
-    {
-      "text": "JUST IN: Apple $AAPL is back to having a larger market cap than Nvidia $NVDA and has retaken the spot of the BIGGEST COMPANY IN THE WORLD",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2078111145894814131",
-      "source": "X",
-      "published": "2026-07-17T13:34:41+00:00"
-    },
-    {
       "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
       "author": "@evrn_world",
       "link": "https://x.com/evrn_world/status/2078110222502248783",
       "source": "X",
       "published": "2026-07-17T13:31:01+00:00"
-    },
-    {
-      "text": "Did someone say MORE COMPUTE NEEDED? $NVDA Moonshot: \"Since inference efficiency likewise benefits from larger high-bandwidth communication domains, we recommend deploying Kimi K3 on supernode configurations with 64 or more accelerators.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2078077913241382985",
-      "source": "X",
-      "published": "2026-07-17T11:22:37+00:00"
     },
     {
       "text": "AI chip startup Positron is reportedly looking to raise $750 million across two phases valuing the company at $5 billion, more than tripling its valuation in five months. $NVDA $AMD $AVGO",
@@ -182,34 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2077785408612495448",
       "source": "X",
       "published": "2026-07-16T16:00:19+00:00"
-    },
-    {
-      "text": "Ready for Horde Siege in @GearsofWar: E-Day? Tag your squad you’re taking on the Locust with and use #RTXPowersPlay for another chance to win a custom GeForce RTX 5080 Founders Edition!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2077785406238589338",
-      "source": "X",
-      "published": "2026-07-16T16:00:18+00:00"
-    },
-    {
-      "text": "R to @firstadopter: sg.news.yahoo.com/nvidia-co-…",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2077772588709753262",
-      "source": "X",
-      "published": "2026-07-16T15:09:22+00:00"
-    },
-    {
-      "text": "Nvidia CEO Jensen Huang: \"We are at the beginning\" of this technology cycle \"Most technology cycles last anywhere from 10 to 15 years before it kind of plateaus. We are at the beginning of this one,\" the US chip giant's CEO told reporters in Tokyo. \"Is it going to flatten out? It will never go down, just as electricity never went down,\" he said, adding that semiconductors will be the world's largest industry, as part of its \"social fabric\".",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2077772587493449748",
-      "source": "X",
-      "published": "2026-07-16T15:09:22+00:00"
-    },
-    {
-      "text": "R to @ryosei_akazawa: Japan’s national physical AI infrastructure brings together manufacturing expertise, real-world industrial data, and global tech leaders to develop multimodal models for AI agents, digital twins, robotics, and physical AI. “Japan must build Japan AI.” ➡️ https://nvda.ws/3QUOMR5",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2077756369663365608",
-      "source": "X",
-      "published": "2026-07-16T14:04:56+00:00"
     }
   ]
 }
