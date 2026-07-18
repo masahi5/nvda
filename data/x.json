@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-18T04:35:35+00:00",
+  "updated_at": "2026-07-18T04:57:32+00:00",
   "items": [
+    {
+      "text": "ジェンスン・ファン氏、神田の居酒屋「やきとん」でおもてなし https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW005&n_tw=1784347686 NVIDIA主催の懇親会に集まったのは、半導体企業の豪華な顔ぶれ。 ファン氏はもつ鍋を食べながら、「ジャパン・イズ・バック（日本は復活した）」とエールを送りました。",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2078336818068549906",
+      "source": "X",
+      "published": "2026-07-17T19:31:25+00:00"
+    },
+    {
+      "text": "NVIDIAファン氏、日本半導体にエール　もつ鍋囲んだ経営者の顔ぶれ https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW001&n_tw=1784331742",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2078264844608790725",
+      "source": "X",
+      "published": "2026-07-17T14:45:25+00:00"
+    },
     {
       "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
       "author": "@nvidia",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidianewsroom/status/2077756369663365608",
       "source": "X",
       "published": "2026-07-16T05:04:56+00:00"
-    },
-    {
-      "text": "Japan is building the AI factories to power the next industrial revolution. NVIDIA CEO Jensen Huang joined Japan’s METI Minister @ryosei_akazawa as NVIDIA and Noetra, supported by @METI_JPN, announced plans to build the world’s first national AI infrastructure for physical AI.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2077754081674768677",
-      "source": "X",
-      "published": "2026-07-16T04:55:50+00:00"
-    },
-    {
-      "text": "Japan is laying the foundation for the future of physical AI. Partnering with Noetra and supported by METI, the NVIDIA Vera Rubin AI factory built on the NVIDIA DSX platform will bring world-class AI infrastructure to manufacturing, robotics, healthcare, and beyond. ✅ 27,500 NVIDIA Rubin GPUs ✅ 13,750 NVIDIA Vera CPUs ✅ Connected and scaled with NVIDIA Spectrum-X Ethernet networking Read the announcement ⬇️ https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2077711134031839297",
-      "source": "X",
-      "published": "2026-07-16T02:05:11+00:00"
     }
   ]
 }

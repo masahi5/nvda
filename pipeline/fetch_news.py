@@ -1,17 +1,30 @@
-"""ニュース取得: 複数の無料RSSを集約して正規化。"""
+"""ニュース取得: 複数の無料RSS（英語＋日本語）を集約して正規化。"""
 from __future__ import annotations
 
+import urllib.parse
 from typing import Any
 
 import feedparser
 
 from common import feed_published_iso, now_iso
 
-# (表示名, RSS URL)
+
+def _google_news_url(query: str, hl: str, gl: str, ceid_lang: str) -> str:
+    """Google News 検索RSSのURLを組み立てる（クエリはUTF-8をパーセントエンコード）。"""
+    q = urllib.parse.quote(query)
+    return (
+        f"https://news.google.com/rss/search?q={q}"
+        f"&hl={hl}&gl={gl}&ceid={gl}:{ceid_lang}"
+    )
+
+
+# (表示名, RSS URL)。英語ソースに加え、日本語（日本版Google News）も集約する。
 FEEDS: list[tuple[str, str]] = [
-    ("Google News", "https://news.google.com/rss/search?q=NVIDIA+OR+NVDA+stock&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News", _google_news_url("NVIDIA OR NVDA stock", "en-US", "US", "en")),
     ("Yahoo Finance", "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA&region=US&lang=en-US"),
     ("NVIDIA Newsroom", "https://nvidianews.nvidia.com/rss"),
+    # 日本語ソース（エヌビディア関連の日本語記事：ロイター/Bloomberg日本版/日経 等が拾える）
+    ("Googleニュース", _google_news_url("エヌビディア OR NVIDIA 株", "ja", "JP", "ja")),
 ]
 
 MAX_ITEMS = 30

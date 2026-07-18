@@ -48,12 +48,19 @@ DEFAULT_THIRD_PARTY_ACCOUNTS: list[str] = [
     "DanielNewmanUV",  # Futurum（アナリスト）
     "firstadopter",    # テック/半導体ウォッチャー
     "StockMKTNewz",    # 市場ニュース
+    # 日本語系（米株/半導体を日本語で発信するアカウント）
+    "Bloomberg_JP",    # Bloomberg 日本語版
+    "ReutersJapan",    # ロイター日本語
+    "nikkei",          # 日本経済新聞
+    "WSJJapan",        # WSJ 日本版
 ]
 
 # 第三者系の投稿を NVIDIA 関連に絞るためのキーワード（大文字小文字無視）。
+# 英語に加え、日本語表記（エヌビディア/エヌビ/半導体 等）も拾う。
 _RELEVANCE_RE = re.compile(
     r"nvidia|nvda|jensen|geforce|blackwell|\brtx\b|\bcuda\b|"
-    r"\bh100\b|\bh200\b|\bb200\b|\bgb200\b|\bdgx\b|hopper gpu|rubin gpu",
+    r"\bh100\b|\bh200\b|\bb200\b|\bgb200\b|\bdgx\b|hopper gpu|rubin gpu|"
+    r"エヌビディア|エヌビ|半導体|ジェンスン|ジェンセン",
     re.IGNORECASE,
 )
 
