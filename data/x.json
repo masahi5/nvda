@@ -1,215 +1,215 @@
 {
-  "updated_at": "2026-07-18T04:57:32+00:00",
+  "updated_at": "2026-07-18T11:27:44+00:00",
   "items": [
     {
-      "text": "ジェンスン・ファン氏、神田の居酒屋「やきとん」でおもてなし https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW005&n_tw=1784347686 NVIDIA主催の懇親会に集まったのは、半導体企業の豪華な顔ぶれ。 ファン氏はもつ鍋を食べながら、「ジャパン・イズ・バック（日本は復活した）」とエールを送りました。",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2078336818068549906",
-      "source": "X",
-      "published": "2026-07-17T19:31:25+00:00"
-    },
-    {
-      "text": "NVIDIAファン氏、日本半導体にエール　もつ鍋囲んだ経営者の顔ぶれ https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW001&n_tw=1784331742",
+      "text": "RT by @nikkei: NVIDIAファン氏、日本半導体にエール　もつ鍋囲んだ経営者の顔ぶれ https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/?n_cid=SNSTW001&n_tw=1784331742",
       "author": "@nikkei",
       "link": "https://x.com/nikkei/status/2078264844608790725",
       "source": "X",
-      "published": "2026-07-17T14:45:25+00:00"
+      "published": "2026-07-17T23:45:25+00:00"
     },
     {
       "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2078252828804686278",
       "source": "X",
-      "published": "2026-07-17T13:57:41+00:00"
+      "published": "2026-07-17T22:57:41+00:00"
     },
     {
       "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2078244664751104293",
       "source": "X",
-      "published": "2026-07-17T13:25:14+00:00"
+      "published": "2026-07-17T22:25:14+00:00"
     },
     {
       "text": "🎒 Back to school starts here 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Walmart deals → https://nvda.ws/4gFyHck",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2078244037157421389",
       "source": "X",
-      "published": "2026-07-17T13:22:45+00:00"
+      "published": "2026-07-17T22:22:45+00:00"
     },
     {
       "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more.  Learn more: https://vist.ly/5bmju",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2078228046465655279",
       "source": "X",
-      "published": "2026-07-17T12:19:12+00:00"
+      "published": "2026-07-17T21:19:12+00:00"
     },
     {
       "text": "Another leaderboard win for Nemotron 3 Embed 👀 The 8B model takes #1 on LMEB, with the 1B model right behind it at #2. LMEB tests whether embedding models can find the right details across long-running conversations and other memory-heavy tasks, useful for agents that need to remember context across sessions.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2078204725921771890",
       "source": "X",
-      "published": "2026-07-17T10:46:32+00:00"
+      "published": "2026-07-17T19:46:32+00:00"
     },
     {
       "text": "RTX Play Live is TODAY ⚙️ Join @GeForce_JacobF for a playthrough of Gears of War: Reloaded as we gear up for @GearsofWar: E-Day, plus more chances to win a custom GeForce RTX 5080 Founders Edition! ⏰1–5 PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2078177948868186443",
       "source": "X",
-      "published": "2026-07-17T09:00:08+00:00"
+      "published": "2026-07-17T18:00:08+00:00"
     },
     {
       "text": "ICYMI from Jensen’s visit to Akihabara: 🤝 Celebrating decades of partnership with @SEGA_OFFICIAL ⚡ @NVIDIARTXSpark 🕹️ VIRTUA FIGHTER CROSSROADS 💚 Arcade mode unlocked",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2078163100205719737",
       "source": "X",
-      "published": "2026-07-17T08:01:08+00:00"
+      "published": "2026-07-17T17:01:08+00:00"
     },
     {
       "text": "R to @huggingface: See what’s new 👇 https://nvda.ws/44BW3Z5",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2078148750384529658",
       "source": "X",
-      "published": "2026-07-17T07:04:06+00:00"
+      "published": "2026-07-17T16:04:06+00:00"
     },
     {
       "text": "NeMo AutoModel now supports @huggingface Diffusers 🤗 AutoModel is our open source fine-tuning library. It first tackled Transformers, and now supports image and video models too, with ready-to-run full and LoRA recipes so you spend less time wiring up distributed training.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2078148746865418353",
       "source": "X",
-      "published": "2026-07-17T07:04:06+00:00"
+      "published": "2026-07-17T16:04:06+00:00"
     },
     {
       "text": "Meta is building its first data Canadian data center in Alberta, with the 1GW facility expected to see an investment of around $9.2 billion. $META $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2078141887421047293",
       "source": "X",
-      "published": "2026-07-17T06:36:50+00:00"
+      "published": "2026-07-17T15:36:50+00:00"
     },
     {
       "text": "R to @StockMKTNewz: Nvidia $NVDA is back on top Jensen said NO",
       "author": "@StockMKTNewz",
       "link": "https://x.com/StockMKTNewz/status/2078122762414039393",
       "source": "X",
-      "published": "2026-07-17T05:20:50+00:00"
+      "published": "2026-07-17T14:20:50+00:00"
+    },
+    {
+      "text": "JUST IN: Apple $AAPL is back to having a larger market cap than Nvidia $NVDA and has retaken the spot of the BIGGEST COMPANY IN THE WORLD",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2078111145894814131",
+      "source": "X",
+      "published": "2026-07-17T13:34:41+00:00"
     },
     {
       "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
       "author": "@evrn_world",
       "link": "https://x.com/evrn_world/status/2078110222502248783",
       "source": "X",
-      "published": "2026-07-17T04:31:01+00:00"
+      "published": "2026-07-17T13:31:01+00:00"
     },
     {
       "text": "Did someone say MORE COMPUTE NEEDED? $NVDA Moonshot: \"Since inference efficiency likewise benefits from larger high-bandwidth communication domains, we recommend deploying Kimi K3 on supernode configurations with 64 or more accelerators.\"",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2078077913241382985",
       "source": "X",
-      "published": "2026-07-17T02:22:37+00:00"
+      "published": "2026-07-17T11:22:37+00:00"
     },
     {
       "text": "AI chip startup Positron is reportedly looking to raise $750 million across two phases valuing the company at $5 billion, more than tripling its valuation in five months. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2077863342149173322",
       "source": "X",
-      "published": "2026-07-16T12:10:00+00:00"
+      "published": "2026-07-16T21:10:00+00:00"
     },
     {
       "text": "PC gaming history in your hands... Featured in GeForce Trading Cards Series 1: 🟢 Bubble: GeForce 256 reflections 🟢 Chameleon: GeForce3 shaders 🟢 Medusa: GeForce GTX 200 character detail + more legendary GeForce moments Comment #CollectRTX for a chance to WIN a pack!",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2077855694133297417",
       "source": "X",
-      "published": "2026-07-16T11:39:36+00:00"
+      "published": "2026-07-16T20:39:36+00:00"
     },
     {
       "text": "Japanese chipmaker Rapidus is reportedly looking to offer its 2nm capacity at around $18,550 - $21,635 per wafer, a significant discount to the $30,000 that TSMC is said to charge and comparable to Samsung, with production ramping in 2H 2027. $TSM $NVDA $AMD $INTC",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2077853658847334634",
       "source": "X",
-      "published": "2026-07-16T11:31:31+00:00"
+      "published": "2026-07-16T20:31:31+00:00"
     },
     {
       "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society. That's why countries are now investing in AI capabilities that let them design, train and deploy models using: 🏗️ Domestic infrastructure 📊 Local datasets 🌱 Homegrown expertise This approach ensures AI solutions are tailored to local citizens, services and regulations, and that systems reflect each nation’s unique needs and priorities. Learn More: https://nvda.ws/3TDvHUb",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2077830629568205266",
       "source": "X",
-      "published": "2026-07-16T10:00:00+00:00"
+      "published": "2026-07-16T19:00:00+00:00"
     },
     {
       "text": "Students pick GeForce ✅ Lock in this school year with GeForce RTX 50 Series laptops — student recommended, RTX accelerated. 💻 Learn More: https://nvda.ws/4w6jl5k",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2077800430612942998",
       "source": "X",
-      "published": "2026-07-16T08:00:00+00:00"
+      "published": "2026-07-16T17:00:00+00:00"
     },
     {
       "text": "R to @thinkymachines: We just added three ways to try out the new @thinkymachines Inkling model: 1. Free GPU-accelerated endpoints ➡️ https://build.nvidia.com/thinkingmachines/inkling 2. Download and run it with NVIDIA NIM ➡️ https://catalog.ngc.nvidia.com/orgs/nim/thinkingmachines/containers/inkling/- 3. Deploy it with the NVIDIA Dynamo recipe ➡️ https://github.com/ai-dynamo/dynamo/tree/main/recipes/inkling",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2077797006744178873",
       "source": "X",
-      "published": "2026-07-16T07:46:24+00:00"
+      "published": "2026-07-16T16:46:24+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: We evaluated Nemotron-3-Embed from @NVIDIAAI for our @mem0ai memory retrieval pipeline Tested on longmemeval: retrieval@10 improved from 78.71 to 80.38 over qwen-3-600m A few things made it a good fit for how we operate: open weights, NVFP4 support on Blackwell for efficient inference, and strong throughput, which matters for a system where writes happen constantly. A breakdown on how Mem0 uses embeddings and Nemotron-3-embed evaluation below👇",
       "author": "@mem0ai",
       "link": "https://x.com/mem0ai/status/2077794042189173190",
       "source": "X",
-      "published": "2026-07-16T07:34:37+00:00"
+      "published": "2026-07-16T16:34:37+00:00"
     },
     {
       "text": "Post-Train NVIDIA Cosmos 3 In a Day with NVIDIA TAO Agent Skills | Cosmos Labs https://x.com/i/broadcasts/1MJgNNXmgqWGL",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2077786363660062863",
       "source": "X",
-      "published": "2026-07-16T07:04:07+00:00"
+      "published": "2026-07-16T16:04:07+00:00"
     },
     {
       "text": "R to @NVIDIAAI: Explore the models and results below. https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2077786083664769382",
       "source": "X",
-      "published": "2026-07-16T07:03:00+00:00"
+      "published": "2026-07-16T16:03:00+00:00"
     },
     {
       "text": "Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆 RTEB benchmarks retrieval accuracy across real-world tasks. Better retrieval gives agents more relevant context, helping improve response accuracy.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2077786069840318800",
       "source": "X",
-      "published": "2026-07-16T07:02:57+00:00"
+      "published": "2026-07-16T16:02:57+00:00"
     },
     {
       "text": "R to @GearsofWar: Join @GeForce_JacobF TOMORROW for RTX Play LIVE as we celebrate all things Gears of War + more chances to WIN ⚙️ 📆 7/17 | ⏰1–5PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2077785408612495448",
       "source": "X",
-      "published": "2026-07-16T07:00:19+00:00"
+      "published": "2026-07-16T16:00:19+00:00"
     },
     {
       "text": "Ready for Horde Siege in @GearsofWar: E-Day? Tag your squad you’re taking on the Locust with and use #RTXPowersPlay for another chance to win a custom GeForce RTX 5080 Founders Edition!",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2077785406238589338",
       "source": "X",
-      "published": "2026-07-16T07:00:18+00:00"
+      "published": "2026-07-16T16:00:18+00:00"
     },
     {
       "text": "R to @firstadopter: sg.news.yahoo.com/nvidia-co-…",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2077772588709753262",
       "source": "X",
-      "published": "2026-07-16T06:09:22+00:00"
+      "published": "2026-07-16T15:09:22+00:00"
     },
     {
       "text": "Nvidia CEO Jensen Huang: \"We are at the beginning\" of this technology cycle \"Most technology cycles last anywhere from 10 to 15 years before it kind of plateaus. We are at the beginning of this one,\" the US chip giant's CEO told reporters in Tokyo. \"Is it going to flatten out? It will never go down, just as electricity never went down,\" he said, adding that semiconductors will be the world's largest industry, as part of its \"social fabric\".",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2077772587493449748",
       "source": "X",
-      "published": "2026-07-16T06:09:22+00:00"
+      "published": "2026-07-16T15:09:22+00:00"
     },
     {
       "text": "R to @ryosei_akazawa: Japan’s national physical AI infrastructure brings together manufacturing expertise, real-world industrial data, and global tech leaders to develop multimodal models for AI agents, digital twins, robotics, and physical AI. “Japan must build Japan AI.” ➡️ https://nvda.ws/3QUOMR5",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2077756369663365608",
       "source": "X",
-      "published": "2026-07-16T05:04:56+00:00"
+      "published": "2026-07-16T14:04:56+00:00"
     }
   ]
 }
