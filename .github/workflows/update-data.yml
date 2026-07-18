@@ -31,6 +31,12 @@ jobs:
 
       - name: Fetch data
         working-directory: pipeline
+        env:
+          # X投稿の取得元を上書きしたい場合に設定（未設定なら既定のNitterタイムラインを使用）。
+          # Repository secrets に登録すると本番の取得に反映される。
+          X_RSS_URLS: ${{ secrets.X_RSS_URLS }}
+          X_NITTER_BASES: ${{ secrets.X_NITTER_BASES }}
+          X_ACCOUNTS: ${{ secrets.X_ACCOUNTS }}
         run: |
           uv sync
           uv run python main.py
