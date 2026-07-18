@@ -123,6 +123,8 @@ function renderMetrics(f) {
   ];
   if (m.revenueGrowth != null) cards.push(metricCard("増収率", fmtPct(m.revenueGrowth * 100)));
   document.getElementById("metrics").innerHTML = cards.join("");
+  const fd = document.getElementById("fund-date");
+  if (fd) fd.textContent = f.updated_at ? fmtDateTime(f.updated_at) + " 時点" : "";
 }
 
 // ---------- 空売り残高 ----------
