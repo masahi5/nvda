@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-07-19T11:34:38+00:00",
+  "updated_at": "2026-07-19T23:29:57+00:00",
   "items": [
     {
-      "text": "NVIDIAと三菱重工、AIデータセンターで提携　次世代冷却技術で https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/?n_cid=SNSTW005&n_tw=1784419992",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2078793327290310839",
+      "text": "AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2078965624680661037",
       "source": "X",
-      "published": "2026-07-19T10:45:25+00:00"
+      "published": "2026-07-19T22:10:04+00:00"
+    },
+    {
+      "text": "GPUs GPUs GPUs. I was right again $NVDA \"Kimi K3 has received far more love than we expected, and our GPUs are feeling it. Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and prioritizing compute for current members\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2078922860798922755",
+      "source": "X",
+      "published": "2026-07-19T19:20:09+00:00"
+    },
+    {
+      "text": "セガは、受注したゲーム用チップの開発に失敗したエヌビディアに対してその後も５００万ドルを出資し、破産から救った。フアンＣＥＯは「セガと入交さんの助けがなければ、今日のエヌビディアは存在しなかった」と語った。",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2078834745241485550",
+      "source": "X",
+      "published": "2026-07-19T13:30:00+00:00"
     },
     {
       "text": "Global data center electricity consumption is forecast to rise 26% this year to 565 TWh, up from 447 TWh in 2025, per Gartner, driven by strong AI demand. $MSFT $META $AMZN $GOOG $NVDA",
@@ -14,27 +28,6 @@
       "link": "https://x.com/Beth_Kindig/status/2078572648838107420",
       "source": "X",
       "published": "2026-07-18T20:08:32+00:00"
-    },
-    {
-      "text": "Imagine being an AI VC and not attending Kimi/Moonshot founder Zhilin Yang's session at Nvidia GTC. NGMI.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2078541355026927699",
-      "source": "X",
-      "published": "2026-07-18T18:04:11+00:00"
-    },
-    {
-      "text": "Moonshot Kimi's prior models K2.0/K2.5 was trained on Nvidia H800 GPUs",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2078538907986039083",
-      "source": "X",
-      "published": "2026-07-18T17:54:27+00:00"
-    },
-    {
-      "text": "Kimi/Moonshot founder Zhilin Yang was at Nvidia GTC https://www.youtube.com/watch?v=CwePo4847ho",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2078532596191920489",
-      "source": "X",
-      "published": "2026-07-18T17:29:22+00:00"
     },
     {
       "text": "R to @nvidianewsroom: Explore the full recap of NVIDIA’s week in Japan. https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
@@ -210,6 +203,13 @@
       "link": "https://x.com/NVIDIAGeForce/status/2077785406238589338",
       "source": "X",
       "published": "2026-07-16T16:00:18+00:00"
+    },
+    {
+      "text": "R to @ryosei_akazawa: Japan’s national physical AI infrastructure brings together manufacturing expertise, real-world industrial data, and global tech leaders to develop multimodal models for AI agents, digital twins, robotics, and physical AI. “Japan must build Japan AI.” ➡️ https://nvda.ws/3QUOMR5",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2077756369663365608",
+      "source": "X",
+      "published": "2026-07-16T14:04:56+00:00"
     }
   ]
 }
