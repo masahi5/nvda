@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-18T23:27:45+00:00",
+  "updated_at": "2026-07-19T11:34:38+00:00",
   "items": [
     {
-      "text": "ファン氏の来日に沸く日本の産業界　深まる「NVIDIA頼み」 https://www.nikkei.com/article/DGXZQOUC1723X0X10C26A7000000/?n_cid=SNSTW006&n_tw=1784414179",
+      "text": "NVIDIAと三菱重工、AIデータセンターで提携　次世代冷却技術で https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/?n_cid=SNSTW005&n_tw=1784419992",
       "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2078610119479140504",
+      "link": "https://x.com/nikkei/status/2078793327290310839",
       "source": "X",
-      "published": "2026-07-18T22:37:25+00:00"
+      "published": "2026-07-19T10:45:25+00:00"
     },
     {
       "text": "Global data center electricity consumption is forecast to rise 26% this year to 565 TWh, up from 447 TWh in 2025, per Gartner, driven by strong AI demand. $MSFT $META $AMZN $GOOG $NVDA",
@@ -49,13 +49,6 @@
       "link": "https://x.com/nvidianewsroom/status/2078500453164466299",
       "source": "X",
       "published": "2026-07-18T15:21:39+00:00"
-    },
-    {
-      "text": "米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（ＣＥＯ）が７月１５日、来日した。セガの元社長である入交昭一郎氏や、「バーチャファイター」の生みの親である著名ゲームデザイナーの鈴木裕氏と都内で面会し、３０年前に自社を救済してくれたことへの感謝を伝えた。",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2078472355693867070",
-      "source": "X",
-      "published": "2026-07-18T13:30:00+00:00"
     },
     {
       "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
@@ -210,6 +203,13 @@
       "link": "https://x.com/NVIDIAGeForce/status/2077785408612495448",
       "source": "X",
       "published": "2026-07-16T16:00:19+00:00"
+    },
+    {
+      "text": "Ready for Horde Siege in @GearsofWar: E-Day? Tag your squad you’re taking on the Locust with and use #RTXPowersPlay for another chance to win a custom GeForce RTX 5080 Founders Edition!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2077785406238589338",
+      "source": "X",
+      "published": "2026-07-16T16:00:18+00:00"
     }
   ]
 }
