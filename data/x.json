@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-20T18:33:14+00:00",
+  "updated_at": "2026-07-20T20:12:16+00:00",
   "items": [
+    {
+      "text": "Meta is reportedly in talks with Anthropic to lease $10 billion of computing power, with the deal expected to see Anthropic pay Meta in monthly increments over a two-year period. $META $MSFT $AMZN $GOOG $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2079296586274754775",
+      "source": "X",
+      "published": "2026-07-20T20:05:12+00:00"
+    },
+    {
+      "text": "👀",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079289052810100858",
+      "source": "X",
+      "published": "2026-07-20T19:35:16+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAGeForce: 🔥🖥️Have an awesome custom gaming rig and want to win epic prizes? 🖥️🔥 The official #QuakeCon Mod Contest, powered by @NVIDIAGeForce Garage, is back! Win your share of over $10K in prizes, including GeForce RTX 50 Series graphics cards and a trip to NVIDIA HQ to film a Rig Spotlight video. Enter early and show us what you've built 👇 https://beth.games/469CMAd",
+      "author": "@QuakeCon",
+      "link": "https://x.com/QuakeCon/status/2079284060619194457",
+      "source": "X",
+      "published": "2026-07-20T19:15:25+00:00"
+    },
     {
       "text": "R to @nvidia: Super agents have arrived on the desktop. With local AI, designers and engineers can build, customize and run domain-specific agents using their own data and workflows. NVIDIA NemoClaw on DGX Station brings together Nemotron 3 Ultra, Omniverse libraries and OpenShell in an open agent stack. 🔗 https://nvda.ws/4h2mcYH #SIGGRAPH2026",
       "author": "@nvidia",
@@ -51,16 +72,16 @@
       "published": "2026-07-20T16:05:18+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Cosmos 3 Edge combines autoregressive and diffusion transformer towers through shared multimodal attention, connecting understanding, prediction, simulation and action in one model. You can find a full technical breakdown of Cosmos 3 Edge below. https://nvda.ws/3RoJNIj",
+      "text": "RT by @nvidia: Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079236207477711338",
+      "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
       "source": "X",
       "published": "2026-07-20T16:05:16+00:00"
     },
     {
-      "text": "Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
+      "text": "R to @NVIDIAAI: Cosmos 3 Edge combines autoregressive and diffusion transformer towers through shared multimodal attention, connecting understanding, prediction, simulation and action in one model. You can find a full technical breakdown of Cosmos 3 Edge below. https://nvda.ws/3RoJNIj",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
+      "link": "https://x.com/NVIDIAAI/status/2079236207477711338",
       "source": "X",
       "published": "2026-07-20T16:05:16+00:00"
     },
@@ -98,20 +119,6 @@
       "link": "https://x.com/nvidia/status/2079221588705099788",
       "source": "X",
       "published": "2026-07-20T15:07:11+00:00"
-    },
-    {
-      "text": "NYダウ、一進一退で始まる　半導体関連に買い直し https://www.nikkei.com/article/DGXZQOFL202R40Q6A720C2000000/?n_cid=SNSTW001&n_tw=1784558722",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079216617024544859",
-      "source": "X",
-      "published": "2026-07-20T14:47:26+00:00"
-    },
-    {
-      "text": "NVIDIA、トヨタのウーブン・シティを支援　フィジカルAI向け技術提供 https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079197490146840599",
-      "source": "X",
-      "published": "2026-07-20T13:31:25+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2078163100205719737",
       "source": "X",
       "published": "2026-07-17T17:01:08+00:00"
-    },
-    {
-      "text": "R to @huggingface: See what’s new 👇 https://nvda.ws/44BW3Z5",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2078148750384529658",
-      "source": "X",
-      "published": "2026-07-17T16:04:06+00:00"
     }
   ]
 }
