@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-20T12:29:18+00:00",
+  "updated_at": "2026-07-20T15:06:07+00:00",
   "items": [
+    {
+      "text": "NYダウ、一進一退で始まる　半導体関連に買い直し https://www.nikkei.com/article/DGXZQOFL202R40Q6A720C2000000/?n_cid=SNSTW001&n_tw=1784558722",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079216617024544859",
+      "source": "X",
+      "published": "2026-07-20T14:47:26+00:00"
+    },
+    {
+      "text": "NVIDIA、トヨタのウーブン・シティを支援　フィジカルAI向け技術提供 https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079197490146840599",
+      "source": "X",
+      "published": "2026-07-20T13:31:25+00:00"
+    },
+    {
+      "text": "富士通とファナックなど3社、AIロボ実装へ協業　NVIDIAも支援 https://www.nikkei.com/article/DGXZQOUC151S20V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079182390245630238",
+      "source": "X",
+      "published": "2026-07-20T12:31:25+00:00"
+    },
     {
       "text": "IREN SIGNS $2.8B IN NEW CUSTOMER CONTRACTS WITH LEADING AI DEVELOPERS, RAISES 2026 ARR TARGET TO OVER $4B IREN Limited $IREN just announced it has raised its year-end AI Cloud annualized run-rate revenue target from $3.7 Billion to more than $4B IREN's customer base now includes Microsoft, NVIDIA, Perplexity, Figure AI, Together AI, Fluidstack, Fireworks AI, Fal AI, Hume AI",
       "author": "@StockMKTNewz",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2077786069840318800",
       "source": "X",
       "published": "2026-07-16T16:02:57+00:00"
-    },
-    {
-      "text": "R to @GearsofWar: Join @GeForce_JacobF TOMORROW for RTX Play LIVE as we celebrate all things Gears of War + more chances to WIN ⚙️ 📆 7/17 | ⏰1–5PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2077785408612495448",
-      "source": "X",
-      "published": "2026-07-16T16:00:19+00:00"
-    },
-    {
-      "text": "Ready for Horde Siege in @GearsofWar: E-Day? Tag your squad you’re taking on the Locust with and use #RTXPowersPlay for another chance to win a custom GeForce RTX 5080 Founders Edition!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2077785406238589338",
-      "source": "X",
-      "published": "2026-07-16T16:00:18+00:00"
-    },
-    {
-      "text": "R to @ryosei_akazawa: Japan’s national physical AI infrastructure brings together manufacturing expertise, real-world industrial data, and global tech leaders to develop multimodal models for AI agents, digital twins, robotics, and physical AI. “Japan must build Japan AI.” ➡️ https://nvda.ws/3QUOMR5",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2077756369663365608",
-      "source": "X",
-      "published": "2026-07-16T14:04:56+00:00"
     }
   ]
 }
