@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-07-20T15:06:07+00:00",
+  "updated_at": "2026-07-20T16:43:36+00:00",
   "items": [
+    {
+      "text": "R to @nvidia: Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across robotics, autonomous vehicles and smart infrastructure. 🔗 https://nvda.ws/3RGxNCc #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079240931337965928",
+      "source": "X",
+      "published": "2026-07-20T16:24:03+00:00"
+    },
+    {
+      "text": "R to @nvidia: NVIDIA’s research isn’t just focused on creating worlds that look real — but that behave realistically and respond in real time. Whether the output is a game, film, robot or factory digital twin, the goal is the same: expand the canvas of creativity with AI-generated worlds that are grounded in 3D, governed by physics and directed by creators. 🔗 https://nvda.ws/3TbQLkD #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079239644177432886",
+      "source": "X",
+      "published": "2026-07-20T16:18:56+00:00"
+    },
+    {
+      "text": "GeForce Summer Nights GPU Reveal: 007 First Light Recruits, your prize has entered the field: A custom GeForce RTX 5080 Founders Edition inspired by Bond Want it? 🟢 Comment #RTXPowersPlay 🟢 Watch @GeForce_JacobF LIVE during our 007: First Light takeover 🗓️ 7/24 | ⏰ 1-3 PM PT",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079236377254731976",
+      "source": "X",
+      "published": "2026-07-20T16:05:57+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: As always, Cosmos 3 Edge is fully open. This includes model weights, post-training recipes and code. Available now on @huggingface 🤗 https://nvda.ws/4bMtY59",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079236218638770641",
+      "source": "X",
+      "published": "2026-07-20T16:05:19+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Among open models of a similar size, Cosmos 3 Edge ranks #1 on VANTAGE-Bench for vision analytics.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079236213110723048",
+      "source": "X",
+      "published": "2026-07-20T16:05:18+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Cosmos 3 Edge combines autoregressive and diffusion transformer towers through shared multimodal attention, connecting understanding, prediction, simulation and action in one model. You can find a full technical breakdown of Cosmos 3 Edge below. https://nvda.ws/3RoJNIj",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079236207477711338",
+      "source": "X",
+      "published": "2026-07-20T16:05:16+00:00"
+    },
+    {
+      "text": "Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
+      "source": "X",
+      "published": "2026-07-20T16:05:16+00:00"
+    },
+    {
+      "text": "R to @nvidia: As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production. Built on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows. 🔗 https://nvda.ws/4fl9sK5 #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079235324241424582",
+      "source": "X",
+      "published": "2026-07-20T16:01:46+00:00"
+    },
+    {
+      "text": "R to @nvidia: Leading creative applications are opening Model Context Protocol connections that let AI agents work inside the tools where scenes, shots, timelines, assets and edits come to life — while creators stay in control. MCP is opening the next chapter of accelerated creativity: applications aren’t just getting faster. They’re becoming agent-ready. 🔗 https://nvda.ws/4pmRxqQ #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079234895340269985",
+      "source": "X",
+      "published": "2026-07-20T16:00:04+00:00"
+    },
+    {
+      "text": "Announced at #SIGGRAPH2026 📣 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents tools and skills to help developers integrate physical AI capabilities into their existing 3D applications. Read the full release: https://nvda.ws/4wQlPVu",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2079229485421887879",
+      "source": "X",
+      "published": "2026-07-20T15:38:34+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Want to put AI agents to work building simulation-ready worlds? 👀 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents the tools to help developers integrate physical AI capabilities into their existing 3D applications. Want to learn more? Read the full #SIGGRAPH2026 press release → https://nvda.ws/4wTHFri",
+      "author": "@nvidiaomniverse",
+      "link": "https://x.com/nvidiaomniverse/status/2079223282759282949",
+      "source": "X",
+      "published": "2026-07-20T15:13:55+00:00"
+    },
+    {
+      "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079221588705099788",
+      "source": "X",
+      "published": "2026-07-20T15:07:11+00:00"
+    },
     {
       "text": "NYダウ、一進一退で始まる　半導体関連に買い直し https://www.nikkei.com/article/DGXZQOFL202R40Q6A720C2000000/?n_cid=SNSTW001&n_tw=1784558722",
       "author": "@nikkei",
@@ -126,90 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2078148746865418353",
       "source": "X",
       "published": "2026-07-17T16:04:06+00:00"
-    },
-    {
-      "text": "Meta is building its first data Canadian data center in Alberta, with the 1GW facility expected to see an investment of around $9.2 billion. $META $NVDA $AMD $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2078141887421047293",
-      "source": "X",
-      "published": "2026-07-17T15:36:50+00:00"
-    },
-    {
-      "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
-      "author": "@evrn_world",
-      "link": "https://x.com/evrn_world/status/2078110222502248783",
-      "source": "X",
-      "published": "2026-07-17T13:31:01+00:00"
-    },
-    {
-      "text": "AI chip startup Positron is reportedly looking to raise $750 million across two phases valuing the company at $5 billion, more than tripling its valuation in five months. $NVDA $AMD $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2077863342149173322",
-      "source": "X",
-      "published": "2026-07-16T21:10:00+00:00"
-    },
-    {
-      "text": "PC gaming history in your hands... Featured in GeForce Trading Cards Series 1: 🟢 Bubble: GeForce 256 reflections 🟢 Chameleon: GeForce3 shaders 🟢 Medusa: GeForce GTX 200 character detail + more legendary GeForce moments Comment #CollectRTX for a chance to WIN a pack!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2077855694133297417",
-      "source": "X",
-      "published": "2026-07-16T20:39:36+00:00"
-    },
-    {
-      "text": "Japanese chipmaker Rapidus is reportedly looking to offer its 2nm capacity at around $18,550 - $21,635 per wafer, a significant discount to the $30,000 that TSMC is said to charge and comparable to Samsung, with production ramping in 2H 2027. $TSM $NVDA $AMD $INTC",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2077853658847334634",
-      "source": "X",
-      "published": "2026-07-16T20:31:31+00:00"
-    },
-    {
-      "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society. That's why countries are now investing in AI capabilities that let them design, train and deploy models using: 🏗️ Domestic infrastructure 📊 Local datasets 🌱 Homegrown expertise This approach ensures AI solutions are tailored to local citizens, services and regulations, and that systems reflect each nation’s unique needs and priorities. Learn More: https://nvda.ws/3TDvHUb",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2077830629568205266",
-      "source": "X",
-      "published": "2026-07-16T19:00:00+00:00"
-    },
-    {
-      "text": "Students pick GeForce ✅ Lock in this school year with GeForce RTX 50 Series laptops — student recommended, RTX accelerated. 💻 Learn More: https://nvda.ws/4w6jl5k",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2077800430612942998",
-      "source": "X",
-      "published": "2026-07-16T17:00:00+00:00"
-    },
-    {
-      "text": "R to @thinkymachines: We just added three ways to try out the new @thinkymachines Inkling model: 1. Free GPU-accelerated endpoints ➡️ https://build.nvidia.com/thinkingmachines/inkling 2. Download and run it with NVIDIA NIM ➡️ https://catalog.ngc.nvidia.com/orgs/nim/thinkingmachines/containers/inkling/- 3. Deploy it with the NVIDIA Dynamo recipe ➡️ https://github.com/ai-dynamo/dynamo/tree/main/recipes/inkling",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2077797006744178873",
-      "source": "X",
-      "published": "2026-07-16T16:46:24+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: We evaluated Nemotron-3-Embed from @NVIDIAAI for our @mem0ai memory retrieval pipeline Tested on longmemeval: retrieval@10 improved from 78.71 to 80.38 over qwen-3-600m A few things made it a good fit for how we operate: open weights, NVFP4 support on Blackwell for efficient inference, and strong throughput, which matters for a system where writes happen constantly. A breakdown on how Mem0 uses embeddings and Nemotron-3-embed evaluation below👇",
-      "author": "@mem0ai",
-      "link": "https://x.com/mem0ai/status/2077794042189173190",
-      "source": "X",
-      "published": "2026-07-16T16:34:37+00:00"
-    },
-    {
-      "text": "Post-Train NVIDIA Cosmos 3 In a Day with NVIDIA TAO Agent Skills | Cosmos Labs https://x.com/i/broadcasts/1MJgNNXmgqWGL",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2077786363660062863",
-      "source": "X",
-      "published": "2026-07-16T16:04:07+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Explore the models and results below. https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2077786083664769382",
-      "source": "X",
-      "published": "2026-07-16T16:03:00+00:00"
-    },
-    {
-      "text": "Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆 RTEB benchmarks retrieval accuracy across real-world tasks. Better retrieval gives agents more relevant context, helping improve response accuracy.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2077786069840318800",
-      "source": "X",
-      "published": "2026-07-16T16:02:57+00:00"
     }
   ]
 }
