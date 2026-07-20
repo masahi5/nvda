@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-20T16:43:36+00:00",
+  "updated_at": "2026-07-20T18:33:14+00:00",
   "items": [
+    {
+      "text": "R to @nvidia: Super agents have arrived on the desktop. With local AI, designers and engineers can build, customize and run domain-specific agents using their own data and workflows. NVIDIA NemoClaw on DGX Station brings together Nemotron 3 Ultra, Omniverse libraries and OpenShell in an open agent stack. 🔗 https://nvda.ws/4h2mcYH #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079254592664301778",
+      "source": "X",
+      "published": "2026-07-20T17:18:20+00:00"
+    },
+    {
+      "text": "Markets obsess with margin % and market share and often penalize companies that exponentially increase margin and revenue dollars. Great case and point has been $NVDA. Both revenue and margin dollars have exploded with overall market growth and execution but many pundits obsess over 75% margins declining or 96% market share eroding even as the market grows to multiple trillions annually. 😐",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2079248747960156572",
+      "source": "X",
+      "published": "2026-07-20T16:55:06+00:00"
+    },
     {
       "text": "R to @nvidia: Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across robotics, autonomous vehicles and smart infrastructure. 🔗 https://nvda.ws/3RGxNCc #SIGGRAPH2026",
       "author": "@nvidia",
@@ -79,7 +93,7 @@
       "published": "2026-07-20T15:13:55+00:00"
     },
     {
-      "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+      "text": "Pinned: NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079221588705099788",
       "source": "X",
@@ -100,20 +114,6 @@
       "published": "2026-07-20T13:31:25+00:00"
     },
     {
-      "text": "富士通とファナックなど3社、AIロボ実装へ協業　NVIDIAも支援 https://www.nikkei.com/article/DGXZQOUC151S20V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079182390245630238",
-      "source": "X",
-      "published": "2026-07-20T12:31:25+00:00"
-    },
-    {
-      "text": "IREN SIGNS $2.8B IN NEW CUSTOMER CONTRACTS WITH LEADING AI DEVELOPERS, RAISES 2026 ARR TARGET TO OVER $4B IREN Limited $IREN just announced it has raised its year-end AI Cloud annualized run-rate revenue target from $3.7 Billion to more than $4B IREN's customer base now includes Microsoft, NVIDIA, Perplexity, Figure AI, Together AI, Fluidstack, Fireworks AI, Fal AI, Hume AI",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2079160309047038311",
-      "source": "X",
-      "published": "2026-07-20T11:03:41+00:00"
-    },
-    {
       "text": "RT by @Beth_Kindig: AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2078965624680661037",
@@ -126,6 +126,13 @@
       "link": "https://x.com/firstadopter/status/2078922860798922755",
       "source": "X",
       "published": "2026-07-19T19:20:09+00:00"
+    },
+    {
+      "text": "RT by @nvidia: 【おすすめ記事】エヌビディアCEOの“神田の夜”に密着！日本半導体トップ30社と居酒屋外交、やきとん三吉に響いた「日本復活」の檄！ 【Featured Article】 NVIDIA CEO Jensen's Tokyo Izakaya Night with Leaders from Japan's Top 30 Semiconductor Companies https://www.youtube.com/watch?v=X7ffSOzcYBc",
+      "author": "@dol_editors",
+      "link": "https://x.com/dol_editors/status/2078669136310456334",
+      "source": "X",
+      "published": "2026-07-19T02:31:56+00:00"
     },
     {
       "text": "Global data center electricity consumption is forecast to rise 26% this year to 565 TWh, up from 447 TWh in 2025, per Gartner, driven by strong AI demand. $MSFT $META $AMZN $GOOG $NVDA",
@@ -201,13 +208,6 @@
       "text": "R to @huggingface: See what’s new 👇 https://nvda.ws/44BW3Z5",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2078148750384529658",
-      "source": "X",
-      "published": "2026-07-17T16:04:06+00:00"
-    },
-    {
-      "text": "NeMo AutoModel now supports @huggingface Diffusers 🤗 AutoModel is our open source fine-tuning library. It first tackled Transformers, and now supports image and video models too, with ready-to-run full and LoRA recipes so you spend less time wiring up distributed training.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2078148746865418353",
       "source": "X",
       "published": "2026-07-17T16:04:06+00:00"
     }
