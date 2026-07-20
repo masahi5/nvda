@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-20T21:31:57+00:00",
+  "updated_at": "2026-07-20T22:37:38+00:00",
   "items": [
+    {
+      "text": "AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転 https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/?n_cid=SNSTW005&n_tw=1784523534 世界の投資額は2026年に200兆円──。巨大な経済圏となり始めたデータセンター。 関連業種は半導体や電子部品に限らず、冷却機器や建設・不動産など多岐に渡ります。",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079333346820165707",
+      "source": "X",
+      "published": "2026-07-20T22:31:16+00:00"
+    },
+    {
+      "text": "Intel $INTC is planning to spend $5.7 billion to expand manufacturing in Ireland, with the expansion primarily geared towards its Xeon 6 server processors and future generations for AI workloads. $NVDA $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2079326339643977783",
+      "source": "X",
+      "published": "2026-07-20T22:03:26+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA just disclosed that it currently owns 22,256,412 shares of Nebius $NBIS stock representing 9.3% of the company",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2079317735582896137",
+      "source": "X",
+      "published": "2026-07-20T21:29:14+00:00"
+    },
     {
       "text": "Meta is reportedly in talks with Anthropic to lease $10 billion of computing power, with the deal expected to see Anthropic pay Meta in monthly increments over a two-year period. $META $MSFT $AMZN $GOOG $NVDA",
       "author": "@Beth_Kindig",
@@ -128,6 +149,13 @@
       "published": "2026-07-20T15:07:11+00:00"
     },
     {
+      "text": "RT by @nikkei: 富士通とファナックなど3社、AIロボ実装へ協業　NVIDIAも支援 https://www.nikkei.com/article/DGXZQOUC151S20V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079182390245630238",
+      "source": "X",
+      "published": "2026-07-20T12:31:25+00:00"
+    },
+    {
       "text": "RT by @Beth_Kindig: AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2078965624680661037",
@@ -182,34 +210,6 @@
       "link": "https://x.com/nvidia/status/2078244664751104293",
       "source": "X",
       "published": "2026-07-17T22:25:14+00:00"
-    },
-    {
-      "text": "🎒 Back to school starts here 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Walmart deals → https://nvda.ws/4gFyHck",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2078244037157421389",
-      "source": "X",
-      "published": "2026-07-17T22:22:45+00:00"
-    },
-    {
-      "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more.  Learn more: https://vist.ly/5bmju",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2078228046465655279",
-      "source": "X",
-      "published": "2026-07-17T21:19:12+00:00"
-    },
-    {
-      "text": "Another leaderboard win for Nemotron 3 Embed 👀 The 8B model takes #1 on LMEB, with the 1B model right behind it at #2. LMEB tests whether embedding models can find the right details across long-running conversations and other memory-heavy tasks, useful for agents that need to remember context across sessions.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2078204725921771890",
-      "source": "X",
-      "published": "2026-07-17T19:46:32+00:00"
-    },
-    {
-      "text": "RTX Play Live is TODAY ⚙️ Join @GeForce_JacobF for a playthrough of Gears of War: Reloaded as we gear up for @GearsofWar: E-Day, plus more chances to win a custom GeForce RTX 5080 Founders Edition! ⏰1–5 PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2078177948868186443",
-      "source": "X",
-      "published": "2026-07-17T18:00:08+00:00"
     }
   ]
 }
