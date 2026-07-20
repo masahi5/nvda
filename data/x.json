@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-20T22:37:38+00:00",
+  "updated_at": "2026-07-20T23:31:10+00:00",
   "items": [
+    {
+      "text": "今日の株式見通し＝買い先行、米半導体株高が支え　韓国株安や原油高懸念は重し http://reut.rs/4gJOlDy http://reut.rs/4gJOlDy",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2079342276589797424",
+      "source": "X",
+      "published": "2026-07-20T23:06:45+00:00"
+    },
+    {
+      "text": "日経平均、米半導体株高が追い風　イラン衝突は重荷（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL201Y80Q6A720C2000000/?n_cid=SNSTW001&n_tw=1784587042",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079335353672995270",
+      "source": "X",
+      "published": "2026-07-20T22:39:15+00:00"
+    },
     {
       "text": "AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転 https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/?n_cid=SNSTW005&n_tw=1784523534 世界の投資額は2026年に200兆円──。巨大な経済圏となり始めたデータセンター。 関連業種は半導体や電子部品に限らず、冷却機器や建設・不動産など多岐に渡ります。",
       "author": "@nikkei",
@@ -163,13 +177,6 @@
       "published": "2026-07-19T22:10:04+00:00"
     },
     {
-      "text": "GPUs GPUs GPUs. I was right again $NVDA \"Kimi K3 has received far more love than we expected, and our GPUs are feeling it. Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and prioritizing compute for current members\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2078922860798922755",
-      "source": "X",
-      "published": "2026-07-19T19:20:09+00:00"
-    },
-    {
       "text": "RT by @nvidia: 【おすすめ記事】エヌビディアCEOの“神田の夜”に密着！日本半導体トップ30社と居酒屋外交、やきとん三吉に響いた「日本復活」の檄！ 【Featured Article】 NVIDIA CEO Jensen's Tokyo Izakaya Night with Leaders from Japan's Top 30 Semiconductor Companies https://www.youtube.com/watch?v=X7ffSOzcYBc",
       "author": "@dol_editors",
       "link": "https://x.com/dol_editors/status/2078669136310456334",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidia/status/2078252828804686278",
       "source": "X",
       "published": "2026-07-17T22:57:41+00:00"
-    },
-    {
-      "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2078244664751104293",
-      "source": "X",
-      "published": "2026-07-17T22:25:14+00:00"
     }
   ]
 }
