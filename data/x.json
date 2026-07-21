@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-07-21T19:10:42+00:00",
+  "updated_at": "2026-07-21T20:35:42+00:00",
   "items": [
     {
-      "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079642933058244704",
+      "text": "米国株式市場＝反発、半導体株が高い　ハイテク大手の決算待ち http://reut.rs/4gKn5ot http://reut.rs/4gKn5ot",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2079661845464396051",
       "source": "X",
-      "published": "2026-07-21T19:01:27+00:00"
+      "published": "2026-07-21T20:16:36+00:00"
+    },
+    {
+      "text": "NVIDIA、サーバー間通信でも覇権　データ拠点の性能はスパコン超え https://www.nikkei.com/article/DGXZQOUC131CK0T10C26A7000000/?n_cid=SNSTW001&n_tw=1784664802",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079661589062386104",
+      "source": "X",
+      "published": "2026-07-21T20:15:35+00:00"
+    },
+    {
+      "text": "If y'all are wondering where my deep dive is.... I was not briefed. Would love to have been. If you work at NVIDIA, ask them why I wasn't included. 🙃",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2079660207051796935",
+      "source": "X",
+      "published": "2026-07-21T20:10:06+00:00"
+    },
+    {
+      "text": "自動車も｢半導体インフレ｣の波　GMやフォード、値上げや確保走る https://www.nikkei.com/article/DGXZQOGN2103C0R20C26A7000000/?n_cid=SNSTW001&n_tw=1784663662",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079656555125883030",
+      "source": "X",
+      "published": "2026-07-21T19:55:35+00:00"
     },
     {
       "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
@@ -16,32 +37,11 @@
       "published": "2026-07-21T18:22:54+00:00"
     },
     {
-      "text": "Devin Outposts are now available on NVIDIA Brev. Write and profile kernels, run experiments, serve and fine-tune OSS models, and test against real hardware. Try it out: https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079630151206506525",
-      "source": "X",
-      "published": "2026-07-21T18:10:40+00:00"
-    },
-    {
-      "text": "Tune the Harness, Before Tuning the Model with LangChain | Nemotron Labs https://x.com/i/broadcasts/1MJgNNeWbklGL",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079627467032338731",
-      "source": "X",
-      "published": "2026-07-21T18:00:00+00:00"
-    },
-    {
       "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance. ➡️ Benchmark results from @DeepInfra show that the NVIDIA Vera CPU is more than 2x as fast and can support more concurrent AI agents compared with other CPUs. 🔗 Read more: https://nvda.ws/4ywCiQn",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079619127560556869",
       "source": "X",
       "published": "2026-07-21T17:26:52+00:00"
-    },
-    {
-      "text": "Congrats to the @poolsideai team on their latest release, Laguna S 2.1. It’s open-weight, delivers way beyond its size, runs great locally and you can customize it with NVIDIA NeMo. Go try it out on @OpenRouter or download from @huggingface 👉https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
-      "source": "X",
-      "published": "2026-07-21T17:08:07+00:00"
     },
     {
       "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
@@ -79,14 +79,7 @@
       "published": "2026-07-21T15:06:42+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
-      "source": "X",
-      "published": "2026-07-21T15:03:04+00:00"
-    },
-    {
-      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
+      "text": "RT by @nvidianewsroom: NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
       "source": "X",
@@ -105,48 +98,6 @@
       "link": "https://x.com/nikkei/status/2079581474911670619",
       "source": "X",
       "published": "2026-07-21T14:57:15+00:00"
-    },
-    {
-      "text": "Microsoft $MSFT and Mistral AI just announced a new expanded partnership to bring Mistral's models across Microsoft Foundry, Copilot Studio, and Azure Underpinning it: a new multibillion-dollar agreement to expand AI infrastructure in Europe, with Mistral adding GPU capacity built on thousands of NVIDIA $NVDA Vera Rubin GPUs. \"Europe should have access to the world's most capable AI without compromising control over their data, operations or digital future.\" - Microsoft Vice Chair Brad Smith The practical use case: regulated industries, healthcare, critical infrastructure, manufacturing, can run the same AI models and tools whether fully in the cloud, cloud-connected, or entirely offline, without redesigning their systems for each environment.",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2079546047508910466",
-      "source": "X",
-      "published": "2026-07-21T12:36:28+00:00"
-    },
-    {
-      "text": "RT by @nikkei: 【“骨太の方針”全文はこちら】 経済財政運営と改革の基本方針2026 https://www.nikkei.com/article/DGXZQOUA2004M0Q6A720C2000000/?n_cid=SNSTW005&n_tw=1784618220 政府が7月21日に閣議決定しました。AIや半導体など成長分野への投資を重視。基礎的財政収支の黒字化を掲げず、成長を通じた財政の改善を目指します。",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079469239765700795",
-      "source": "X",
-      "published": "2026-07-21T07:31:16+00:00"
-    },
-    {
-      "text": "Intel $INTC is planning to spend $5.7 billion to expand manufacturing in Ireland, with the expansion primarily geared towards its Xeon 6 server processors and future generations for AI workloads. $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079326339643977783",
-      "source": "X",
-      "published": "2026-07-20T22:03:26+00:00"
-    },
-    {
-      "text": "Meta is reportedly in talks with Anthropic to lease $10 billion of computing power, with the deal expected to see Anthropic pay Meta in monthly increments over a two-year period. $META $MSFT $AMZN $GOOG $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079296586274754775",
-      "source": "X",
-      "published": "2026-07-20T20:05:12+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Excited to share: NVIDIA Cosmos 3 Edge is openly available, bringing frontier world models to NVIDIA Jetson Thor and other local devices for physical AI. Read the blog: https://nvda.ws/3QX3LKk Learn more about it at today’s SIGGRAPH keynote—in person or via livestream at 3:45 p.m. PT: https://nvda.ws/4yxUKIz",
-      "author": "@liu_mingyu",
-      "link": "https://x.com/liu_mingyu/status/2079294000708886840",
-      "source": "X",
-      "published": "2026-07-20T19:54:55+00:00"
-    },
-    {
-      "text": "👀",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079289052810100858",
-      "source": "X",
-      "published": "2026-07-20T19:35:16+00:00"
     },
     {
       "text": "RT by @NVIDIAGeForce: 🔥🖥️Have an awesome custom gaming rig and want to win epic prizes? 🖥️🔥 The official #QuakeCon Mod Contest, powered by @NVIDIAGeForce Garage, is back! Win your share of over $10K in prizes, including GeForce RTX 50 Series graphics cards and a trip to NVIDIA HQ to film a Rig Spotlight video. Enter early and show us what you've built 👇 https://beth.games/469CMAd",
@@ -191,25 +142,74 @@
       "published": "2026-07-20T16:05:57+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: As always, Cosmos 3 Edge is fully open. This includes model weights, post-training recipes and code. Available now on @huggingface 🤗 https://nvda.ws/4bMtY59",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079236218638770641",
-      "source": "X",
-      "published": "2026-07-20T16:05:19+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Among open models of a similar size, Cosmos 3 Edge ranks #1 on VANTAGE-Bench for vision analytics.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079236213110723048",
-      "source": "X",
-      "published": "2026-07-20T16:05:18+00:00"
-    },
-    {
       "text": "RT by @nvidia: Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
       "source": "X",
       "published": "2026-07-20T16:05:16+00:00"
+    },
+    {
+      "text": "R to @nvidia: As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production. Built on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows. 🔗 https://nvda.ws/4fl9sK5 #SIGGRAPH2026",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079235324241424582",
+      "source": "X",
+      "published": "2026-07-20T16:01:46+00:00"
+    },
+    {
+      "text": "Announced at #SIGGRAPH2026 📣 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents tools and skills to help developers integrate physical AI capabilities into their existing 3D applications. Read the full release: https://nvda.ws/4wQlPVu",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2079229485421887879",
+      "source": "X",
+      "published": "2026-07-20T15:38:34+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Want to put AI agents to work building simulation-ready worlds? 👀 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents the tools to help developers integrate physical AI capabilities into their existing 3D applications. Want to learn more? Read the full #SIGGRAPH2026 press release → https://nvda.ws/4wTHFri",
+      "author": "@nvidiaomniverse",
+      "link": "https://x.com/nvidiaomniverse/status/2079223282759282949",
+      "source": "X",
+      "published": "2026-07-20T15:13:55+00:00"
+    },
+    {
+      "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079221588705099788",
+      "source": "X",
+      "published": "2026-07-20T15:07:11+00:00"
+    },
+    {
+      "text": "RT by @nvidia: 【おすすめ記事】エヌビディアCEOの“神田の夜”に密着！日本半導体トップ30社と居酒屋外交、やきとん三吉に響いた「日本復活」の檄！ 【Featured Article】 NVIDIA CEO Jensen's Tokyo Izakaya Night with Leaders from Japan's Top 30 Semiconductor Companies https://www.youtube.com/watch?v=X7ffSOzcYBc",
+      "author": "@dol_editors",
+      "link": "https://x.com/dol_editors/status/2078669136310456334",
+      "source": "X",
+      "published": "2026-07-19T02:31:56+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: Explore the full recap of NVIDIA’s week in Japan. https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2078500836599038099",
+      "source": "X",
+      "published": "2026-07-18T15:23:10+00:00"
+    },
+    {
+      "text": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2078500453164466299",
+      "source": "X",
+      "published": "2026-07-18T15:21:39+00:00"
+    },
+    {
+      "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2078252828804686278",
+      "source": "X",
+      "published": "2026-07-17T22:57:41+00:00"
+    },
+    {
+      "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2078244664751104293",
+      "source": "X",
+      "published": "2026-07-17T22:25:14+00:00"
     }
   ]
 }
