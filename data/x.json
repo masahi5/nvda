@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-21T17:53:15+00:00",
+  "updated_at": "2026-07-21T19:10:42+00:00",
   "items": [
+    {
+      "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079642933058244704",
+      "source": "X",
+      "published": "2026-07-21T19:01:27+00:00"
+    },
+    {
+      "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079633231629144565",
+      "source": "X",
+      "published": "2026-07-21T18:22:54+00:00"
+    },
+    {
+      "text": "Devin Outposts are now available on NVIDIA Brev. Write and profile kernels, run experiments, serve and fine-tune OSS models, and test against real hardware. Try it out: https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079630151206506525",
+      "source": "X",
+      "published": "2026-07-21T18:10:40+00:00"
+    },
+    {
+      "text": "Tune the Harness, Before Tuning the Model with LangChain | Nemotron Labs https://x.com/i/broadcasts/1MJgNNeWbklGL",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079627467032338731",
+      "source": "X",
+      "published": "2026-07-21T18:00:00+00:00"
+    },
     {
       "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance. ➡️ Benchmark results from @DeepInfra show that the NVIDIA Vera CPU is more than 2x as fast and can support more concurrent AI agents compared with other CPUs. 🔗 Read more: https://nvda.ws/4ywCiQn",
       "author": "@nvidia",
@@ -44,13 +72,6 @@
       "published": "2026-07-21T15:19:44+00:00"
     },
     {
-      "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @Nebius, @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079584667284418896",
-      "source": "X",
-      "published": "2026-07-21T15:09:56+00:00"
-    },
-    {
       "text": "RT by @nvidianewsroom: AI agents are only as fast as the CPU powering them — so we redesigned the CPU. NVIDIA Vera with Olympus Cores delivers up to 1.8x higher performance on agentic workloads, with the memory bandwidth and per-thread speed to keep AI factories running at full tilt. Read more: https://nvda.ws/3RNAtOv",
       "author": "@NVIDIAAIInfra",
       "link": "https://x.com/NVIDIAAIInfra/status/2079583856940753147",
@@ -58,16 +79,16 @@
       "published": "2026-07-21T15:06:42+00:00"
     },
     {
-      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
+      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
+      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
       "source": "X",
       "published": "2026-07-21T15:03:04+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
+      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
+      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
       "source": "X",
       "published": "2026-07-21T15:03:04+00:00"
     },
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
       "source": "X",
       "published": "2026-07-20T16:05:16+00:00"
-    },
-    {
-      "text": "R to @nvidia: As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production. Built on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows. 🔗 https://nvda.ws/4fl9sK5 #SIGGRAPH2026",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079235324241424582",
-      "source": "X",
-      "published": "2026-07-20T16:01:46+00:00"
-    },
-    {
-      "text": "R to @nvidia: Leading creative applications are opening Model Context Protocol connections that let AI agents work inside the tools where scenes, shots, timelines, assets and edits come to life — while creators stay in control. MCP is opening the next chapter of accelerated creativity: applications aren’t just getting faster. They’re becoming agent-ready. 🔗 https://nvda.ws/4pmRxqQ #SIGGRAPH2026",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079234895340269985",
-      "source": "X",
-      "published": "2026-07-20T16:00:04+00:00"
-    },
-    {
-      "text": "Announced at #SIGGRAPH2026 📣 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents tools and skills to help developers integrate physical AI capabilities into their existing 3D applications. Read the full release: https://nvda.ws/4wQlPVu",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2079229485421887879",
-      "source": "X",
-      "published": "2026-07-20T15:38:34+00:00"
     }
   ]
 }
