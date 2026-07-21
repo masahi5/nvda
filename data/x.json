@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-21T16:27:20+00:00",
+  "updated_at": "2026-07-21T17:53:15+00:00",
   "items": [
+    {
+      "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance. ➡️ Benchmark results from @DeepInfra show that the NVIDIA Vera CPU is more than 2x as fast and can support more concurrent AI agents compared with other CPUs. 🔗 Read more: https://nvda.ws/4ywCiQn",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079619127560556869",
+      "source": "X",
+      "published": "2026-07-21T17:26:52+00:00"
+    },
+    {
+      "text": "Congrats to the @poolsideai team on their latest release, Laguna S 2.1. It’s open-weight, delivers way beyond its size, runs great locally and you can customize it with NVIDIA NeMo. Go try it out on @OpenRouter or download from @huggingface 👉https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
+      "source": "X",
+      "published": "2026-07-21T17:08:07+00:00"
+    },
+    {
+      "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079601314234032474",
+      "source": "X",
+      "published": "2026-07-21T16:16:05+00:00"
+    },
     {
       "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
       "author": "@NVIDIAGeForce",
@@ -37,16 +58,16 @@
       "published": "2026-07-21T15:06:42+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
+      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
+      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
       "source": "X",
       "published": "2026-07-21T15:03:04+00:00"
     },
     {
-      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
+      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
+      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
       "source": "X",
       "published": "2026-07-21T15:03:04+00:00"
     },
@@ -170,13 +191,6 @@
       "published": "2026-07-20T16:05:16+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Cosmos 3 Edge combines autoregressive and diffusion transformer towers through shared multimodal attention, connecting understanding, prediction, simulation and action in one model. You can find a full technical breakdown of Cosmos 3 Edge below. https://nvda.ws/3RoJNIj",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079236207477711338",
-      "source": "X",
-      "published": "2026-07-20T16:05:16+00:00"
-    },
-    {
       "text": "R to @nvidia: As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production. Built on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows. 🔗 https://nvda.ws/4fl9sK5 #SIGGRAPH2026",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079235324241424582",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidianewsroom/status/2079229485421887879",
       "source": "X",
       "published": "2026-07-20T15:38:34+00:00"
-    },
-    {
-      "text": "RT by @nvidia: Want to put AI agents to work building simulation-ready worlds? 👀 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents the tools to help developers integrate physical AI capabilities into their existing 3D applications. Want to learn more? Read the full #SIGGRAPH2026 press release → https://nvda.ws/4wTHFri",
-      "author": "@nvidiaomniverse",
-      "link": "https://x.com/nvidiaomniverse/status/2079223282759282949",
-      "source": "X",
-      "published": "2026-07-20T15:13:55+00:00"
-    },
-    {
-      "text": "Pinned: NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079221588705099788",
-      "source": "X",
-      "published": "2026-07-20T15:07:11+00:00"
     }
   ]
 }
