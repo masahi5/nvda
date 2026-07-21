@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-20T23:31:10+00:00",
+  "updated_at": "2026-07-21T12:06:20+00:00",
   "items": [
-    {
-      "text": "今日の株式見通し＝買い先行、米半導体株高が支え　韓国株安や原油高懸念は重し http://reut.rs/4gJOlDy http://reut.rs/4gJOlDy",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2079342276589797424",
-      "source": "X",
-      "published": "2026-07-20T23:06:45+00:00"
-    },
-    {
-      "text": "日経平均、米半導体株高が追い風　イラン衝突は重荷（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL201Y80Q6A720C2000000/?n_cid=SNSTW001&n_tw=1784587042",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079335353672995270",
-      "source": "X",
-      "published": "2026-07-20T22:39:15+00:00"
-    },
-    {
-      "text": "AIサーバー部品数は車の40倍　デジタル革命の主役、市場はスマホ逆転 https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/?n_cid=SNSTW005&n_tw=1784523534 世界の投資額は2026年に200兆円──。巨大な経済圏となり始めたデータセンター。 関連業種は半導体や電子部品に限らず、冷却機器や建設・不動産など多岐に渡ります。",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079333346820165707",
-      "source": "X",
-      "published": "2026-07-20T22:31:16+00:00"
-    },
     {
       "text": "Intel $INTC is planning to spend $5.7 billion to expand manufacturing in Ireland, with the expansion primarily geared towards its Xeon 6 server processors and future generations for AI workloads. $NVDA $AMD",
       "author": "@Beth_Kindig",
@@ -163,13 +142,6 @@
       "published": "2026-07-20T15:07:11+00:00"
     },
     {
-      "text": "RT by @nikkei: 富士通とファナックなど3社、AIロボ実装へ協業　NVIDIAも支援 https://www.nikkei.com/article/DGXZQOUC151S20V10C26A7000000/?n_cid=SNSTW005&n_tw=1784507423",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079182390245630238",
-      "source": "X",
-      "published": "2026-07-20T12:31:25+00:00"
-    },
-    {
       "text": "RT by @Beth_Kindig: AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2078965624680661037",
@@ -210,6 +182,34 @@
       "link": "https://x.com/nvidia/status/2078252828804686278",
       "source": "X",
       "published": "2026-07-17T22:57:41+00:00"
+    },
+    {
+      "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2078244664751104293",
+      "source": "X",
+      "published": "2026-07-17T22:25:14+00:00"
+    },
+    {
+      "text": "🎒 Back to school starts here 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Walmart deals → https://nvda.ws/4gFyHck",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2078244037157421389",
+      "source": "X",
+      "published": "2026-07-17T22:22:45+00:00"
+    },
+    {
+      "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more.  Learn more: https://vist.ly/5bmju",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2078228046465655279",
+      "source": "X",
+      "published": "2026-07-17T21:19:12+00:00"
+    },
+    {
+      "text": "Another leaderboard win for Nemotron 3 Embed 👀 The 8B model takes #1 on LMEB, with the 1B model right behind it at #2. LMEB tests whether embedding models can find the right details across long-running conversations and other memory-heavy tasks, useful for agents that need to remember context across sessions.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2078204725921771890",
+      "source": "X",
+      "published": "2026-07-17T19:46:32+00:00"
     }
   ]
 }
