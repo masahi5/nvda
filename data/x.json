@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-07-21T15:00:08+00:00",
+  "updated_at": "2026-07-21T16:27:20+00:00",
   "items": [
+    {
+      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079601102455033919",
+      "source": "X",
+      "published": "2026-07-21T16:15:14+00:00"
+    },
+    {
+      "text": "3 days until RTX Play LIVE featuring 007 First Light 🤵 Every agent has a style. Are you the silent infiltrator, or do you prefer to go loud? Drop your approach with #RTXPowersPlay for a chance to WIN",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079601099758035097",
+      "source": "X",
+      "published": "2026-07-21T16:15:13+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA just posted this \"NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories.\" Here are the companies Nvidia listed as being some of the first to use this CoreWeave $CRWV Microsoft $MSFT Nebius $NBIS SpaceX $SPCX Tesla $TSLA",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2079587136899039337",
+      "source": "X",
+      "published": "2026-07-21T15:19:44+00:00"
+    },
+    {
+      "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @Nebius, @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079584667284418896",
+      "source": "X",
+      "published": "2026-07-21T15:09:56+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: AI agents are only as fast as the CPU powering them — so we redesigned the CPU. NVIDIA Vera with Olympus Cores delivers up to 1.8x higher performance on agentic workloads, with the memory bandwidth and per-thread speed to keep AI factories running at full tilt. Read more: https://nvda.ws/3RNAtOv",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2079583856940753147",
+      "source": "X",
+      "published": "2026-07-21T15:06:42+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
+      "source": "X",
+      "published": "2026-07-21T15:03:04+00:00"
+    },
+    {
+      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
+      "source": "X",
+      "published": "2026-07-21T15:03:04+00:00"
+    },
+    {
+      "text": "NVIDIA JUST CONFIRMED ITS NEXT-GEN CHIPS ARE ON SCHEDULE, AND MADE A DIRECT COMPARISON TO AMD IN THE SAME BREATH Nvidia $NVDA says its chips remain on track for use in AI data centers. The company also says its new Vera processor is faster than AMD's Turin. Nvidia said a major customers are already testing Vera Rubin hardware.",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2079582708938711287",
+      "source": "X",
+      "published": "2026-07-21T15:02:09+00:00"
+    },
+    {
+      "text": "NYダウ反発で開始、一時300ドル高　AIや半導体関連株に買い https://www.nikkei.com/article/DGXZQOFL21AT80R20C26A7000000/?n_cid=SNSTW001&n_tw=1784645722",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2079581474911670619",
+      "source": "X",
+      "published": "2026-07-21T14:57:15+00:00"
+    },
     {
       "text": "Microsoft $MSFT and Mistral AI just announced a new expanded partnership to bring Mistral's models across Microsoft Foundry, Copilot Studio, and Azure Underpinning it: a new multibillion-dollar agreement to expand AI infrastructure in Europe, with Mistral adding GPU capacity built on thousands of NVIDIA $NVDA Vera Rubin GPUs. \"Europe should have access to the world's most capable AI without compromising control over their data, operations or digital future.\" - Microsoft Vice Chair Brad Smith The practical use case: regulated industries, healthcare, critical infrastructure, manufacturing, can run the same AI models and tools whether fully in the cloud, cloud-connected, or entirely offline, without redesigning their systems for each environment.",
       "author": "@StockMKTNewz",
@@ -147,69 +210,6 @@
       "link": "https://x.com/nvidia/status/2079221588705099788",
       "source": "X",
       "published": "2026-07-20T15:07:11+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: AI-optimized servers consumed around 95 TWh of electricity globally last year, with this projected to rise 84% to 175 TWh in 2026. $NVDA $AMD $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2078965624680661037",
-      "source": "X",
-      "published": "2026-07-19T22:10:04+00:00"
-    },
-    {
-      "text": "RT by @nvidia: 【おすすめ記事】エヌビディアCEOの“神田の夜”に密着！日本半導体トップ30社と居酒屋外交、やきとん三吉に響いた「日本復活」の檄！ 【Featured Article】 NVIDIA CEO Jensen's Tokyo Izakaya Night with Leaders from Japan's Top 30 Semiconductor Companies https://www.youtube.com/watch?v=X7ffSOzcYBc",
-      "author": "@dol_editors",
-      "link": "https://x.com/dol_editors/status/2078669136310456334",
-      "source": "X",
-      "published": "2026-07-19T02:31:56+00:00"
-    },
-    {
-      "text": "Global data center electricity consumption is forecast to rise 26% this year to 565 TWh, up from 447 TWh in 2025, per Gartner, driven by strong AI demand. $MSFT $META $AMZN $GOOG $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2078572648838107420",
-      "source": "X",
-      "published": "2026-07-18T20:08:32+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: Explore the full recap of NVIDIA’s week in Japan. https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2078500836599038099",
-      "source": "X",
-      "published": "2026-07-18T15:23:10+00:00"
-    },
-    {
-      "text": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2078500453164466299",
-      "source": "X",
-      "published": "2026-07-18T15:21:39+00:00"
-    },
-    {
-      "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2078252828804686278",
-      "source": "X",
-      "published": "2026-07-17T22:57:41+00:00"
-    },
-    {
-      "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2078244664751104293",
-      "source": "X",
-      "published": "2026-07-17T22:25:14+00:00"
-    },
-    {
-      "text": "🎒 Back to school starts here 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Walmart deals → https://nvda.ws/4gFyHck",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2078244037157421389",
-      "source": "X",
-      "published": "2026-07-17T22:22:45+00:00"
-    },
-    {
-      "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more.  Learn more: https://vist.ly/5bmju",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2078228046465655279",
-      "source": "X",
-      "published": "2026-07-17T21:19:12+00:00"
     }
   ]
 }
