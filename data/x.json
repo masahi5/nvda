@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-22T22:39:37+00:00",
+  "updated_at": "2026-07-22T23:30:46+00:00",
   "items": [
+    {
+      "text": "The Genesis Mission is an investment in America’s future, and NVIDIA is proud to be an industry partner in this initiative to safeguard U.S. leadership in science.   This week, John Josephakis, NVIDIA Global VP for HPC, AI, and Supercomputing, joined leaders at the @scsp_ai AI+ Discovery summit to discuss this effort and the AI infrastructure needed to power the next generation of scientific discovery, innovation, and energy security.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2080030824846807351",
+      "source": "X",
+      "published": "2026-07-22T20:42:48+00:00"
+    },
     {
       "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
       "author": "@dylan522p",
       "link": "https://x.com/dylan522p/status/2080026098096853215",
       "source": "X",
       "published": "2026-07-22T20:24:01+00:00"
-    },
-    {
-      "text": "A White House🇺🇸 official accused China’s 🇨🇳 Moonshot of improperly using US AI models and Nvidia chips to create the Kimi K3 system - Bloomberg",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2080012650289762614",
-      "source": "X",
-      "published": "2026-07-22T19:30:35+00:00"
     },
     {
       "text": "R to @NVIDIAAI: Thanks to @googlecloud for helping power the challenge with G4 VMs featuring NVIDIA RTX PRO 6000 Blackwell GPUs.",
@@ -100,13 +100,6 @@
       "published": "2026-07-22T12:34:46+00:00"
     },
     {
-      "text": "RT by @StockMKTNewz: Nvidia $NVDA CEO Jensen Huang said the 🇺🇸 Government should NOT ban or restrict China 🇨🇳 AI models like Kimi K3 in an interview he did with Axios … here’s more quotes \"These Chinese models are excellent\" … \"Open-source models that are excellent should be used.\" \"The market misunderstood the impact of DeepSeek the first time,\" and its misunderstanding “the impact of Kimi again this time.\" \"There's no scenario where China runs U.S. companies off the road\" … \"Zero possibility.\"",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2079881008254484952",
-      "source": "X",
-      "published": "2026-07-22T10:47:29+00:00"
-    },
-    {
       "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079715060197310935",
@@ -135,18 +128,18 @@
       "published": "2026-07-21T22:46:21+00:00"
     },
     {
+      "text": "NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin as Wistron opened its first U.S. facility in Texas, producing the GB300 Grace Blackwell Ultra Superchip. We’re proud to partner with Wistron as its global expertise strengthens U.S. manufacturing and the supply chain behind the AI era.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2079687466160701934",
+      "source": "X",
+      "published": "2026-07-21T21:58:25+00:00"
+    },
+    {
       "text": "SK Hynix CEO Kwak Noh-jung: “We forecast that next year will be the worst year in the industry's history from the supply perspective. We still forecast that customer demand will remain higher than our supply capacity even beyond 2030.” $SKHY $MU $AMD $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2079661618665820269",
       "source": "X",
       "published": "2026-07-21T20:15:42+00:00"
-    },
-    {
-      "text": "If y'all are wondering where my deep dive is.... I was not briefed. Would love to have been. If you work at NVIDIA, ask them why I wasn't included. 🙃",
-      "author": "@IanCutress",
-      "link": "https://x.com/IanCutress/status/2079660207051796935",
-      "source": "X",
-      "published": "2026-07-21T20:10:06+00:00"
     },
     {
       "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
@@ -210,6 +203,13 @@
       "link": "https://x.com/NVIDIAGeForce/status/2079601102455033919",
       "source": "X",
       "published": "2026-07-21T16:15:14+00:00"
+    },
+    {
+      "text": "3 days until RTX Play LIVE featuring 007 First Light 🤵 Every agent has a style. Are you the silent infiltrator, or do you prefer to go loud? Drop your approach with #RTXPowersPlay for a chance to WIN",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079601099758035097",
+      "source": "X",
+      "published": "2026-07-21T16:15:13+00:00"
     }
   ]
 }
