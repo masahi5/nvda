@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-22T21:40:03+00:00",
+  "updated_at": "2026-07-22T22:39:37+00:00",
   "items": [
-    {
-      "text": "The Genesis Mission is an investment in America’s future, and NVIDIA is proud to be an industry partner in this initiative to safeguard U.S. leadership in science.   This week, John Josephakis, NVIDIA Global VP for HPC, AI, and Supercomputing, joined leaders at the @scsp_ai AI+ Discovery summit to discuss this effort and the AI infrastructure needed to power the next generation of scientific discovery, innovation, and energy security.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2080030824846807351",
-      "source": "X",
-      "published": "2026-07-22T20:42:48+00:00"
-    },
     {
       "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
       "author": "@dylan522p",
@@ -35,13 +28,6 @@
       "link": "https://x.com/NVIDIAAI/status/2080010403527155723",
       "source": "X",
       "published": "2026-07-22T19:21:39+00:00"
-    },
-    {
-      "text": "AMD、アンソロピックに8200億円投資　AI半導体の供給契約も https://www.nikkei.com/article/DGXZQOGN22BHN0S6A720C2000000/?n_cid=SNSTW001&n_tw=1784747422",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2080008071217074226",
-      "source": "X",
-      "published": "2026-07-22T19:12:23+00:00"
     },
     {
       "text": "Nvidia-backed AI infrastructure startup Fireworks AI raised $1.5 billion at a $17.5 billion valuation, noting that its ARR has risen fivefold YoY to surpass $1 billion while daily tokens processed on its platform reached 40 trillion, up 1.67X YoY. $NVDA $AMZN $GOOG $MSFT",
@@ -149,13 +135,6 @@
       "published": "2026-07-21T22:46:21+00:00"
     },
     {
-      "text": "NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin as Wistron opened its first U.S. facility in Texas, producing the GB300 Grace Blackwell Ultra Superchip. We’re proud to partner with Wistron as its global expertise strengthens U.S. manufacturing and the supply chain behind the AI era.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2079687466160701934",
-      "source": "X",
-      "published": "2026-07-21T21:58:25+00:00"
-    },
-    {
       "text": "SK Hynix CEO Kwak Noh-jung: “We forecast that next year will be the worst year in the industry's history from the supply perspective. We still forecast that customer demand will remain higher than our supply capacity even beyond 2030.” $SKHY $MU $AMD $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2079661618665820269",
@@ -210,6 +189,27 @@
       "link": "https://x.com/nvidia/status/2079619127560556869",
       "source": "X",
       "published": "2026-07-21T17:26:52+00:00"
+    },
+    {
+      "text": "Congrats to the @poolsideai team on their latest release, Laguna S 2.1. It’s open-weight, delivers way beyond its size, runs great locally and you can customize it with NVIDIA NeMo. Go try it out on @OpenRouter or download from @huggingface 👉https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
+      "source": "X",
+      "published": "2026-07-21T17:08:07+00:00"
+    },
+    {
+      "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079601314234032474",
+      "source": "X",
+      "published": "2026-07-21T16:16:05+00:00"
+    },
+    {
+      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079601102455033919",
+      "source": "X",
+      "published": "2026-07-21T16:15:14+00:00"
     }
   ]
 }
