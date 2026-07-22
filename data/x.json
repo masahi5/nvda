@@ -1,33 +1,26 @@
 {
-  "updated_at": "2026-07-21T23:29:31+00:00",
+  "updated_at": "2026-07-22T12:09:59+00:00",
   "items": [
+    {
+      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・テック株に利食い　香港続落 http://reut.rs/45gO9og http://reut.rs/45gO9og",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2079859176038171126",
+      "source": "X",
+      "published": "2026-07-22T09:20:44+00:00"
+    },
+    {
+      "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079715060197310935",
+      "source": "X",
+      "published": "2026-07-21T23:48:04+00:00"
+    },
     {
       "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079709298784088470",
       "source": "X",
       "published": "2026-07-21T23:25:10+00:00"
-    },
-    {
-      "text": "今日の株式見通し＝続伸、米半導体株高を好感　戻り待ち売りと綱引き http://reut.rs/4fjnI5S http://reut.rs/4fjnI5S",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2079702198921883719",
-      "source": "X",
-      "published": "2026-07-21T22:56:57+00:00"
-    },
-    {
-      "text": "パナソニックHD、半導体工場向け排水処理の新規事業　30年度50億円 https://www.nikkei.com/article/DGXZQOUF2118M0R20C26A7000000/?n_cid=SNSTW006&n_tw=1784674279",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079701350561005814",
-      "source": "X",
-      "published": "2026-07-21T22:53:35+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more about Wistron’s new Fort Worth facility and the advanced AI systems it will help produce: https://nvda.ws/4pusD8Q",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079699529943699613",
-      "source": "X",
-      "published": "2026-07-21T22:46:21+00:00"
     },
     {
       "text": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
@@ -37,18 +30,18 @@
       "published": "2026-07-21T22:46:21+00:00"
     },
     {
-      "text": "日経平均株価、米半導体株高が追い風（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL217D00R20C26A7000000/?n_cid=SNSTW001&n_tw=1784673682",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2079698847421374815",
+      "text": "R to @nvidia: Learn more about Wistron’s new Fort Worth facility and the advanced AI systems it will help produce: https://nvda.ws/4pusD8Q",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2079699529943699613",
       "source": "X",
-      "published": "2026-07-21T22:43:38+00:00"
+      "published": "2026-07-21T22:46:21+00:00"
     },
     {
-      "text": "米国株式市場＝反発、半導体株が高い　ハイテク大手の決算待ち http://reut.rs/4gKn5ot http://reut.rs/4gKn5ot",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2079661845464396051",
+      "text": "NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin as Wistron opened its first U.S. facility in Texas, producing the GB300 Grace Blackwell Ultra Superchip. We’re proud to partner with Wistron as its global expertise strengthens U.S. manufacturing and the supply chain behind the AI era.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2079687466160701934",
       "source": "X",
-      "published": "2026-07-21T20:16:36+00:00"
+      "published": "2026-07-21T21:58:25+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: SK Hynix CEO Kwak Noh-jung: “We forecast that next year will be the worst year in the industry's history from the supply perspective. We still forecast that customer demand will remain higher than our supply capacity even beyond 2030.” $SKHY $MU $AMD $NVDA",
@@ -135,11 +128,18 @@
       "published": "2026-07-21T16:15:13+00:00"
     },
     {
-      "text": "Nvidia $NVDA just posted this \"NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories.\" Here are the companies Nvidia listed as being some of the first to use this CoreWeave $CRWV Microsoft $MSFT Nebius $NBIS SpaceX $SPCX Tesla $TSLA",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2079587136899039337",
+      "text": "RT by @nvidianewsroom: AI agents are only as fast as the CPU powering them — so we redesigned the CPU. NVIDIA Vera with Olympus Cores delivers up to 1.8x higher performance on agentic workloads, with the memory bandwidth and per-thread speed to keep AI factories running at full tilt. Read more: https://nvda.ws/3RNAtOv",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2079583856940753147",
       "source": "X",
-      "published": "2026-07-21T15:19:44+00:00"
+      "published": "2026-07-21T15:06:42+00:00"
+    },
+    {
+      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
+      "source": "X",
+      "published": "2026-07-21T15:03:04+00:00"
     },
     {
       "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
@@ -149,11 +149,11 @@
       "published": "2026-07-21T15:03:04+00:00"
     },
     {
-      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
+      "text": "RT by @NVIDIAAI: Introducing Antares: @Cisco's family of small language models for locating known vulnerabilities in code. Antares-350M and Antares-1B are live on Hugging Face now. They can outperform many larger closed- and open-weight models at a fraction of the cost. Small enough to run locally. No shipping sensitive codebases to the cloud. Why it matters: vulnerability triage is expensive and slow. Antares helps democratize AI-assisted security for all. Explore the models + read the new Vulnerability Localization Benchmark: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
+      "author": "@CiscoAI",
+      "link": "https://x.com/CiscoAI/status/2079552055778402548",
       "source": "X",
-      "published": "2026-07-21T15:03:04+00:00"
+      "published": "2026-07-21T13:00:20+00:00"
     },
     {
       "text": "Intel $INTC is planning to spend $5.7 billion to expand manufacturing in Ireland, with the expansion primarily geared towards its Xeon 6 server processors and future generations for AI workloads. $NVDA $AMD",
@@ -198,7 +198,7 @@
       "published": "2026-07-20T17:18:20+00:00"
     },
     {
-      "text": "Markets obsess with margin % and market share and often penalize companies that exponentially increase margin and revenue dollars. Great case and point has been $NVDA. Both revenue and margin dollars have exploded with overall market growth and execution but many pundits obsess over 75% margins declining or 96% market share eroding even as the market grows to multiple trillions annually. 😐",
+      "text": "RT by @danielnewmanUV: Markets obsess with margin % and market share and often penalize companies that exponentially increase margin and revenue dollars. Great case and point has been $NVDA. Both revenue and margin dollars have exploded with overall market growth and execution but many pundits obsess over 75% margins declining or 96% market share eroding even as the market grows to multiple trillions annually. 😐",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2079248747960156572",
       "source": "X",
