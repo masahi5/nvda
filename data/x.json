@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-07-22T12:09:59+00:00",
+  "updated_at": "2026-07-22T15:00:25+00:00",
   "items": [
     {
-      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・テック株に利食い　香港続落 http://reut.rs/45gO9og http://reut.rs/45gO9og",
+      "text": "ＡＭＤ、アンソロピックに最大50億ドル出資　ＡＩ半導体供給へ http://reut.rs/4bBJgcY http://reut.rs/4bBJgcY",
       "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2079859176038171126",
+      "link": "https://x.com/ReutersJapan/status/2079941340561825917",
       "source": "X",
-      "published": "2026-07-22T09:20:44+00:00"
+      "published": "2026-07-22T14:47:13+00:00"
+    },
+    {
+      "text": "WSJ: \"Advanced Micro Devices and Anthropic have signed a deal for tens of billions of dollars’ worth of artificial-intelligence servers, strengthening AMD’s competitive position against industry leader Nvidia and supplying Anthropic with much needed computing power. Under the terms of the agreement, Anthropic will purchase up to 2 gigawatts of AMD’s latest-generation chips, called the Instinct MI450, starting in the first half of 2027. AMD will also invest up to $5 billion in Anthropic—its first check into the AI firm—as certain deployment milestones are met.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2079908006490230828",
+      "source": "X",
+      "published": "2026-07-22T12:34:46+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA CEO Jensen Huang said the 🇺🇸 Government should NOT ban or restrict China 🇨🇳 AI models like Kimi K3 in an interview he did with Axios … here’s more quotes \"These Chinese models are excellent\" … \"Open-source models that are excellent should be used.\" \"The market misunderstood the impact of DeepSeek the first time,\" and its misunderstanding “the impact of Kimi again this time.\" \"There's no scenario where China runs U.S. companies off the road\" … \"Zero possibility.\"",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2079881008254484952",
+      "source": "X",
+      "published": "2026-07-22T10:47:29+00:00"
     },
     {
       "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
@@ -44,7 +58,7 @@
       "published": "2026-07-21T21:58:25+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: SK Hynix CEO Kwak Noh-jung: “We forecast that next year will be the worst year in the industry's history from the supply perspective. We still forecast that customer demand will remain higher than our supply capacity even beyond 2030.” $SKHY $MU $AMD $NVDA",
+      "text": "SK Hynix CEO Kwak Noh-jung: “We forecast that next year will be the worst year in the industry's history from the supply perspective. We still forecast that customer demand will remain higher than our supply capacity even beyond 2030.” $SKHY $MU $AMD $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2079661618665820269",
       "source": "X",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidia/status/2079254592664301778",
       "source": "X",
       "published": "2026-07-20T17:18:20+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: Markets obsess with margin % and market share and often penalize companies that exponentially increase margin and revenue dollars. Great case and point has been $NVDA. Both revenue and margin dollars have exploded with overall market growth and execution but many pundits obsess over 75% margins declining or 96% market share eroding even as the market grows to multiple trillions annually. 😐",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2079248747960156572",
-      "source": "X",
-      "published": "2026-07-20T16:55:06+00:00"
-    },
-    {
-      "text": "R to @nvidia: Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across robotics, autonomous vehicles and smart infrastructure. 🔗 https://nvda.ws/3RGxNCc #SIGGRAPH2026",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079240931337965928",
-      "source": "X",
-      "published": "2026-07-20T16:24:03+00:00"
     }
   ]
 }
