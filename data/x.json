@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-07-22T15:00:25+00:00",
+  "updated_at": "2026-07-22T16:26:33+00:00",
   "items": [
+    {
+      "text": "Level up your gaming with GeForce RTX 💻 Take a break from studying with GeForce RTX 50 Series laptops featuring: 🟢Smooth gameplay 🟢Realistic ray-traced visuals 🟢FPS boost with AI-powered DLSS 🟢Game-winning responsiveness with NVIDIA Reflex Learn More: https://nvda.ws/4yAbPS6",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2079950375365607750",
+      "source": "X",
+      "published": "2026-07-22T15:23:07+00:00"
+    },
+    {
+      "text": "The new 4-step Cosmos 3 Super models generate images and video up to 25x faster than the originals, and still rank among the best open-weight models on @ArtificialAnlys. 🥇 #1 for image-to-video (no audio) 🥈 #2 for text-to-image Try them on @huggingface: https://vist.ly/5c4ke",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079949373069197658",
+      "source": "X",
+      "published": "2026-07-22T15:19:08+00:00"
+    },
     {
       "text": "ＡＭＤ、アンソロピックに最大50億ドル出資　ＡＩ半導体供給へ http://reut.rs/4bBJgcY http://reut.rs/4bBJgcY",
       "author": "@ReutersJapan",
       "link": "https://x.com/ReutersJapan/status/2079941340561825917",
       "source": "X",
       "published": "2026-07-22T14:47:13+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: NVIDIA's Cosmos3 Edge is out! it watches videos streams & understands the mechanics/physics in them 🔥 it can reason in words, images, or next action prediction. physical AI reasoning, on the edge. try it on @huggingface (or on your edge device) ▶️ https://hf.co/spaces/hugging-apps/nvidia-cosmos3-edge",
+      "author": "@HuggingApps",
+      "link": "https://x.com/HuggingApps/status/2079923165157859362",
+      "source": "X",
+      "published": "2026-07-22T13:35:00+00:00"
     },
     {
       "text": "WSJ: \"Advanced Micro Devices and Anthropic have signed a deal for tens of billions of dollars’ worth of artificial-intelligence servers, strengthening AMD’s competitive position against industry leader Nvidia and supplying Anthropic with much needed computing power. Under the terms of the agreement, Anthropic will purchase up to 2 gigawatts of AMD’s latest-generation chips, called the Instinct MI450, starting in the first half of 2027. AMD will also invest up to $5 billion in Anthropic—its first check into the AI firm—as certain deployment milestones are met.\"",
@@ -189,27 +210,6 @@
       "link": "https://x.com/liu_mingyu/status/2079294000708886840",
       "source": "X",
       "published": "2026-07-20T19:54:55+00:00"
-    },
-    {
-      "text": "👀",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079289052810100858",
-      "source": "X",
-      "published": "2026-07-20T19:35:16+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: 🔥🖥️Have an awesome custom gaming rig and want to win epic prizes? 🖥️🔥 The official #QuakeCon Mod Contest, powered by @NVIDIAGeForce Garage, is back! Win your share of over $10K in prizes, including GeForce RTX 50 Series graphics cards and a trip to NVIDIA HQ to film a Rig Spotlight video. Enter early and show us what you've built 👇 https://beth.games/469CMAd",
-      "author": "@QuakeCon",
-      "link": "https://x.com/QuakeCon/status/2079284060619194457",
-      "source": "X",
-      "published": "2026-07-20T19:15:25+00:00"
-    },
-    {
-      "text": "R to @nvidia: Super agents have arrived on the desktop. With local AI, designers and engineers can build, customize and run domain-specific agents using their own data and workflows. NVIDIA NemoClaw on DGX Station brings together Nemotron 3 Ultra, Omniverse libraries and OpenShell in an open agent stack. 🔗 https://nvda.ws/4h2mcYH #SIGGRAPH2026",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079254592664301778",
-      "source": "X",
-      "published": "2026-07-20T17:18:20+00:00"
     }
   ]
 }
