@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-22T19:04:48+00:00",
+  "updated_at": "2026-07-22T20:19:59+00:00",
   "items": [
+    {
+      "text": "A White House🇺🇸 official accused China’s 🇨🇳 Moonshot of improperly using US AI models and Nvidia chips to create the Kimi K3 system - Bloomberg",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2080012650289762614",
+      "source": "X",
+      "published": "2026-07-22T19:30:35+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Thanks to @googlecloud for helping power the challenge with G4 VMs featuring NVIDIA RTX PRO 6000 Blackwell GPUs.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080010407071379724",
+      "source": "X",
+      "published": "2026-07-22T19:21:40+00:00"
+    },
+    {
+      "text": "Last month, the NVIDIA Nemotron Model Reasoning Challenge wrapped on @kaggle with 5,000+ participants across 4,000+ teams. The community explored techniques for improving reasoning accuracy, here's what we learned 👇",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080010403527155723",
+      "source": "X",
+      "published": "2026-07-22T19:21:39+00:00"
+    },
+    {
+      "text": "AMD、アンソロピックに8200億円投資　AI半導体の供給契約も https://www.nikkei.com/article/DGXZQOGN22BHN0S6A720C2000000/?n_cid=SNSTW001&n_tw=1784747422",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2080008071217074226",
+      "source": "X",
+      "published": "2026-07-22T19:12:23+00:00"
+    },
+    {
+      "text": "Nvidia-backed AI infrastructure startup Fireworks AI raised $1.5 billion at a $17.5 billion valuation, noting that its ARR has risen fivefold YoY to surpass $1 billion while daily tokens processed on its platform reached 40 trillion, up 1.67X YoY. $NVDA $AMZN $GOOG $MSFT",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2080006212004044815",
+      "source": "X",
+      "published": "2026-07-22T19:05:00+00:00"
+    },
     {
       "text": "Nvidia $NVDA said that with software optimizations alone, it was able to deliver a 5X increase in tokens generated in the same power envelope in just one month.",
       "author": "@Beth_Kindig",
@@ -72,6 +107,13 @@
       "published": "2026-07-22T12:34:46+00:00"
     },
     {
+      "text": "RT by @StockMKTNewz: Nvidia $NVDA CEO Jensen Huang said the 🇺🇸 Government should NOT ban or restrict China 🇨🇳 AI models like Kimi K3 in an interview he did with Axios … here’s more quotes \"These Chinese models are excellent\" … \"Open-source models that are excellent should be used.\" \"The market misunderstood the impact of DeepSeek the first time,\" and its misunderstanding “the impact of Kimi again this time.\" \"There's no scenario where China runs U.S. companies off the road\" … \"Zero possibility.\"",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2079881008254484952",
+      "source": "X",
+      "published": "2026-07-22T10:47:29+00:00"
+    },
+    {
       "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079715060197310935",
@@ -112,6 +154,13 @@
       "link": "https://x.com/Beth_Kindig/status/2079661618665820269",
       "source": "X",
       "published": "2026-07-21T20:15:42+00:00"
+    },
+    {
+      "text": "If y'all are wondering where my deep dive is.... I was not briefed. Would love to have been. If you work at NVIDIA, ask them why I wasn't included. 🙃",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2079660207051796935",
+      "source": "X",
+      "published": "2026-07-21T20:10:06+00:00"
     },
     {
       "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
@@ -161,55 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
       "source": "X",
       "published": "2026-07-21T17:08:07+00:00"
-    },
-    {
-      "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079601314234032474",
-      "source": "X",
-      "published": "2026-07-21T16:16:05+00:00"
-    },
-    {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079601102455033919",
-      "source": "X",
-      "published": "2026-07-21T16:15:14+00:00"
-    },
-    {
-      "text": "3 days until RTX Play LIVE featuring 007 First Light 🤵 Every agent has a style. Are you the silent infiltrator, or do you prefer to go loud? Drop your approach with #RTXPowersPlay for a chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079601099758035097",
-      "source": "X",
-      "published": "2026-07-21T16:15:13+00:00"
-    },
-    {
-      "text": "RT by @nvidianewsroom: AI agents are only as fast as the CPU powering them — so we redesigned the CPU. NVIDIA Vera with Olympus Cores delivers up to 1.8x higher performance on agentic workloads, with the memory bandwidth and per-thread speed to keep AI factories running at full tilt. Read more: https://nvda.ws/3RNAtOv",
-      "author": "@NVIDIAAIInfra",
-      "link": "https://x.com/NVIDIAAIInfra/status/2079583856940753147",
-      "source": "X",
-      "published": "2026-07-21T15:06:42+00:00"
-    },
-    {
-      "text": "NVIDIA Blackwell Ultra just set a world record for pre-training DeepSeek-V3 671B, achieving 1,648 TFLOPs per GPU. This is about 3x the earlier delivered performance of the previous generation, and is a result of our extreme co-design and continuous software optimization across popular frameworks including Megatron-Core, TorchTitan, and JAX.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582939373863353",
-      "source": "X",
-      "published": "2026-07-21T15:03:04+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Read more 👇 https://nvda.ws/4vBSHAx",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079582942112739694",
-      "source": "X",
-      "published": "2026-07-21T15:03:04+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Introducing Antares: @Cisco's family of small language models for locating known vulnerabilities in code. Antares-350M and Antares-1B are live on Hugging Face now. They can outperform many larger closed- and open-weight models at a fraction of the cost. Small enough to run locally. No shipping sensitive codebases to the cloud. Why it matters: vulnerability triage is expensive and slow. Antares helps democratize AI-assisted security for all. Explore the models + read the new Vulnerability Localization Benchmark: https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
-      "author": "@CiscoAI",
-      "link": "https://x.com/CiscoAI/status/2079552055778402548",
-      "source": "X",
-      "published": "2026-07-21T13:00:20+00:00"
     }
   ]
 }
