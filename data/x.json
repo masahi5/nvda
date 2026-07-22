@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-22T17:48:49+00:00",
+  "updated_at": "2026-07-22T19:04:48+00:00",
   "items": [
+    {
+      "text": "Nvidia $NVDA said that with software optimizations alone, it was able to deliver a 5X increase in tokens generated in the same power envelope in just one month.",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2079997655480987667",
+      "source": "X",
+      "published": "2026-07-22T18:31:00+00:00"
+    },
+    {
+      "text": "Build and Optimize Robotics and Edge AI with the New Jetson Thor T2000 and T3000 https://x.com/i/broadcasts/1aJbddNPbQdKX",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079990095017619955",
+      "source": "X",
+      "published": "2026-07-22T18:00:57+00:00"
+    },
+    {
+      "text": "AWS is expected to ship 2.4 million of its Trainium3 accelerators this year, ramping to 3.2 million in 2027. $AMZN $NVDA $GOOG",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2079989553775943688",
+      "source": "X",
+      "published": "2026-07-22T17:58:48+00:00"
+    },
     {
       "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
       "author": "@NVIDIAGeForce",
@@ -30,6 +51,13 @@
       "published": "2026-07-22T15:19:08+00:00"
     },
     {
+      "text": "ＡＭＤ、アンソロピックに最大50億ドル出資　ＡＩ半導体供給へ http://reut.rs/4bBJgcY http://reut.rs/4bBJgcY",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2079941340561825917",
+      "source": "X",
+      "published": "2026-07-22T14:47:13+00:00"
+    },
+    {
       "text": "RT by @NVIDIAAI: NVIDIA's Cosmos3 Edge is out! it watches videos streams & understands the mechanics/physics in them 🔥 it can reason in words, images, or next action prediction. physical AI reasoning, on the edge. try it on @huggingface (or on your edge device) ▶️ https://hf.co/spaces/hugging-apps/nvidia-cosmos3-edge",
       "author": "@HuggingApps",
       "link": "https://x.com/HuggingApps/status/2079923165157859362",
@@ -42,13 +70,6 @@
       "link": "https://x.com/firstadopter/status/2079908006490230828",
       "source": "X",
       "published": "2026-07-22T12:34:46+00:00"
-    },
-    {
-      "text": "Nvidia $NVDA CEO Jensen Huang said the 🇺🇸 Government should NOT ban or restrict China 🇨🇳 AI models like Kimi K3 in an interview he did with Axios … here’s more quotes \"These Chinese models are excellent\" … \"Open-source models that are excellent should be used.\" \"The market misunderstood the impact of DeepSeek the first time,\" and its misunderstanding “the impact of Kimi again this time.\" \"There's no scenario where China runs U.S. companies off the road\" … \"Zero possibility.\"",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2079881008254484952",
-      "source": "X",
-      "published": "2026-07-22T10:47:29+00:00"
     },
     {
       "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
@@ -91,13 +112,6 @@
       "link": "https://x.com/Beth_Kindig/status/2079661618665820269",
       "source": "X",
       "published": "2026-07-21T20:15:42+00:00"
-    },
-    {
-      "text": "If y'all are wondering where my deep dive is.... I was not briefed. Would love to have been. If you work at NVIDIA, ask them why I wasn't included. 🙃",
-      "author": "@IanCutress",
-      "link": "https://x.com/IanCutress/status/2079660207051796935",
-      "source": "X",
-      "published": "2026-07-21T20:10:06+00:00"
     },
     {
       "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
@@ -196,20 +210,6 @@
       "link": "https://x.com/CiscoAI/status/2079552055778402548",
       "source": "X",
       "published": "2026-07-21T13:00:20+00:00"
-    },
-    {
-      "text": "Intel $INTC is planning to spend $5.7 billion to expand manufacturing in Ireland, with the expansion primarily geared towards its Xeon 6 server processors and future generations for AI workloads. $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079326339643977783",
-      "source": "X",
-      "published": "2026-07-20T22:03:26+00:00"
-    },
-    {
-      "text": "Meta is reportedly in talks with Anthropic to lease $10 billion of computing power, with the deal expected to see Anthropic pay Meta in monthly increments over a two-year period. $META $MSFT $AMZN $GOOG $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079296586274754775",
-      "source": "X",
-      "published": "2026-07-20T20:05:12+00:00"
     }
   ]
 }
