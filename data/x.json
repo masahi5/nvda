@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-22T20:19:59+00:00",
+  "updated_at": "2026-07-22T21:40:03+00:00",
   "items": [
+    {
+      "text": "The Genesis Mission is an investment in America’s future, and NVIDIA is proud to be an industry partner in this initiative to safeguard U.S. leadership in science.   This week, John Josephakis, NVIDIA Global VP for HPC, AI, and Supercomputing, joined leaders at the @scsp_ai AI+ Discovery summit to discuss this effort and the AI infrastructure needed to power the next generation of scientific discovery, innovation, and energy security.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2080030824846807351",
+      "source": "X",
+      "published": "2026-07-22T20:42:48+00:00"
+    },
+    {
+      "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
+      "author": "@dylan522p",
+      "link": "https://x.com/dylan522p/status/2080026098096853215",
+      "source": "X",
+      "published": "2026-07-22T20:24:01+00:00"
+    },
     {
       "text": "A White House🇺🇸 official accused China’s 🇨🇳 Moonshot of improperly using US AI models and Nvidia chips to create the Kimi K3 system - Bloomberg",
       "author": "@StockMKTNewz",
@@ -84,13 +98,6 @@
       "link": "https://x.com/NVIDIAAI/status/2079949373069197658",
       "source": "X",
       "published": "2026-07-22T15:19:08+00:00"
-    },
-    {
-      "text": "ＡＭＤ、アンソロピックに最大50億ドル出資　ＡＩ半導体供給へ http://reut.rs/4bBJgcY http://reut.rs/4bBJgcY",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2079941340561825917",
-      "source": "X",
-      "published": "2026-07-22T14:47:13+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: NVIDIA's Cosmos3 Edge is out! it watches videos streams & understands the mechanics/physics in them 🔥 it can reason in words, images, or next action prediction. physical AI reasoning, on the edge. try it on @huggingface (or on your edge device) ▶️ https://hf.co/spaces/hugging-apps/nvidia-cosmos3-edge",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidia/status/2079619127560556869",
       "source": "X",
       "published": "2026-07-21T17:26:52+00:00"
-    },
-    {
-      "text": "Congrats to the @poolsideai team on their latest release, Laguna S 2.1. It’s open-weight, delivers way beyond its size, runs great locally and you can customize it with NVIDIA NeMo. Go try it out on @OpenRouter or download from @huggingface 👉https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
-      "source": "X",
-      "published": "2026-07-21T17:08:07+00:00"
     }
   ]
 }
