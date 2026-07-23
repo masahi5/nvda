@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-23T15:04:10+00:00",
+  "updated_at": "2026-07-23T16:44:35+00:00",
   "items": [
+    {
+      "text": "R to @NVIDIAAI: Follow along with @llm_wizard below or read more here: https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes?ncid=so-twit-860681",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080327999594115271",
+      "source": "X",
+      "published": "2026-07-23T16:23:40+00:00"
+    },
+    {
+      "text": "R to @NPS_Monterey: Read the event recap ➡️ https://nvda.ws/4wgPzez",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080326299826962474",
+      "source": "X",
+      "published": "2026-07-23T16:16:55+00:00"
+    },
+    {
+      "text": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080326297260072992",
+      "source": "X",
+      "published": "2026-07-23T16:16:54+00:00"
+    },
+    {
+      "text": "A hosted RL run took Nemotron 3 Nano from 22% to 91% accuracy on a math task for under $5. Using @PrimeIntellect Lab, the whole loop runs on hosted infrastructure. You check a baseline, train the model until the reward climbs, and retest to confirm it actually learned, ending with a downloadable LoRA adapter. You can also scale this workflow to Nemotron 3 Super and Ultra by changing one line.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080323092396540136",
+      "source": "X",
+      "published": "2026-07-23T16:04:10+00:00"
+    },
     {
       "text": "Nebius $NBIS just posted this: \"This is our first full NVIDIA Vera Rubin NVL72 rack, photographed in our Finland data center.\"",
       "author": "@StockMKTNewz",
@@ -107,27 +135,6 @@
       "published": "2026-07-22T17:58:48+00:00"
     },
     {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079966935282856074",
-      "source": "X",
-      "published": "2026-07-22T16:28:55+00:00"
-    },
-    {
-      "text": "2 days until RTX Play LIVE: 007 First Light 🕶️ What was your most frequent gadget in your first playthrough? Tell us with #RTXPowersPlay for a chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079966928026649007",
-      "source": "X",
-      "published": "2026-07-22T16:28:54+00:00"
-    },
-    {
-      "text": "Level up your gaming with GeForce RTX 💻 Take a break from studying with GeForce RTX 50 Series laptops featuring: 🟢Smooth gameplay 🟢Realistic ray-traced visuals 🟢FPS boost with AI-powered DLSS 🟢Game-winning responsiveness with NVIDIA Reflex Learn More: https://nvda.ws/4yAbPS6",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079950375365607750",
-      "source": "X",
-      "published": "2026-07-22T15:23:07+00:00"
-    },
-    {
       "text": "The new 4-step Cosmos 3 Super models generate images and video up to 25x faster than the originals, and still rank among the best open-weight models on @ArtificialAnlys. 🥇 #1 for image-to-video (no audio) 🥈 #2 for text-to-image Try them on @huggingface: https://vist.ly/5c4ke",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2079949373069197658",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidia/status/2079633231629144565",
       "source": "X",
       "published": "2026-07-21T18:22:54+00:00"
-    },
-    {
-      "text": "Devin Outposts are now available on NVIDIA Brev. Write and profile kernels, run experiments, serve and fine-tune OSS models, and test against real hardware. Try it out: https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079630151206506525",
-      "source": "X",
-      "published": "2026-07-21T18:10:40+00:00"
     }
   ]
 }
