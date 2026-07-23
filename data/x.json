@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-23T18:02:15+00:00",
+  "updated_at": "2026-07-23T19:44:32+00:00",
   "items": [
+    {
+      "text": "I know this will sound crazy to some of you, but $NVDA doesn’t have to lose for $AMD to win. 😬",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2080373029134065739",
+      "source": "X",
+      "published": "2026-07-23T19:22:36+00:00"
+    },
+    {
+      "text": "GeForce history in the hands of the community 👀 GeForce Trading Cards Series 1 are showing up at live events around the world. Want your chance to rip a pack? Comment #CollectRTX below",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2080353375208583192",
+      "source": "X",
+      "published": "2026-07-23T18:04:30+00:00"
+    },
     {
       "text": "Japan is planning to purchase 27,500 of Nvidia’s $NVDA Rubin GPUs to build an AI factory to develop a homegrown foundational AI model for robotics.",
       "author": "@Beth_Kindig",
@@ -58,11 +72,11 @@
       "published": "2026-07-23T15:24:34+00:00"
     },
     {
-      "text": "Nebius $NBIS just posted this: \"This is our first full NVIDIA Vera Rubin NVL72 rack, photographed in our Finland data center.\"",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2080282932971717018",
+      "text": "RT by @NVIDIAAI: Lower inference costs makes running and evaluating more specialized agents in production more practical. Teams can create agents for specific domains, use evals and traces to measure performance, and adapt the harness as their workflows change.",
+      "author": "@LangChain",
+      "link": "https://x.com/LangChain/status/2080277338390962685",
       "source": "X",
-      "published": "2026-07-23T13:24:35+00:00"
+      "published": "2026-07-23T13:02:21+00:00"
     },
     {
       "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック 「ブロック自体にできることが増えると、子どもたちは想像力を発揮しなくなる」との指摘もある https://on.wsj.com/44LgjYj",
@@ -196,20 +210,6 @@
       "link": "https://x.com/HuggingApps/status/2079923165157859362",
       "source": "X",
       "published": "2026-07-22T13:35:00+00:00"
-    },
-    {
-      "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079715060197310935",
-      "source": "X",
-      "published": "2026-07-21T23:48:04+00:00"
-    },
-    {
-      "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079709298784088470",
-      "source": "X",
-      "published": "2026-07-21T23:25:10+00:00"
     }
   ]
 }
