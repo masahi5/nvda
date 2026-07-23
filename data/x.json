@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-07-22T23:30:46+00:00",
+  "updated_at": "2026-07-23T12:08:20+00:00",
   "items": [
+    {
+      "text": "ファーウェイ、半導体に新設計思想　信号遅延を最小化 https://www.nikkei.com/article/DGXZQOSG0774J0X00C26A7000000/?n_cid=SNSTW001&n_tw=1784808083",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2080262750874308732",
+      "source": "X",
+      "published": "2026-07-23T12:04:23+00:00"
+    },
+    {
+      "text": "半導体株、買い再開うかがうファンド勢　今年の買い越し分をほぼ売却 https://www.nikkei.com/article/DGXZQOUB2354G0T20C26A7000000/?n_cid=SNSTW001&n_tw=1784801302",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2080234063705588197",
+      "source": "X",
+      "published": "2026-07-23T10:10:24+00:00"
+    },
+    {
+      "text": "RAYTHEON $RTX JUST REPORTED EARNINGS EPS of $1.89 beating expectations of $1.69🟢 Revenue of $24.7B beating expectations of $22.6B🟢 Raytheon raised its fiscal year 2026 guidance for: - EPS up to between $7.10-$7.25 from between $6.70-$6.90 - Revenue up to between $95B - $96B from between $92.5B - $93.5B",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2080233384958190072",
+      "source": "X",
+      "published": "2026-07-23T10:07:42+00:00"
+    },
+    {
+      "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック レゴの新製品「スマートプレイ」のセットはモーションセンサーを内蔵し、光や音を発する。このブロック玩具にデジタル式の進化は本当に必要なのか。 https://on.wsj.com/45ohPQh",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2080156015413129329",
+      "source": "X",
+      "published": "2026-07-23T05:00:16+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: Read the event recap ⬇️ https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/?ncid=so-twit-377915-vt22",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2080122323055661127",
+      "source": "X",
+      "published": "2026-07-23T02:46:23+00:00"
+    },
+    {
+      "text": "The next stage of AI is here for the public sector. At Converge @ NPS, NVIDIA CEO Jensen Huang spoke about how the NVIDIA DGX GB300 will accelerate AI research, education, and experimentation for @NPS_Monterey. The AI supercomputer will expand access to tools and compute needed to train models, develop applications, and solve complex challenges. This deployment will prepare the next generation of leaders to understand, develop, and apply AI responsibly.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2080122320681603101",
+      "source": "X",
+      "published": "2026-07-23T02:46:22+00:00"
+    },
+    {
+      "text": "Personalized fan experiences don't have to end at the game. Check out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080078677426241940",
+      "source": "X",
+      "published": "2026-07-22T23:52:57+00:00"
+    },
+    {
+      "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック https://on.wsj.com/4vP0cUP",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2080075444418650481",
+      "source": "X",
+      "published": "2026-07-22T23:40:06+00:00"
+    },
     {
       "text": "The Genesis Mission is an investment in America’s future, and NVIDIA is proud to be an industry partner in this initiative to safeguard U.S. leadership in science.   This week, John Josephakis, NVIDIA Global VP for HPC, AI, and Supercomputing, joined leaders at the @scsp_ai AI+ Discovery summit to discuss this effort and the AI infrastructure needed to power the next generation of scientific discovery, innovation, and energy security.",
       "author": "@nvidianewsroom",
@@ -93,13 +149,6 @@
       "published": "2026-07-22T13:35:00+00:00"
     },
     {
-      "text": "WSJ: \"Advanced Micro Devices and Anthropic have signed a deal for tens of billions of dollars’ worth of artificial-intelligence servers, strengthening AMD’s competitive position against industry leader Nvidia and supplying Anthropic with much needed computing power. Under the terms of the agreement, Anthropic will purchase up to 2 gigawatts of AMD’s latest-generation chips, called the Instinct MI450, starting in the first half of 2027. AMD will also invest up to $5 billion in Anthropic—its first check into the AI firm—as certain deployment milestones are met.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2079908006490230828",
-      "source": "X",
-      "published": "2026-07-22T12:34:46+00:00"
-    },
-    {
       "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2079715060197310935",
@@ -142,6 +191,13 @@
       "published": "2026-07-21T20:15:42+00:00"
     },
     {
+      "text": "If y'all are wondering where my deep dive is.... I was not briefed. Would love to have been. If you work at NVIDIA, ask them why I wasn't included. 🙃",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2079660207051796935",
+      "source": "X",
+      "published": "2026-07-21T20:10:06+00:00"
+    },
+    {
       "text": "Congratulations to the students who competed at the International Mathematical Olympiad (IMO) 2026. 👏 We put Nemotron 3 Ultra to the test to take on the same problems in the same time limit, with no internet or external tools. The IMO team graded its solutions 30/42, above the 29-point gold threshold. 🥇",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2079642933058244704",
@@ -154,62 +210,6 @@
       "link": "https://x.com/nvidia/status/2079633231629144565",
       "source": "X",
       "published": "2026-07-21T18:22:54+00:00"
-    },
-    {
-      "text": "Devin Outposts are now available on NVIDIA Brev. Write and profile kernels, run experiments, serve and fine-tune OSS models, and test against real hardware. Try it out: https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079630151206506525",
-      "source": "X",
-      "published": "2026-07-21T18:10:40+00:00"
-    },
-    {
-      "text": "Tune the Harness, Before Tuning the Model with LangChain | Nemotron Labs https://x.com/i/broadcasts/1MJgNNeWbklGL",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079627467032338731",
-      "source": "X",
-      "published": "2026-07-21T18:00:00+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: My GeForce Trading card collection! Still missing a few... 😀",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2079619262537502946",
-      "source": "X",
-      "published": "2026-07-21T17:27:24+00:00"
-    },
-    {
-      "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance. ➡️ Benchmark results from @DeepInfra show that the NVIDIA Vera CPU is more than 2x as fast and can support more concurrent AI agents compared with other CPUs. 🔗 Read more: https://nvda.ws/4ywCiQn",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079619127560556869",
-      "source": "X",
-      "published": "2026-07-21T17:26:52+00:00"
-    },
-    {
-      "text": "Congrats to the @poolsideai team on their latest release, Laguna S 2.1. It’s open-weight, delivers way beyond its size, runs great locally and you can customize it with NVIDIA NeMo. Go try it out on @OpenRouter or download from @huggingface 👉https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079614410969301331",
-      "source": "X",
-      "published": "2026-07-21T17:08:07+00:00"
-    },
-    {
-      "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2079601314234032474",
-      "source": "X",
-      "published": "2026-07-21T16:16:05+00:00"
-    },
-    {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079601102455033919",
-      "source": "X",
-      "published": "2026-07-21T16:15:14+00:00"
-    },
-    {
-      "text": "3 days until RTX Play LIVE featuring 007 First Light 🤵 Every agent has a style. Are you the silent infiltrator, or do you prefer to go loud? Drop your approach with #RTXPowersPlay for a chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079601099758035097",
-      "source": "X",
-      "published": "2026-07-21T16:15:13+00:00"
     }
   ]
 }
