@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-07-23T12:08:20+00:00",
+  "updated_at": "2026-07-23T15:04:10+00:00",
   "items": [
     {
-      "text": "ファーウェイ、半導体に新設計思想　信号遅延を最小化 https://www.nikkei.com/article/DGXZQOSG0774J0X00C26A7000000/?n_cid=SNSTW001&n_tw=1784808083",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2080262750874308732",
+      "text": "Nebius $NBIS just posted this: \"This is our first full NVIDIA Vera Rubin NVL72 rack, photographed in our Finland data center.\"",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2080282932971717018",
       "source": "X",
-      "published": "2026-07-23T12:04:23+00:00"
+      "published": "2026-07-23T13:24:35+00:00"
     },
     {
-      "text": "半導体株、買い再開うかがうファンド勢　今年の買い越し分をほぼ売却 https://www.nikkei.com/article/DGXZQOUB2354G0T20C26A7000000/?n_cid=SNSTW001&n_tw=1784801302",
+      "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック 「ブロック自体にできることが増えると、子どもたちは想像力を発揮しなくなる」との指摘もある https://on.wsj.com/44LgjYj",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2080276775515324581",
+      "source": "X",
+      "published": "2026-07-23T13:00:07+00:00"
+    },
+    {
+      "text": "RT by @nikkei: 半導体株、買い再開うかがうファンド勢　今年の買い越し分をほぼ売却 https://www.nikkei.com/article/DGXZQOUB2354G0T20C26A7000000/?n_cid=SNSTW001&n_tw=1784801302",
       "author": "@nikkei",
       "link": "https://x.com/nikkei/status/2080234063705588197",
       "source": "X",
       "published": "2026-07-23T10:10:24+00:00"
-    },
-    {
-      "text": "RAYTHEON $RTX JUST REPORTED EARNINGS EPS of $1.89 beating expectations of $1.69🟢 Revenue of $24.7B beating expectations of $22.6B🟢 Raytheon raised its fiscal year 2026 guidance for: - EPS up to between $7.10-$7.25 from between $6.70-$6.90 - Revenue up to between $95B - $96B from between $92.5B - $93.5B",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2080233384958190072",
-      "source": "X",
-      "published": "2026-07-23T10:07:42+00:00"
     },
     {
       "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック レゴの新製品「スマートプレイ」のセットはモーションセンサーを内蔵し、光や音を発する。このブロック玩具にデジタル式の進化は本当に必要なのか。 https://on.wsj.com/45ohPQh",
@@ -49,13 +49,6 @@
       "link": "https://x.com/nvidia/status/2080078677426241940",
       "source": "X",
       "published": "2026-07-22T23:52:57+00:00"
-    },
-    {
-      "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック https://on.wsj.com/4vP0cUP",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2080075444418650481",
-      "source": "X",
-      "published": "2026-07-22T23:40:06+00:00"
     },
     {
       "text": "The Genesis Mission is an investment in America’s future, and NVIDIA is proud to be an industry partner in this initiative to safeguard U.S. leadership in science.   This week, John Josephakis, NVIDIA Global VP for HPC, AI, and Supercomputing, joined leaders at the @scsp_ai AI+ Discovery summit to discuss this effort and the AI infrastructure needed to power the next generation of scientific discovery, innovation, and energy security.",
@@ -210,6 +203,13 @@
       "link": "https://x.com/nvidia/status/2079633231629144565",
       "source": "X",
       "published": "2026-07-21T18:22:54+00:00"
+    },
+    {
+      "text": "Devin Outposts are now available on NVIDIA Brev. Write and profile kernels, run experiments, serve and fine-tune OSS models, and test against real hardware. Try it out: https://brev.nvidia.com/launchable/deploy?launchableID=env-3Ge1ZXazlZQuJHfQed2od9IT8R5",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2079630151206506525",
+      "source": "X",
+      "published": "2026-07-21T18:10:40+00:00"
     }
   ]
 }
