@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-24T17:58:04+00:00",
+  "updated_at": "2026-07-24T19:26:33+00:00",
   "items": [
+    {
+      "text": "We cut DeepSeek-V4 Pro startup from 8 minutes to under 2 minutes by moving weights over the fastest path to GPU memory with GPU-to-GPU RDMA. This was achieved using NVIDIA ModelExpress (MX), the weight distribution and cache management service in NVIDIA Dynamo, and this same approach speeds up both inference and RL post-training too. MX reuses kernel caches, while inference workers fetch updated weights directly from other GPUs over NIXL—avoiding centralized broadcasts and keeping weight movement off the critical path.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080730149348082124",
+      "source": "X",
+      "published": "2026-07-24T19:01:40+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Read the full deep dive here. https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080730151793418488",
+      "source": "X",
+      "published": "2026-07-24T19:01:40+00:00"
+    },
+    {
+      "text": "Raytheon $RTX stock hit new ALL TIME HIGHS today",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2080718783711269159",
+      "source": "X",
+      "published": "2026-07-24T18:16:30+00:00"
+    },
+    {
+      "text": "RTX Play LIVE is TONIGHT with 007 First Light 🤵 Tune in as @GeForce_JacobF combines gadgets, tactics, and fists, alongside your chance to WIN the custom GeForce RTX 5080 celebrating the game! 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2080715927872540908",
+      "source": "X",
+      "published": "2026-07-24T18:05:09+00:00"
+    },
+    {
+      "text": "Meet the Winners: Inside the NVIDIA Nemotron Reasoning Challenge https://x.com/i/broadcasts/1kKzDDXDmvwJv",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080714399971700924",
+      "source": "X",
+      "published": "2026-07-24T17:59:05+00:00"
+    },
     {
       "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
       "author": "@dylan522p",
@@ -37,6 +72,13 @@
       "published": "2026-07-24T16:13:05+00:00"
     },
     {
+      "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080686579400765517",
+      "source": "X",
+      "published": "2026-07-24T16:08:32+00:00"
+    },
+    {
       "text": "Jensen has arrived. All the alpha is here on X. 👏🏻🚀",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2080678615801270443",
@@ -56,6 +98,13 @@
       "link": "https://x.com/StockMKTNewz/status/2080666931669942367",
       "source": "X",
       "published": "2026-07-24T14:50:28+00:00"
+    },
+    {
+      "text": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080663854447804796",
+      "source": "X",
+      "published": "2026-07-24T14:38:14+00:00"
     },
     {
       "text": "NVIDIA $NVDA CEO JENSEN HUANG JUST MADE HIS FIRST POST ON X 👀 @JensenHuang",
@@ -107,7 +156,7 @@
       "published": "2026-07-24T06:20:16+00:00"
     },
     {
-      "text": "A warm California welcome from NVIDIA to @SKhynix.",
+      "text": "RT by @nvidia: A warm California welcome from NVIDIA to @SKhynix.",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2080499639149593034",
       "source": "X",
@@ -161,55 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2080331431281066250",
       "source": "X",
       "published": "2026-07-23T16:37:18+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Follow along with @llm_wizard below or read more here: https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes?ncid=so-twit-860681",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080327999594115271",
-      "source": "X",
-      "published": "2026-07-23T16:23:40+00:00"
-    },
-    {
-      "text": "RT by @nvidianewsroom: What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080326297260072992",
-      "source": "X",
-      "published": "2026-07-23T16:16:54+00:00"
-    },
-    {
-      "text": "A hosted RL run took Nemotron 3 Nano from 22% to 91% accuracy on a math task for under $5. Using @PrimeIntellect Lab, the whole loop runs on hosted infrastructure. You check a baseline, train the model until the reward climbs, and retest to confirm it actually learned, ending with a downloadable LoRA adapter. You can also scale this workflow to Nemotron 3 Super and Ultra by changing one line.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080323092396540136",
-      "source": "X",
-      "published": "2026-07-23T16:04:10+00:00"
-    },
-    {
-      "text": "Back-to-school laptop unboxing 👀 Get a first look at the Alienware 16 Aurora GeForce RTX 50 Series laptop, featuring: 🟢 16\" 240Hz OLED display 🟢 Advanced Cryo-Chamber cooling 🟢 Performance for gaming, creating, and local AI",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080313126755426722",
-      "source": "X",
-      "published": "2026-07-23T15:24:34+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Lower inference costs makes running and evaluating more specialized agents in production more practical. Teams can create agents for specific domains, use evals and traces to measure performance, and adapt the harness as their workflows change.",
-      "author": "@LangChain",
-      "link": "https://x.com/LangChain/status/2080277338390962685",
-      "source": "X",
-      "published": "2026-07-23T13:02:21+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: Read the event recap ⬇️ https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/?ncid=so-twit-377915-vt22",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2080122323055661127",
-      "source": "X",
-      "published": "2026-07-23T02:46:23+00:00"
-    },
-    {
-      "text": "The next stage of AI is here for the public sector. At Converge @ NPS, NVIDIA CEO Jensen Huang spoke about how the NVIDIA DGX GB300 will accelerate AI research, education, and experimentation for @NPS_Monterey. The AI supercomputer will expand access to tools and compute needed to train models, develop applications, and solve complex challenges. This deployment will prepare the next generation of leaders to understand, develop, and apply AI responsibly.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2080122320681603101",
-      "source": "X",
-      "published": "2026-07-23T02:46:22+00:00"
     }
   ]
 }
