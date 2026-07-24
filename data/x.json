@@ -1,19 +1,40 @@
 {
-  "updated_at": "2026-07-24T16:34:45+00:00",
+  "updated_at": "2026-07-24T17:58:04+00:00",
   "items": [
+    {
+      "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
+      "author": "@dylan522p",
+      "link": "https://x.com/dylan522p/status/2080703926782021665",
+      "source": "X",
+      "published": "2026-07-24T17:17:28+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Explore the results: 📘 NeuroGolf first-place write-up: https://www.kaggle.com/competitions/neurogolf-2026/writeups/1st-place-kaggle-agent 🥈 KDD Cup leaderboard: https://dataagent.top/leaderboard",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080699042829639865",
+      "source": "X",
+      "published": "2026-07-24T16:58:03+00:00"
+    },
+    {
+      "text": "Two podium finishes for NVIDIA’s Kaggle Grandmasters. 🏆 🥇 1st — 2026 NeuroGolf Championship 🥈 2nd — KDD Cup 2026 Data Agents Competition In NeuroGolf, the team used manager agents to coordinate specialized workers and build a shared knowledge base with reusable tools. For KDD, their purpose-built harness narrowed the performance gap between a frontier LLM and a smaller open model.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080698948839211084",
+      "source": "X",
+      "published": "2026-07-24T16:57:41+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Congratulations to Chris Deotte, Eduardo Rocha de Andrade, Gilberto Titericz Junior, Jiwei Liu, and Maximilian Jeblick. 👏",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080698950315602058",
+      "source": "X",
+      "published": "2026-07-24T16:57:41+00:00"
+    },
     {
       "text": "🎒 Back-to-school laptop deals 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Best Buy deals → https://nvda.ws/4wkhfPo",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2080687724885918122",
       "source": "X",
       "published": "2026-07-24T16:13:05+00:00"
-    },
-    {
-      "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080686579400765517",
-      "source": "X",
-      "published": "2026-07-24T16:08:32+00:00"
     },
     {
       "text": "Jensen has arrived. All the alpha is here on X. 👏🏻🚀",
@@ -35,13 +56,6 @@
       "link": "https://x.com/StockMKTNewz/status/2080666931669942367",
       "source": "X",
       "published": "2026-07-24T14:50:28+00:00"
-    },
-    {
-      "text": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080663854447804796",
-      "source": "X",
-      "published": "2026-07-24T14:38:14+00:00"
     },
     {
       "text": "NVIDIA $NVDA CEO JENSEN HUANG JUST MADE HIS FIRST POST ON X 👀 @JensenHuang",
@@ -93,7 +107,7 @@
       "published": "2026-07-24T06:20:16+00:00"
     },
     {
-      "text": "RT by @nvidia: A warm California welcome from NVIDIA to @SKhynix.",
+      "text": "A warm California welcome from NVIDIA to @SKhynix.",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2080499639149593034",
       "source": "X",
@@ -156,14 +170,7 @@
       "published": "2026-07-23T16:23:40+00:00"
     },
     {
-      "text": "R to @NPS_Monterey: Read the event recap ➡️ https://nvda.ws/4wgPzez",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080326299826962474",
-      "source": "X",
-      "published": "2026-07-23T16:16:55+00:00"
-    },
-    {
-      "text": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
+      "text": "RT by @nvidianewsroom: What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2080326297260072992",
       "source": "X",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidianewsroom/status/2080122320681603101",
       "source": "X",
       "published": "2026-07-23T02:46:22+00:00"
-    },
-    {
-      "text": "Personalized fan experiences don't have to end at the game. Check out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080078677426241940",
-      "source": "X",
-      "published": "2026-07-22T23:52:57+00:00"
     }
   ]
 }
