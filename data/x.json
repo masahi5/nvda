@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-24T11:58:52+00:00",
+  "updated_at": "2026-07-24T14:49:45+00:00",
   "items": [
+    {
+      "text": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080663854447804796",
+      "source": "X",
+      "published": "2026-07-24T14:38:14+00:00"
+    },
+    {
+      "text": "NVIDIA $NVDA CEO JENSEN HUANG JUST MADE HIS FIRST POST ON X 👀 @JensenHuang",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2080645676241703292",
+      "source": "X",
+      "published": "2026-07-24T13:26:00+00:00"
+    },
+    {
+      "text": "I'm told this is the real Jensen Huang. Give him a follow, folks!",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2080644247544304009",
+      "source": "X",
+      "published": "2026-07-24T13:20:19+00:00"
+    },
+    {
+      "text": "RT by @nvidia: For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models. https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2080643682408321103",
+      "source": "X",
+      "published": "2026-07-24T13:18:05+00:00"
+    },
+    {
+      "text": "R to @firstadopter: Lutnick needs to be more tactful. \"In Washington, Commerce Secretary Howard Lutnick said on television that letting China buy Nvidia’s “fourth-best product” would keep the country hooked on American technology.\" \"Ding and other senior officials felt insulted, people familiar with the matter said. Authorities privately told companies to halt their Nvidia purchases, while officials publicly raised cybersecurity concerns about the U.S. company’s products.\" https://www.wsj.com/world/china/china-ai-chips-race-949050d0?mod=hp_lead_pos7",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2080630826719469642",
+      "source": "X",
+      "published": "2026-07-24T12:26:59+00:00"
+    },
     {
       "text": "Wow. Nvidia is seriously concerned Washington D.C. is going to overregulate and restrict open source/open weight models. \"Today, NVIDIA released a letter with ecosystem partners, including Microsoft, Palantir, ServiceNow, Box and others, underscoring how critical open-source models are to U.S. competitiveness and U.S. leadership on AI.\" \"Policymakers have an important opportunity to act .. keeping the frontier plural by avoiding premature restrictions on open models that stifle competition or drive innovation overseas.\"",
       "author": "@firstadopter",
@@ -23,7 +58,7 @@
       "published": "2026-07-24T06:20:16+00:00"
     },
     {
-      "text": "A warm California welcome from NVIDIA to @SKhynix.",
+      "text": "RT by @nvidia: A warm California welcome from NVIDIA to @SKhynix.",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2080499639149593034",
       "source": "X",
@@ -37,13 +72,6 @@
       "published": "2026-07-24T00:26:16+00:00"
     },
     {
-      "text": "NVIDIA IS PREPAYING $1.5 BILLION TO A CHIP PACKAGING COMPANY MOST PEOPLE HAVE NEVER HEARD OF Amkor Technology $AMKR announced a multi-year strategic partnership with NVIDIA $NVDA to develop advanced semiconductor packaging and test technologies for next-generation AI and accelerated computing platforms. Under the agreement, NVIDIA will prepay Amkor to help fund the expansion of its US advanced packaging capacity, part of a $1.5 billion multi-year development agreement. The expansion specifically targets Amkor's Arizona facility, adding to its existing manufacturing footprint across Asia, part of a stated push to build full turnkey advanced packaging and test capability inside the US.",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2080398153350598858",
-      "source": "X",
-      "published": "2026-07-23T21:02:26+00:00"
-    },
-    {
       "text": "RT by @NVIDIAAI: At @NVIDIAAI we continue to push open data, techniques and models forward because we know that every organization needs the freedom to build and deploy AI in their own way. We're now the biggest institutional contributor on HuggingFace and we expect to continue publishing. It's not charity or a science project - we know that when AI grows, NVIDIA's opportunities also grow. More analysis on the state of open source AI here: https://aiworld.eu/story/the-new-engines-of-open-source-ai",
       "author": "@ctnzr",
       "link": "https://x.com/ctnzr/status/2080393983382184066",
@@ -51,7 +79,7 @@
       "published": "2026-07-23T20:45:52+00:00"
     },
     {
-      "text": "I know this will sound crazy to some of you, but $NVDA doesn’t have to lose for $AMD to win. 😬",
+      "text": "RT by @danielnewmanUV: I know this will sound crazy to some of you, but $NVDA doesn’t have to lose for $AMD to win. 😬",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2080373029134065739",
       "source": "X",
@@ -182,34 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2080006212004044815",
       "source": "X",
       "published": "2026-07-22T19:05:00+00:00"
-    },
-    {
-      "text": "Nvidia $NVDA said that with software optimizations alone, it was able to deliver a 5X increase in tokens generated in the same power envelope in just one month.",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079997655480987667",
-      "source": "X",
-      "published": "2026-07-22T18:31:00+00:00"
-    },
-    {
-      "text": "Build and Optimize Robotics and Edge AI with the New Jetson Thor T2000 and T3000 https://x.com/i/broadcasts/1aJbddNPbQdKX",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2079990095017619955",
-      "source": "X",
-      "published": "2026-07-22T18:00:57+00:00"
-    },
-    {
-      "text": "AWS is expected to ship 2.4 million of its Trainium3 accelerators this year, ramping to 3.2 million in 2027. $AMZN $NVDA $GOOG",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2079989553775943688",
-      "source": "X",
-      "published": "2026-07-22T17:58:48+00:00"
-    },
-    {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2079966935282856074",
-      "source": "X",
-      "published": "2026-07-22T16:28:55+00:00"
     }
   ]
 }
