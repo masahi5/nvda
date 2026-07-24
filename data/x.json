@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-24T19:26:33+00:00",
+  "updated_at": "2026-07-24T20:46:08+00:00",
   "items": [
+    {
+      "text": "On the way to San Francisco, with a quick pit stop at NVIDIA. Jensen welcomes Chairman and CEO Chung Eui-sun of Hyundai Motor Group. @HMGnewsroom",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2080754046370013428",
+      "source": "X",
+      "published": "2026-07-24T20:36:37+00:00"
+    },
     {
       "text": "We cut DeepSeek-V4 Pro startup from 8 minutes to under 2 minutes by moving weights over the fastest path to GPU memory with GPU-to-GPU RDMA. This was achieved using NVIDIA ModelExpress (MX), the weight distribution and cache management service in NVIDIA Dynamo, and this same approach speeds up both inference and RL post-training too. MX reuses kernel caches, while inference workers fetch updated weights directly from other GPUs over NIXL—avoiding centralized broadcasts and keeping weight movement off the critical path.",
       "author": "@NVIDIAAI",
@@ -21,13 +28,6 @@
       "link": "https://x.com/StockMKTNewz/status/2080718783711269159",
       "source": "X",
       "published": "2026-07-24T18:16:30+00:00"
-    },
-    {
-      "text": "RTX Play LIVE is TONIGHT with 007 First Light 🤵 Tune in as @GeForce_JacobF combines gadgets, tactics, and fists, alongside your chance to WIN the custom GeForce RTX 5080 celebrating the game! 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080715927872540908",
-      "source": "X",
-      "published": "2026-07-24T18:05:09+00:00"
     },
     {
       "text": "Meet the Winners: Inside the NVIDIA Nemotron Reasoning Challenge https://x.com/i/broadcasts/1kKzDDXDmvwJv",
@@ -63,13 +63,6 @@
       "link": "https://x.com/NVIDIAAI/status/2080698950315602058",
       "source": "X",
       "published": "2026-07-24T16:57:41+00:00"
-    },
-    {
-      "text": "🎒 Back-to-school laptop deals 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Best Buy deals → https://nvda.ws/4wkhfPo",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080687724885918122",
-      "source": "X",
-      "published": "2026-07-24T16:13:05+00:00"
     },
     {
       "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
@@ -184,13 +177,6 @@
       "published": "2026-07-23T19:22:36+00:00"
     },
     {
-      "text": "GeForce history in the hands of the community 👀 GeForce Trading Cards Series 1 are showing up at live events around the world. Want your chance to rip a pack? Comment #CollectRTX below",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080353375208583192",
-      "source": "X",
-      "published": "2026-07-23T18:04:30+00:00"
-    },
-    {
       "text": "Japan is planning to purchase 27,500 of Nvidia’s $NVDA Rubin GPUs to build an AI factory to develop a homegrown foundational AI model for robotics.",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2080338237009035503",
@@ -198,18 +184,32 @@
       "published": "2026-07-23T17:04:21+00:00"
     },
     {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF TOMORROW for RTX Play LIVE as we celebrate 007 First Light + more ⚙️ 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080331436859576433",
+      "text": "R to @NVIDIAAI: Follow along with @llm_wizard below or read more here: https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes?ncid=so-twit-860681",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080327999594115271",
       "source": "X",
-      "published": "2026-07-23T16:37:19+00:00"
+      "published": "2026-07-23T16:23:40+00:00"
     },
     {
-      "text": "1 day until RTX Play LIVE : 007 First Light 🕵️ The plan has gone wrong - what’s your Bond move? A) Bluff B) Lure C) Gadget Tell us + use #RTXPowersPlay for a chance to WIN!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080331431281066250",
+      "text": "R to @NPS_Monterey: Read the event recap ➡️ https://nvda.ws/4wgPzez",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080326299826962474",
       "source": "X",
-      "published": "2026-07-23T16:37:18+00:00"
+      "published": "2026-07-23T16:16:55+00:00"
+    },
+    {
+      "text": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080326297260072992",
+      "source": "X",
+      "published": "2026-07-23T16:16:54+00:00"
+    },
+    {
+      "text": "A hosted RL run took Nemotron 3 Nano from 22% to 91% accuracy on a math task for under $5. Using @PrimeIntellect Lab, the whole loop runs on hosted infrastructure. You check a baseline, train the model until the reward climbs, and retest to confirm it actually learned, ending with a downloadable LoRA adapter. You can also scale this workflow to Nemotron 3 Super and Ultra by changing one line.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2080323092396540136",
+      "source": "X",
+      "published": "2026-07-23T16:04:10+00:00"
     }
   ]
 }
