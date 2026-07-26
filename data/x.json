@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-25T23:31:54+00:00",
+  "updated_at": "2026-07-26T11:42:35+00:00",
   "items": [
+    {
+      "text": "\"In order to build a trillion dollars worth of Vera Rubin systems\" - Jensen Where is this on the Bloomberg news site? Instead, the homepage is full of more misinformation about how China can magically build AI with less resources than the USA without any skepticism of prior math mistakes.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2081159819675742248",
+      "source": "X",
+      "published": "2026-07-25T23:29:01+00:00"
+    },
     {
       "text": "Jensen Huang tells Bloomberg that Nvidia is constrained by shortages of HBM and LPDDR memory, land, power, and construction workers. Basically, the chip maker is supply constrained versus demand. \"I think we have the ability as an industry to double each year, but we're going to have a hard time growing much faster than that\" IS DOUBLING REVENUE EACH YEAR IN YOUR MODELS?",
       "author": "@firstadopter",
@@ -35,13 +42,6 @@
       "link": "https://x.com/StockMKTNewz/status/2081046417091580266",
       "source": "X",
       "published": "2026-07-25T15:58:24+00:00"
-    },
-    {
-      "text": "レゴがデジタル機器に反撃、武器は半導体入りブロック 筆者の息子がレゴ好きの友達と遊んでいたとき、スマートプレイの宇宙船で壮大な宇宙戦争を始めた。30分ほど続いたが、それ以来息子はそのレゴセットにほとんど触っていない。不朽のブロック玩具にデジタル化は必要か？ https://on.wsj.com/4pCdmmx",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2081024191864647729",
-      "source": "X",
-      "published": "2026-07-25T14:30:05+00:00"
     },
     {
       "text": "$NVDA Vera Rubin Supply Chain visualized. 👀",
@@ -149,13 +149,6 @@
       "published": "2026-07-24T20:36:37+00:00"
     },
     {
-      "text": "RT by @NVIDIAGeForce: Live now with 007 First Light gaming + more GeForce Trading Card packs! http://www.twitch.tv/nvidia",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2080744349672054804",
-      "source": "X",
-      "published": "2026-07-24T19:58:05+00:00"
-    },
-    {
       "text": "We cut DeepSeek-V4 Pro startup from 8 minutes to under 2 minutes by moving weights over the fastest path to GPU memory with GPU-to-GPU RDMA. This was achieved using NVIDIA ModelExpress (MX), the weight distribution and cache management service in NVIDIA Dynamo, and this same approach speeds up both inference and RL post-training too. MX reuses kernel caches, while inference workers fetch updated weights directly from other GPUs over NIXL—avoiding centralized broadcasts and keeping weight movement off the critical path.",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2080730149348082124",
@@ -168,13 +161,6 @@
       "link": "https://x.com/NVIDIAAI/status/2080730151793418488",
       "source": "X",
       "published": "2026-07-24T19:01:40+00:00"
-    },
-    {
-      "text": "RTX Play LIVE is TONIGHT with 007 First Light 🤵 Tune in as @GeForce_JacobF combines gadgets, tactics, and fists, alongside your chance to WIN the custom GeForce RTX 5080 celebrating the game! 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080715927872540908",
-      "source": "X",
-      "published": "2026-07-24T18:05:09+00:00"
     },
     {
       "text": "Meet the Winners: Inside the NVIDIA Nemotron Reasoning Challenge https://x.com/i/broadcasts/1kKzDDXDmvwJv",
@@ -210,6 +196,20 @@
       "link": "https://x.com/NVIDIAAI/status/2080698950315602058",
       "source": "X",
       "published": "2026-07-24T16:57:41+00:00"
+    },
+    {
+      "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2080686579400765517",
+      "source": "X",
+      "published": "2026-07-24T16:08:32+00:00"
+    },
+    {
+      "text": "Jensen has arrived. All the alpha is here on X. 👏🏻🚀",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2080678615801270443",
+      "source": "X",
+      "published": "2026-07-24T15:36:53+00:00"
     }
   ]
 }
