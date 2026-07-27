@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-27T21:36:35+00:00",
+  "updated_at": "2026-07-27T22:41:01+00:00",
   "items": [
+    {
+      "text": "ソニーG、熊本で「地下水増やす」　TSMCも追随する半導体と水戦略 https://www.nikkei.com/article/DGXZQOUC132W50T10C26A7000000/?n_cid=SNSTW001&n_tw=1785191002",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2081868573446668764",
+      "source": "X",
+      "published": "2026-07-27T22:25:21+00:00"
+    },
+    {
+      "text": "オープンＡＩとエヌビディアＣＥＯ、上院情報委民主トップと会談へ http://reut.rs/4yOkmRy http://reut.rs/4yOkmRy",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2081867463625433544",
+      "source": "X",
+      "published": "2026-07-27T22:20:57+00:00"
+    },
+    {
+      "text": "R to @huggingface: Explore NVIDIA Cosmos. https://huggingface.co/blog/nvidia/cosmos3edge",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081862557883670925",
+      "source": "X",
+      "published": "2026-07-27T22:01:27+00:00"
+    },
+    {
+      "text": "10 million downloads and counting for NVIDIA Cosmos models on @huggingface. 🤗 This milestone belongs to the developers and researchers using open world foundation models to build robots, autonomous vehicles and other physical AI systems. Thank you for downloading, experimenting, and building with us. 💚",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081862555220279601",
+      "source": "X",
+      "published": "2026-07-27T22:01:26+00:00"
+    },
     {
       "text": "Apple、1年3カ月ぶり時価総額首位　NVIDIAなど米半導体株売り拡大 https://www.nikkei.com/article/DGXZQOGN27A2G0X20C26A7000000/?n_cid=SNSTW001&n_tw=1785186082",
       "author": "@nikkei",
@@ -65,20 +93,6 @@
       "published": "2026-07-27T18:59:49+00:00"
     },
     {
-      "text": "NVIDIA、サイバー防衛でオープン型AI推進組織　GPT｢暴走｣事故受け https://www.nikkei.com/article/DGXZQOGN279VH0X20C26A7000000/?n_cid=SNSTW001&n_tw=1785177502",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2081812206266515511",
-      "source": "X",
-      "published": "2026-07-27T18:41:22+00:00"
-    },
-    {
-      "text": "NVIDIA、OpenAIのデータセンター利用に41兆円資金保証　WSJ報道 https://www.nikkei.com/article/DGXZQOGN279RH0X20C26A7000000/?n_cid=SNSTW001&n_tw=1785177502",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2081812202957279322",
-      "source": "X",
-      "published": "2026-07-27T18:41:22+00:00"
-    },
-    {
       "text": "米エヌビディア、新興ＡＩ企業ＳＳＩに50億ドル出資へ＝関係筋 http://reut.rs/3TH9CnM http://reut.rs/3TH9CnM",
       "author": "@ReutersJapan",
       "link": "https://x.com/ReutersJapan/status/2081807352487960832",
@@ -91,13 +105,6 @@
       "link": "https://x.com/firstadopter/status/2081804667919474998",
       "source": "X",
       "published": "2026-07-27T18:11:25+00:00"
-    },
-    {
-      "text": "日経平均1日で2%超変動、韓国株が半導体に影響　個人の短期売買活発 https://www.nikkei.com/article/DGXZQOUB271ZC0X20C26A7000000/?n_cid=SNSTW001&n_tw=1785172402",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2081790562525462857",
-      "source": "X",
-      "published": "2026-07-27T17:15:22+00:00"
     },
     {
       "text": "NVIDIA $NVDA WILL REPORTEDLY PUT $5 BILLION INTO ILYA SUTSKEVER'S AI COMPANY",
@@ -126,13 +133,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2081771360460722560",
       "source": "X",
       "published": "2026-07-27T15:59:04+00:00"
-    },
-    {
-      "text": "APPLE $AAPL IS BACK TO BEING THE LARGEST COMPANY IN THE WORLD Apple currently has a market cap of $4.94T compared to Nvidia's $NVDA $4.9T",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2081744395989106832",
-      "source": "X",
-      "published": "2026-07-27T14:11:55+00:00"
     },
     {
       "text": "SSI is no longer a TPU only shop. NVIDIA: \"Safe Superintelligence Inc. (SSI) and NVIDIA today announced a long-term partnership to rapidly accelerate SSI’s strategic growth. NVIDIA has additionally made an investment in SSI. For SSI, NVIDIA’s substantial investment combined with access to the next-generation, best-in-class NVIDIA Vera Rubin platform will allow SSI to increase its compute by an order of magnitude.\" \"We have research that is worthy of scaling up, and having access to a big NVIDIA computer will let us do so,” said Ilya Sutskever, cofounder and CEO of SSI. “We’re incredibly proud to be partnering with Jensen and the NVIDIA team, and we are confident that our big bet on the Vera Rubin platform will take us to the next level.\"",
