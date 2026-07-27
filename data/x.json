@@ -1,12 +1,47 @@
 {
-  "updated_at": "2026-07-27T20:18:01+00:00",
+  "updated_at": "2026-07-27T21:36:35+00:00",
   "items": [
+    {
+      "text": "Apple、1年3カ月ぶり時価総額首位　NVIDIAなど米半導体株売り拡大 https://www.nikkei.com/article/DGXZQOGN27A2G0X20C26A7000000/?n_cid=SNSTW001&n_tw=1785186082",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2081847938402140233",
+      "source": "X",
+      "published": "2026-07-27T21:03:22+00:00"
+    },
+    {
+      "text": "高専卒は倍率30倍の争奪戦　半導体活況が拍車、広告で電柱ジャックも https://www.nikkei.com/article/DGXZQOUC1458P0U6A710C2000000/?n_cid=SNSTW001&n_tw=1785184582",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2081841897853563130",
+      "source": "X",
+      "published": "2026-07-27T20:39:21+00:00"
+    },
+    {
+      "text": "NYダウは続伸し262ドル高、イラン情勢の懸念後退　半導体関連は下落 https://www.nikkei.com/article/DGXZQOFL2800M0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785184222",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2081840388499739128",
+      "source": "X",
+      "published": "2026-07-27T20:33:21+00:00"
+    },
+    {
+      "text": "またもバブルの兆候：超割高なADRを買う米投資家 SKハイニックスのADRプレミアムの大きさは、ゲーム感覚のFOMO（株高に乗り遅れる恐怖）取引が盛んな韓国以上に、米国で半導体株の取引需要が制御不能なほど高まっていることを物語る。 https://on.wsj.com/4fShJqh",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2081832033987256547",
+      "source": "X",
+      "published": "2026-07-27T20:00:10+00:00"
+    },
     {
       "text": "AMD’s $AMD new MI455X GPU offers 40 PFLOPs of FP4 and 20 PFLOPs of FP8 performance, double the MI350 series and nearly matching $NVDA Rubin’s 50 PFLOPs of FP4 and 17.5 PFLOPs of FP8 performance. $AVGO $INTC",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2081831626690953339",
       "source": "X",
       "published": "2026-07-27T19:58:33+00:00"
+    },
+    {
+      "text": "エヌビディア、サイバー防衛巡り「オープン型AI」連合を主導 https://on.wsj.com/4husD6Q",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2081830725133733983",
+      "source": "X",
+      "published": "2026-07-27T19:54:58+00:00"
     },
     {
       "text": "All these stocks hit new 52 WEEK HIGHS at some point today Apple $AAPL JPMorgan $JPM Bank of America $BAC Raytheon $RTX 3M $MMM CSX $CSX Bristol-Myers Squibb $BMY Viatris $VTRS Aegon $AEG Barclays $BCS Merck $MRK SiriusXM Holdings $SIRI MetLife $MET AbbVie $ABBV Kimco Realty $KIM PACCAR $PCAR Best Buy $BBY Incyte $INCY ING Groep $ING Ventas $VTR Healthcare Realty Trust $HR Tenet Healthcare $THC Prudential Financial $PRU Home Bancshares $HOMB Ross Stores $ROST BrightSpring $BTSG Revolution Medicines $RVMD Oceaneering International $OII Howmet Aerospace $HWM Banco Bilbao $BBVA Manulife Financial $MFC Aflac $AFL MGIC Investment $MTG The Travelers $TRV J.M. Smucker $SJM Halozyme Therapeutics $HALO Hexcel $HXL Macerich $MAC Brinker International $EAT HSBC Holdings $HSBC Packaging Corp of America $PKG Sonoco Products $SON General Dynamics $GD United Bankshares $UBSI W.P. Carey $WPC Texas Roadhouse $TXRH PACS Group $PACS First American $FAF Sensient Technologies $SXT Allstate $ALL",
@@ -121,27 +156,6 @@
       "published": "2026-07-27T13:15:08+00:00"
     },
     {
-      "text": "NVIDIA JUST INVESTED IN ILYA SUTSKEVER'S SAFE SUPERINTELLIGENCE Safe Superintelligence Inc. (SSI) and Nvidia $NVDA just announced a long-term partnership, with NVIDIA also making a direct investment in the company. The deal gives SSI access to NVIDIA's next-generation Vera Rubin platform The two will also collaborate on advancing NVIDIA's current and future compute platforms, drawing on SSI's own research. NVIDIA CEO Jensen Huang: \"Ilya has pioneered fundamental breakthroughs at the foundation of modern AI, beginning with AlexNet.\" SSI cofounder and CEO Ilya Sutskever: \"We have research that is worthy of scaling up, and having access to a big NVIDIA computer will let us do so.\"",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2081726866646290640",
-      "source": "X",
-      "published": "2026-07-27T13:02:16+00:00"
-    },
-    {
-      "text": "R to @firstadopter: blogs.nvidia.com/blog/open-s…",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081700561422860341",
-      "source": "X",
-      "published": "2026-07-27T11:17:44+00:00"
-    },
-    {
-      "text": "NVIDIA: \"As policymakers and regulators grapple with AI safety, it will be crucial to recognize open models, harnesses and security tooling as defensive assets, not liabilities, in AI and cybersecurity policy. Blanket restrictions on open frontier AI systems would weaken defensive capacity and risk concentrating power, dependence and vulnerability in a few closed providers. Companies and governments should invest in shared open infrastructure for AI defense — datasets, evaluation frameworks, attack simulators and red-teaming tools — much as past generations invested in open source software.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081700558579093933",
-      "source": "X",
-      "published": "2026-07-27T11:17:43+00:00"
-    },
-    {
       "text": "RT by @nvidianewsroom: Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
       "author": "@JensenHuang",
       "link": "https://x.com/JensenHuang/status/2081698060330250294",
@@ -170,6 +184,13 @@
       "published": "2026-07-27T09:02:54+00:00"
     },
     {
+      "text": "【独自】エヌビディア、オープンAIとデータセンター向け2500億ドル調達の保証で協議 関係者によると、エヌビディアによる保証は、オープンAIが、ソフトバンクのエネルギー子会社がオハイオ州南部で開発中の10ギガワット規模のプロジェクトをリースする際の支援となる。 https://on.wsj.com/4xaaYGh",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2081650820618072146",
+      "source": "X",
+      "published": "2026-07-27T08:00:05+00:00"
+    },
+    {
       "text": "TSMC is said to be planning price hikes in 2027 to cover increasing costs for materials, manufacturing equipment and international plant construction, with base price hikes expected to be 5-10% depending on customer and product. $TSM $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2081551430205239477",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2081541801031110903",
       "source": "X",
       "published": "2026-07-27T00:46:53+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Full deep dive below. https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/?ncid=so-twit-299716",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081541802893398395",
-      "source": "X",
-      "published": "2026-07-27T00:46:53+00:00"
-    },
-    {
-      "text": "R to @nvidia: 'A virtuous cycle of evolution' That's a wrap!",
-      "author": "@IanCutress",
-      "link": "https://x.com/IanCutress/status/2081538896110989586",
-      "source": "X",
-      "published": "2026-07-27T00:35:20+00:00"
-    },
-    {
-      "text": "R to @nvidia: The promise of agentic engineering for chip design is here",
-      "author": "@IanCutress",
-      "link": "https://x.com/IanCutress/status/2081538154792968571",
-      "source": "X",
-      "published": "2026-07-27T00:32:23+00:00"
     }
   ]
 }
