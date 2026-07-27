@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-27T22:41:01+00:00",
+  "updated_at": "2026-07-27T23:35:23+00:00",
   "items": [
+    {
+      "text": "今日の株式見通し＝反落へ、ＡＩ需要懸念で半導体株に売り http://reut.rs/3TsrbYI http://reut.rs/3TsrbYI",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2081877741201236311",
+      "source": "X",
+      "published": "2026-07-27T23:01:47+00:00"
+    },
+    {
+      "text": "日経平均株価、米半導体株安が重荷（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL2805F0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785191542",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2081871090687553732",
+      "source": "X",
+      "published": "2026-07-27T22:35:21+00:00"
+    },
     {
       "text": "ソニーG、熊本で「地下水増やす」　TSMCも追随する半導体と水戦略 https://www.nikkei.com/article/DGXZQOUC132W50T10C26A7000000/?n_cid=SNSTW001&n_tw=1785191002",
       "author": "@nikkei",
@@ -91,13 +105,6 @@
       "link": "https://x.com/firstadopter/status/2081816846135652664",
       "source": "X",
       "published": "2026-07-27T18:59:49+00:00"
-    },
-    {
-      "text": "米エヌビディア、新興ＡＩ企業ＳＳＩに50億ドル出資へ＝関係筋 http://reut.rs/3TH9CnM http://reut.rs/3TH9CnM",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2081807352487960832",
-      "source": "X",
-      "published": "2026-07-27T18:22:05+00:00"
     },
     {
       "text": "Bloomberg: \"Nvidia Corp. has committed to invest $5 billion in Ilya Sutskever’s artificial intelligence startup Safe Superintelligence Inc., according to people familiar with the matter\"",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAAIInfra/status/2081549040982933996",
       "source": "X",
       "published": "2026-07-27T01:15:39+00:00"
-    },
-    {
-      "text": "We tested Nemotron 3 Ultra on agentic chip design. The task is RTL coding: a model iteratively writes the code that defines a chip's logic, runs it through a simulator, reads the failures, and rewrites. Across nine categories of real design work, Nemotron 3 Ultra averaged a 97.1% pass rate at 6,629 tokens per iteration, best of the open models tested on both.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081541801031110903",
-      "source": "X",
-      "published": "2026-07-27T00:46:53+00:00"
     }
   ]
 }
