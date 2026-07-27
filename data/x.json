@@ -1,19 +1,201 @@
 {
-  "updated_at": "2026-07-26T23:29:43+00:00",
+  "updated_at": "2026-07-27T13:23:51+00:00",
   "items": [
     {
-      "text": "【独自】トランプ氏が板挟み、中国製チップ巡るアップルとマイクロンの対立で トランプ氏は二大優先課題である「消費者向け価格の引き下げ」と「国内半導体生産の拡大」のいずれかを選択せざるを得なくなる可能性がある。 https://on.wsj.com/4gThlZD",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2081518689531068554",
+      "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2081730105454322151",
       "source": "X",
-      "published": "2026-07-26T23:15:02+00:00"
+      "published": "2026-07-27T13:15:08+00:00"
     },
     {
-      "text": "国策半導体復権に「落とし穴」　根深い設計軽視、米国研修は定員割れ https://www.nikkei.com/article/DGXZQOUC2276X0S6A720C2000000/?n_cid=SNSTW006&n_tw=1785107479",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2081518265277305035",
+      "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2081730107060744553",
       "source": "X",
-      "published": "2026-07-26T23:13:21+00:00"
+      "published": "2026-07-27T13:15:08+00:00"
+    },
+    {
+      "text": "NVIDIA JUST INVESTED IN ILYA SUTSKEVER'S SAFE SUPERINTELLIGENCE Safe Superintelligence Inc. (SSI) and Nvidia $NVDA just announced a long-term partnership, with NVIDIA also making a direct investment in the company. The deal gives SSI access to NVIDIA's next-generation Vera Rubin platform The two will also collaborate on advancing NVIDIA's current and future compute platforms, drawing on SSI's own research. NVIDIA CEO Jensen Huang: \"Ilya has pioneered fundamental breakthroughs at the foundation of modern AI, beginning with AlexNet.\" SSI cofounder and CEO Ilya Sutskever: \"We have research that is worthy of scaling up, and having access to a big NVIDIA computer will let us do so.\"",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2081726866646290640",
+      "source": "X",
+      "published": "2026-07-27T13:02:16+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA just announced a new \"Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\" Nvidia CEO Jensen Huang just said: \"Attackers have frontier AI. Defenders need a frontier AI ecosystem\"",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2081708477861265770",
+      "source": "X",
+      "published": "2026-07-27T11:49:12+00:00"
+    },
+    {
+      "text": "R to @firstadopter: blogs.nvidia.com/blog/open-s…",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2081700561422860341",
+      "source": "X",
+      "published": "2026-07-27T11:17:44+00:00"
+    },
+    {
+      "text": "NVIDIA: \"As policymakers and regulators grapple with AI safety, it will be crucial to recognize open models, harnesses and security tooling as defensive assets, not liabilities, in AI and cybersecurity policy. Blanket restrictions on open frontier AI systems would weaken defensive capacity and risk concentrating power, dependence and vulnerability in a few closed providers. Companies and governments should invest in shared open infrastructure for AI defense — datasets, evaluation frameworks, attack simulators and red-teaming tools — much as past generations invested in open source software.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2081700558579093933",
+      "source": "X",
+      "published": "2026-07-27T11:17:43+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2081698060330250294",
+      "source": "X",
+      "published": "2026-07-27T11:07:48+00:00"
+    },
+    {
+      "text": "半導体ＣＸＭＴ上場初日466％高、時価総額中国首位　バブル懸念も http://reut.rs/45vlfRj http://reut.rs/45vlfRj",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2081679121311023319",
+      "source": "X",
+      "published": "2026-07-27T09:52:32+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Read more below. https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/?ncid=so-twit-822745",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081666832969445804",
+      "source": "X",
+      "published": "2026-07-27T09:03:43+00:00"
+    },
+    {
+      "text": "We're contributing open models, weights, data and research to the Open Secure AI Alliance. This includes NVIDIA Labs Object-Oriented Agents (NOOA): open agent harness research in the form of an object-oriented framework that reaches state-of-the-art results across software engineering, cybersecurity and reasoning benchmarks. Developers can use the findings to optimize their own harnesses and then contribute back.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081666750807171180",
+      "source": "X",
+      "published": "2026-07-27T09:03:23+00:00"
+    },
+    {
+      "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2081666629264449730",
+      "source": "X",
+      "published": "2026-07-27T09:02:54+00:00"
+    },
+    {
+      "text": "【独自】エヌビディア、オープンAIとデータセンター向け2500億ドル調達の保証で協議 関係者によると、エヌビディアによる保証は、オープンAIが、ソフトバンクのエネルギー子会社がオハイオ州南部で開発中の10ギガワット規模のプロジェクトをリースする際の支援となる。 https://on.wsj.com/4xaaYGh",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2081650820618072146",
+      "source": "X",
+      "published": "2026-07-27T08:00:05+00:00"
+    },
+    {
+      "text": "TSMC is said to be planning price hikes in 2027 to cover increasing costs for materials, manufacturing equipment and international plant construction, with base price hikes expected to be 5-10% depending on customer and product. $TSM $NVDA $AMD $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2081551430205239477",
+      "source": "X",
+      "published": "2026-07-27T01:25:08+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: 📣 Announcing the expansion of the NVIDIA Agent Toolkit. At #DAC2026, we've added NVIDIA PhysicsNeMo and NVIDIA CUDA-X libraries, enabling developers to build customizable AI agents for electronic and systems design. 🎉 Industry leaders including @Cadence, @Siemens, @Synopsys and more are adopting these capabilities to advance chip-to-systems designs workflows. Learn more ➡️ https://nvda.ws/4pHlXo4",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2081549040982933996",
+      "source": "X",
+      "published": "2026-07-27T01:15:39+00:00"
+    },
+    {
+      "text": "We tested Nemotron 3 Ultra on agentic chip design. The task is RTL coding: a model iteratively writes the code that defines a chip's logic, runs it through a simulator, reads the failures, and rewrites. Across nine categories of real design work, Nemotron 3 Ultra averaged a 97.1% pass rate at 6,629 tokens per iteration, best of the open models tested on both.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081541801031110903",
+      "source": "X",
+      "published": "2026-07-27T00:46:53+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Full deep dive below. https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/?ncid=so-twit-299716",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081541802893398395",
+      "source": "X",
+      "published": "2026-07-27T00:46:53+00:00"
+    },
+    {
+      "text": "R to @nvidia: 'A virtuous cycle of evolution' That's a wrap!",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081538896110989586",
+      "source": "X",
+      "published": "2026-07-27T00:35:20+00:00"
+    },
+    {
+      "text": "R to @nvidia: The promise of agentic engineering for chip design is here",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081538154792968571",
+      "source": "X",
+      "published": "2026-07-27T00:32:23+00:00"
+    },
+    {
+      "text": "RT by @Beth_Kindig: Owning AI’s safest choices like $NVDA or $GOOG comes with opportunity cost, as 2026’s largest winners came from deeper in the AI stack. My new Q3 Top 20 AI Stock report released this week maps out the many lesser-known beneficiaries - subscribe below to access the 90-page report.",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2081537518919369117",
+      "source": "X",
+      "published": "2026-07-27T00:29:52+00:00"
+    },
+    {
+      "text": "$NVDA backstopping OpenAI’s Ohio project is pretty damn bullish. Probably even helped Sam become an outspoken open source AI super fan. 🙃",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2081536649930936604",
+      "source": "X",
+      "published": "2026-07-27T00:26:25+00:00"
+    },
+    {
+      "text": "R to @nvidia: Now for Vera. 'twice the single core performance' (against what?)",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081534671721214402",
+      "source": "X",
+      "published": "2026-07-27T00:18:33+00:00"
+    },
+    {
+      "text": "R to @nvidia: Here's a flow. Have to start with synthetic data. Add in with real data and more synthetic data. End up with a highly accelerated agent",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081534500740411558",
+      "source": "X",
+      "published": "2026-07-27T00:17:52+00:00"
+    },
+    {
+      "text": "R to @nvidia: Silvaco result. CPU doing physics didn't converge. Gpu ai did.",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081534270666101179",
+      "source": "X",
+      "published": "2026-07-27T00:16:57+00:00"
+    },
+    {
+      "text": "R to @nvidia: Now adding it to engineering and workflow",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081533388775923818",
+      "source": "X",
+      "published": "2026-07-27T00:13:27+00:00"
+    },
+    {
+      "text": "R to @nvidia: Critical timing optimization",
+      "author": "@IanCutress",
+      "link": "https://x.com/IanCutress/status/2081533250934280238",
+      "source": "X",
+      "published": "2026-07-27T00:12:54+00:00"
+    },
+    {
+      "text": "R to @firstadopter: wsj.com/tech/ai/nvidia-in-ta…",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2081532803737362789",
+      "source": "X",
+      "published": "2026-07-27T00:11:08+00:00"
+    },
+    {
+      "text": "The numbers sound like a lot, but OpenAI's ARR is likely in the several tens of billions right now, going to hundreds of billions in the coming years. Under that backdrop, $250 billion or $500 billion over 5 to 10 years is less risky if you think about it as $25 billion to $50 billion a year. Also, if you're competing in business against Jensen, good luck. Game of Kings. WSJ: \"Nvidia is in talks to provide a roughly $250 billion backstop for OpenAI as part of a massive data center project, one of the most ambitious financial transactions yet in America’s artificial-intelligence boom.\" \"The guarantees from Nvidia would help the ChatGPT maker lease a 10-gigawatt project that SoftBank’s energy subsidiary is developing in southern Ohio, people familiar with the matter said. In total, the project could cost more than $500 billion, including the chips that would go inside the data centers. It would be the largest data center project announced to date.\" \"The $250 billion guarantee would cover the data center lease and debt needed to fund its build out, but not the Nvidia chips that would go inside it. Nvidia, which has invested $30 billion in OpenAI, is also discussing a deal to finance the chip purchase for OpenAI, which could total $350 billion, people familiar with those discussions said.\" \"The campus would require roughly 10 gigawatts of electricity\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2081532746686513358",
+      "source": "X",
+      "published": "2026-07-27T00:10:54+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA is reportedly in talks to provide a roughly $250 billion backstop for OpenAI as part of a massive data center project in southern Ohio The site is a 10-gigawatt campus developed by SoftBank's energy subsidiary, 50 miles south of Columbus. Total project cost, including chips, could exceed $500 billion, reportedly the largest data center project ever announced. OpenAI has no investment-grade credit rating, Nvidia backing would let the project's developer raise debt on far better terms than OpenAI could secure alone. Nothing is finalized. Terms could still change - WSJ",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2081526353971536022",
+      "source": "X",
+      "published": "2026-07-26T23:45:30+00:00"
     },
     {
       "text": "Nvidia signed a multi-year deal with Amkor worth $1.5 billion to expand advanced chip packaging and test capacity in the US, with Nvidia making a prepayment to support the expansion. $NVDA $AMKR $TSM",
@@ -28,188 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2081497059958419763",
       "source": "X",
       "published": "2026-07-26T21:49:06+00:00"
-    },
-    {
-      "text": "Nvidia supplier Wistron opened its $700 million factory in Texas, producing Nvidia’s GB300 systems as well as its upcoming Vera Rubin racks. Nvidia says the plant is scaling to produce “tens of thousands of boards per month.” $NVDA $AMD $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2081419186786406894",
-      "source": "X",
-      "published": "2026-07-26T16:39:39+00:00"
-    },
-    {
-      "text": "Many more signatories have joined the NVIDIA–Microsoft letter on open-weight AI models, including AMD. It shows a united front to Washington, D.C. in support of open-weight AI models. Politicians and regulators should listen to industry. Only Anthropic and Amazon haven’t signed",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081370130873737712",
-      "source": "X",
-      "published": "2026-07-26T13:24:43+00:00"
-    },
-    {
-      "text": "Here are the top 10 largest semiconductor companies from around the world Nvidia $NVDA: $5.0T Taiwan Semiconductor $TSM: $2.1T Broadcom $AVGO: $1.8T Samsung: $1.1T SK Hynix $SKHY: $885B Micron $MU: $964B AMD $AMD: $817B Intel $INTC: $487B Applied Materials $AMAT: $445B Lam Research $LRCX: $401B The global market cap of the semiconductor industry is estimated to be around $18.8 Trillion 62% of that $18.8T in market value is in US semiconductor stocks Credit to my partners below for the graphic",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2081368050314489955",
-      "source": "X",
-      "published": "2026-07-26T13:16:27+00:00"
-    },
-    {
-      "text": "\"In order to build a trillion dollars worth of Vera Rubin systems\" - Jensen Where is this on the Bloomberg news site? Instead, the homepage is full of more misinformation about how China can magically build AI with less resources than the USA without any skepticism of prior math mistakes.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081159819675742248",
-      "source": "X",
-      "published": "2026-07-25T23:29:01+00:00"
-    },
-    {
-      "text": "Jensen Huang tells Bloomberg that Nvidia is constrained by shortages of HBM and LPDDR memory, land, power, and construction workers. Basically, the chip maker is supply constrained versus demand. \"I think we have the ability as an industry to double each year, but we're going to have a hard time growing much faster than that\" IS DOUBLING REVENUE EACH YEAR IN YOUR MODELS?",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081158480447098882",
-      "source": "X",
-      "published": "2026-07-25T23:23:42+00:00"
-    },
-    {
-      "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2081142850994229468",
-      "source": "X",
-      "published": "2026-07-25T22:21:36+00:00"
-    },
-    {
-      "text": "RT by @nvidia: Image",
-      "author": "@DennysDiner",
-      "link": "https://x.com/DennysDiner/status/2081069889931112816",
-      "source": "X",
-      "published": "2026-07-25T17:31:40+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: $NVDA Vera Rubin Supply Chain visualized. 👀",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2081019691095490980",
-      "source": "X",
-      "published": "2026-07-25T14:12:12+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: MAG 7 ESTIMATED REVENUE OVER THE NEXT 3 YEARS • $AMZN ~$2.8T • $GOOGL ~$1.8T • $AAPL ~$1.6T • $NVDA ~$1.6T • $MSFT ~$1.2T • $META ~$920B • $TSLA ~$365B",
-      "author": "@StockSavvyShay",
-      "link": "https://x.com/StockSavvyShay/status/2080998898827657305",
-      "source": "X",
-      "published": "2026-07-25T12:49:35+00:00"
-    },
-    {
-      "text": "R to @official_naver: Read the announcement 👇 https://nvda.ws/4hqgRdG",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080887170399617041",
-      "source": "X",
-      "published": "2026-07-25T05:25:37+00:00"
-    },
-    {
-      "text": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX platform to deliver full-stack, lowest-cost AI factory infrastructure.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080887168793190587",
-      "source": "X",
-      "published": "2026-07-25T05:25:36+00:00"
-    },
-    {
-      "text": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop next-generation AI memory, including HBM. Korea is ready to become a global AI powerhouse with world-class networks and data centers, leadership in chip technology and vast industrial scale.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080886765146321314",
-      "source": "X",
-      "published": "2026-07-25T05:24:00+00:00"
-    },
-    {
-      "text": "R to @nvidia: Read More 🔗https://nvda.ws/4vNNJ3C",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080886766958150079",
-      "source": "X",
-      "published": "2026-07-25T05:24:00+00:00"
-    },
-    {
-      "text": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea and the world.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080833379197477226",
-      "source": "X",
-      "published": "2026-07-25T01:51:52+00:00"
-    },
-    {
-      "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080788131062641095",
-      "source": "X",
-      "published": "2026-07-24T22:52:04+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Live now with 007 First Light gaming + more GeForce Trading Card packs! http://www.twitch.tv/nvidia",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2080744349672054804",
-      "source": "X",
-      "published": "2026-07-24T19:58:05+00:00"
-    },
-    {
-      "text": "We cut DeepSeek-V4 Pro startup from 8 minutes to under 2 minutes by moving weights over the fastest path to GPU memory with GPU-to-GPU RDMA. This was achieved using NVIDIA ModelExpress (MX), the weight distribution and cache management service in NVIDIA Dynamo, and this same approach speeds up both inference and RL post-training too. MX reuses kernel caches, while inference workers fetch updated weights directly from other GPUs over NIXL—avoiding centralized broadcasts and keeping weight movement off the critical path.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080730149348082124",
-      "source": "X",
-      "published": "2026-07-24T19:01:40+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Read the full deep dive here. https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light/",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080730151793418488",
-      "source": "X",
-      "published": "2026-07-24T19:01:40+00:00"
-    },
-    {
-      "text": "RTX Play LIVE is TONIGHT with 007 First Light 🤵 Tune in as @GeForce_JacobF combines gadgets, tactics, and fists, alongside your chance to WIN the custom GeForce RTX 5080 celebrating the game! 📆 7/24 | ⏰1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080715927872540908",
-      "source": "X",
-      "published": "2026-07-24T18:05:09+00:00"
-    },
-    {
-      "text": "Meet the Winners: Inside the NVIDIA Nemotron Reasoning Challenge https://x.com/i/broadcasts/1kKzDDXDmvwJv",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080714399971700924",
-      "source": "X",
-      "published": "2026-07-24T17:59:05+00:00"
-    },
-    {
-      "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
-      "author": "@dylan522p",
-      "link": "https://x.com/dylan522p/status/2080703926782021665",
-      "source": "X",
-      "published": "2026-07-24T17:17:28+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Explore the results: 📘 NeuroGolf first-place write-up: https://www.kaggle.com/competitions/neurogolf-2026/writeups/1st-place-kaggle-agent 🥈 KDD Cup leaderboard: https://dataagent.top/leaderboard",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080699042829639865",
-      "source": "X",
-      "published": "2026-07-24T16:58:03+00:00"
-    },
-    {
-      "text": "Two podium finishes for NVIDIA’s Kaggle Grandmasters. 🏆 🥇 1st — 2026 NeuroGolf Championship 🥈 2nd — KDD Cup 2026 Data Agents Competition In NeuroGolf, the team used manager agents to coordinate specialized workers and build a shared knowledge base with reusable tools. For KDD, their purpose-built harness narrowed the performance gap between a frontier LLM and a smaller open model.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080698948839211084",
-      "source": "X",
-      "published": "2026-07-24T16:57:41+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Congratulations to Chris Deotte, Eduardo Rocha de Andrade, Gilberto Titericz Junior, Jiwei Liu, and Maximilian Jeblick. 👏",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2080698950315602058",
-      "source": "X",
-      "published": "2026-07-24T16:57:41+00:00"
-    },
-    {
-      "text": "🎒 Back-to-school laptop deals 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop Best Buy deals → https://nvda.ws/4wkhfPo",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2080687724885918122",
-      "source": "X",
-      "published": "2026-07-24T16:13:05+00:00"
-    },
-    {
-      "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2080686579400765517",
-      "source": "X",
-      "published": "2026-07-24T16:08:32+00:00"
     }
   ]
 }
