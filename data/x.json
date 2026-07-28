@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-28T22:15:54+00:00",
+  "updated_at": "2026-07-28T23:31:16+00:00",
   "items": [
+    {
+      "text": "SK Hynix missing numbers is BULLISH for SK Hynix. I'm serious. Hear me out. The Korean analyst who predicted the Q2 miss said it happened because SK Hynix has a higher HBM mix. HBM is the more durable, higher-moat business that should command a higher multiple. HBM is in major shortage the next several years. SK Hynix is number one in HBM. Just see how Dario, Sam, Hock, and Jensen appeared to greet HBM makers in SF last week. In the short term, the higher DRAM-mix players benefit, but long term it's a detriment as China will eventually enter the DRAM space one to two years out with more capacity. China will be no where in HBM. So a Q2 miss caused by more HBM mix actually means SK Hynix is BETTER positioned in the long run. Don't listen to me, listen to the Korean axe who has a Buy rating, a very high PT, and nailed the mechanics of this quarter.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2082246908219646128",
+      "source": "X",
+      "published": "2026-07-28T23:28:43+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: One of my favorite themes of how HuggingFace fended off the OpenAI rogue agent attack was the value of open weight models coming through. In particular the NVFP4 quantized version of GLM-5.2. I use GLM-5.2 as my local daily driver these days and it's exceptional.",
+      "author": "@Mayhem4Markets",
+      "link": "https://x.com/Mayhem4Markets/status/2082223870375874790",
+      "source": "X",
+      "published": "2026-07-28T21:57:11+00:00"
+    },
     {
       "text": "半導体急落の裏で買われるヘルスケア銘柄　市場で高まる買い推奨の声 https://www.nikkei.com/article/DGXZQOGN28B220Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785275242",
       "author": "@nikkei",
@@ -35,27 +49,6 @@
       "link": "https://x.com/tbpn/status/2082202307727679955",
       "source": "X",
       "published": "2026-07-28T20:31:30+00:00"
-    },
-    {
-      "text": "米国株式市場＝Ｓ＆Ｐ５００続伸、半導体株安をボーイングなどが相殺 http://reut.rs/3TZ2R0G http://reut.rs/3TZ2R0G",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2082197674271318285",
-      "source": "X",
-      "published": "2026-07-28T20:13:05+00:00"
-    },
-    {
-      "text": "Appleの時価総額、一時5兆ドル突破　NVIDIAに続き史上2社目 https://www.nikkei.com/article/DGXZQOGN28BCT0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785269362",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2082197241532498182",
-      "source": "X",
-      "published": "2026-07-28T20:11:22+00:00"
-    },
-    {
-      "text": "ASML株が急落、中国が半導体DUV露光装置を国産化　競争激化に懸念 https://www.nikkei.com/article/DGXZQOGR28BDE0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785269362",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2082197239200453028",
-      "source": "X",
-      "published": "2026-07-28T20:11:21+00:00"
     },
     {
       "text": "Global semiconductor revenue rose 24% QoQ to $394 billion in Q2, per Omdia, with memory remaining one of the key growth drivers. $NVDA $AMD $AVGO $MU",
@@ -189,6 +182,13 @@
       "link": "https://x.com/WSJJapan/status/2082103817177297061",
       "source": "X",
       "published": "2026-07-28T14:00:08+00:00"
+    },
+    {
+      "text": "RT by @nikkei: 台湾当局、NVIDIA従業員を逮捕　AIサーバー不正輸出巡り https://www.nikkei.com/article/DGXZQOGM284E80Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785243742",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2082090033012421074",
+      "source": "X",
+      "published": "2026-07-28T13:05:21+00:00"
     },
     {
       "text": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",

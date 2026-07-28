@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-07-28T22:15:40+00:00",
+  "updated_at": "2026-07-28T23:31:05+00:00",
   "items": [
+    {
+      "title": "SK Hynix posts sixfold rise in Q2 profit on AI chip demand, misses forecasts",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-q2-profit-jumps-225720194.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:57:20+00:00"
+    },
+    {
+      "title": "Down 25%, Is It Finally Time to Buy Netflix (NFLX) Stock?",
+      "link": "https://www.fool.com/investing/2026/07/28/down-25-is-it-finally-time-to-buy-netflix-nflx-sto/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:35:00+00:00"
+    },
+    {
+      "title": "Where Will Tesla Stock Be in 5 Years?",
+      "link": "https://www.fool.com/investing/2026/07/28/where-will-tesla-stock-be-in-5-years/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:20:00+00:00"
+    },
+    {
+      "title": "Top AI robotics stocks: NVDA, MU, AMD and TSLA compared - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWxmZ0ozVWFoT0MxNThZOWtWYm9QZ1V5S1lCbDVENFN0Rk9fZ0N1OTZxYmpZNnJUVkRpV2ROV2cwTlF0MFFCeWFJZ01WTnVIdVBLajBCVk4tbXZXMUR0UEJkdnJtN053R3ZXVGpCcnNmTlZ6Q2RvdDFmOG9oWXhtQ0RRVUplSmpaSjgyaW9lZWpHVk50cFRhRnNuLWhYeUtBTVhmSTB1aDVLenNPSWNabnZKMlc?oc=5",
+      "source": "Google News",
+      "published": "2026-07-28T22:14:50+00:00"
+    },
+    {
+      "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+      "link": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:08:04+00:00"
+    },
+    {
+      "title": "Why Opko Health Stock Surged by 33% on Tuesday",
+      "link": "https://www.fool.com/investing/2026/07/28/why-opko-health-stock-surged-by-33-on-tuesday/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:06:52+00:00"
+    },
+    {
+      "title": "SpaceX Reports Its First Quarterly Results as a Public Company on Aug. 4. Here's What Has to Show Up in the Update.",
+      "link": "https://www.fool.com/investing/2026/07/28/spacex-reports-its-first-quarterly-results-as-a-pu/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:01:00+00:00"
+    },
     {
       "title": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk5xMkhZbVlfQkVDV0RHdWZiVV91bGlsMm55d3B5RmFmS09aeC1OSXhxRWdERnlpSlVSUXdha0pXOFI5bUd4MlNaUmtHSUFfZ0tZZjRtUEphQmZhY0gxUEdKVmFXOHh2ZmxDS0FJVFBwY1FwYml4NVF6bGZaekl0YzV2TFFCTm51Vy1EOXlaQ0tfcnIxUDlJdg?oc=5",
@@ -8,10 +50,22 @@
       "published": "2026-07-28T22:00:27+00:00"
     },
     {
+      "title": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
+      "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-nvidia-sk-hynix-3-220027741.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T22:00:27+00:00"
+    },
+    {
       "title": "アップルがエヌビディアを抜き時価総額で世界首位に AI関連株の急落が追い風 - Business Insider Japan",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTJWWlhRLUxKWlhUN1F1WGtDYThiX0RwMnVEcGFnZlcwcFBla1hJbmdtUE41SHdhcXpDRWpCMkxFSTVremFfbDQxTmdvNVNibkhtM3hBOXlLOWtsV3l1cFlodXJZa2pHSzU2ZlZsc01nWjFyVGphT1N0TURrSlh0QVZaNFoyUzlNb1pub2dGemJYTlRk?oc=5",
       "source": "Googleニュース",
       "published": "2026-07-28T22:00:00+00:00"
+    },
+    {
+      "title": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUxQMXp3dDF6ZzJZVVhqc1FEWG12Y29iemR3M2o1Umt3bWxnN0tUSnBJS0ZUaHhDcUF1aWI4b1hSZXd6cEdzbjdDQk9jSnNUOGs3T2pkV1ZNOG9HbS0tdkFCVEhxeWRiWG82MDlucHR2a2lJWTdVLWt2RVhWblN4LWg4a3lBWVJKLWZxa2ItcVR6LTBKa205Q1BwMHFyWGRINGwzWi1ORQ?oc=5",
+      "source": "Google News",
+      "published": "2026-07-28T21:50:00+00:00"
     },
     {
       "title": "Nvidia Stock Is Trading at a Shocking Valuation. Now Is the Perfect Time to Buy",
@@ -80,58 +134,16 @@
       "published": "2026-07-28T21:01:06+00:00"
     },
     {
+      "title": "TSMC and Tencent break into the top 100 of the Fortune Global 500 list, as Asia rides the AI boom",
+      "link": "https://finance.yahoo.com/technology/articles/tsmc-tencent-break-top-100-210000080.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-07-28T21:00:00+00:00"
+    },
+    {
       "title": "Apple Is Set to Report Earnings Thursday. Here’s How Much The Stock Is Expected to Move",
       "link": "https://www.investopedia.com/apple-is-set-to-report-earnings-thursday-here-is-how-much-the-stock-is-expected-to-move-aapl-tim-cook-q3-fy2026-12028587?.tsrc=rss",
       "source": "Yahoo Finance",
       "published": "2026-07-28T20:59:42+00:00"
-    },
-    {
-      "title": "Franklin Electric Co., Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-franklin-electric-co-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:56:29+00:00"
-    },
-    {
-      "title": "Ecolab Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ecolab-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:56:05+00:00"
-    },
-    {
-      "title": "Curbline Properties Corp. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-curbline-properties-corp-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:56:02+00:00"
-    },
-    {
-      "title": "Illinois Tool Works Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-illinois-tool-works-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:55:02+00:00"
-    },
-    {
-      "title": "Why Itron Stock Soared 26% Higher Today",
-      "link": "https://www.fool.com/investing/2026/07/28/why-itron-stock-soared-26-higher-today/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:53:06+00:00"
-    },
-    {
-      "title": "The Boeing Company Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-boeing-company-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:49:32+00:00"
-    },
-    {
-      "title": "Camden National Corporation Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-camden-national-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:48:27+00:00"
-    },
-    {
-      "title": "Stock Market Today: Dow Gains 500 Points; SpaceX, SK Hynix Make These Moves (Live Coverage)",
-      "link": "https://finance.yahoo.com/m/34f57721-8495-3628-bd2a-4209897b008c/stock-market-today%3A-dow-gains.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-07-28T20:36:49+00:00"
     },
     {
       "title": "Apple Tops Nvidia as the Most Valuable Company, But Its Reign Could Be Brief - Barron's",
@@ -140,22 +152,10 @@
       "published": "2026-07-28T20:34:00+00:00"
     },
     {
-      "title": "Amkor Has a Fresh Catalyst With a New Nvidia Deal. How to Play AMKR Stock Here. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVdjZ0xPU2JnVjJCR21CTkxydnBXVXBxMy1KckY4SjdCRS1ZaVFaTDJJeklwblByYWVuTEN5R2lqQVZXVFZxV25DalUycU1ILXRRdFJxV1l1SEI2cERUejZGVkJLVkMxaWl5bGEwd0RWY0JVVGMtQ0k5NmFPYlZlcE1HV1ktVFdOTU51V0U0TnZUbV9RSTJiY2hFVHpSWlJEaG1EN3RxMkVCeFkyeUU1TXhLa2dHT3BwM0ZjalhR?oc=5",
-      "source": "Google News",
-      "published": "2026-07-28T19:29:08+00:00"
-    },
-    {
       "title": "2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher - TradingView",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFBXT25yZ2NlSjRMeHNDdGVfZjF1X3dRbXRmNWpBMkVrT2h0OEgxbmlSTFdmMHhhUDZHU3IyTmE1N3ZFb3BvcjBOaDJ2VWp2ZkxpQVpqTUUtM2p5TlpHSm1UVVpjUFhPZmZtcEx4VWJERGZOUWN3R0pZX2xISkRyVk96Vm0xb3JjeFAtT0liOUFiU2tYbUlYV3FnUnJ3bnMzN2dBY1FkUnFuRXBaNm9XMw?oc=5",
       "source": "Google News",
       "published": "2026-07-28T19:00:00+00:00"
-    },
-    {
-      "title": "Top AI robotics stocks: NVDA, MU, AMD and TSLA compared - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWxmZ0ozVWFoT0MxNThZOWtWYm9QZ1V5S1lCbDVENFN0Rk9fZ0N1OTZxYmpZNnJUVkRpV2ROV2cwTlF0MFFCeWFJZ01WTnVIdVBLajBCVk4tbXZXMUR0UEJkdnJtN053R3ZXVGpCcnNmTlZ6Q2RvdDFmOG9oWXhtQ0RRVUplSmpaSjgyaW9lZWpHVk50cFRhRnNuLWhYeUtBTVhmSTB1aDVLenNPSWNabnZKMlc?oc=5",
-      "source": "Google News",
-      "published": "2026-07-28T18:52:12+00:00"
     },
     {
       "title": "エヌビディア【NVDA】：株価・株式情報 - Yahoo!ファイナンス",
