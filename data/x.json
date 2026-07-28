@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-28T15:15:03+00:00",
+  "updated_at": "2026-07-28T16:52:15+00:00",
   "items": [
+    {
+      "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2082135368040886299",
+      "source": "X",
+      "published": "2026-07-28T16:05:30+00:00"
+    },
+    {
+      "text": "Intel expects its 14A process to enter risk production for internal products in 2H 2027, a year earlier than planned, with high volume manufacturing expected in 2028, also a year ahead of expectations. $INTC $TSM $NVDA $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2082134439132303383",
+      "source": "X",
+      "published": "2026-07-28T16:01:49+00:00"
+    },
+    {
+      "text": "Run GenAI Locally on NVIDIA Jetson | NVIDIA Jetson AI Lab https://x.com/i/broadcasts/1qKDzzgMvOwJV",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082133936067752136",
+      "source": "X",
+      "published": "2026-07-28T15:59:49+00:00"
+    },
+    {
+      "text": "Experience DLSS in more of your favorite games: 🟢Halo: Campaign Evolved 🟢Mistfall Hunter 🟢Palworld 1.0 🟢Corsair Cove 🟢The Mound: Omen of Cthulhu 🟢Killing Floor 3 - Operation: Shadow Hunter Learn more: https://nvda.ws/4pIhYrp",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082132858013933936",
+      "source": "X",
+      "published": "2026-07-28T15:55:32+00:00"
+    },
+    {
+      "text": "Wait. Hold up. I thought China didn’t have access to $NVDA. 🤪",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2082126219479593012",
+      "source": "X",
+      "published": "2026-07-28T15:29:09+00:00"
+    },
     {
       "text": "米ナスダック1％安で開始、半導体売りが継続　NYダウは一時400ドル高 https://www.nikkei.com/article/DGXZQOGN28AKV0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785247882",
       "author": "@nikkei",
@@ -35,13 +70,6 @@
       "link": "https://x.com/firstadopter/status/2082058387580223784",
       "source": "X",
       "published": "2026-07-28T10:59:37+00:00"
-    },
-    {
-      "text": "中国・香港株式市場・大引け＝中国株1週間ぶり安値、ＡＩ・半導体株主導　香港堅調 http://reut.rs/4fIYL4f http://reut.rs/4fIYL4f",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2082040001651466623",
-      "source": "X",
-      "published": "2026-07-28T09:46:33+00:00"
     },
     {
       "text": "中国が米AI半導体を猛追 「総力戦」の内幕 https://on.wsj.com/3REuH1E",
@@ -107,13 +135,6 @@
       "published": "2026-07-27T18:59:49+00:00"
     },
     {
-      "text": "Bloomberg: \"Nvidia Corp. has committed to invest $5 billion in Ilya Sutskever’s artificial intelligence startup Safe Superintelligence Inc., according to people familiar with the matter\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2081804667919474998",
-      "source": "X",
-      "published": "2026-07-27T18:11:25+00:00"
-    },
-    {
       "text": "AMD says its new Instinct MI455X GPUs, shipping in the coming months, will deliver 34x higher token throughput compared to its MI355X GPU. $AMD $NVDA $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2081780593117802833",
@@ -170,7 +191,7 @@
       "published": "2026-07-27T09:03:23+00:00"
     },
     {
-      "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+      "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2081666629264449730",
       "source": "X",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAIInfra/status/2081549040982933996",
       "source": "X",
       "published": "2026-07-27T01:15:39+00:00"
-    },
-    {
-      "text": "We tested Nemotron 3 Ultra on agentic chip design. The task is RTL coding: a model iteratively writes the code that defines a chip's logic, runs it through a simulator, reads the failures, and rewrites. Across nine categories of real design work, Nemotron 3 Ultra averaged a 97.1% pass rate at 6,629 tokens per iteration, best of the open models tested on both.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081541801031110903",
-      "source": "X",
-      "published": "2026-07-27T00:46:53+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Full deep dive below. https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding/?ncid=so-twit-299716",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081541802893398395",
-      "source": "X",
-      "published": "2026-07-27T00:46:53+00:00"
-    },
-    {
-      "text": "R to @nvidia: 'A virtuous cycle of evolution' That's a wrap!",
-      "author": "@IanCutress",
-      "link": "https://x.com/IanCutress/status/2081538896110989586",
-      "source": "X",
-      "published": "2026-07-27T00:35:20+00:00"
     }
   ]
 }
