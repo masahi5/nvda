@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-07-29T16:38:18+00:00",
+  "updated_at": "2026-07-29T17:54:24+00:00",
   "items": [
+    {
+      "text": "\"Data stops being something you collect. It becomes something you compute.\" At #SIGGRAPH2026, @liu_mingyu, VP of NVIDIA's Cosmos Lab, laid out why world models are the data engine of physical AI. Plus, he announced Cosmos-Dreams, a neural closed-loop simulator, and showed off a full demo of it in action. You can watch the full keynote here: https://vist.ly/5cwd9",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082522552358879424",
+      "source": "X",
+      "published": "2026-07-29T17:44:02+00:00"
+    },
+    {
+      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF FRIDAY for RTX Play LIVE as we celebrate the CONTROL universe & more chances to WIN a GeForce RTX 5080 Founders Edition 🗓️ 7/31 | 1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082513386953179604",
+      "source": "X",
+      "published": "2026-07-29T17:07:37+00:00"
+    },
+    {
+      "text": "Shape the Aberrant. Break the rules. 🔻 Dylan Faden's Aberrant shifts between forms as CONTROL Resonant brings fast, fluid melee combat to a warped Manhattan. Which form are you taking into the fight?",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082513384730251730",
+      "source": "X",
+      "published": "2026-07-29T17:07:36+00:00"
+    },
+    {
+      "text": "TSMC's $TSM advanced-node expansion roadmap includes N5-to-N3 capacity conversions within 6–12 months, N3 volume production in Taiwan (H1 2027), Arizona (H2 2027), and Japan (2028). Additional N2 and below capacity is planned for Arizona and Taiwan beyond 2028, supporting the company's next phase of advanced semiconductor manufacturing growth. $NVDA $AMD $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2082510841161679218",
+      "source": "X",
+      "published": "2026-07-29T16:57:30+00:00"
+    },
     {
       "text": "Build Multi-Camera 3D Tracking Applications with NVIDIA DeepStream 9.1 Skills https://x.com/i/broadcasts/1PKqrrbqqgEGb",
       "author": "@NVIDIAAI",
@@ -182,34 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2081771360460722560",
       "source": "X",
       "published": "2026-07-27T15:59:04+00:00"
-    },
-    {
-      "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2081730105454322151",
-      "source": "X",
-      "published": "2026-07-27T13:15:08+00:00"
-    },
-    {
-      "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2081730107060744553",
-      "source": "X",
-      "published": "2026-07-27T13:15:08+00:00"
-    },
-    {
-      "text": "RT by @nvidianewsroom: Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
-      "author": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2081698060330250294",
-      "source": "X",
-      "published": "2026-07-27T11:07:48+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Read more below. https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/?ncid=so-twit-822745",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081666832969445804",
-      "source": "X",
-      "published": "2026-07-27T09:03:43+00:00"
     }
   ]
 }
