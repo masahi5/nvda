@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-07-29T15:06:11+00:00",
+  "updated_at": "2026-07-29T16:38:18+00:00",
   "items": [
     {
-      "text": "SK Hynix missing numbers is BULLISH for SK Hynix. I'm serious. Hear me out. The Korean analyst who predicted the Q2 miss said it happened because SK Hynix has a higher HBM mix. HBM is the more durable, higher-moat business that should command a higher multiple. HBM is in major shortage the next several years. SK Hynix is number one in HBM. Just see how Dario, Sam, Hock, and Jensen appeared to greet HBM makers in SF last week. In the short term, the higher DRAM-mix players benefit, but long term it's a detriment as China will eventually enter the DRAM space one to two years out with more capacity. China will be no where in HBM. So a Q2 miss caused by more HBM mix actually means SK Hynix is BETTER positioned in the long run. Don't listen to me, listen to the Korean axe who has a Buy rating, a very high PT, and nailed the mechanics of this quarter.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2082246908219646128",
+      "text": "Build Multi-Camera 3D Tracking Applications with NVIDIA DeepStream 9.1 Skills https://x.com/i/broadcasts/1PKqrrbqqgEGb",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082496602451689527",
       "source": "X",
-      "published": "2026-07-28T23:28:43+00:00"
+      "published": "2026-07-29T16:00:55+00:00"
+    },
+    {
+      "text": "See why students are choosing GeForce RTX laptops to keep up with their majors. Tell us your major + why you'd pick GeForce below and we'll drop Steam Cash in the replies. 💸",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082493077592109188",
+      "source": "X",
+      "published": "2026-07-29T15:46:55+00:00"
+    },
+    {
+      "text": "This is how every Magnificent 7 name has performed so far in 2026 +25.1%🟢 - Apple $AAPL +7%🟢 - Google $GOOGL +3.4%🟢 - Nvidia $NVDA -1.1%🔴 - Amazon $AMZN -10.6%🔴 - Meta Platforms $META -18.2%🔴 - Microsoft $MSFT -32.7%🔴 - Tesla $TSLA",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2082485335414452706",
+      "source": "X",
+      "published": "2026-07-29T15:16:09+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: One of my favorite themes of how HuggingFace fended off the OpenAI rogue agent attack was the value of open weight models coming through. In particular the NVFP4 quantized version of GLM-5.2. I use GLM-5.2 as my local daily driver these days and it's exceptional.",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2081666832969445804",
       "source": "X",
       "published": "2026-07-27T09:03:43+00:00"
-    },
-    {
-      "text": "We're contributing open models, weights, data and research to the Open Secure AI Alliance. This includes NVIDIA Labs Object-Oriented Agents (NOOA): open agent harness research in the form of an object-oriented framework that reaches state-of-the-art results across software engineering, cybersecurity and reasoning benchmarks. Developers can use the findings to optimize their own harnesses and then contribute back.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2081666750807171180",
-      "source": "X",
-      "published": "2026-07-27T09:03:23+00:00"
-    },
-    {
-      "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2081666629264449730",
-      "source": "X",
-      "published": "2026-07-27T09:02:54+00:00"
     }
   ]
 }
