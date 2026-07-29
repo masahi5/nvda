@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-29T12:26:58+00:00",
+  "updated_at": "2026-07-29T15:06:11+00:00",
   "items": [
-    {
-      "text": "ロイターは28日、実態がほとんど知られていない国有企業、上海アイシェンナ・エレクトロニック・テクノロジー・グループが中国で開発されたDUV露光装置の量産を始めたと報じた。 トランプ米政権が中国に対するハイテク製品の輸出を規制している中で、DUV露光装置は中国企業が先端半導体を製造するのに不可欠な技術となっている。 アングル：中国企業が露光装置の量産開始、ASMLへ包囲網狭まる https://jp.reuters.com/economy/DLPJJHSOKRLNXOY2T7XWKVVUYQ-2026-07-29/?taid=6a69795cd247b30001e6b4c8&utm_campaign=trueAnthem+Manual&utm_medium=trueAnthem&utm_source=twitter",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2082383125343043595",
-      "source": "X",
-      "published": "2026-07-29T08:30:00+00:00"
-    },
-    {
-      "text": "RT by @nikkei: キオクシア株、1カ月で6割強下落　半導体スーパーサイクル論が後退 https://www.nikkei.com/article/DGXZQOUB28ASK0Y6A720C2000000/?n_cid=SNSTW001&n_tw=1785303862",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2082342194816450858",
-      "source": "X",
-      "published": "2026-07-29T05:47:21+00:00"
-    },
-    {
-      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 技術的格差は依然として大きい。エヌビディアの最上位AI半導体は、ファーウェイのそれの約4倍の計算能力を誇る。 https://on.wsj.com/45zdOZn",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2082271115670327359",
-      "source": "X",
-      "published": "2026-07-29T01:04:55+00:00"
-    },
     {
       "text": "SK Hynix missing numbers is BULLISH for SK Hynix. I'm serious. Hear me out. The Korean analyst who predicted the Q2 miss said it happened because SK Hynix has a higher HBM mix. HBM is the more durable, higher-moat business that should command a higher multiple. HBM is in major shortage the next several years. SK Hynix is number one in HBM. Just see how Dario, Sam, Hock, and Jensen appeared to greet HBM makers in SF last week. In the short term, the higher DRAM-mix players benefit, but long term it's a detriment as China will eventually enter the DRAM space one to two years out with more capacity. China will be no where in HBM. So a Q2 miss caused by more HBM mix actually means SK Hynix is BETTER positioned in the long run. Don't listen to me, listen to the Korean axe who has a Buy rating, a very high PT, and nailed the mechanics of this quarter.",
       "author": "@firstadopter",
@@ -49,13 +28,6 @@
       "link": "https://x.com/Beth_Kindig/status/2082194337920672009",
       "source": "X",
       "published": "2026-07-28T19:59:50+00:00"
-    },
-    {
-      "text": "All these stocks hit new 52 WEEK HIGHS at some point today Apple $AAPL JPMorgan $JPM Coca-Cola $KO Airbnb $ABNB Gerdau $GGB General Motors $GM Visa $V Bristol-Myers $BMY Altria Group $MO Johnson & Johnson $JNJ Merck $MRK Viatris $VTRS Philip Morris $PM Healthcare Realty Trust $HR Raytheon $RTX Incyte $INCY CenterPoint Energy $CNP 3M $MMM AbbVie $ABBV IQVIA Holdings $IQV PACCAR $PCAR Corteva $CTVA Healthpeak Properties $DOC Target $TGT Kimco Realty $KIM Masco $MAS MetLife $MET Welltower $WELL HF Sinclair $DINO Omnicom $OMC Ventas $VTR CubeSmart $CUBE Fortive $FTV Axalta $AXTA Amgen $AMGN American Healthcare REIT $AHR Royalty Pharma $RPRX Life Time $LTH SiriusXM Holdings $SIRI Stanley Black & Decker $SWK Levi's $LEVI Halozyme Therapeutics $HALO Ross Stores $ROST Coca-Cola Europacific $CCEP Victoria's Secret $VSXY Best Buy $BBY Electronic Arts $EA Travelers $TRV T. Rowe Price $TROW",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2082186161347318012",
-      "source": "X",
-      "published": "2026-07-28T19:27:20+00:00"
     },
     {
       "text": "R to @nvidianewsroom: Read Wistron's story to learn more ⬇️ https://www.nvidia.com/en-us/case-studies/wistron/",
@@ -210,6 +182,34 @@
       "link": "https://x.com/nvidia/status/2081730107060744553",
       "source": "X",
       "published": "2026-07-27T13:15:08+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2081698060330250294",
+      "source": "X",
+      "published": "2026-07-27T11:07:48+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Read more below. https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/?ncid=so-twit-822745",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081666832969445804",
+      "source": "X",
+      "published": "2026-07-27T09:03:43+00:00"
+    },
+    {
+      "text": "We're contributing open models, weights, data and research to the Open Secure AI Alliance. This includes NVIDIA Labs Object-Oriented Agents (NOOA): open agent harness research in the form of an object-oriented framework that reaches state-of-the-art results across software engineering, cybersecurity and reasoning benchmarks. Developers can use the findings to optimize their own harnesses and then contribute back.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2081666750807171180",
+      "source": "X",
+      "published": "2026-07-27T09:03:23+00:00"
+    },
+    {
+      "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2081666629264449730",
+      "source": "X",
+      "published": "2026-07-27T09:02:54+00:00"
     }
   ]
 }
