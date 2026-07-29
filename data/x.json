@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-29T19:04:46+00:00",
+  "updated_at": "2026-07-29T20:17:13+00:00",
   "items": [
+    {
+      "text": "Massive thanks to the @perplexity_ai team for contributing Numbat to the Open Secure AI Alliance 💚",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082542223628050907",
+      "source": "X",
+      "published": "2026-07-29T19:02:12+00:00"
+    },
     {
       "text": "If Meta's Advantage+ ARR grows 1.5X in nine months from October 2025 to July 2026, its run rate would reach $90 billion – meaning it is very possible that $META is still second only to Nvidia $NVDA on AI revenue. My original analysis from 6 mos ago is below ⬇️",
       "author": "@Beth_Kindig",
@@ -51,11 +58,11 @@
       "published": "2026-07-29T15:46:55+00:00"
     },
     {
-      "text": "This is how every Magnificent 7 name has performed so far in 2026 +25.1%🟢 - Apple $AAPL +7%🟢 - Google $GOOGL +3.4%🟢 - Nvidia $NVDA -1.1%🔴 - Amazon $AMZN -10.6%🔴 - Meta Platforms $META -18.2%🔴 - Microsoft $MSFT -32.7%🔴 - Tesla $TSLA",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2082485335414452706",
+      "text": "RT by @NVIDIAGeForce: Halo: Campaign Evolved has some really impressive visuals 👀 Captured at 4K max settings with DLSS 4.5!",
+      "author": "@GeForce_JacobF",
+      "link": "https://x.com/GeForce_JacobF/status/2082333194335170983",
       "source": "X",
-      "published": "2026-07-29T15:16:09+00:00"
+      "published": "2026-07-29T05:11:36+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: One of my favorite themes of how HuggingFace fended off the OpenAI rogue agent attack was the value of open weight models coming through. In particular the NVFP4 quantized version of GLM-5.2. I use GLM-5.2 as my local daily driver these days and it's exceptional.",
@@ -203,13 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2081780593117802833",
       "source": "X",
       "published": "2026-07-27T16:35:45+00:00"
-    },
-    {
-      "text": "Intel and AMD are reportedly signing long-term deals with Chinese clients for server CPUs as prices rise, with most of the deals covering one-year supply, per Reuters. $INTC $AMD $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2081774261765657005",
-      "source": "X",
-      "published": "2026-07-27T16:10:36+00:00"
     }
   ]
 }
