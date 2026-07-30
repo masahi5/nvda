@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-30T16:47:19+00:00",
+  "updated_at": "2026-07-30T18:11:52+00:00",
   "items": [
+    {
+      "text": "Another open-weight release from @thinkymachines 👀 Inkling-Small is here. With native reasoning over audio and images and variable thinking effort, it's a great choice for fine-tuning, with NVIDIA NeMo on NVIDIA DGX Station. NVFP4 checkpoint here: https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082887941626732664",
+      "source": "X",
+      "published": "2026-07-30T17:55:58+00:00"
+    },
+    {
+      "text": "Google has seen AI token consumption rise 330X in two years, while some of the more bullish forecasts project a 70X increase in token consumption by 2030 – and that 70X figure already appears too low. Here’s why⬇️ https://io-fund.com/ai-stocks/ai-token-demand-shattering-forecasts $GOOG $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2082884587370226125",
+      "source": "X",
+      "published": "2026-07-30T17:42:38+00:00"
+    },
     {
       "text": "R to @nvidianewsroom: Open and proprietary models both matter.  Frontier models will keep moving the boundary of what AI can do. Open models give more people the ability to build on that progress.  America’s AI leadership will depend on how broadly people can put AI to work.",
       "author": "@nvidianewsroom",
@@ -21,13 +35,6 @@
       "link": "https://x.com/nvidianewsroom/status/2082868188224659777",
       "source": "X",
       "published": "2026-07-30T16:37:28+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: Weights are the numerical settings an AI model learns during training. Releasing them lets developers download, run, and adapt the model on their own infrastructure.  Open models may also share code, training details, or evaluations. There are different degrees of openness.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2082867542696026530",
-      "source": "X",
-      "published": "2026-07-30T16:34:54+00:00"
     },
     {
       "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF TOMORROW for RTX Play LIVE as we celebrate the CONTROL universe & more chances to WIN a GeForce RTX 5080 Founders Edition 🗓️ 7/31 | 1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2082166000892457266",
       "source": "X",
       "published": "2026-07-28T18:07:14+00:00"
-    },
-    {
-      "text": "How to Train Open Models with RL on Prime Intellect | Nemotron Labs https://x.com/i/broadcasts/1wxWjjYBeYmJQ",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2082164011953803767",
-      "source": "X",
-      "published": "2026-07-28T17:59:19+00:00"
     }
   ]
 }
