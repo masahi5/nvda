@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-07-30T18:11:52+00:00",
+  "updated_at": "2026-07-30T19:51:18+00:00",
   "items": [
+    {
+      "text": "R to @NVIDIAAI: btw you can also run this on 2x DGX Sparks Have fun!",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2082913704497279301",
+      "source": "X",
+      "published": "2026-07-30T19:38:20+00:00"
+    },
+    {
+      "text": "R to @nvidia: Give a big welcome to the newest members of the Open Secure AI Alliance. 💚 http://nvda.ws/4pD8Fc5",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2082911218734617015",
+      "source": "X",
+      "published": "2026-07-30T19:28:27+00:00"
+    },
+    {
+      "text": "Back-to-school laptop unlocked ✅ Check out the Acer Predator Helios Neo 16S AI GeForce RTX 50 Series laptop for top performance in gaming, creating and local AI, featuring: 🟢 Ultra-slim aluminum design 🟢 Advanced AeroBlade cooling 🟢 AI-enhanced audio & video",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082899274979790968",
+      "source": "X",
+      "published": "2026-07-30T18:41:00+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: Inkling-small is out today! With SGLang, you can get 648 tok/s decode with DSpark (simulated acc len=4) and 288 tok/s w/o DSpark, under the same setup (8x @NVIDIAAI B200, TP 8, NVFP4, bs=1). What makes this model different is the size. 276B total with 12B active is a sweet spot for RL, and both LoRA and full-parameter training become well within reach. Miles is ready and verified for multimodal RL on Inkling-small, so you can turn your multimodal data into real capability gains. At ~1/4 the size, Inkling-small matches the bigger version in capability and even wins on some benchmarks. Run Inkling-small with SGLang, and customize it with Miles.",
+      "author": "@lmsysorg",
+      "link": "https://x.com/lmsysorg/status/2082890993179955322",
+      "source": "X",
+      "published": "2026-07-30T18:08:05+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: 🎉 Congrats to @thinkymachines on Inkling-Small-- live with Day 0 vLLM support! 276B total parameters with 12B active, native text, image, and audio input, and a 1M-token context window. Open weights, built for agentic and tool-use systems, coding assistants, and RAG. Running on @NVIDIAAI accelerated infrastructure, vLLM optimizes Inkling-Small for Blackwell. The architecture mirrors Inkling, so it runs on the existing vLLM path! 1/2",
+      "author": "@vllm_project",
+      "link": "https://x.com/vllm_project/status/2082890823667237027",
+      "source": "X",
+      "published": "2026-07-30T18:07:25+00:00"
+    },
     {
       "text": "Another open-weight release from @thinkymachines 👀 Inkling-Small is here. With native reasoning over audio and images and variable thinking effort, it's a great choice for fine-tuning, with NVIDIA NeMo on NVIDIA DGX Station. NVFP4 checkpoint here: https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4",
       "author": "@NVIDIAAI",
@@ -175,41 +210,6 @@
       "link": "https://x.com/Mayhem4Markets/status/2082223870375874790",
       "source": "X",
       "published": "2026-07-28T21:57:11+00:00"
-    },
-    {
-      "text": "Unlock three months of Discord Nitro with GeForce Rewards. Enjoy perks like HD streaming, custom emojis, and bigger file uploads. New subscribers only. Terms apply. 🎁 Available for a limited time. https://nvda.ws/4fW1IzD",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082205467149787469",
-      "source": "X",
-      "published": "2026-07-28T20:44:03+00:00"
-    },
-    {
-      "text": "Global semiconductor revenue rose 24% QoQ to $394 billion in Q2, per Omdia, with memory remaining one of the key growth drivers. $NVDA $AMD $AVGO $MU",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2082194337920672009",
-      "source": "X",
-      "published": "2026-07-28T19:59:50+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: Read Wistron's story to learn more ⬇️ https://www.nvidia.com/en-us/case-studies/wistron/",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2082175441763221563",
-      "source": "X",
-      "published": "2026-07-28T18:44:44+00:00"
-    },
-    {
-      "text": "Wistron’s new Texas factory started as a digital twin. Before construction, engineers used NVIDIA technologies to design, simulate and optimize production. Today, teams in Fort Worth are producing the NVIDIA GB300 Grace Blackwell Ultra Superchip, with Vera Rubin next.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2082174792560517245",
-      "source": "X",
-      "published": "2026-07-28T18:42:10+00:00"
-    },
-    {
-      "text": "⚠️ NEW DRIVER ALERT ⚠️ Get Game Ready for the best experience with our latest GeForce Game Ready Driver including: 🟢Halo: Campaign Evolved 🟢Gears of War: E-Day Multiplayer Beta 🟢Mistfall Hunter Learn More: https://nvda.ws/4g0HHry",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082166000892457266",
-      "source": "X",
-      "published": "2026-07-28T18:07:14+00:00"
     }
   ]
 }
