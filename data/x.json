@@ -1,19 +1,61 @@
 {
-  "updated_at": "2026-07-30T15:06:56+00:00",
+  "updated_at": "2026-07-30T16:47:19+00:00",
   "items": [
+    {
+      "text": "R to @nvidianewsroom: Open and proprietary models both matter.  Frontier models will keep moving the boundary of what AI can do. Open models give more people the ability to build on that progress.  America’s AI leadership will depend on how broadly people can put AI to work.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082868500599619736",
+      "source": "X",
+      "published": "2026-07-30T16:38:43+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: For a startup, that can mean building without training a model from scratch.  A university can advance research.  A company can run AI on its own data.  A government can adapt it for a specific mission or language.  More builders means more competition, choice, and control.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082868497378431282",
+      "source": "X",
+      "published": "2026-07-30T16:38:42+00:00"
+    },
+    {
+      "text": "Great to see more than 230 organizations across the AI ecosystem have signed a letter supporting open weights as part of America’s AI future.  Their message: open weights enable more people to build, compete, and put AI to work.  Here’s why that matters. 🧵",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082868188224659777",
+      "source": "X",
+      "published": "2026-07-30T16:37:28+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: Weights are the numerical settings an AI model learns during training. Releasing them lets developers download, run, and adapt the model on their own infrastructure.  Open models may also share code, training details, or evaluations. There are different degrees of openness.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082867542696026530",
+      "source": "X",
+      "published": "2026-07-30T16:34:54+00:00"
+    },
+    {
+      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF TOMORROW for RTX Play LIVE as we celebrate the CONTROL universe & more chances to WIN a GeForce RTX 5080 Founders Edition 🗓️ 7/31 | 1–3PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082854132981866673",
+      "source": "X",
+      "published": "2026-07-30T15:41:37+00:00"
+    },
+    {
+      "text": "Gravity is optional. Survival is not. 🔻 Use Dylan Faden's supernatural abilities to fight and traverse CONTROL Resonant's warped Manhattan, from shifting streets to Gravity Anomalies.",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2082854127172747522",
+      "source": "X",
+      "published": "2026-07-30T15:41:36+00:00"
+    },
+    {
+      "text": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2082850072438636908",
+      "source": "X",
+      "published": "2026-07-30T15:25:29+00:00"
+    },
     {
       "text": "NYダウは反発で始まる　マイクロソフトが急伸、半導体株も上昇 https://www.nikkei.com/article/DGXZQOFL30C6T0Q6A730C2000000/?n_cid=SNSTW001&n_tw=1785422482",
       "author": "@nikkei",
       "link": "https://x.com/nikkei/status/2082839471502819793",
       "source": "X",
       "published": "2026-07-30T14:43:21+00:00"
-    },
-    {
-      "text": "7年目を迎えるソニーグループのゲーム機「プレイステーション5（PS5）」にとって、11月発売予定の人気ゲームシリーズ最新作「グランド・セフト・オートVI」は販売を再び押し上げる追い風となりそうだ。 一方で、PS5はAIブームを背景としたメモリー半導体価格の高騰という逆風にも直‌面している。 アングル：「グランド・セフト」とメモリー高騰、ソニーPS5　7年目の勝算 http://reut.rs/4pKy1Vs",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2082771936501727290",
-      "source": "X",
-      "published": "2026-07-30T10:15:00+00:00"
     },
     {
       "text": "RT by @NVIDIAGeForce: DLSS On FTW in Halo: Campaign Evolved 😃 Overall improved image stability + 40% improved performance compared to native TSR 🤯",
@@ -23,7 +65,7 @@
       "published": "2026-07-30T00:20:30+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Goldman Sachs expects monthly token processing to rise from 1.7Q in 2025 to 120Q by 2030 - a 70X increase - with agentic AI driving more than 80% of demand. My analysis hitting inboxes Friday reveals why the 70X increase may still be too low. Link in bio. $NVDA $GOOG $MSFT",
+      "text": "Goldman Sachs expects monthly token processing to rise from 1.7Q in 2025 to 120Q by 2030 - a 70X increase - with agentic AI driving more than 80% of demand. My analysis hitting inboxes Friday reveals why the 70X increase may still be too low. Link in bio. $NVDA $GOOG $MSFT",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2082601748170989925",
       "source": "X",
@@ -35,6 +77,13 @@
       "link": "https://x.com/nvidianewsroom/status/2082569183104057775",
       "source": "X",
       "published": "2026-07-29T20:49:20+00:00"
+    },
+    {
+      "text": "Structural AI demand is real and the 10+ trillion of AI capex that will be spent between now and 2030 will deliver companies like $NVDA and $MU remarkable earnings for the foreseeable future. We are at the point of the cycle where the trend and the demand can remain in tact but that has become completely irrelevant to how stocks behave. This is why we’ve seen indices go from ATH to year lows in less than 30 days. Great companies delivering great earnings can’t consistently overcome war, interest rates, inflation, policy, China, and other macro headwinds. The market is spooked, capital is nervous, and great companies are being sold. This won’t last forever. The same way everything can’t keep going up forever, the selling will slow, capitulation seems near. What a ride. 😐🙏🏻",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2082561730094223750",
+      "source": "X",
+      "published": "2026-07-29T20:19:43+00:00"
     },
     {
       "text": "Massive thanks to the @perplexity_ai team for contributing Numbat to the Open Secure AI Alliance 💚",
@@ -161,55 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2082164011953803767",
       "source": "X",
       "published": "2026-07-28T17:59:19+00:00"
-    },
-    {
-      "text": "R to @NVIDIAGeForce: Join @GeForce_JacobF FRIDAY for RTX Play LIVE as we celebrate the CONTROL universe & more chances to WIN a GeForce RTX 5080 Founders Edition 🗓️ 7/31 | 1–3 PM PT 📺 http://twitch.tv/nvidia #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082150953617162334",
-      "source": "X",
-      "published": "2026-07-28T17:07:26+00:00"
-    },
-    {
-      "text": "Reality bends differently with #RTXOn 🔻 Get an exclusive look at CONTROL Resonant, featuring path tracing & DLSS 4.5 Dynamic Multi Frame Generation.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082150947157917852",
-      "source": "X",
-      "published": "2026-07-28T17:07:24+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: When Hugging Face got breached, the closed tools couldn't distinguish attackers from defenders and blocked the forensic analysis. They ended up running open-weight GLM 5.2 on their own infra to contain it. Perplexity is joining the OSAA to support open tools for security.",
-      "author": "@AravSrinivas",
-      "link": "https://x.com/AravSrinivas/status/2082144189211681157",
-      "source": "X",
-      "published": "2026-07-28T16:40:33+00:00"
-    },
-    {
-      "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2082135368040886299",
-      "source": "X",
-      "published": "2026-07-28T16:05:30+00:00"
-    },
-    {
-      "text": "Intel expects its 14A process to enter risk production for internal products in 2H 2027, a year earlier than planned, with high volume manufacturing expected in 2028, also a year ahead of expectations. $INTC $TSM $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2082134439132303383",
-      "source": "X",
-      "published": "2026-07-28T16:01:49+00:00"
-    },
-    {
-      "text": "Run GenAI Locally on NVIDIA Jetson | NVIDIA Jetson AI Lab https://x.com/i/broadcasts/1qKDzzgMvOwJV",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2082133936067752136",
-      "source": "X",
-      "published": "2026-07-28T15:59:49+00:00"
-    },
-    {
-      "text": "Experience DLSS in more of your favorite games: 🟢Halo: Campaign Evolved 🟢Mistfall Hunter 🟢Palworld 1.0 🟢Corsair Cove 🟢The Mound: Omen of Cthulhu 🟢Killing Floor 3 - Operation: Shadow Hunter Learn more: https://nvda.ws/4pIhYrp",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082132858013933936",
-      "source": "X",
-      "published": "2026-07-28T15:55:32+00:00"
     }
   ]
 }
