@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-30T21:01:38+00:00",
+  "updated_at": "2026-07-30T22:17:49+00:00",
   "items": [
+    {
+      "text": "3 American 🇺🇸 companies saw their market caps increase by more than $100 Billion today +$450 Billion - Microsoft $MSFT +$153 Billion - Micron $MU +$122 Billion - Nvidia $NVDA",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2082947089865355561",
+      "source": "X",
+      "published": "2026-07-30T21:51:00+00:00"
+    },
+    {
+      "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2082934294180221043",
+      "source": "X",
+      "published": "2026-07-30T21:00:09+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn More → https://nvda.ws/4xeuXUk",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2082934295794974841",
+      "source": "X",
+      "published": "2026-07-30T21:00:09+00:00"
+    },
     {
       "text": "NYダウ、大幅反発し613ドル高　マイクロソフトや半導体関連に買い https://www.nikkei.com/article/DGXZQOFL310090R30C26A7000000/?n_cid=SNSTW001&n_tw=1785443902",
       "author": "@nikkei",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2082496602451689527",
       "source": "X",
       "published": "2026-07-29T16:00:55+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Create More. Wait Less. 🎨 Built for every student, GeForce RTX 50 Series laptops accelerate your favorite creative apps with NVIDIA Studio + RTX technologies.",
-      "author": "@NVIDIAStudio",
-      "link": "https://x.com/NVIDIAStudio/status/2082496371232313639",
-      "source": "X",
-      "published": "2026-07-29T16:00:00+00:00"
-    },
-    {
-      "text": "See why students are choosing GeForce RTX laptops to keep up with their majors. Tell us your major + why you'd pick GeForce below and we'll drop Steam Cash in the replies. 💸",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082493077592109188",
-      "source": "X",
-      "published": "2026-07-29T15:46:55+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: ⚡ Video diffusion is slow. PDD changes that. 🚀 Introducing Parallel Decoding Distillation, our latest work on accelerating video diffusion models. Paper: https://arxiv.org/abs/2607.26004 Page: https://research.nvidia.com/labs/genair/pdd/ By @shaulneta, @julberner, and Chao Liu. Below PDD on LTX-2.3 🔊",
-      "author": "@ArashVahdat",
-      "link": "https://x.com/ArashVahdat/status/2082489307651322014",
-      "source": "X",
-      "published": "2026-07-29T15:31:56+00:00"
     }
   ]
 }
