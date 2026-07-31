@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-31T22:16:39+00:00",
+  "updated_at": "2026-07-31T23:31:11+00:00",
   "items": [
+    {
+      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 外国の技術に依存せずに真の競争をするには、中国は自前のEUV露光装置を自作しなければならないとアナリストらは指摘する。 https://on.wsj.com/4wphzfR",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2083326875137425817",
+      "source": "X",
+      "published": "2026-07-31T23:00:08+00:00"
+    },
     {
       "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
       "author": "@nvidia",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidianewsroom/status/2082868500599619736",
       "source": "X",
       "published": "2026-07-30T16:38:43+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: For a startup, that can mean building without training a model from scratch.  A university can advance research.  A company can run AI on its own data.  A government can adapt it for a specific mission or language.  More builders means more competition, choice, and control.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2082868497378431282",
-      "source": "X",
-      "published": "2026-07-30T16:38:42+00:00"
     }
   ]
 }
