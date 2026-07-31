@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-07-31T18:21:13+00:00",
+  "updated_at": "2026-07-31T20:00:28+00:00",
   "items": [
+    {
+      "text": "Apple株一時10%安、売り上げ予測に失望　半導体不足が重荷 https://www.nikkei.com/article/DGXZQOGN31CW50R30C26A7000000/?n_cid=SNSTW001&n_tw=1785523822",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2083264774494654789",
+      "source": "X",
+      "published": "2026-07-31T18:53:22+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: You can find the paper, dataset and code here: https://nvidia.github.io/Spatial-IQ/",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2083258626291171452",
+      "source": "X",
+      "published": "2026-07-31T18:28:56+00:00"
+    },
+    {
+      "text": "Humans count the boxes in this image, hidden ones included, with 82.1% accuracy. The best off-the-shelf multimodal model manages 17.7%. Spatial-IQ is a diagnostic benchmark from NVIDIA Research that breaks 3D object counting into nine perceptual and cognitive sub-tasks, from counting columns to inferring the blocks that must be underneath to hold the structure up, and scores each one separately. Training on those sub-tasks lifted Qwen2.5-VL-32B object-counting accuracy from 2.9% to 62.6%. For researchers developing multimodal reasoning systems, this creates a practical loop: identify where spatial reasoning fails, target the missing capability, and verify that improvement reflects composition, not just a better final score.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2083258269875798275",
+      "source": "X",
+      "published": "2026-07-31T18:27:31+00:00"
+    },
     {
       "text": "Join @GeForce_JacobF TODAY for RTX Play Live as we return to the Oldest House for CONTROL + more chances to WIN a custom GeForce RTX 5080 Founders Edition🔻 ⏰ 1–3PM PT 📺 https://nvda.ws/4yWOMRJ #RTXPowersPlay",
       "author": "@NVIDIAGeForce",
@@ -63,13 +84,6 @@
       "link": "https://x.com/WSJJapan/status/2083183416325865646",
       "source": "X",
       "published": "2026-07-31T13:30:04+00:00"
-    },
-    {
-      "text": "半導体株、米ファンドが示す売り一巡感　米テック決算で投資懸念後退 https://www.nikkei.com/article/DGXZQOUB311C70R30C26A7000000/?n_cid=SNSTW001&n_tw=1785503422",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2083179210860818559",
-      "source": "X",
-      "published": "2026-07-31T13:13:22+00:00"
     },
     {
       "text": "Chinese labs train on $NVDA and distill the frontiers. It was never Huawei despite the FUD. Said another way, if Anthropic, OpenAI, and $GOOGL didn’t make big bets to build frontier models the cheap open source ones would suck. 😬😮‍💨",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2082854132981866673",
       "source": "X",
       "published": "2026-07-30T15:41:37+00:00"
-    },
-    {
-      "text": "Gravity is optional. Survival is not. 🔻 Use Dylan Faden's supernatural abilities to fight and traverse CONTROL Resonant's warped Manhattan, from shifting streets to Gravity Anomalies.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082854127172747522",
-      "source": "X",
-      "published": "2026-07-30T15:41:36+00:00"
-    },
-    {
-      "text": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2082850072438636908",
-      "source": "X",
-      "published": "2026-07-30T15:25:29+00:00"
     }
   ]
 }
