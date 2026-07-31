@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:14:42+00:00",
+  "updated_at": "2026-07-31T22:16:39+00:00",
   "items": [
     {
       "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
@@ -77,13 +77,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2083221146451734880",
       "source": "X",
       "published": "2026-07-31T16:00:00+00:00"
-    },
-    {
-      "text": "7月の日経平均、4カ月ぶり反落　AI・半導体関連株安で https://www.nikkei.com/article/DGXZQOUB309770Q6A730C2000000/?n_cid=SNSTW001&n_tw=1785511522",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2083212932884599204",
-      "source": "X",
-      "published": "2026-07-31T15:27:22+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: We got attacked by secret unreleased proprietary models and defended ourselves with an open model, more precisely the @nvidia quantized version of GLM 5.2 coming from @Zai_org. Banning any open model would hurt first cyber security defenders, startups, small companies, researchers and everyone who's not a frontier lab and need on-prem affordable controlable models to compete and protect themselves. Let's not do that!",
@@ -210,6 +203,13 @@
       "link": "https://x.com/nvidianewsroom/status/2082868500599619736",
       "source": "X",
       "published": "2026-07-30T16:38:43+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: For a startup, that can mean building without training a model from scratch.  A university can advance research.  A company can run AI on its own data.  A government can adapt it for a specific mission or language.  More builders means more competition, choice, and control.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082868497378431282",
+      "source": "X",
+      "published": "2026-07-30T16:38:42+00:00"
     }
   ]
 }
