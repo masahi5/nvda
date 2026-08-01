@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-07-31T23:31:11+00:00",
+  "updated_at": "2026-08-01T11:38:57+00:00",
   "items": [
     {
-      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 外国の技術に依存せずに真の競争をするには、中国は自前のEUV露光装置を自作しなければならないとアナリストらは指摘する。 https://on.wsj.com/4wphzfR",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2083326875137425817",
+      "text": "高市早苗首相、自動車・半導体の供給網「影響最小限に」　熊本地震 https://www.nikkei.com/article/DGXZQOUA011TJ0R00C26A8000000/?n_cid=SNSTW001&n_tw=1785573202",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2083471637102367175",
       "source": "X",
-      "published": "2026-07-31T23:00:08+00:00"
+      "published": "2026-08-01T08:35:21+00:00"
+    },
+    {
+      "text": "Sanja Fidler, vice president of AI research at NVIDIA, announces she is leaving the company. Big loss. \"World models is where the next breakthrough lies, and it is around the corner.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2083373756789985751",
+      "source": "X",
+      "published": "2026-08-01T02:06:25+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: 🚀 SGLang now officially supports @thinkymachines Inkling-Small running on 2× @NVIDIAAI DGX Spark systems connected via ConnectX-7. Huge thanks to @realJerryzhou @ispobaoke for implementing the support, with valuable community contributions from @u1tra_instinct and @TechMDAI. This enables strong agentic capabilities to run locally on a compact platform. The current setup achieves 24 tok/s (concurrency=1) without MTP. DSpark support is coming soon. Check out the cookbook below to get started 👇",
+      "author": "@sgl_project",
+      "link": "https://x.com/sgl_project/status/2083349739668660432",
+      "source": "X",
+      "published": "2026-08-01T00:30:59+00:00"
     },
     {
       "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
@@ -28,13 +42,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2083286447130353935",
       "source": "X",
       "published": "2026-07-31T20:19:29+00:00"
-    },
-    {
-      "text": "Apple株一時10%安、売り上げ予測に失望　半導体不足が重荷 https://www.nikkei.com/article/DGXZQOGN31CW50R30C26A7000000/?n_cid=SNSTW001&n_tw=1785523822",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2083264774494654789",
-      "source": "X",
-      "published": "2026-07-31T18:53:22+00:00"
     },
     {
       "text": "R to @NVIDIAAI: You can find the paper, dataset and code here: https://nvidia.github.io/Spatial-IQ/",
@@ -65,14 +72,7 @@
       "published": "2026-07-31T18:00:00+00:00"
     },
     {
-      "text": "中国ムーンショット、エヌビディア半導体約2万基利用　アリババと契約＝報道 http://reut.rs/4wzmdYI http://reut.rs/4wzmdYI",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2083241423961235497",
-      "source": "X",
-      "published": "2026-07-31T17:20:34+00:00"
-    },
-    {
-      "text": "Aggregate annual token processing is no longer measured in billions or trillions of tokens, but in the quadrillions and quintillions. One key networking market is now expected to grow from $100M in 2025 to $39B by 2030 - a 390X increase in five years. Our latest analysis examines the additional beneficiaries of the token usage boom. https://io-fund.com/ai-stocks/token-growth-surging-beneficiaries $NVDA $GOOG $AMZN",
+      "text": "RT by @Beth_Kindig: Aggregate annual token processing is no longer measured in billions or trillions of tokens, but in the quadrillions and quintillions. One key networking market is now expected to grow from $100M in 2025 to $39B by 2030 - a 390X increase in five years. Our latest analysis examines the additional beneficiaries of the token usage boom. https://io-fund.com/ai-stocks/token-growth-surging-beneficiaries $NVDA $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2083227176648818717",
       "source": "X",
@@ -105,13 +105,6 @@
       "link": "https://x.com/NVIDIAAI/status/2083191024264819044",
       "source": "X",
       "published": "2026-07-31T14:00:18+00:00"
-    },
-    {
-      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 習近平国家主席の側近が、AI競争で勝利するため、米半導体に取って代わる代替技術の開発を主導。国産チップの使用を拒否する企業は「裏切り者」だと警告された。 https://on.wsj.com/4h7MCbu",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2083183416325865646",
-      "source": "X",
-      "published": "2026-07-31T13:30:04+00:00"
     },
     {
       "text": "Chinese labs train on $NVDA and distill the frontiers. It was never Huawei despite the FUD. Said another way, if Anthropic, OpenAI, and $GOOGL didn’t make big bets to build frontier models the cheap open source ones would suck. 😬😮‍💨",
@@ -210,6 +203,13 @@
       "link": "https://x.com/nvidianewsroom/status/2082868500599619736",
       "source": "X",
       "published": "2026-07-30T16:38:43+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: For a startup, that can mean building without training a model from scratch.  A university can advance research.  A company can run AI on its own data.  A government can adapt it for a specific mission or language.  More builders means more competition, choice, and control.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2082868497378431282",
+      "source": "X",
+      "published": "2026-07-30T16:38:42+00:00"
     }
   ]
 }
