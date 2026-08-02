@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-02T11:39:26+00:00",
+  "updated_at": "2026-08-02T23:30:03+00:00",
   "items": [
+    {
+      "text": "Amazon: “Graviton revenue commitments have increased nearly 3x quarter-over-quarter, and Graviton5 is growing nearly 2x faster than Graviton4 did.” $AMZN $NVDA $GOOG $META",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2084051031944568937",
+      "source": "X",
+      "published": "2026-08-02T22:57:40+00:00"
+    },
+    {
+      "text": "OpenAI is said to be in discussions with Nvidia about an up to $250 billion backstop to help it raise debt for a 10GW data center campus in Ohio, covering the lease and construction debt, not the $NVDA GPUs inside. $MSFT $GOOG $AMZN $ORCL",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2083991549260550258",
+      "source": "X",
+      "published": "2026-08-02T19:01:18+00:00"
+    },
+    {
+      "text": "AMD signed a deal with Core Scientific for 530MW of AI data center capacity across five sites, with initial delivery in 2027 and full delivery expected by the end of 2028, with the potential to scale to 2.5GW over time. The deal is said to be worth more than $14 billion. $AMD $NVDA $CORZ",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2083963304133984412",
+      "source": "X",
+      "published": "2026-08-02T17:09:04+00:00"
+    },
+    {
+      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 習近平国家主席の側近である丁薛祥筆頭副首相は、ソ連との対立が生じた1960年代に中国が初の原子爆弾、水素爆弾、人工衛星の開発で用いた「総力戦」の手法を引っ張り出した。 https://on.wsj.com/4x8JMrp",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2083930843626578010",
+      "source": "X",
+      "published": "2026-08-02T15:00:05+00:00"
+    },
     {
       "text": "RT by @NVIDIAAI: Current local ai stack 2x DGX Sparks - DeepSeek v4 flash (90 tok/sec) - implementation & sub agents 2x DGX Stations - GLM 5.2 nvfp4 (120 tok/sec) - planning and advising Brev for cluster networking, always on cloud agent, and orchestration",
       "author": "@alecqfong",
@@ -56,13 +84,6 @@
       "link": "https://x.com/bleysg/status/2083448647908569321",
       "source": "X",
       "published": "2026-08-01T07:04:00+00:00"
-    },
-    {
-      "text": "Sanja Fidler, vice president of AI research at NVIDIA, announces she is leaving the company. Big loss. \"World models is where the next breakthrough lies, and it is around the corner.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2083373756789985751",
-      "source": "X",
-      "published": "2026-08-01T02:06:25+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: 🚀 SGLang now officially supports @thinkymachines Inkling-Small running on 2× @NVIDIAAI DGX Spark systems connected via ConnectX-7. Huge thanks to @realJerryzhou @ispobaoke for implementing the support, with valuable community contributions from @u1tra_instinct and @TechMDAI. This enables strong agentic capabilities to run locally on a compact platform. The current setup achieves 24 tok/s (concurrency=1) without MTP. DSpark support is coming soon. Check out the cookbook below to get started 👇",
@@ -121,7 +142,7 @@
       "published": "2026-07-31T18:00:00+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Aggregate annual token processing is no longer measured in billions or trillions of tokens, but in the quadrillions and quintillions. One key networking market is now expected to grow from $100M in 2025 to $39B by 2030 - a 390X increase in five years. Our latest analysis examines the additional beneficiaries of the token usage boom. https://io-fund.com/ai-stocks/token-growth-surging-beneficiaries $NVDA $GOOG $AMZN",
+      "text": "Aggregate annual token processing is no longer measured in billions or trillions of tokens, but in the quadrillions and quintillions. One key networking market is now expected to grow from $100M in 2025 to $39B by 2030 - a 390X increase in five years. Our latest analysis examines the additional beneficiaries of the token usage boom. https://io-fund.com/ai-stocks/token-growth-surging-beneficiaries $NVDA $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2083227176648818717",
       "source": "X",
@@ -149,11 +170,25 @@
       "published": "2026-07-31T14:00:18+00:00"
     },
     {
+      "text": "RT by @danielnewmanUV: Chinese labs train on $NVDA and distill the frontiers. It was never Huawei despite the FUD. Said another way, if Anthropic, OpenAI, and $GOOGL didn’t make big bets to build frontier models the cheap open source ones would suck. 😬😮‍💨",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2083176869923328443",
+      "source": "X",
+      "published": "2026-07-31T13:04:04+00:00"
+    },
+    {
       "text": "🎒 Back-to-school laptop deals 🎒 Explore student-recommended GeForce RTX 50 Series laptops for demanding coursework, creative projects, and gaming. Shop AntOnline deals → https://nvda.ws/4cbzi2a",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2083175848622866561",
       "source": "X",
       "published": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "text": "RT by @danielnewmanUV: Morning Call Sheet: AI rebound meets rising geopolitical risks. Peter Tchir, Head of Macro Strategy at Academy Securities, Thomas Martin, Senior Portfolio Manager at Globalt Investments, and @danielnewmanUV, CEO of @TheFuturumGroup, said AI fundamentals remain strong while ETF flows, leverage and geopolitical risks continue driving market volatility. $SPY $QQQ $NVDA $MSFT $AMZN https://www.cnbc.com/video/2026/07/31/morning-call-sheet-ai-rebound-meets-rising-geopolitical-risks.html",
+      "author": "@CNBCMorningCall",
+      "link": "https://x.com/CNBCMorningCall/status/2083158420396331045",
+      "source": "X",
+      "published": "2026-07-31T11:50:45+00:00"
     },
     {
       "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
@@ -175,41 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2082913704497279301",
       "source": "X",
       "published": "2026-07-30T19:38:20+00:00"
-    },
-    {
-      "text": "R to @nvidia: Give a big welcome to the newest members of the Open Secure AI Alliance. 💚 http://nvda.ws/4pD8Fc5",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2082911218734617015",
-      "source": "X",
-      "published": "2026-07-30T19:28:27+00:00"
-    },
-    {
-      "text": "Back-to-school laptop unlocked ✅ Check out the Acer Predator Helios Neo 16S AI GeForce RTX 50 Series laptop for top performance in gaming, creating and local AI, featuring: 🟢 Ultra-slim aluminum design 🟢 Advanced AeroBlade cooling 🟢 AI-enhanced audio & video",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2082899274979790968",
-      "source": "X",
-      "published": "2026-07-30T18:41:00+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Inkling-small is out today! With SGLang, you can get 648 tok/s decode with DSpark (simulated acc len=4) and 288 tok/s w/o DSpark, under the same setup (8x @NVIDIAAI B200, TP 8, NVFP4, bs=1). What makes this model different is the size. 276B total with 12B active is a sweet spot for RL, and both LoRA and full-parameter training become well within reach. Miles is ready and verified for multimodal RL on Inkling-small, so you can turn your multimodal data into real capability gains. At ~1/4 the size, Inkling-small matches the bigger version in capability and even wins on some benchmarks. Run Inkling-small with SGLang, and customize it with Miles.",
-      "author": "@lmsysorg",
-      "link": "https://x.com/lmsysorg/status/2082890993179955322",
-      "source": "X",
-      "published": "2026-07-30T18:08:05+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: 🎉 Congrats to @thinkymachines on Inkling-Small-- live with Day 0 vLLM support! 276B total parameters with 12B active, native text, image, and audio input, and a 1M-token context window. Open weights, built for agentic and tool-use systems, coding assistants, and RAG. Running on @NVIDIAAI accelerated infrastructure, vLLM optimizes Inkling-Small for Blackwell. The architecture mirrors Inkling, so it runs on the existing vLLM path! 1/2",
-      "author": "@vllm_project",
-      "link": "https://x.com/vllm_project/status/2082890823667237027",
-      "source": "X",
-      "published": "2026-07-30T18:07:25+00:00"
-    },
-    {
-      "text": "Another open-weight release from @thinkymachines 👀 Inkling-Small is here. With native reasoning over audio and images and variable thinking effort, it's a great choice for fine-tuning, with NVIDIA NeMo on NVIDIA DGX Station. NVFP4 checkpoint here: https://huggingface.co/thinkingmachines/Inkling-Small-NVFP4",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2082887941626732664",
-      "source": "X",
-      "published": "2026-07-30T17:55:58+00:00"
     }
   ]
 }
