@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-01T23:29:28+00:00",
+  "updated_at": "2026-08-02T11:39:26+00:00",
   "items": [
+    {
+      "text": "RT by @NVIDIAAI: Current local ai stack 2x DGX Sparks - DeepSeek v4 flash (90 tok/sec) - implementation & sub agents 2x DGX Stations - GLM 5.2 nvfp4 (120 tok/sec) - planning and advising Brev for cluster networking, always on cloud agent, and orchestration",
+      "author": "@alecqfong",
+      "link": "https://x.com/alecqfong/status/2083679692897603838",
+      "source": "X",
+      "published": "2026-08-01T22:22:06+00:00"
+    },
     {
       "text": "RT by @NVIDIAAI: Here’s what you need for deepseek-v4-flash The size of a tiny box, silent, cool, doesn’t guzzle power. 1 million context with room to spare for a vision model",
       "author": "@0xSero",
@@ -35,6 +42,13 @@
       "link": "https://x.com/StockMKTNewz/status/2083558343361085872",
       "source": "X",
       "published": "2026-08-01T14:19:54+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Banning open source model, will \"remove capabilities for the defenders\" When OpenAI's models breached Huggingface, a Chinese open model is what cleaned up the mess. Anthropic's Fable 5 refused, so Hugging Face turned to Nvidia's quantized GLM 5.2.",
+      "author": "@rohanpaul_ai",
+      "link": "https://x.com/rohanpaul_ai/status/2083449634819822043",
+      "source": "X",
+      "published": "2026-08-01T07:07:56+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: ⚡ If you have or want a DGX Spark, this post might be the most important one you come across this month. Serve the BEST model available (DeepSeek V4 Flash 07-31, 284B parameters) on ONE Spark @ 1,000 tok/s prefill, 59 tok/s multi-agent serving. One command to install. 🧵",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2082887941626732664",
       "source": "X",
       "published": "2026-07-30T17:55:58+00:00"
-    },
-    {
-      "text": "Google has seen AI token consumption rise 330X in two years, while some of the more bullish forecasts project a 70X increase in token consumption by 2030 – and that 70X figure already appears too low. Here’s why⬇️ https://io-fund.com/ai-stocks/ai-token-demand-shattering-forecasts $GOOG $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2082884587370226125",
-      "source": "X",
-      "published": "2026-07-30T17:42:38+00:00"
-    },
-    {
-      "text": "R to @nvidianewsroom: Open and proprietary models both matter.  Frontier models will keep moving the boundary of what AI can do. Open models give more people the ability to build on that progress.  America’s AI leadership will depend on how broadly people can put AI to work.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2082868500599619736",
-      "source": "X",
-      "published": "2026-07-30T16:38:43+00:00"
     }
   ]
 }
