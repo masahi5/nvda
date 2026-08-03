@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T20:38:23+00:00",
+  "updated_at": "2026-08-03T21:47:41+00:00",
   "items": [
     {
       "text": "A long-context model's serving speed is largely decided before training starts. Attention used to be a small part of a model's inference cost, but its share grows sharply as context windows expand. Once attention is the majority of the work, faster kernels stop being enough, and the shape of the attention mechanism itself sets the ceiling. We're continuing our series on AI Model Co-Design with a post on the four architecture choices that set that ceiling: group size, head dimension, KV-cache size, and parallelism strategy. It also covers how the right choices improve both system throughput and per-user responsiveness. You can read the full piece here: https://vist.ly/5dfk2",
