@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-03T19:05:54+00:00",
+  "updated_at": "2026-08-03T20:38:23+00:00",
   "items": [
+    {
+      "text": "A long-context model's serving speed is largely decided before training starts. Attention used to be a small part of a model's inference cost, but its share grows sharply as context windows expand. Once attention is the majority of the work, faster kernels stop being enough, and the shape of the attention mechanism itself sets the ceiling. We're continuing our series on AI Model Co-Design with a post on the four architecture choices that set that ceiling: group size, head dimension, KV-cache size, and parallelism strategy. It also covers how the right choices improve both system throughput and per-user responsiveness. You can read the full piece here: https://vist.ly/5dfk2",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2084374298530107465",
+      "source": "X",
+      "published": "2026-08-03T20:22:13+00:00"
+    },
     {
       "text": "NAND revenue is expected to reach $360 billion this year, up 400% versus 2025 driven by pricing power, per Omdia. $MU $NVDA $SNDK",
       "author": "@Beth_Kindig",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2083175848622866561",
       "source": "X",
       "published": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2082934294180221043",
-      "source": "X",
-      "published": "2026-07-30T21:00:09+00:00"
     }
   ]
 }
