@@ -1,11 +1,11 @@
 {
   "symbol": "NVDA",
-  "updated_at": "2026-08-02T23:29:51+00:00",
+  "updated_at": "2026-08-03T13:22:13+00:00",
   "quote": {
     "price": 200.75,
-    "previous_close": 196.839,
-    "change": 3.911,
-    "change_pct": 1.99,
+    "previous_close": 198.9495,
+    "change": 1.8005,
+    "change_pct": 0.91,
     "currency": "USD",
     "day_high": 202.0,
     "day_low": 194.95
@@ -6436,7 +6436,7 @@
         "high": 208.75,
         "low": 190.01,
         "close": 200.75,
-        "volume": 844777052
+        "volume": 706996811
       }
     ]
   }

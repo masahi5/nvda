@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-08-02T23:30:03+00:00",
+  "updated_at": "2026-08-03T13:22:25+00:00",
   "items": [
     {
-      "text": "Amazon: “Graviton revenue commitments have increased nearly 3x quarter-over-quarter, and Graviton5 is growing nearly 2x faster than Graviton4 did.” $AMZN $NVDA $GOOG $META",
+      "text": "ルネサスがAIサーバー向け半導体　最新メモリー対応、27年下期に量産 https://www.nikkei.com/article/DGXZQOUC30A2Q0Q6A730C2000000/?n_cid=SNSTW001&n_tw=1785758302",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2084248255538290980",
+      "source": "X",
+      "published": "2026-08-03T12:01:22+00:00"
+    },
+    {
+      "text": "\"I looked at 13 different providers for even 1 node of B200/B200s while I wait for my order to get delivered. Zero availability. I’ve never seen GPU capacity scarcity like this.\" $NVDA",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2084247948532064553",
+      "source": "X",
+      "published": "2026-08-03T12:00:09+00:00"
+    },
+    {
+      "text": "RT by @Beth_Kindig: Amazon: “Graviton revenue commitments have increased nearly 3x quarter-over-quarter, and Graviton5 is growing nearly 2x faster than Graviton4 did.” $AMZN $NVDA $GOOG $META",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2084051031944568937",
       "source": "X",
@@ -23,11 +37,11 @@
       "published": "2026-08-02T17:09:04+00:00"
     },
     {
-      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 習近平国家主席の側近である丁薛祥筆頭副首相は、ソ連との対立が生じた1960年代に中国が初の原子爆弾、水素爆弾、人工衛星の開発で用いた「総力戦」の手法を引っ張り出した。 https://on.wsj.com/4x8JMrp",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2083930843626578010",
+      "text": "RT by @NVIDIAAI: Incredible AI parkour simulation from @NVIDIAAI. It learned to be a pro from looking at just 30 seconds of footage! ▶️Full video: https://youtu.be/8B05cy3UuSE",
+      "author": "@twominutepapers",
+      "link": "https://x.com/twominutepapers/status/2083944747811361168",
       "source": "X",
-      "published": "2026-08-02T15:00:05+00:00"
+      "published": "2026-08-02T15:55:20+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: Current local ai stack 2x DGX Sparks - DeepSeek v4 flash (90 tok/sec) - implementation & sub agents 2x DGX Stations - GLM 5.2 nvfp4 (120 tok/sec) - planning and advising Brev for cluster networking, always on cloud agent, and orchestration",
@@ -42,20 +56,6 @@
       "link": "https://x.com/0xSero/status/2083656476128936093",
       "source": "X",
       "published": "2026-08-01T20:49:51+00:00"
-    },
-    {
-      "text": "Get the Nvidia DGX Sparks right now before they sell out. They will sell out soon with the latest DeepSeek V4 Flash drop. I guarantee it. Like an idiot, I already spent my AI budget on a 128GB Macbook Pro M5 Max. I should have bought two DGX Sparks instead. AI is developing so fast!",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2083612709753364618",
-      "source": "X",
-      "published": "2026-08-01T17:55:56+00:00"
-    },
-    {
-      "text": "Two Nvidia DGX Sparks and you'll be eating good, my friends!",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2083610687922659508",
-      "source": "X",
-      "published": "2026-08-01T17:47:54+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: Preparing 16xGB10 cluster for Kimi K3, Deepseek V4 Pro, and future GLM 5.5 and Minimax M4..",
