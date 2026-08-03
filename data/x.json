@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T21:47:41+00:00",
+  "updated_at": "2026-08-03T23:37:18+00:00",
   "items": [
     {
       "text": "A long-context model's serving speed is largely decided before training starts. Attention used to be a small part of a model's inference cost, but its share grows sharply as context windows expand. Once attention is the majority of the work, faster kernels stop being enough, and the shape of the attention mechanism itself sets the ceiling. We're continuing our series on AI Model Co-Design with a post on the four architecture choices that set that ceiling: group size, head dimension, KV-cache size, and parallelism strategy. It also covers how the right choices improve both system throughput and per-user responsiveness. You can read the full piece here: https://vist.ly/5dfk2",
@@ -23,13 +23,6 @@
       "published": "2026-08-03T17:06:17+00:00"
     },
     {
-      "text": "中国、半導体設計情報の保護強化　規則厳格化と懲罰的賠償も http://reut.rs/4pVLHx8 http://reut.rs/4pVLHx8",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2084313641176707378",
-      "source": "X",
-      "published": "2026-08-03T16:21:11+00:00"
-    },
-    {
       "text": "Hermes Agent 🤝 NeMo Relay",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2084310189239579130",
@@ -42,6 +35,13 @@
       "link": "https://x.com/Beth_Kindig/status/2084284984324419921",
       "source": "X",
       "published": "2026-08-03T14:27:19+00:00"
+    },
+    {
+      "text": "RT by @nikkei: ルネサスがAIサーバー向け半導体　最新メモリー対応、27年下期に量産 https://www.nikkei.com/article/DGXZQOUC30A2Q0Q6A730C2000000/?n_cid=SNSTW001&n_tw=1785758302",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2084248255538290980",
+      "source": "X",
+      "published": "2026-08-03T12:01:22+00:00"
     },
     {
       "text": "\"I looked at 13 different providers for even 1 node of B200/B200s while I wait for my order to get delivered. Zero availability. I’ve never seen GPU capacity scarcity like this.\" $NVDA",
