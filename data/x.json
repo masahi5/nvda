@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-04T20:20:24+00:00",
+  "updated_at": "2026-08-04T21:46:58+00:00",
   "items": [
+    {
+      "text": "SpaceX will more than triple its Nvidia GPU compute footprint by the end of 2027. Wow. Elon Musk on SpaceX earnings call: “We expect to end this year with over two gigawatts of compute and probably our cumulative compute online by the end of next year will be several times higher .. Let's say, be closer to ten gigawatts of compute than five gigawatts of compute. Going forward, we've decided to build exclusively on Nvidia because we think the Vera Rubin architecture is the best architecture.”",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2084744635654529219",
+      "source": "X",
+      "published": "2026-08-04T20:53:48+00:00"
+    },
     {
       "text": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
       "author": "@nvidia",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nikogrupen/status/2084324989411655930",
       "source": "X",
       "published": "2026-08-03T17:06:17+00:00"
-    },
-    {
-      "text": "Hermes Agent 🤝 NeMo Relay",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084310189239579130",
-      "source": "X",
-      "published": "2026-08-03T16:07:28+00:00"
     }
   ]
 }
