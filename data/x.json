@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-08-04T15:21:18+00:00",
+  "updated_at": "2026-08-04T17:11:07+00:00",
   "items": [
+    {
+      "text": "Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2084679990562414801",
+      "source": "X",
+      "published": "2026-08-04T16:36:55+00:00"
+    },
+    {
+      "text": "NVIDIA is joining @NSF’s new $100M State and Regional AI Infrastructure Hubs program to expand access to advanced computing, data, software, and expertise. Together, we can help accelerate research, strengthen AI education, & prepare students for the AI economy. https://nvda.ws/4gcECEY",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084675932074192915",
+      "source": "X",
+      "published": "2026-08-04T16:20:48+00:00"
+    },
+    {
+      "text": "Build NemoClaw Agents on Jetson | NVIDIA Jetson AI Lab https://x.com/i/broadcasts/1yJAPPLbnoqGb",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2084670730734838003",
+      "source": "X",
+      "published": "2026-08-04T16:00:08+00:00"
+    },
+    {
+      "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084663782018543841",
+      "source": "X",
+      "published": "2026-08-04T15:32:31+00:00"
+    },
+    {
+      "text": "R to @nvidia: Read the blog → https://nvda.ws/4pRK2bU",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084663783364972732",
+      "source": "X",
+      "published": "2026-08-04T15:32:31+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA CEO Jensen Huang just posted this: “Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles.”",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2084660556623974578",
+      "source": "X",
+      "published": "2026-08-04T15:19:42+00:00"
+    },
     {
       "text": "🚨GeForce will be at #QuakeCon 2026 🚨 Be sure to follow @GeForce_JacobF for the latest updates + more from the show floor: 🟢 GeForce RTX Demos 🟢 GeForce Swag 🟢 GeForce Garage Case Mod Contest 🟢 Special livestream with @Robeytech 👀 Learn more → https://www.nvidia.com/en-us/geforce/news/quakecon-2026-win-geforce-rtx-gpus-and-more",
       "author": "@NVIDIAGeForce",
@@ -168,48 +210,6 @@
       "link": "https://x.com/rohanpaul_ai/status/2083449634819822043",
       "source": "X",
       "published": "2026-08-01T07:07:56+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: ⚡ If you have or want a DGX Spark, this post might be the most important one you come across this month. Serve the BEST model available (DeepSeek V4 Flash 07-31, 284B parameters) on ONE Spark @ 1,000 tok/s prefill, 59 tok/s multi-agent serving. One command to install. 🧵",
-      "author": "@bleysg",
-      "link": "https://x.com/bleysg/status/2083448647908569321",
-      "source": "X",
-      "published": "2026-08-01T07:04:00+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: 🚀 SGLang now officially supports @thinkymachines Inkling-Small running on 2× @NVIDIAAI DGX Spark systems connected via ConnectX-7. Huge thanks to @realJerryzhou @ispobaoke for implementing the support, with valuable community contributions from @u1tra_instinct and @TechMDAI. This enables strong agentic capabilities to run locally on a compact platform. The current setup achieves 24 tok/s (concurrency=1) without MTP. DSpark support is coming soon. Check out the cookbook below to get started 👇",
-      "author": "@sgl_project",
-      "link": "https://x.com/sgl_project/status/2083349739668660432",
-      "source": "X",
-      "published": "2026-08-01T00:30:59+00:00"
-    },
-    {
-      "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2083289093731934424",
-      "source": "X",
-      "published": "2026-07-31T20:30:00+00:00"
-    },
-    {
-      "text": "R to @StudyFetch: Read more: https://nvda.ws/45wG6Ut",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2083289096214941856",
-      "source": "X",
-      "published": "2026-07-31T20:30:00+00:00"
-    },
-    {
-      "text": "ICYMI: DLSS games to play this July: 🟢 DOOM: The Dark Ages | Revelations 🟢 Gray Zone Warfare 🟢 Palworld 1.0 🟢 The Mound: Omen of Cthulhu 🟢 Killing Floor 3 – Operation: Shadow Hunter + more! #RTXOn",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2083286447130353935",
-      "source": "X",
-      "published": "2026-07-31T20:19:29+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: You can find the paper, dataset and code here: https://nvidia.github.io/Spatial-IQ/",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2083258626291171452",
-      "source": "X",
-      "published": "2026-07-31T18:28:56+00:00"
     }
   ]
 }
