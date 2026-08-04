@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-04T21:46:58+00:00",
+  "updated_at": "2026-08-04T23:33:35+00:00",
   "items": [
+    {
+      "text": "イビデン一転増益　27年3月期、半導体部品好調で https://www.nikkei.com/article/DGXZQOFD044Q90U6A800C2000000/?n_cid=SNSTW006&n_tw=1785885379",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2084780998626066852",
+      "source": "X",
+      "published": "2026-08-04T23:18:18+00:00"
+    },
+    {
+      "text": "サムスン、ＡＩ向け次世代メモリー半導体技術を発表 http://reut.rs/4fF1v3J http://reut.rs/4fF1v3J",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2084780077221364137",
+      "source": "X",
+      "published": "2026-08-04T23:14:38+00:00"
+    },
+    {
+      "text": "$SPCX giving its 100% commitment to being exclusive on $NVDA is the sincerest validation of Nvidia’s platform. 👏🏻",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2084772412223103213",
+      "source": "X",
+      "published": "2026-08-04T22:44:10+00:00"
+    },
     {
       "text": "SpaceX will more than triple its Nvidia GPU compute footprint by the end of 2027. Wow. Elon Musk on SpaceX earnings call: “We expect to end this year with over two gigawatts of compute and probably our cumulative compute online by the end of next year will be several times higher .. Let's say, be closer to ten gigawatts of compute than five gigawatts of compute. Going forward, we've decided to build exclusively on Nvidia because we think the Vera Rubin architecture is the best architecture.”",
       "author": "@firstadopter",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2084420790036910459",
       "source": "X",
       "published": "2026-08-03T23:26:57+00:00"
-    },
-    {
-      "text": "A long-context model's serving speed is largely decided before training starts. Attention used to be a small part of a model's inference cost, but its share grows sharply as context windows expand. Once attention is the majority of the work, faster kernels stop being enough, and the shape of the attention mechanism itself sets the ceiling. We're continuing our series on AI Model Co-Design with a post on the four architecture choices that set that ceiling: group size, head dimension, KV-cache size, and parallelism strategy. It also covers how the right choices improve both system throughput and per-user responsiveness. You can read the full piece here: https://vist.ly/5dfk2",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084374298530107465",
-      "source": "X",
-      "published": "2026-08-03T20:22:13+00:00"
-    },
-    {
-      "text": "NAND revenue is expected to reach $360 billion this year, up 400% versus 2025 driven by pricing power, per Omdia. $MU $NVDA $SNDK",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2084325351166033965",
-      "source": "X",
-      "published": "2026-08-03T17:07:43+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Legal Agent Bench is now available in @NVIDIAAI's NeMo Gym! NeMo Gym is NVIDIA’s open library for evaluating and improving models and agents at scale. LAB is being embedded more deeply into the open-source AI stack, and we at @harvey are thrilled to be working with NVIDIA to advance open-weight models for complex legal work.",
-      "author": "@nikogrupen",
-      "link": "https://x.com/nikogrupen/status/2084324989411655930",
-      "source": "X",
-      "published": "2026-08-03T17:06:17+00:00"
     }
   ]
 }
