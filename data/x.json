@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-04T18:50:59+00:00",
+  "updated_at": "2026-08-04T20:20:24+00:00",
   "items": [
+    {
+      "text": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084733460690903204",
+      "source": "X",
+      "published": "2026-08-04T20:09:24+00:00"
+    },
+    {
+      "text": "Read why AI agents need more than one model. 👇",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084716722746253566",
+      "source": "X",
+      "published": "2026-08-04T19:02:53+00:00"
+    },
+    {
+      "text": "AMD $AMD says that its upcoming Helios rack featuring its MI445X GPUs delivers up to 30% more tokens per dollar than Nvidia’s $NVDA Vera Rubin NVL72 on Kimi K2 Thinking workloads.",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2084716404566028734",
+      "source": "X",
+      "published": "2026-08-04T19:01:37+00:00"
+    },
     {
       "text": "RT by @NVIDIAAI: We have just released #Alpamayo 2 Super — @nvidia’s frontier open reasoning model for #autonomous #vehicles. NVIDIA Alpamayo 2 Super is an open 34-billion-parameter #reasoning vision-language-action (#VLA) model designed to accelerate autonomous vehicle (AV) development. It combines the 32-billion-parameter NVIDIA #Cosmos 3 Super Reasoner with a 2-billion-parameter diffusion-based Action Expert and is post-trained with #reinforcement #learning. Two aspects make Alpamayo 2 Super particularly exciting: 1. Open and commercially deployable: Alpamayo 2 Super is available on Hugging Face under OpenMDW-1.1, the Linux Foundation’s permissive license for open AI model distribution. The OpenMDW license is now being applied across the entire Alpamayo model family, enabling developers to deploy these models commercially without requiring additional permissions. 2. A multi-task foundation model for autonomous driving: Alpamayo 2 Super produces five tightly coupled outputs: - A trajectory describing the vehicle’s planned path. - A chain-of-causation (CoC) trace explaining the reasoning behind each driving decision, achieving benchmark-leading reasoning performance at frontier scale. - A meta-action (e.g., yield, lane change, stop) capturing the model’s intent. - Reasoning auto-labels that generate CoC annotations for training and validation data. - Visual question answering responses with 2D visual grounding, linking answers to specific regions in camera images. These multi-task capabilities enable developers to leverage a single foundation model across more of the development process, simplifying tooling and accelerating iteration. Resources: 🔹 Interview: https://www.youtube.com/watch?v=VeYZ-MrJv3A 🔹 Video: https://www.youtube.com/watch?v=xySgVPLYnsc&t 🔹 Blog: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/ 🔹 Technical blog: https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/ 🔹 Hugging Face blog: https://huggingface.co/blog/nvidia/nvidia-alpamayo-2 🔹 Model weights: https://huggingface.co/nvidia/Alpamayo2-Super 🔹 Inference code: https://github.com/NVlabs/alpamayo2 As @JensenHuang has emphasized, open models help advance safety and security. We hope Alpamayo 2 Super will contribute to this vision by enabling researchers and developers around the world to build, experiment, and innovate in autonomous driving. We are excited to see what the community builds with Alpamayo 2 Super. @NVIDIADRIVE @NVIDIAAI",
       "author": "@drmapavone",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2084310189239579130",
       "source": "X",
       "published": "2026-08-03T16:07:28+00:00"
-    },
-    {
-      "text": "AMD CEO Lisa Su believes the total computing market will reach $2 trillion by 2030, with $1.4 trillion from AI accelerators and $220 billion from server CPUs. $AMD $NVDA $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2084284984324419921",
-      "source": "X",
-      "published": "2026-08-03T14:27:19+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: Amazon: “Graviton revenue commitments have increased nearly 3x quarter-over-quarter, and Graviton5 is growing nearly 2x faster than Graviton4 did.” $AMZN $NVDA $GOOG $META",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2084051031944568937",
-      "source": "X",
-      "published": "2026-08-02T22:57:40+00:00"
-    },
-    {
-      "text": "OpenAI is said to be in discussions with Nvidia about an up to $250 billion backstop to help it raise debt for a 10GW data center campus in Ohio, covering the lease and construction debt, not the $NVDA GPUs inside. $MSFT $GOOG $AMZN $ORCL",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2083991549260550258",
-      "source": "X",
-      "published": "2026-08-02T19:01:18+00:00"
     }
   ]
 }
