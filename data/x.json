@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-08-04T17:11:07+00:00",
+  "updated_at": "2026-08-04T18:50:59+00:00",
   "items": [
+    {
+      "text": "RT by @NVIDIAAI: We have just released #Alpamayo 2 Super — @nvidia’s frontier open reasoning model for #autonomous #vehicles. NVIDIA Alpamayo 2 Super is an open 34-billion-parameter #reasoning vision-language-action (#VLA) model designed to accelerate autonomous vehicle (AV) development. It combines the 32-billion-parameter NVIDIA #Cosmos 3 Super Reasoner with a 2-billion-parameter diffusion-based Action Expert and is post-trained with #reinforcement #learning. Two aspects make Alpamayo 2 Super particularly exciting: 1. Open and commercially deployable: Alpamayo 2 Super is available on Hugging Face under OpenMDW-1.1, the Linux Foundation’s permissive license for open AI model distribution. The OpenMDW license is now being applied across the entire Alpamayo model family, enabling developers to deploy these models commercially without requiring additional permissions. 2. A multi-task foundation model for autonomous driving: Alpamayo 2 Super produces five tightly coupled outputs: - A trajectory describing the vehicle’s planned path. - A chain-of-causation (CoC) trace explaining the reasoning behind each driving decision, achieving benchmark-leading reasoning performance at frontier scale. - A meta-action (e.g., yield, lane change, stop) capturing the model’s intent. - Reasoning auto-labels that generate CoC annotations for training and validation data. - Visual question answering responses with 2D visual grounding, linking answers to specific regions in camera images. These multi-task capabilities enable developers to leverage a single foundation model across more of the development process, simplifying tooling and accelerating iteration. Resources: 🔹 Interview: https://www.youtube.com/watch?v=VeYZ-MrJv3A 🔹 Video: https://www.youtube.com/watch?v=xySgVPLYnsc&t 🔹 Blog: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/ 🔹 Technical blog: https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super/ 🔹 Hugging Face blog: https://huggingface.co/blog/nvidia/nvidia-alpamayo-2 🔹 Model weights: https://huggingface.co/nvidia/Alpamayo2-Super 🔹 Inference code: https://github.com/NVlabs/alpamayo2 As @JensenHuang has emphasized, open models help advance safety and security. We hope Alpamayo 2 Super will contribute to this vision by enabling researchers and developers around the world to build, experiment, and innovate in autonomous driving. We are excited to see what the community builds with Alpamayo 2 Super. @NVIDIADRIVE @NVIDIAAI",
+      "author": "@drmapavone",
+      "link": "https://x.com/drmapavone/status/2084711224609276354",
+      "source": "X",
+      "published": "2026-08-04T18:41:02+00:00"
+    },
+    {
+      "text": "R to @nvidia: Available on @huggingface : https://huggingface.co/nvidia/Alpamayo2-Super",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084708703505441119",
+      "source": "X",
+      "published": "2026-08-04T18:31:01+00:00"
+    },
+    {
+      "text": "Squad up for the Gears of War: E-Day multiplayer Open Beta, kicking off with Early Access on August 6 ⚙️ Take on larger maps and bigger battles in 12-player Horde Siege or go head-to-head in refined 4v4 Versus on PC with #RTXON, NVIDIA DLSS Super Resolution and NVIDIA Reflex. Learn more: https://nvda.ws/4pRWmss",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2084703495538549000",
+      "source": "X",
+      "published": "2026-08-04T18:10:19+00:00"
+    },
+    {
+      "text": "How a Chess Grandmaster Built an Autonomous Business | Nemotron Labs https://x.com/i/broadcasts/1wxWjjXqrewJQ",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2084700936623272123",
+      "source": "X",
+      "published": "2026-08-04T18:00:09+00:00"
+    },
+    {
+      "text": "120+ members and counting! Here’s what they’re saying 🧵",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2084695242880729311",
+      "source": "X",
+      "published": "2026-08-04T17:37:32+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: Introducing Alpamayo 2 Super: the frontier open reasoning VLA for autonomous vehicles and robotaxis. 34B parameters. Full-surround awareness. Available for commercial use under under OpenMDW-1.1. Download now on @huggingface → https://nvda.ws/3RPqnfV",
+      "author": "@NVIDIADRIVE",
+      "link": "https://x.com/NVIDIADRIVE/status/2084691120534049208",
+      "source": "X",
+      "published": "2026-08-04T17:21:09+00:00"
+    },
     {
       "text": "Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
@@ -168,48 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2083991549260550258",
       "source": "X",
       "published": "2026-08-02T19:01:18+00:00"
-    },
-    {
-      "text": "AMD signed a deal with Core Scientific for 530MW of AI data center capacity across five sites, with initial delivery in 2027 and full delivery expected by the end of 2028, with the potential to scale to 2.5GW over time. The deal is said to be worth more than $14 billion. $AMD $NVDA $CORZ",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2083963304133984412",
-      "source": "X",
-      "published": "2026-08-02T17:09:04+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Incredible AI parkour simulation from @NVIDIAAI. It learned to be a pro from looking at just 30 seconds of footage! ▶️Full video: https://youtu.be/8B05cy3UuSE",
-      "author": "@twominutepapers",
-      "link": "https://x.com/twominutepapers/status/2083944747811361168",
-      "source": "X",
-      "published": "2026-08-02T15:55:20+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Current local ai stack 2x DGX Sparks - DeepSeek v4 flash (90 tok/sec) - implementation & sub agents 2x DGX Stations - GLM 5.2 nvfp4 (120 tok/sec) - planning and advising Brev for cluster networking, always on cloud agent, and orchestration",
-      "author": "@alecqfong",
-      "link": "https://x.com/alecqfong/status/2083679692897603838",
-      "source": "X",
-      "published": "2026-08-01T22:22:06+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Here’s what you need for deepseek-v4-flash The size of a tiny box, silent, cool, doesn’t guzzle power. 1 million context with room to spare for a vision model",
-      "author": "@0xSero",
-      "link": "https://x.com/0xSero/status/2083656476128936093",
-      "source": "X",
-      "published": "2026-08-01T20:49:51+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Preparing 16xGB10 cluster for Kimi K3, Deepseek V4 Pro, and future GLM 5.5 and Minimax M4..",
-      "author": "@ciprianveg",
-      "link": "https://x.com/ciprianveg/status/2083568340870570208",
-      "source": "X",
-      "published": "2026-08-01T14:59:37+00:00"
-    },
-    {
-      "text": "RT by @nvidia: Banning open source model, will \"remove capabilities for the defenders\" When OpenAI's models breached Huggingface, a Chinese open model is what cleaned up the mess. Anthropic's Fable 5 refused, so Hugging Face turned to Nvidia's quantized GLM 5.2.",
-      "author": "@rohanpaul_ai",
-      "link": "https://x.com/rohanpaul_ai/status/2083449634819822043",
-      "source": "X",
-      "published": "2026-08-01T07:07:56+00:00"
     }
   ]
 }
