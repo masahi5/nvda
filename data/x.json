@@ -1,12 +1,61 @@
 {
-  "updated_at": "2026-08-04T12:23:42+00:00",
+  "updated_at": "2026-08-04T15:21:18+00:00",
   "items": [
     {
-      "text": "中国・香港株式市場・大引け＝中国株反発、ＡＩ・半導体株が急伸　香港反落 http://reut.rs/45Apnj8 http://reut.rs/45Apnj8",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2084576126202946017",
+      "text": "🚨GeForce will be at #QuakeCon 2026 🚨 Be sure to follow @GeForce_JacobF for the latest updates + more from the show floor: 🟢 GeForce RTX Demos 🟢 GeForce Swag 🟢 GeForce Garage Case Mod Contest 🟢 Special livestream with @Robeytech 👀 Learn more → https://www.nvidia.com/en-us/geforce/news/quakecon-2026-win-geforce-rtx-gpus-and-more",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2084656916404613608",
       "source": "X",
-      "published": "2026-08-04T09:44:12+00:00"
+      "published": "2026-08-04T15:05:14+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2084656303046332747",
+      "source": "X",
+      "published": "2026-08-04T15:02:48+00:00"
+    },
+    {
+      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 中国テック企業の幹部たちは、この1年で認識が変わったと話す。かつては国産チップについて、追いつくことが不可能なほど遅れていると切り捨てていたものの、今ではファーウェイや他の国内メーカーとビジネスができると考えている。 https://on.wsj.com/45C9sAP",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2084648057686073774",
+      "source": "X",
+      "published": "2026-08-04T14:30:02+00:00"
+    },
+    {
+      "text": "R to @Cisco: More contributions are coming. When members publish reusable mitigations, the ecosystem can inspect, adapt, and improve them, helping security evolve as AI advances. See what alliance members are building ⬇️ https://nvda.ws/4hhQ57r",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084631137943503048",
+      "source": "X",
+      "published": "2026-08-04T13:22:48+00:00"
+    },
+    {
+      "text": "R to @Cisco: @CrowdStrike is fine-tuning open models for cyber defense. Its testing has demonstrated 96% query accuracy, filtering real security events from noise and enabling faster response.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084630991646159005",
+      "source": "X",
+      "published": "2026-08-04T13:22:13+00:00"
+    },
+    {
+      "text": "At Black Hat, the Open Secure AI Alliance, with more than 120 members and growing, is developing new guidelines and sharing open, inspectable tools across the AI security stack. The goal is better protection across the ecosystem. 🧵",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084630618952827232",
+      "source": "X",
+      "published": "2026-08-04T13:20:44+00:00"
+    },
+    {
+      "text": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084625868173820144",
+      "source": "X",
+      "published": "2026-08-04T13:01:52+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more about the latest open source contributions from the newest members: @Akamai, @Amazon, @CapitalOne, @Cisco, @Cloudflare, @Cognition, @Crowdstrike, @LangChain, @Microsoft, @Okta, @PaloAltoNtwks, @perplexity_ai, @RedHat, @Uber, @Veeam, @Visa, @Wiz_io and other Alliance members. ➡️ https://nvda.ws/4hhQ57r",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2084625871151779949",
+      "source": "X",
+      "published": "2026-08-04T13:01:52+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: My DeepSeek v4 Flash repo for 2x DGX Sparks has 334 stars and 45 forks. Love to see many use it. Thank you 🫶 https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
@@ -161,55 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2083258626291171452",
       "source": "X",
       "published": "2026-07-31T18:28:56+00:00"
-    },
-    {
-      "text": "Humans count the boxes in this image, hidden ones included, with 82.1% accuracy. The best off-the-shelf multimodal model manages 17.7%. Spatial-IQ is a diagnostic benchmark from NVIDIA Research that breaks 3D object counting into nine perceptual and cognitive sub-tasks, from counting columns to inferring the blocks that must be underneath to hold the structure up, and scores each one separately. Training on those sub-tasks lifted Qwen2.5-VL-32B object-counting accuracy from 2.9% to 62.6%. For researchers developing multimodal reasoning systems, this creates a practical loop: identify where spatial reasoning fails, target the missing capability, and verify that improvement reflects composition, not just a better final score.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2083258269875798275",
-      "source": "X",
-      "published": "2026-07-31T18:27:31+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: RTX Play Live is back on today! 1PM PT we are going back to CONTROL + giving out more GeForce Trading Cards! Live at 1PM PT at http://www.twitch.tv/nvidia!",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2083252467194896780",
-      "source": "X",
-      "published": "2026-07-31T18:04:27+00:00"
-    },
-    {
-      "text": "Join @GeForce_JacobF TODAY for RTX Play Live as we return to the Oldest House for CONTROL + more chances to WIN a custom GeForce RTX 5080 Founders Edition🔻 ⏰ 1–3PM PT 📺 https://nvda.ws/4yWOMRJ #RTXPowersPlay",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2083251346363347335",
-      "source": "X",
-      "published": "2026-07-31T18:00:00+00:00"
-    },
-    {
-      "text": "Aggregate annual token processing is no longer measured in billions or trillions of tokens, but in the quadrillions and quintillions. One key networking market is now expected to grow from $100M in 2025 to $39B by 2030 - a 390X increase in five years. Our latest analysis examines the additional beneficiaries of the token usage boom. https://io-fund.com/ai-stocks/token-growth-surging-beneficiaries $NVDA $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2083227176648818717",
-      "source": "X",
-      "published": "2026-07-31T16:23:58+00:00"
-    },
-    {
-      "text": "The fight gets bigger in Gears of War: E-Day with #RTXON. Rally your squad across larger maps in 12-player Horde Siege, or jump into 4v4 Versus. Early access to the Open Beta begins August 6, featuring NVIDIA DLSS Super Resolution and NVIDIA Reflex.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2083221146451734880",
-      "source": "X",
-      "published": "2026-07-31T16:00:00+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: We got attacked by secret unreleased proprietary models and defended ourselves with an open model, more precisely the @nvidia quantized version of GLM 5.2 coming from @Zai_org. Banning any open model would hurt first cyber security defenders, startups, small companies, researchers and everyone who's not a frontier lab and need on-prem affordable controlable models to compete and protect themselves. Let's not do that!",
-      "author": "@ClementDelangue",
-      "link": "https://x.com/ClementDelangue/status/2083204212180017522",
-      "source": "X",
-      "published": "2026-07-31T14:52:42+00:00"
-    },
-    {
-      "text": "Code with Me: Run Your Polars Code on the GPU https://x.com/i/broadcasts/1dxYllrZWEAJX",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2083191024264819044",
-      "source": "X",
-      "published": "2026-07-31T14:00:18+00:00"
     }
   ]
 }
