@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-05T15:10:32+00:00",
+  "updated_at": "2026-08-05T16:51:35+00:00",
   "items": [
+    {
+      "text": "Get Game Ready for the Gears of War: E-Day Open Beta with our latest GeForce Game Ready Driver, featuring NVIDIA DLSS Super Resolution and NVIDIA Reflex. Learn more: https://nvda.ws/457zgEY",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2085036725626114163",
+      "source": "X",
+      "published": "2026-08-05T16:14:28+00:00"
+    },
+    {
+      "text": "Dassault Systèmes Accelerates Simulation with NVIDIA AI & GPUs https://x.com/i/broadcasts/1wxWjjXdZWwJQ",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2085034354376646892",
+      "source": "X",
+      "published": "2026-08-05T16:05:02+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAGeForce: Had a great time answering some of your Reddit questions with @NVIDIAGeForce. We talked CS2, competition and the little details that matter. #FramesWinGames",
+      "author": "@zywoo",
+      "link": "https://x.com/zywoo/status/2085025867374141927",
+      "source": "X",
+      "published": "2026-08-05T15:31:19+00:00"
+    },
     {
       "text": "Sell Side Analysts are going to need to update 2027 $NVDA for up to 6 GW going to $SPCX. High level ~$180-200 Billion. 💪🏻",
       "author": "@danielnewmanUV",
@@ -42,13 +63,6 @@
       "link": "https://x.com/danielnewmanUV/status/2084772412223103213",
       "source": "X",
       "published": "2026-08-04T22:44:10+00:00"
-    },
-    {
-      "text": "SpaceX will more than triple its Nvidia GPU compute footprint by the end of 2027. Wow. Elon Musk on SpaceX earnings call: “We expect to end this year with over two gigawatts of compute and probably our cumulative compute online by the end of next year will be several times higher .. Let's say, be closer to ten gigawatts of compute than five gigawatts of compute. Going forward, we've decided to build exclusively on Nvidia because we think the Vera Rubin architecture is the best architecture.”",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2084744635654529219",
-      "source": "X",
-      "published": "2026-08-04T20:53:48+00:00"
     },
     {
       "text": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
@@ -114,7 +128,7 @@
       "published": "2026-08-04T17:21:09+00:00"
     },
     {
-      "text": "Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
+      "text": "RT by @Beth_Kindig: Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2084679990562414801",
       "source": "X",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidia/status/2084625871151779949",
       "source": "X",
       "published": "2026-08-04T13:01:52+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: My DeepSeek v4 Flash repo for 2x DGX Sparks has 334 stars and 45 forks. Love to see many use it. Thank you 🫶 https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark",
-      "author": "@MiaAI_lab",
-      "link": "https://x.com/MiaAI_lab/status/2084524887838740544",
-      "source": "X",
-      "published": "2026-08-04T06:20:36+00:00"
-    },
-    {
-      "text": "R to @nvidia: Explore more: https://nvda.ws/3SfpNs9",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084420792788386232",
-      "source": "X",
-      "published": "2026-08-03T23:26:58+00:00"
     }
   ]
 }
