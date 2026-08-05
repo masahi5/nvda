@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-05T22:42:04+00:00",
+  "updated_at": "2026-08-05T23:30:03+00:00",
   "items": [
+    {
+      "text": "台湾当局、中国企業17社を捜査　半導体などハイテク人材の不正引き抜き疑い https://www.nikkei.com/article/DGXZQOGM057UL0V00C26A8000000/?n_cid=SNSTW005&n_tw=1785934682 台湾では、中国大陸が本社の企業が許可なく拠点を設けて事業をすることは禁止です。台湾資本や外国資本を装って人材採用するといった手法が見られました。",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2085138936892977503",
+      "source": "X",
+      "published": "2026-08-05T23:00:37+00:00"
+    },
+    {
+      "text": "R to @Akamai: The Open Secure AI Alliance community, together at @BlackHatEvents’s #BHUSA. 📸 Members met in person to connect, share ideas and keep moving AI security forward. A great moment for a growing community.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085138770811293991",
+      "source": "X",
+      "published": "2026-08-05T22:59:57+00:00"
+    },
     {
       "text": "日本株、韓国株連動相場の憂鬱 https://www.nikkei.com/article/DGXZQOUB0451F0U6A800C2000000/?n_cid=SNSTW005&n_tw=1785932292 世界でAI・半導体株買いに火が付いて以降、日経平均とKOSPIはAI関連の比率が高いために投資家がまとめて売買。結果、韓国株の荒い値動きが波及し、企業業績などの材料がかき消されがちになっています。",
       "author": "@nikkei",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2084703495538549000",
       "source": "X",
       "published": "2026-08-04T18:10:19+00:00"
-    },
-    {
-      "text": "How a Chess Grandmaster Built an Autonomous Business | Nemotron Labs https://x.com/i/broadcasts/1wxWjjXqrewJQ",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084700936623272123",
-      "source": "X",
-      "published": "2026-08-04T18:00:09+00:00"
-    },
-    {
-      "text": "120+ members and counting! Here’s what they’re saying 🧵",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084695242880729311",
-      "source": "X",
-      "published": "2026-08-04T17:37:32+00:00"
     }
   ]
 }
