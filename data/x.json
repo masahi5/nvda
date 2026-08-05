@@ -1,19 +1,33 @@
 {
-  "updated_at": "2026-08-04T23:33:35+00:00",
+  "updated_at": "2026-08-05T12:21:58+00:00",
   "items": [
     {
-      "text": "イビデン一転増益　27年3月期、半導体部品好調で https://www.nikkei.com/article/DGXZQOFD044Q90U6A800C2000000/?n_cid=SNSTW006&n_tw=1785885379",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2084780998626066852",
+      "text": "Nvidia AI server maker Foxconn's monthly revenue growth accelerates AGAIN for July",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2084961771131936784",
       "source": "X",
-      "published": "2026-08-04T23:18:18+00:00"
+      "published": "2026-08-05T11:16:37+00:00"
     },
     {
-      "text": "サムスン、ＡＩ向け次世代メモリー半導体技術を発表 http://reut.rs/4fF1v3J http://reut.rs/4fF1v3J",
+      "text": "中国・香港株式市場・大引け＝中国続伸し1週間ぶり高値、半導体関連株が主導 http://reut.rs/4yZOqcP http://reut.rs/4yZOqcP",
       "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2084780077221364137",
+      "link": "https://x.com/ReutersJapan/status/2084931560638128151",
       "source": "X",
-      "published": "2026-08-04T23:14:38+00:00"
+      "published": "2026-08-05T09:16:34+00:00"
+    },
+    {
+      "text": "開発の遅延が続く大型宇宙船「スターシップ」が実用化されれば、打ち上げコストのさらなる低下と利益率の改善が期待できる。 コストが十分に下がれば、低重力環境​での半導体製造や医薬品生産といっ​た、現在では突飛にみえる科学⁠プロジェクトさえ現実味を帯びるかもしれない。 コラム：スペースＸ、真の強みはやはりロケット　成長シナリオなお未知数 http://reut.rs/4xFPtgT",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2084931164318716114",
+      "source": "X",
+      "published": "2026-08-05T09:15:00+00:00"
+    },
+    {
+      "text": "Melius Research says that if SpaceX does buy 6 GW worth of GPU compute in 2027, that would boost Nvidia's revenue by ... more than $200 BILLION for 2027. If SpaceX buys a more realistic 2–3 GW for 2027, that would add $100 billion to Nvidia's 2027 revenue. Giddyap!",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2084827899656364079",
+      "source": "X",
+      "published": "2026-08-05T02:24:40+00:00"
     },
     {
       "text": "$SPCX giving its 100% commitment to being exclusive on $NVDA is the sincerest validation of Nvidia’s platform. 👏🏻",
@@ -149,13 +163,6 @@
       "published": "2026-08-04T15:02:48+00:00"
     },
     {
-      "text": "中国が米AI半導体を猛追 「総力戦」の内幕 中国テック企業の幹部たちは、この1年で認識が変わったと話す。かつては国産チップについて、追いつくことが不可能なほど遅れていると切り捨てていたものの、今ではファーウェイや他の国内メーカーとビジネスができると考えている。 https://on.wsj.com/45C9sAP",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2084648057686073774",
-      "source": "X",
-      "published": "2026-08-04T14:30:02+00:00"
-    },
-    {
       "text": "R to @Cisco: More contributions are coming. When members publish reusable mitigations, the ecosystem can inspect, adapt, and improve them, helping security evolve as AI advances. See what alliance members are building ⬇️ https://nvda.ws/4hhQ57r",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2084631137943503048",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidia/status/2084420792788386232",
       "source": "X",
       "published": "2026-08-03T23:26:58+00:00"
-    },
-    {
-      "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084420790036910459",
-      "source": "X",
-      "published": "2026-08-03T23:26:57+00:00"
     }
   ]
 }
