@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-05T18:16:34+00:00",
+  "updated_at": "2026-08-05T20:05:25+00:00",
   "items": [
+    {
+      "text": "The time for local AI is here. So many great models have been released recently, here's a guide from @MiaAI_lab on chaining DGX Sparks together to run them. Drop a pic of your setup and let us know what you're running 👇",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2085087229567995912",
+      "source": "X",
+      "published": "2026-08-05T19:35:09+00:00"
+    },
+    {
+      "text": "変わる中国経済の象徴　半導体の時価総額1年で3倍、銀行を猛追 https://www.nikkei.com/article/DGXZQOFL051OMTV00C26A8000000/?n_cid=SNSTW001&n_tw=1785958342",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2085087015435895002",
+      "source": "X",
+      "published": "2026-08-05T19:34:18+00:00"
+    },
+    {
+      "text": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085081013600825387",
+      "source": "X",
+      "published": "2026-08-05T19:10:27+00:00"
+    },
+    {
+      "text": "OMG. They didn't want to work with TPUs. Jensen is probably calling Jeff Dean RIGHT NOW 🤣 \"Google’s infrastructure works well for big consumer apps, large ad systems and search. But, he said, it has “very different requirements than the type of infrastructure we want to build for research.” WSJ: \"The scientists decided they needed to leave Google to pursue their new mission. “We wanted to build something differently than how things are built at Google right now,” Ghemawat said, explaining that Google’s infrastructure works well for big consumer apps, large ad systems and search. But, he said, it has “very different requirements than the type of infrastructure we want to build for research.” Pichai said that Dean and Ghemawat helped drive some of the company’s most significant technology transitions over their 27-year tenure and that he wished them the best.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2085067163337945406",
+      "source": "X",
+      "published": "2026-08-05T18:15:25+00:00"
+    },
     {
       "text": "R to @nvidia: Learn more: https://nvda.ws/4wFVKst",
       "author": "@nvidia",
@@ -142,7 +170,7 @@
       "published": "2026-08-04T17:21:09+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
+      "text": "Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2084679990562414801",
       "source": "X",
@@ -182,34 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2084656916404613608",
       "source": "X",
       "published": "2026-08-04T15:05:14+00:00"
-    },
-    {
-      "text": "RT by @nvidia: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-      "author": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2084656303046332747",
-      "source": "X",
-      "published": "2026-08-04T15:02:48+00:00"
-    },
-    {
-      "text": "R to @Cisco: More contributions are coming. When members publish reusable mitigations, the ecosystem can inspect, adapt, and improve them, helping security evolve as AI advances. See what alliance members are building ⬇️ https://nvda.ws/4hhQ57r",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2084631137943503048",
-      "source": "X",
-      "published": "2026-08-04T13:22:48+00:00"
-    },
-    {
-      "text": "R to @Cisco: @CrowdStrike is fine-tuning open models for cyber defense. Its testing has demonstrated 96% query accuracy, filtering real security events from noise and enabling faster response.",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2084630991646159005",
-      "source": "X",
-      "published": "2026-08-04T13:22:13+00:00"
-    },
-    {
-      "text": "At Black Hat, the Open Secure AI Alliance, with more than 120 members and growing, is developing new guidelines and sharing open, inspectable tools across the AI security stack. The goal is better protection across the ecosystem. 🧵",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2084630618952827232",
-      "source": "X",
-      "published": "2026-08-04T13:20:44+00:00"
     }
   ]
 }
