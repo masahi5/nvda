@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-05T21:31:34+00:00",
+  "updated_at": "2026-08-05T22:42:04+00:00",
   "items": [
+    {
+      "text": "日本株、韓国株連動相場の憂鬱 https://www.nikkei.com/article/DGXZQOUB0451F0U6A800C2000000/?n_cid=SNSTW005&n_tw=1785932292 世界でAI・半導体株買いに火が付いて以降、日経平均とKOSPIはAI関連の比率が高いために投資家がまとめて売買。結果、韓国株の荒い値動きが波及し、企業業績などの材料がかき消されがちになっています。",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2085127784016318468",
+      "source": "X",
+      "published": "2026-08-05T22:16:18+00:00"
+    },
     {
       "text": "アンソロピック、独自AI半導体開発へ　「Claude」に最適化 https://www.nikkei.com/article/DGXZQOGN05BWO0V00C26A8000000/?n_cid=SNSTW001&n_tw=1785964522",
       "author": "@nikkei",
@@ -56,13 +63,6 @@
       "link": "https://x.com/NVIDIAAI/status/2085087229567995912",
       "source": "X",
       "published": "2026-08-05T19:35:09+00:00"
-    },
-    {
-      "text": "変わる中国経済の象徴　半導体の時価総額1年で3倍、銀行を猛追 https://www.nikkei.com/article/DGXZQOFL051OMTV00C26A8000000/?n_cid=SNSTW001&n_tw=1785958342",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2085087015435895002",
-      "source": "X",
-      "published": "2026-08-05T19:34:18+00:00"
     },
     {
       "text": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
