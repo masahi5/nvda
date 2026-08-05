@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-08-05T20:05:25+00:00",
+  "updated_at": "2026-08-05T21:31:34+00:00",
   "items": [
+    {
+      "text": "アンソロピック、独自AI半導体開発へ　「Claude」に最適化 https://www.nikkei.com/article/DGXZQOGN05BWO0V00C26A8000000/?n_cid=SNSTW001&n_tw=1785964522",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2085113190354940000",
+      "source": "X",
+      "published": "2026-08-05T21:18:18+00:00"
+    },
+    {
+      "text": "Google's AI tokens processed across its platforms increased from 9.7 trillion in May 2024 to more than 3.2 quadrillion in May 2026, representing nearly 7x YoY growth and increasing demand for AI inference. $GOOG $AVGO $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2085111030577832093",
+      "source": "X",
+      "published": "2026-08-05T21:09:43+00:00"
+    },
+    {
+      "text": "米政権、 太陽光パネル・半導体の主原材料に15％関税へ　6日にも発表 http://reut.rs/4yWqrvj http://reut.rs/4yWqrvj",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2085107643094368737",
+      "source": "X",
+      "published": "2026-08-05T20:56:16+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more about world models: https://nvda.ws/45eBZw5",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085106913117688267",
+      "source": "X",
+      "published": "2026-08-05T20:53:22+00:00"
+    },
+    {
+      "text": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085106911964242055",
+      "source": "X",
+      "published": "2026-08-05T20:53:21+00:00"
+    },
+    {
+      "text": "⚠️ New GeForce Garage Build ⚠️ To celebrate QuakeCon 2026, we're spotlighting last year's grand champion 🏆. Garrison Novak's Meshify rig earned the top spot in the 2025 CaseMod Contest because of its ultra-clean aesthetic & polished finished. ⚒️: HeavyG Mods",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2085102297542021354",
+      "source": "X",
+      "published": "2026-08-05T20:35:01+00:00"
+    },
+    {
+      "text": "RT by @firstadopter: Love our partners at @nvidia. Also, go read “The NVIDIA Way” by @firstadopter. One of the best tech industry books published this decade. Truly remarkable company.",
+      "author": "@guywelch2000",
+      "link": "https://x.com/guywelch2000/status/2085100174431736031",
+      "source": "X",
+      "published": "2026-08-05T20:26:35+00:00"
+    },
     {
       "text": "The time for local AI is here. So many great models have been released recently, here's a guide from @MiaAI_lab on chaining DGX Sparks together to run them. Drop a pic of your setup and let us know what you're running 👇",
       "author": "@NVIDIAAI",
@@ -58,6 +107,13 @@
       "published": "2026-08-05T16:53:17+00:00"
     },
     {
+      "text": "RT by @NVIDIAGeForce: It’s almost time! 30 years of @QuakeCon, let’s go! 🚀",
+      "author": "@GeForce_JacobF",
+      "link": "https://x.com/GeForce_JacobF/status/2085042197519388898",
+      "source": "X",
+      "published": "2026-08-05T16:36:12+00:00"
+    },
+    {
       "text": "Get Game Ready for the Gears of War: E-Day Open Beta with our latest GeForce Game Ready Driver, featuring NVIDIA DLSS Super Resolution and NVIDIA Reflex. Learn more: https://nvda.ws/457zgEY",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2085036725626114163",
@@ -91,13 +147,6 @@
       "link": "https://x.com/danielnewmanUV/status/2085003657569833411",
       "source": "X",
       "published": "2026-08-05T14:03:04+00:00"
-    },
-    {
-      "text": "GOOGLE IS BACK TO BEING THE 2ND LARGEST COMPANY IN THE WORLD Google $GOOGL closed yesterday with a larger market cap than Apple $AAPL making it the 2nd largest company in the world behind only Nvidia",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2084990433059328249",
-      "source": "X",
-      "published": "2026-08-05T13:10:31+00:00"
     },
     {
       "text": "RT by @danielnewmanUV: $SPCX giving its 100% commitment to being exclusive on $NVDA is the sincerest validation of Nvidia’s platform. 👏🏻",
@@ -161,55 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2084695242880729311",
       "source": "X",
       "published": "2026-08-04T17:37:32+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Introducing Alpamayo 2 Super: the frontier open reasoning VLA for autonomous vehicles and robotaxis. 34B parameters. Full-surround awareness. Available for commercial use under under OpenMDW-1.1. Download now on @huggingface → https://nvda.ws/3RPqnfV",
-      "author": "@NVIDIADRIVE",
-      "link": "https://x.com/NVIDIADRIVE/status/2084691120534049208",
-      "source": "X",
-      "published": "2026-08-04T17:21:09+00:00"
-    },
-    {
-      "text": "Monthly AI token processing is projected to grow from 1.7 quadrillion in mid-2025 to 47 quadrillion in 2028 and 120 quadrillion by mid-2030, implying 70x+ growth over five years. $NVDA $MSFT $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2084679990562414801",
-      "source": "X",
-      "published": "2026-08-04T16:36:55+00:00"
-    },
-    {
-      "text": "NVIDIA is joining @NSF’s new $100M State and Regional AI Infrastructure Hubs program to expand access to advanced computing, data, software, and expertise. Together, we can help accelerate research, strengthen AI education, & prepare students for the AI economy. https://nvda.ws/4gcECEY",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2084675932074192915",
-      "source": "X",
-      "published": "2026-08-04T16:20:48+00:00"
-    },
-    {
-      "text": "Build NemoClaw Agents on Jetson | NVIDIA Jetson AI Lab https://x.com/i/broadcasts/1yJAPPLbnoqGb",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084670730734838003",
-      "source": "X",
-      "published": "2026-08-04T16:00:08+00:00"
-    },
-    {
-      "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084663782018543841",
-      "source": "X",
-      "published": "2026-08-04T15:32:31+00:00"
-    },
-    {
-      "text": "R to @nvidia: Read the blog → https://nvda.ws/4pRK2bU",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084663783364972732",
-      "source": "X",
-      "published": "2026-08-04T15:32:31+00:00"
-    },
-    {
-      "text": "🚨GeForce will be at #QuakeCon 2026 🚨 Be sure to follow @GeForce_JacobF for the latest updates + more from the show floor: 🟢 GeForce RTX Demos 🟢 GeForce Swag 🟢 GeForce Garage Case Mod Contest 🟢 Special livestream with @Robeytech 👀 Learn more → https://www.nvidia.com/en-us/geforce/news/quakecon-2026-win-geforce-rtx-gpus-and-more",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2084656916404613608",
-      "source": "X",
-      "published": "2026-08-04T15:05:14+00:00"
     }
   ]
 }
