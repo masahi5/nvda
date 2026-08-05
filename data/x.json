@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-05T16:51:35+00:00",
+  "updated_at": "2026-08-05T18:16:34+00:00",
   "items": [
+    {
+      "text": "R to @nvidia: Learn more: https://nvda.ws/4wFVKst",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085063292070793651",
+      "source": "X",
+      "published": "2026-08-05T18:00:02+00:00"
+    },
+    {
+      "text": "What is RTX Spark? A new era of personal computing starts here.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085063285259309121",
+      "source": "X",
+      "published": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "text": "Accelerate Your Studies with GeForce RTX Laptops 💻 Skip the computer lab and work from anywhere: 🟢 Search notes and train AI models locally 🟢 Create, edit and render videos faster Learn More: https://nvda.ws/3RWJnZY",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2085052558964375811",
+      "source": "X",
+      "published": "2026-08-05T17:17:23+00:00"
+    },
+    {
+      "text": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training. 24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085046495011869017",
+      "source": "X",
+      "published": "2026-08-05T16:53:17+00:00"
+    },
     {
       "text": "Get Game Ready for the Gears of War: E-Day Open Beta with our latest GeForce Game Ready Driver, featuring NVIDIA DLSS Super Resolution and NVIDIA Reflex. Learn more: https://nvda.ws/457zgEY",
       "author": "@NVIDIAGeForce",
@@ -14,6 +42,13 @@
       "link": "https://x.com/NVIDIAAI/status/2085034354376646892",
       "source": "X",
       "published": "2026-08-05T16:05:02+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: As a supporter of the open weights ecosystem, we're proud to be a post-training partner for NVIDIA Nemotron. We post-train Nemotron models for customer use cases, de-risk mainline RL runs on our AC2 platform and training stack, and contribute aggregate workload statistics for inference benchmarking. This is how open models get better, and we're excited to keep working closely with @NVIDIAAI.",
+      "author": "@appliedcompute",
+      "link": "https://x.com/appliedcompute/status/2085033422721011976",
+      "source": "X",
+      "published": "2026-08-05T16:01:20+00:00"
     },
     {
       "text": "RT by @NVIDIAGeForce: Had a great time answering some of your Reddit questions with @NVIDIAGeForce. We talked CS2, competition and the little details that matter. #FramesWinGames",
@@ -30,32 +65,11 @@
       "published": "2026-08-05T14:03:04+00:00"
     },
     {
-      "text": "Nvidia up 4% FAST",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2084997632296947932",
-      "source": "X",
-      "published": "2026-08-05T13:39:07+00:00"
-    },
-    {
       "text": "GOOGLE IS BACK TO BEING THE 2ND LARGEST COMPANY IN THE WORLD Google $GOOGL closed yesterday with a larger market cap than Apple $AAPL making it the 2nd largest company in the world behind only Nvidia",
       "author": "@StockMKTNewz",
       "link": "https://x.com/StockMKTNewz/status/2084990433059328249",
       "source": "X",
       "published": "2026-08-05T13:10:31+00:00"
-    },
-    {
-      "text": "Nvidia AI server maker Foxconn's monthly revenue growth accelerates AGAIN for July",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2084961771131936784",
-      "source": "X",
-      "published": "2026-08-05T11:16:37+00:00"
-    },
-    {
-      "text": "Melius Research says that if SpaceX does buy 6 GW worth of GPU compute in 2027, that would boost Nvidia's revenue by ... more than $200 BILLION for 2027. If SpaceX buys a more realistic 2–3 GW for 2027, that would add $100 billion to Nvidia's 2027 revenue. Giddyap!",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2084827899656364079",
-      "source": "X",
-      "published": "2026-08-05T02:24:40+00:00"
     },
     {
       "text": "RT by @danielnewmanUV: $SPCX giving its 100% commitment to being exclusive on $NVDA is the sincerest validation of Nvidia’s platform. 👏🏻",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidianewsroom/status/2084630618952827232",
       "source": "X",
       "published": "2026-08-04T13:20:44+00:00"
-    },
-    {
-      "text": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084625868173820144",
-      "source": "X",
-      "published": "2026-08-04T13:01:52+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more about the latest open source contributions from the newest members: @Akamai, @Amazon, @CapitalOne, @Cisco, @Cloudflare, @Cognition, @Crowdstrike, @LangChain, @Microsoft, @Okta, @PaloAltoNtwks, @perplexity_ai, @RedHat, @Uber, @Veeam, @Visa, @Wiz_io and other Alliance members. ➡️ https://nvda.ws/4hhQ57r",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2084625871151779949",
-      "source": "X",
-      "published": "2026-08-04T13:01:52+00:00"
     }
   ]
 }
