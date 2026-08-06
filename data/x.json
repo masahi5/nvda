@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-06T12:23:49+00:00",
+  "updated_at": "2026-08-06T15:09:35+00:00",
   "items": [
+    {
+      "text": "Network automation and autonomous networks aren't the same thing — and the gap between them is where the next generation of telco operations lives. In this video, Amogh Dendukuri breaks down what it takes to get there: agentic AI, closed-loop operations, and an ecosystem building on NVIDIA platforms to make it real.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085381082539594007",
+      "source": "X",
+      "published": "2026-08-06T15:02:49+00:00"
+    },
+    {
+      "text": "R to @nvidia: 🔗 Learn more at https://nvda.ws/4fRV1NM",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2085381085345501467",
+      "source": "X",
+      "published": "2026-08-06T15:02:49+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAGeForce: QUAD DAMAGE! New Quake III Arena RTX Mod released for @QuakeCon! New maps, models and more!",
+      "author": "@GeForce_JacobF",
+      "link": "https://x.com/GeForce_JacobF/status/2085369057360900288",
+      "source": "X",
+      "published": "2026-08-06T14:15:02+00:00"
+    },
     {
       "text": "Another Nvidia manufactured bear narrative bites the dust",
       "author": "@firstadopter",
@@ -49,13 +70,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2085102297542021354",
       "source": "X",
       "published": "2026-08-05T20:35:01+00:00"
-    },
-    {
-      "text": "RT by @firstadopter: Love our partners at @nvidia. Also, go read “The NVIDIA Way” by @firstadopter. One of the best tech industry books published this decade. Truly remarkable company.",
-      "author": "@guywelch2000",
-      "link": "https://x.com/guywelch2000/status/2085100174431736031",
-      "source": "X",
-      "published": "2026-08-05T20:26:35+00:00"
     },
     {
       "text": "The time for local AI is here. So many great models have been released recently, here's a guide from @MiaAI_lab on chaining DGX Sparks together to run them. Drop a pic of your setup and let us know what you're running 👇",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2084700936623272123",
       "source": "X",
       "published": "2026-08-04T18:00:09+00:00"
-    },
-    {
-      "text": "120+ members and counting! Here’s what they’re saying 🧵",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2084695242880729311",
-      "source": "X",
-      "published": "2026-08-04T17:37:32+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Introducing Alpamayo 2 Super: the frontier open reasoning VLA for autonomous vehicles and robotaxis. 34B parameters. Full-surround awareness. Available for commercial use under under OpenMDW-1.1. Download now on @huggingface → https://nvda.ws/3RPqnfV",
-      "author": "@NVIDIADRIVE",
-      "link": "https://x.com/NVIDIADRIVE/status/2084691120534049208",
-      "source": "X",
-      "published": "2026-08-04T17:21:09+00:00"
     }
   ]
 }
