@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-07T17:05:42+00:00",
+  "updated_at": "2026-08-07T18:00:28+00:00",
   "items": [
+    {
+      "text": "GeForce Trading Cards Series 1 making a home at @QuakeCon 👀",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2085786089332023642",
+      "source": "X",
+      "published": "2026-08-07T17:52:10+00:00"
+    },
+    {
+      "text": "AMD $AMD is acquiring chip startup Taalas, which develops specialized chips aiming to reduce computing and memory bottlenecks in inference workloads. AMD is expected to integrate Taalas' tech into its future accelerator roadmap. $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2085775529886597548",
+      "source": "X",
+      "published": "2026-08-07T17:10:12+00:00"
+    },
     {
       "text": "RT by @NVIDIAGeForce: These GeForce Trading cards celebrating GeForce history feel right at home in this classic 90's room at @QuakeCon! 😀",
       "author": "@GeForce_JacobF",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2085036725626114163",
       "source": "X",
       "published": "2026-08-05T16:14:28+00:00"
-    },
-    {
-      "text": "Dassault Systèmes Accelerates Simulation with NVIDIA AI & GPUs https://x.com/i/broadcasts/1wxWjjXdZWwJQ",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2085034354376646892",
-      "source": "X",
-      "published": "2026-08-05T16:05:02+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: As a supporter of the open weights ecosystem, we're proud to be a post-training partner for NVIDIA Nemotron. We post-train Nemotron models for customer use cases, de-risk mainline RL runs on our AC2 platform and training stack, and contribute aggregate workload statistics for inference benchmarking. This is how open models get better, and we're excited to keep working closely with @NVIDIAAI.",
-      "author": "@appliedcompute",
-      "link": "https://x.com/appliedcompute/status/2085033422721011976",
-      "source": "X",
-      "published": "2026-08-05T16:01:20+00:00"
     }
   ]
 }
