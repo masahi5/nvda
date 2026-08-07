@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-07T20:41:08+00:00",
+  "updated_at": "2026-08-07T21:21:30+00:00",
   "items": [
+    {
+      "text": "Holy crap. @SemiAnalysis_ says Elon Musk's 2027 gigawatt forecast for using Nvidia GPUs is real! \"Yet, we believe that the number is real. We see SpaceX on track to build about 10GW by year-end 2027.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2085829965786841306",
+      "source": "X",
+      "published": "2026-08-07T20:46:31+00:00"
+    },
     {
       "text": "Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2085052558964375811",
       "source": "X",
       "published": "2026-08-05T17:17:23+00:00"
-    },
-    {
-      "text": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training. 24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085046495011869017",
-      "source": "X",
-      "published": "2026-08-05T16:53:17+00:00"
     }
   ]
 }
