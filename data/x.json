@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-07T23:07:01+00:00",
+  "updated_at": "2026-08-08T10:57:45+00:00",
   "items": [
+    {
+      "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2086040693596659932",
+      "source": "X",
+      "published": "2026-08-08T10:43:52+00:00"
+    },
+    {
+      "text": "Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with the infrastructure to build and deploy AI at scale. Read more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx?ncid=so-twit-338765",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
+      "source": "X",
+      "published": "2026-08-08T10:27:23+00:00"
+    },
+    {
+      "text": "エヌビディア、データセンター開発ランシウムに最大30億ドル出資へ＝報道 http://reut.rs/45fnf04 http://reut.rs/45fnf04",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2085964361718215129",
+      "source": "X",
+      "published": "2026-08-08T05:40:33+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAGeForce: Tomorrow! @robeytech I are going live from @QuakeCon with a system build! Also giving away a GeForce RTX 5070 + a bunch of GeForce Trading Cards! Live at 11AM PT at http://www.twitch.tv/nvidia or http://www.twitch.tv/robeytech!",
+      "author": "@GeForce_JacobF",
+      "link": "https://x.com/GeForce_JacobF/status/2085889882564510102",
+      "source": "X",
+      "published": "2026-08-08T00:44:36+00:00"
+    },
     {
       "text": "Holy crap. @SemiAnalysis_ says Elon Musk's 2027 gigawatt forecast for using Nvidia GPUs is real! \"Yet, we believe that the number is real. We see SpaceX on track to build about 10GW by year-end 2027.\"",
       "author": "@firstadopter",
@@ -182,34 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2085087229567995912",
       "source": "X",
       "published": "2026-08-05T19:35:09+00:00"
-    },
-    {
-      "text": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs. At @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085081013600825387",
-      "source": "X",
-      "published": "2026-08-05T19:10:27+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more: https://nvda.ws/4wFVKst",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085063292070793651",
-      "source": "X",
-      "published": "2026-08-05T18:00:02+00:00"
-    },
-    {
-      "text": "What is RTX Spark? A new era of personal computing starts here.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085063285259309121",
-      "source": "X",
-      "published": "2026-08-05T18:00:00+00:00"
-    },
-    {
-      "text": "Accelerate Your Studies with GeForce RTX Laptops 💻 Skip the computer lab and work from anywhere: 🟢 Search notes and train AI models locally 🟢 Create, edit and render videos faster Learn More: https://nvda.ws/3RWJnZY",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2085052558964375811",
-      "source": "X",
-      "published": "2026-08-05T17:17:23+00:00"
     }
   ]
 }
