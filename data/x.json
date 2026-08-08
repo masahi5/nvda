@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-08T10:57:45+00:00",
+  "updated_at": "2026-08-08T22:58:34+00:00",
   "items": [
+    {
+      "text": "Tune in for a special RTX Play Live with @GeForce_JacobF + @robeytech live from #QuakeCon for a chance to win: 🟢 GeForce RTX 5070 GPU 🟢 GeForce Trading Cards Live at 11AM PT today 📺 http://twitch.tv/nvidia",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2086146982293430766",
+      "source": "X",
+      "published": "2026-08-08T17:46:13+00:00"
+    },
     {
       "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
       "author": "@nvidia",
@@ -9,7 +16,7 @@
       "published": "2026-08-08T10:43:52+00:00"
     },
     {
-      "text": "Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with the infrastructure to build and deploy AI at scale. Read more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx?ncid=so-twit-338765",
+      "text": "RT by @nvidia: Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with the infrastructure to build and deploy AI at scale. Read more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx?ncid=so-twit-338765",
       "author": "@nvidianewsroom",
       "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
       "source": "X",
@@ -21,6 +28,13 @@
       "link": "https://x.com/ReutersJapan/status/2085964361718215129",
       "source": "X",
       "published": "2026-08-08T05:40:33+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAGeForce: Time for the GeForce Garage Case Mod Contest at @QuakeCon! This year the competition is intense! 🤯",
+      "author": "@GeForce_JacobF",
+      "link": "https://x.com/GeForce_JacobF/status/2085925991692587168",
+      "source": "X",
+      "published": "2026-08-08T03:08:05+00:00"
     },
     {
       "text": "RT by @NVIDIAGeForce: Tomorrow! @robeytech I are going live from @QuakeCon with a system build! Also giving away a GeForce RTX 5070 + a bunch of GeForce Trading Cards! Live at 11AM PT at http://www.twitch.tv/nvidia or http://www.twitch.tv/robeytech!",
@@ -37,14 +51,14 @@
       "published": "2026-08-07T20:46:31+00:00"
     },
     {
-      "text": "Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
+      "text": "RT by @Beth_Kindig: Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085816497369178603",
       "source": "X",
       "published": "2026-08-07T19:53:00+00:00"
     },
     {
-      "text": "Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
+      "text": "RT by @Beth_Kindig: Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085807808558084203",
       "source": "X",
@@ -58,7 +72,7 @@
       "published": "2026-08-07T17:52:10+00:00"
     },
     {
-      "text": "AMD $AMD is acquiring chip startup Taalas, which develops specialized chips aiming to reduce computing and memory bottlenecks in inference workloads. AMD is expected to integrate Taalas' tech into its future accelerator roadmap. $NVDA",
+      "text": "RT by @Beth_Kindig: AMD $AMD is acquiring chip startup Taalas, which develops specialized chips aiming to reduce computing and memory bottlenecks in inference workloads. AMD is expected to integrate Taalas' tech into its future accelerator roadmap. $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085775529886597548",
       "source": "X",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidia/status/2085106911964242055",
       "source": "X",
       "published": "2026-08-05T20:53:21+00:00"
-    },
-    {
-      "text": "⚠️ New GeForce Garage Build ⚠️ To celebrate QuakeCon 2026, we're spotlighting last year's grand champion 🏆. Garrison Novak's Meshify rig earned the top spot in the 2025 CaseMod Contest because of its ultra-clean aesthetic & polished finished. ⚒️: HeavyG Mods",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2085102297542021354",
-      "source": "X",
-      "published": "2026-08-05T20:35:01+00:00"
-    },
-    {
-      "text": "The time for local AI is here. So many great models have been released recently, here's a guide from @MiaAI_lab on chaining DGX Sparks together to run them. Drop a pic of your setup and let us know what you're running 👇",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2085087229567995912",
-      "source": "X",
-      "published": "2026-08-05T19:35:09+00:00"
     }
   ]
 }
