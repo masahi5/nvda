@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-09T10:59:28+00:00",
+  "updated_at": "2026-08-09T23:00:26+00:00",
   "items": [
+    {
+      "text": "アップル、中国ＣＸＭＴのメモリー半導体を試験　部品不足で＝ＷＳＪ http://reut.rs/4cxBp0v http://reut.rs/4cxBp0v",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2086582456245776449",
+      "source": "X",
+      "published": "2026-08-09T22:36:39+00:00"
+    },
+    {
+      "text": "Apple、中国CXMTの半導体メモリー採用へ試験　WSJ報道 https://www.nikkei.com/article/DGXZQOGN092FI0Z00C26A8000000/?n_cid=SNSTW001&n_tw=1786308022",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2086553569101054164",
+      "source": "X",
+      "published": "2026-08-09T20:41:51+00:00"
+    },
+    {
+      "text": "NVIDIA半導体の次は「光」か　米中AIサプライチェーン攻防、新局面へ https://www.nikkei.com/article/DGXZQOFL055G4TV00C26A8000000/?n_cid=SNSTW001&n_tw=1786305982",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2086545016411894087",
+      "source": "X",
+      "published": "2026-08-09T20:07:52+00:00"
+    },
     {
       "text": "$NVDA on pace to generate $1 trillion in operating profits between 2026 and 2028. Still wildly undervalued at this level of execution. 👏🏻🚀",
       "author": "@danielnewmanUV",
@@ -44,11 +65,11 @@
       "published": "2026-08-08T00:44:36+00:00"
     },
     {
-      "text": "Holy crap. @SemiAnalysis_ says Elon Musk's 2027 gigawatt forecast for using Nvidia GPUs is real! \"Yet, we believe that the number is real. We see SpaceX on track to build about 10GW by year-end 2027.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2085829965786841306",
+      "text": "RT by @NVIDIAAI: As we prepare for Qwen 3.8 drop, @NVIDIAAI team led the optimizations in vLLM for Qwen 3.5, setting an exceptional foundation for production serving. This deep deep dive show case the optimizations getting to 25K total tokens/s/gpu on GB200 system. https://vllm.ai/blog/2026-08-06-qwen35-25k-tps",
+      "author": "@vllm_project",
+      "link": "https://x.com/vllm_project/status/2085833225776324903",
       "source": "X",
-      "published": "2026-08-07T20:46:31+00:00"
+      "published": "2026-08-07T20:59:28+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2085147268253138946",
       "source": "X",
       "published": "2026-08-05T23:33:43+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: Google's AI tokens processed across its platforms increased from 9.7 trillion in May 2024 to more than 3.2 quadrillion in May 2026, representing nearly 7x YoY growth and increasing demand for AI inference. $GOOG $AVGO $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2085111030577832093",
-      "source": "X",
-      "published": "2026-08-05T21:09:43+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more about world models: https://nvda.ws/45eBZw5",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085106913117688267",
-      "source": "X",
-      "published": "2026-08-05T20:53:22+00:00"
-    },
-    {
-      "text": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085106911964242055",
-      "source": "X",
-      "published": "2026-08-05T20:53:21+00:00"
     }
   ]
 }
