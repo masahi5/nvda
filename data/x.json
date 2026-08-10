@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T15:30:10+00:00",
+  "updated_at": "2026-08-10T16:24:54+00:00",
   "items": [
     {
       "text": "マイクロソフト、自社開発の新ＡＩ半導体を9月発表へ＝報道 http://reut.rs/4cqw235 http://reut.rs/4cqw235",
@@ -56,6 +56,13 @@
       "link": "https://x.com/ReutersJapan/status/2086756508742668431",
       "source": "X",
       "published": "2026-08-10T10:08:16+00:00"
+    },
+    {
+      "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+      "author": "@SemiAnalysis_",
+      "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
+      "source": "X",
+      "published": "2026-08-10T06:13:56+00:00"
     },
     {
       "text": "急騰する半導体株、「双子」ファンドを別物に https://on.wsj.com/4wlqv5k",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2085425673934348676",
       "source": "X",
       "published": "2026-08-06T18:00:00+00:00"
-    },
-    {
-      "text": "Every business has different data, workflows and standards. Its AI should reflect that. Watch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and customize, then improve against the outcomes that matter most.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085418201848971501",
-      "source": "X",
-      "published": "2026-08-06T17:30:19+00:00"
     }
   ]
 }
