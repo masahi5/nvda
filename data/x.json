@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-10T14:17:14+00:00",
+  "updated_at": "2026-08-10T15:30:10+00:00",
   "items": [
+    {
+      "text": "マイクロソフト、自社開発の新ＡＩ半導体を9月発表へ＝報道 http://reut.rs/4cqw235 http://reut.rs/4cqw235",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2086833700419805551",
+      "source": "X",
+      "published": "2026-08-10T15:15:00+00:00"
+    },
+    {
+      "text": "Goldman Sachs' baseline estimate for AI capex from 2026 through 2031 projects annual spending to grow from $765 billion in 2026 to $1.64 trillion in 2031. Cumulative spending is expected to reach $7.6 trillion across compute, data centers, and power infrastructure. $NVDA $AVGO $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2086827839207154065",
+      "source": "X",
+      "published": "2026-08-10T14:51:42+00:00"
+    },
     {
       "text": "インテル、公募増資で2.4兆円規模調達　AI向け半導体に投資 https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786368922",
       "author": "@nikkei",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidia/status/2085418201848971501",
       "source": "X",
       "published": "2026-08-06T17:30:19+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more: https://nvda.ws/4fyJljZ",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085418203115597832",
-      "source": "X",
-      "published": "2026-08-06T17:30:19+00:00"
-    },
-    {
-      "text": "Network automation and autonomous networks aren't the same thing — and the gap between them is where the next generation of telco operations lives. In this video, Amogh Dendukuri breaks down what it takes to get there: agentic AI, closed-loop operations, and an ecosystem building on NVIDIA platforms to make it real.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085381082539594007",
-      "source": "X",
-      "published": "2026-08-06T15:02:49+00:00"
     }
   ]
 }
