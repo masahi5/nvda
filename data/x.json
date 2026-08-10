@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-10T20:07:03+00:00",
+  "updated_at": "2026-08-10T21:00:32+00:00",
   "items": [
+    {
+      "text": "NYダウは反落し60ドル安、原油高を嫌気　エヌビディアが下落 https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/?n_cid=SNSTW001&n_tw=1786394482",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2086916460752883963",
+      "source": "X",
+      "published": "2026-08-10T20:43:51+00:00"
+    },
+    {
+      "text": "米国株式市場＝ナスダック反落、半導体株が安い　ホルムズ海峡巡る合意への期待後退 http://reut.rs/4gs9q3N http://reut.rs/4gs9q3N",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2086911009730502861",
+      "source": "X",
+      "published": "2026-08-10T20:22:12+00:00"
+    },
+    {
+      "text": "Nvidia announces the partnerships. Not many additional details. “NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 billion of third-party capital for the buildout of AI infrastructure over time.” “Under these strategic partnerships, NVIDIA will work with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create dedicated pools of capital at significant scale at attractive rates for NVIDIA customers.” https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2086908814608261557",
+      "source": "X",
+      "published": "2026-08-10T20:13:28+00:00"
+    },
     {
       "text": "エヌビディアと金融大手、5000億ドルのAI資金調達で提携 https://on.wsj.com/3RIgqRL",
       "author": "@WSJJapan",
@@ -65,32 +86,11 @@
       "published": "2026-08-10T16:27:14+00:00"
     },
     {
-      "text": "マイクロソフト、自社開発の新ＡＩ半導体を9月発表へ＝報道 http://reut.rs/4cqw235 http://reut.rs/4cqw235",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2086833700419805551",
-      "source": "X",
-      "published": "2026-08-10T15:15:00+00:00"
-    },
-    {
       "text": "RT by @Beth_Kindig: Goldman Sachs' baseline estimate for AI capex from 2026 through 2031 projects annual spending to grow from $765 billion in 2026 to $1.64 trillion in 2031. Cumulative spending is expected to reach $7.6 trillion across compute, data centers, and power infrastructure. $NVDA $AVGO $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086827839207154065",
       "source": "X",
       "published": "2026-08-10T14:51:42+00:00"
-    },
-    {
-      "text": "インテル、公募増資で2.4兆円規模調達　AI向け半導体に投資 https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786368922",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2086809288769425521",
-      "source": "X",
-      "published": "2026-08-10T13:38:00+00:00"
-    },
-    {
-      "text": "上場企業の稼ぐ力、円安・AI投資が追い風　4〜6月期の純利益7割増 https://www.nikkei.com/article/DGXZQOUB049080U6A800C2000000/?n_cid=SNSTW005&n_tw=1786355330 テック大手による巨額投資の恩恵が幅広い業種に。足元では円安が修正され、半導体関連は中国勢が追い上げています。厳しい競争環境の中で本業の収益力が問われます。",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2086807743516516795",
-      "source": "X",
-      "published": "2026-08-10T13:31:51+00:00"
     },
     {
       "text": "Great to see @AIatMeta back publishing open models 🙌 Muse Glimmer is a 30B open-weight dense model with a 120K+ context window, built for long-running agents, delivering up to 20K tokens/sec on a single GPU. It’s optimized to run locally across NVIDIA edge, desktop, and workstation AI platforms. Try it with our GPU-accelerated endpoint: https://nvda.ws/45ehAYe",
