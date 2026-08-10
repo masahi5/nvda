@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-10T11:29:07+00:00",
+  "updated_at": "2026-08-10T14:17:14+00:00",
   "items": [
+    {
+      "text": "インテル、公募増資で2.4兆円規模調達　AI向け半導体に投資 https://www.nikkei.com/article/DGXZQOGN108530Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786368922",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2086809288769425521",
+      "source": "X",
+      "published": "2026-08-10T13:38:00+00:00"
+    },
+    {
+      "text": "上場企業の稼ぐ力、円安・AI投資が追い風　4〜6月期の純利益7割増 https://www.nikkei.com/article/DGXZQOUB049080U6A800C2000000/?n_cid=SNSTW005&n_tw=1786355330 テック大手による巨額投資の恩恵が幅広い業種に。足元では円安が修正され、半導体関連は中国勢が追い上げています。厳しい競争環境の中で本業の収益力が問われます。",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2086807743516516795",
+      "source": "X",
+      "published": "2026-08-10T13:31:51+00:00"
+    },
+    {
+      "text": "Great to see @AIatMeta back publishing open models 🙌 Muse Glimmer is a 30B open-weight dense model with a 120K+ context window, built for long-running agents, delivering up to 20K tokens/sec on a single GPU. It’s optimized to run locally across NVIDIA edge, desktop, and workstation AI platforms. Try it with our GPU-accelerated endpoint: https://nvda.ws/45ehAYe",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2086807146143076783",
+      "source": "X",
+      "published": "2026-08-10T13:29:29+00:00"
+    },
+    {
+      "text": "急騰する半導体株、「双子」ファンドを別物に 同じ運用方針に見えるインデックスファンドが今年は大きく異なるパフォーマンスを示している。 https://on.wsj.com/3S2MOhP",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2086799801308352625",
+      "source": "X",
+      "published": "2026-08-10T13:00:18+00:00"
+    },
     {
       "text": "韓国、35億ドル半導体基金設立へ　国内製造拠点開発を加速 http://reut.rs/3TKRvgV http://reut.rs/3TKRvgV",
       "author": "@ReutersJapan",
@@ -14,20 +42,6 @@
       "link": "https://x.com/ReutersJapan/status/2086756508742668431",
       "source": "X",
       "published": "2026-08-10T10:08:16+00:00"
-    },
-    {
-      "text": "韓国大統領、半導体拠点整備へ軍用飛行場の早期移転求める http://reut.rs/4g0N7BY http://reut.rs/4g0N7BY",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2086735589185884462",
-      "source": "X",
-      "published": "2026-08-10T08:45:08+00:00"
-    },
-    {
-      "text": "RT by @nikkei: 小型AIスパコン、NVIDIA製25％高　データセンター級を手のひらに https://www.nikkei.com/article/DGXZQOUB10B8O0Q6A210C2000000/?n_cid=SNSTW001&n_tw=1786341022",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2086691980403216653",
-      "source": "X",
-      "published": "2026-08-10T05:51:51+00:00"
     },
     {
       "text": "急騰する半導体株、「双子」ファンドを別物に https://on.wsj.com/4wlqv5k",
@@ -196,20 +210,6 @@
       "link": "https://x.com/nvidia/status/2085381082539594007",
       "source": "X",
       "published": "2026-08-06T15:02:49+00:00"
-    },
-    {
-      "text": "R to @nvidia: 🔗 Learn more at https://nvda.ws/4fRV1NM",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085381085345501467",
-      "source": "X",
-      "published": "2026-08-06T15:02:49+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: QUAD DAMAGE! New Quake III Arena RTX Mod released for @QuakeCon! New maps, models and more!",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2085369057360900288",
-      "source": "X",
-      "published": "2026-08-06T14:15:02+00:00"
     }
   ]
 }
