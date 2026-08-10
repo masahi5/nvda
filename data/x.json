@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-10T17:23:25+00:00",
+  "updated_at": "2026-08-10T18:11:48+00:00",
   "items": [
+    {
+      "text": "Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2086867391326060671",
+      "source": "X",
+      "published": "2026-08-10T17:28:52+00:00"
+    },
     {
       "text": "The article is light on details (so far). But if Nvidia can offload some of the financing risk that's a net positive since the market is skittish about Nvidia leaning too much on its balance sheet. FT: “Wall Street giants partner with Nvidia on $500bn AI financing deal” “A consortium of groups including Apollo Global, Blackstone, BlackRock, Brookfield Asset Management, Goldman Sachs and KKR is entering a partnership with Nvidia to invest in the AI build-out, six people briefed on the talks told the FT. The deal could be announced as soon as Monday, the people said.”",
       "author": "@firstadopter",
@@ -9,7 +16,7 @@
       "published": "2026-08-10T16:48:58+00:00"
     },
     {
-      "text": "Compute is expected to represent the largest share of AI capex from 2026 through 2031 at $5.1 trillion, per Goldman Sachs, followed by physical data center infrastructure and then power. $NVDA $AMD $AVGO",
+      "text": "RT by @Beth_Kindig: Compute is expected to represent the largest share of AI capex from 2026 through 2031 at $5.1 trillion, per Goldman Sachs, followed by physical data center infrastructure and then power. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086852530240188499",
       "source": "X",
@@ -37,7 +44,7 @@
       "published": "2026-08-10T15:15:00+00:00"
     },
     {
-      "text": "Goldman Sachs' baseline estimate for AI capex from 2026 through 2031 projects annual spending to grow from $765 billion in 2026 to $1.64 trillion in 2031. Cumulative spending is expected to reach $7.6 trillion across compute, data centers, and power infrastructure. $NVDA $AVGO $AMD",
+      "text": "RT by @Beth_Kindig: Goldman Sachs' baseline estimate for AI capex from 2026 through 2031 projects annual spending to grow from $765 billion in 2026 to $1.64 trillion in 2031. Cumulative spending is expected to reach $7.6 trillion across compute, data centers, and power infrastructure. $NVDA $AVGO $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086827839207154065",
       "source": "X",
@@ -203,13 +210,6 @@
       "link": "https://x.com/GeForce_JacobF/status/2085527700807033039",
       "source": "X",
       "published": "2026-08-07T00:45:25+00:00"
-    },
-    {
-      "text": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2085485069226106891",
-      "source": "X",
-      "published": "2026-08-06T21:56:01+00:00"
     }
   ]
 }
