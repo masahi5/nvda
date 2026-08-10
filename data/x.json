@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-10T16:24:54+00:00",
+  "updated_at": "2026-08-10T17:23:25+00:00",
   "items": [
+    {
+      "text": "The article is light on details (so far). But if Nvidia can offload some of the financing risk that's a net positive since the market is skittish about Nvidia leaning too much on its balance sheet. FT: “Wall Street giants partner with Nvidia on $500bn AI financing deal” “A consortium of groups including Apollo Global, Blackstone, BlackRock, Brookfield Asset Management, Goldman Sachs and KKR is entering a partnership with Nvidia to invest in the AI build-out, six people briefed on the talks told the FT. The deal could be announced as soon as Monday, the people said.”",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2086857350149754901",
+      "source": "X",
+      "published": "2026-08-10T16:48:58+00:00"
+    },
+    {
+      "text": "Compute is expected to represent the largest share of AI capex from 2026 through 2031 at $5.1 trillion, per Goldman Sachs, followed by physical data center infrastructure and then power. $NVDA $AMD $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2086852530240188499",
+      "source": "X",
+      "published": "2026-08-10T16:29:49+00:00"
+    },
+    {
+      "text": "The world’s largest financial groups are working with Nvidia $NVDA to assemble a $500 Billion funding package for AI infrastructure development A consortium of groups including Apollo Global, Blackstone, BlackRock’s Global Infrastructure Partners unit, Brookfield Asset Management, Goldman Sachs and KKR is entering a partnership with Nvidia to invest in the AI build-out - Financial Times",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2086852105462030634",
+      "source": "X",
+      "published": "2026-08-10T16:28:08+00:00"
+    },
+    {
+      "text": "☀️ Summer of RTX Laptop Week ☀️ Today's prize spotlight: GIGABYTE AORUS MASTER GeForce RTX 5080. What are you powering up first? 🎮 Game 🎨 Creative app 🤖 Local AI project Tell us below with #RTXPowersPlay!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2086851878936023264",
+      "source": "X",
+      "published": "2026-08-10T16:27:14+00:00"
+    },
     {
       "text": "マイクロソフト、自社開発の新ＡＩ半導体を9月発表へ＝報道 http://reut.rs/4cqw235 http://reut.rs/4cqw235",
       "author": "@ReutersJapan",
@@ -49,13 +77,6 @@
       "link": "https://x.com/ReutersJapan/status/2086774815008969109",
       "source": "X",
       "published": "2026-08-10T11:21:00+00:00"
-    },
-    {
-      "text": "米共和党重鎮、制裁対象の中国企業への先端半導体流出阻止を要請 http://reut.rs/4z9BukQ http://reut.rs/4z9BukQ",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2086756508742668431",
-      "source": "X",
-      "published": "2026-08-10T10:08:16+00:00"
     },
     {
       "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2085485069226106891",
       "source": "X",
       "published": "2026-08-06T21:56:01+00:00"
-    },
-    {
-      "text": "🎒 Back-to-school laptop deals 🎒 Shop student-recommended GeForce RTX 50 Series laptops for all student needs. Shop Amazon deals → https://nvda.ws/3U0Yh22",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2085444321369522442",
-      "source": "X",
-      "published": "2026-08-06T19:14:06+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: 30 Years of @QuakeCon starts now! GeForce Trading Cards, Quake III RTX Remix, GeForce Swag and more! Let's go! 🚀🚀",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2085437150191919355",
-      "source": "X",
-      "published": "2026-08-06T18:45:36+00:00"
-    },
-    {
-      "text": "PC gaming history in your hands 🙌 Featured in GeForce Trading Cards Series 1: 🟢 GeForce 256: the world’s first GPU 🟢 GeForce3: programmable shaders 🟢 GeForce GTX 1080: Pascal power Comment #CollectRTX for a chance to WIN a pack, or find us @QuakeCon IRL this weekend!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2085425673934348676",
-      "source": "X",
-      "published": "2026-08-06T18:00:00+00:00"
     }
   ]
 }
