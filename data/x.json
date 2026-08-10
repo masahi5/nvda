@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-08-10T18:11:48+00:00",
+  "updated_at": "2026-08-10T19:16:08+00:00",
   "items": [
     {
-      "text": "Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
+      "text": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋 http://reut.rs/3S6r199 http://reut.rs/3S6r199",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2086882006932017500",
+      "source": "X",
+      "published": "2026-08-10T18:26:57+00:00"
+    },
+    {
+      "text": "RT by @Beth_Kindig: Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086867391326060671",
       "source": "X",
@@ -16,7 +23,7 @@
       "published": "2026-08-10T16:48:58+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Compute is expected to represent the largest share of AI capex from 2026 through 2031 at $5.1 trillion, per Goldman Sachs, followed by physical data center infrastructure and then power. $NVDA $AMD $AVGO",
+      "text": "Compute is expected to represent the largest share of AI capex from 2026 through 2031 at $5.1 trillion, per Goldman Sachs, followed by physical data center infrastructure and then power. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086852530240188499",
       "source": "X",
@@ -149,14 +156,14 @@
       "published": "2026-08-07T20:59:28+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
+      "text": "Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085816497369178603",
       "source": "X",
       "published": "2026-08-07T19:53:00+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
+      "text": "Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085807808558084203",
       "source": "X",
@@ -170,7 +177,7 @@
       "published": "2026-08-07T17:52:10+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: AMD $AMD is acquiring chip startup Taalas, which develops specialized chips aiming to reduce computing and memory bottlenecks in inference workloads. AMD is expected to integrate Taalas' tech into its future accelerator roadmap. $NVDA",
+      "text": "AMD $AMD is acquiring chip startup Taalas, which develops specialized chips aiming to reduce computing and memory bottlenecks in inference workloads. AMD is expected to integrate Taalas' tech into its future accelerator roadmap. $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2085775529886597548",
       "source": "X",
@@ -203,13 +210,6 @@
       "link": "https://x.com/aiDotEngineer/status/2085539599343051155",
       "source": "X",
       "published": "2026-08-07T01:32:42+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Gears of War: E-Day Multiplayer Beta shots! Captured at 4K DLSS with maxed out AKA Ludicrous settings!",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2085527700807033039",
-      "source": "X",
-      "published": "2026-08-07T00:45:25+00:00"
     }
   ]
 }
