@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-10T21:00:32+00:00",
+  "updated_at": "2026-08-10T21:56:17+00:00",
   "items": [
+    {
+      "text": "NEWS: NVIDIA is partnering with @apolloglobal, @BlackRock, @blackstone, @brookfield, @GoldmanSachs and @KKR_Co to establish AI compute infrastructure financing platforms to mobilize over $500B of third-party capital. Read the release: https://nvda.ws/4wSHJI4",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2086920814520066549",
+      "source": "X",
+      "published": "2026-08-10T21:01:09+00:00"
+    },
     {
       "text": "NYダウは反落し60ドル安、原油高を嫌気　エヌビディアが下落 https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/?n_cid=SNSTW001&n_tw=1786394482",
       "author": "@nikkei",
@@ -203,13 +210,6 @@
       "link": "https://x.com/GeForce_JacobF/status/2085554250990440757",
       "source": "X",
       "published": "2026-08-07T02:30:55+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Live now: our Local AI Track from AI Engineer World's Fair 2026, brought to you by @nvidia. Thesis: frontier intelligence is becoming something you own. https://www.youtube.com/watch?v=KB41dTlX1Uc&list=PLS3limeMxDOQ - State of the Union: @josephofiowa + @alexocheema + @TheAhmadOsman + @MatthewBerman, with @naderlikeladder - The Desktop Frontier: @TheAhmadOsman, Osmantic - Local Models: Vincent Weisser + @latkins + @llm_wizard, with @Baxate - Compression at the Edge: @danielhanchen + Asma Beevi + @mervenoyann + Parth Sareen, with @llm_wizard - Model Routing: @walden_yan + Tanay Varshney + @alexatallah, with @naderlikeladder",
-      "author": "@aiDotEngineer",
-      "link": "https://x.com/aiDotEngineer/status/2085539599343051155",
-      "source": "X",
-      "published": "2026-08-07T01:32:42+00:00"
     }
   ]
 }
