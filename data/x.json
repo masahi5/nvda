@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-11T22:02:50+00:00",
+  "updated_at": "2026-08-11T23:12:42+00:00",
   "items": [
+    {
+      "text": "日本半導体産業、外資進出で生産基盤に厚み　投資額6兆円規模に https://www.nikkei.com/article/DGXZQOUC100GW0Q6A810C2000000/?n_cid=SNSTW006&n_tw=1786487479",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2087306530961924473",
+      "source": "X",
+      "published": "2026-08-11T22:33:51+00:00"
+    },
     {
       "text": "AKA A metric shit ton of $NVDA",
       "author": "@danielnewmanUV",
@@ -168,13 +175,6 @@
       "link": "https://x.com/firstadopter/status/2086995375102038464",
       "source": "X",
       "published": "2026-08-11T01:57:26+00:00"
-    },
-    {
-      "text": "Nvidia Scores $500 Billion in Financing for Its Customers. That's A Lot. https://taekim.substack.com/p/nvidia-scores-500-billion-in-financing",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2086991508071190673",
-      "source": "X",
-      "published": "2026-08-11T01:42:04+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: Motif 3 is officially here. Today, we’re releasing Motif 3 Base and Motif 3. Motif 3 Base is our pretrained foundation model, while Motif 3 is built on top of it with post-training using NVIDIA NeMo-RL. Both models were developed with the support of Korea's Ministry of Science and trained on NVIDIA B200 GPUs. With Motif 3, we’re taking our first step into the frontier LLM race. There’s still a long way to go, but we believe we’ve built a model that deserves to be in the race. We’ve shared the details in our technical report and blog post. In collaboration with NVIDIA, we’re also releasing an NVFP4 version of Motif 3. All models will be available on Hugging Face. Links are in the comments.",
