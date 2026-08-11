@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-11T20:09:19+00:00",
+  "updated_at": "2026-08-11T21:02:06+00:00",
   "items": [
+    {
+      "text": "Man, this Jensen guy may know something about the current state of the AI infrastructure ramp",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087279303453036757",
+      "source": "X",
+      "published": "2026-08-11T20:45:40+00:00"
+    },
+    {
+      "text": "ＩＢＭとスタートアップが2.4億ドル契約、エヌビディア半導体でＡＩ基盤構築 http://reut.rs/4zdboNK http://reut.rs/4zdboNK",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2087276058324140484",
+      "source": "X",
+      "published": "2026-08-11T20:32:46+00:00"
+    },
     {
       "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
       "author": "@NVIDIAAI",
@@ -51,18 +65,11 @@
       "published": "2026-08-11T16:00:21+00:00"
     },
     {
-      "text": "The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
+      "text": "RT by @Beth_Kindig: The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2087197597769642350",
       "source": "X",
       "published": "2026-08-11T15:21:00+00:00"
-    },
-    {
-      "text": "主要企業の４〜６月期決算を深読み　レゾナックは半導体メーカーに脱皮 https://www.nikkei.com/article/DGXZQOUB1071I0Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786457242",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2087179694206500911",
-      "source": "X",
-      "published": "2026-08-11T14:09:51+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: The @NVIDIAAI team delivered a model and routing library that matches frontier performance all while cutting our observed costs by 59% and runtime by 32%. Really remarkable, never been a more fun time to be building applications.",
@@ -114,7 +121,7 @@
       "published": "2026-08-11T13:41:43+00:00"
     },
     {
-      "text": "Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
+      "text": "RT by @Beth_Kindig: Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2087172180249600325",
       "source": "X",
@@ -126,13 +133,6 @@
       "link": "https://x.com/firstadopter/status/2087168860038250651",
       "source": "X",
       "published": "2026-08-11T13:26:48+00:00"
-    },
-    {
-      "text": "The 🇺🇸 Army awarded Raytheon $RTX owned Collins Aerospace worth up to $472 million to provide engineering services that support the modernization and sustainment of the CH‑47 Chinook fleet",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2087165473729200448",
-      "source": "X",
-      "published": "2026-08-11T13:13:21+00:00"
     },
     {
       "text": "Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.",
@@ -177,7 +177,7 @@
       "published": "2026-08-10T23:21:34+00:00"
     },
     {
-      "text": "SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
+      "text": "RT by @Beth_Kindig: SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086946630448644508",
       "source": "X",
