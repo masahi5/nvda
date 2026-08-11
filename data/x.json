@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-11T19:26:24+00:00",
+  "updated_at": "2026-08-11T20:09:19+00:00",
   "items": [
+    {
+      "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087258724654284971",
+      "source": "X",
+      "published": "2026-08-11T19:23:54+00:00"
+    },
     {
       "text": "Anthropic is working with Macquarie and Singapore’s GIC to set up a new data center firm, Theseus Infrastructure, which will develop, operate and lease data center capacity to support Anthropic’s rising capacity needs, starting in the US. $AMZN $GOOG $NVDA",
       "author": "@Beth_Kindig",
@@ -79,13 +86,6 @@
       "published": "2026-08-11T13:46:10+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Not every step in an agent workflow needs the same model. That’s why we’re also releasing NVIDIA NeMo Switchyard, a new open source library for model routing. Use frontier models for complex reasoning and planning, and Lightning for high-volume, specialized execution. Learn more: https://nvda.ws/457eK7l",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087173417329963016",
-      "source": "X",
-      "published": "2026-08-11T13:44:55+00:00"
-    },
-    {
       "text": "NVIDIA $NVDA JUST RELEASED NEMOTRON 3.5 LIGHTNING, ITS MOST EFFICIENT MODEL YET FOR LONG-RUNNING AI AGENTS The 30-billion-parameter mixture-of-experts model is built for specialized tasks inside larger multi-agent systems, following the earlier Nemotron 3 Nano release. Alongside it, NVIDIA released NeMo Switchyard, an open source library that intelligently routes each request to the most capable model for the job, without developers having to rewrite their applications.",
       "author": "@StockMKTNewz",
       "link": "https://x.com/StockMKTNewz/status/2087173289420415123",
@@ -142,13 +142,6 @@
       "published": "2026-08-11T13:00:09+00:00"
     },
     {
-      "text": "IBM $IBM JUST SIGNED A $240M MULTI-YEAR DEAL WITH TOGETHER AI TO DEPLOY THE FIRST LARGE-SCALE INFERENCE CLUSTER OF ITS KIND ON IBM CLOUD The cluster runs on NVIDIA $NVDA HGX B300 systems and Spectrum-X Ethernet networking, expected to be available in Q1 2027. It's the first dedicated, large-scale cluster built for inference on IBM Cloud using this hardware, and NVIDIA says it's built to deliver 30x more AI factory output than prior generations. Together AI will use it to run inference for open-source models. The company recently raised an $800M Series C round at an $8.3 billion valuation and says it's now serving 400 trillion tokens monthly.",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2087148842596651342",
-      "source": "X",
-      "published": "2026-08-11T12:07:16+00:00"
-    },
-    {
       "text": "$500 billion will likely go mainly to neoclouds/OpenAI/Anthropic/SpaceX and NOT the top three hyperscalers (Amazon, Microsoft, Google). Jensen just figured out a way to rapidly level up the smaller guys against the hyperscalers with their ASICs.",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2086995375102038464",
@@ -184,7 +177,7 @@
       "published": "2026-08-10T23:21:34+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
+      "text": "SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086946630448644508",
       "source": "X",
@@ -210,6 +203,13 @@
       "link": "https://x.com/nvidia/status/2086936400830861440",
       "source": "X",
       "published": "2026-08-10T22:03:06+00:00"
+    },
+    {
+      "text": "NEWS: NVIDIA is partnering with @apolloglobal, @BlackRock, @blackstone, @brookfield, @GoldmanSachs and @KKR_Co to establish AI compute infrastructure financing platforms to mobilize over $500B of third-party capital. Read the release: https://nvda.ws/4wSHJI4",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2086920814520066549",
+      "source": "X",
+      "published": "2026-08-10T21:01:09+00:00"
     }
   ]
 }
