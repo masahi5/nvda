@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-08-11T11:11:44+00:00",
+  "updated_at": "2026-08-11T14:15:33+00:00",
   "items": [
+    {
+      "text": "主要企業の４〜６月期決算を深読み　レゾナックは半導体メーカーに脱皮 https://www.nikkei.com/article/DGXZQOUB1071I0Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786457242",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2087179694206500911",
+      "source": "X",
+      "published": "2026-08-11T14:09:51+00:00"
+    },
+    {
+      "text": "Nvidia may have foreshadowed the hyperscaler hammer back when it reported earnings and changed its segment reporting: \"Following the rapid evolution in our businesses, we are transitioning to a new reporting framework that better reflects our current and future growth drivers. We will have two market platforms – Data Center and Edge Computing. Within Data Center, we will report two sub-markets, Hyperscale and ACIE which incorporates AI Clouds, Industrial, and Enterprise. Hyperscale will include revenue from the public clouds and the world’s largest consumer internet companies, while ACIE addresses our growth opportunity in diverse AI purpose-built data centers and AI factories across industries and countries.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087174224548966640",
+      "source": "X",
+      "published": "2026-08-11T13:48:07+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: As always, NVIDIA Nemotron 3.5 Lightning is open and customizable. This includes weights, data and recipes. Available now on @huggingface 🤗 → https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087173733823680855",
+      "source": "X",
+      "published": "2026-08-11T13:46:10+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Not every step in an agent workflow needs the same model. That’s why we’re also releasing NVIDIA NeMo Switchyard, a new open source library for model routing. Use frontier models for complex reasoning and planning, and Lightning for high-volume, specialized execution. Learn more: https://nvda.ws/457eK7l",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087173417329963016",
+      "source": "X",
+      "published": "2026-08-11T13:44:55+00:00"
+    },
+    {
+      "text": "NVIDIA $NVDA JUST RELEASED NEMOTRON 3.5 LIGHTNING, ITS MOST EFFICIENT MODEL YET FOR LONG-RUNNING AI AGENTS The 30-billion-parameter mixture-of-experts model is built for specialized tasks inside larger multi-agent systems, following the earlier Nemotron 3 Nano release. Alongside it, NVIDIA released NeMo Switchyard, an open source library that intelligently routes each request to the most capable model for the job, without developers having to rewrite their applications.",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2087173289420415123",
+      "source": "X",
+      "published": "2026-08-11T13:44:24+00:00"
+    },
+    {
+      "text": "Following the Nvidia $500 billion financing news. Coreweave and Nebius UP, Amazon/Google/Microsoft DOWN. The stock market is making sense for once.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087173234911232357",
+      "source": "X",
+      "published": "2026-08-11T13:44:11+00:00"
+    },
+    {
+      "text": "Today, NVIDIA announced Nemotron 3.5 Lightning and NeMo Switchyard — two new open technologies for building faster, more efficient AI systems that can use the right model for each task. Together, they give developers greater control over how and where AI runs.  ⬇️",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2087172786141733067",
+      "source": "X",
+      "published": "2026-08-11T13:42:24+00:00"
+    },
+    {
+      "text": "Pinned: Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087172614896988545",
+      "source": "X",
+      "published": "2026-08-11T13:41:43+00:00"
+    },
+    {
+      "text": "Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087172180249600325",
+      "source": "X",
+      "published": "2026-08-11T13:40:00+00:00"
+    },
+    {
+      "text": "Oh. Morgan Stanley: \"We should note also that there are other media reports that tend to inflate the perception of off balance sheet risk, talking about large credit deals that haven't happened yet that are intended to play out over a decade. We will evaluate those as they happen, but we do believe that NVIDIA remains conservative in terms of these exposures.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087168860038250651",
+      "source": "X",
+      "published": "2026-08-11T13:26:48+00:00"
+    },
+    {
+      "text": "The 🇺🇸 Army awarded Raytheon $RTX owned Collins Aerospace worth up to $472 million to provide engineering services that support the modernization and sustainment of the CH‑47 Chinook fleet",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2087165473729200448",
+      "source": "X",
+      "published": "2026-08-11T13:13:21+00:00"
+    },
+    {
+      "text": "Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
+      "source": "X",
+      "published": "2026-08-11T13:00:09+00:00"
+    },
+    {
+      "text": "IBM $IBM JUST SIGNED A $240M MULTI-YEAR DEAL WITH TOGETHER AI TO DEPLOY THE FIRST LARGE-SCALE INFERENCE CLUSTER OF ITS KIND ON IBM CLOUD The cluster runs on NVIDIA $NVDA HGX B300 systems and Spectrum-X Ethernet networking, expected to be available in Q1 2027. It's the first dedicated, large-scale cluster built for inference on IBM Cloud using this hardware, and NVIDIA says it's built to deliver 30x more AI factory output than prior generations. Together AI will use it to run inference for open-source models. The company recently raised an $800M Series C round at an $8.3 billion valuation and says it's now serving 400 trillion tokens monthly.",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2087148842596651342",
+      "source": "X",
+      "published": "2026-08-11T12:07:16+00:00"
+    },
     {
       "text": "$500 billion will likely go mainly to neoclouds/OpenAI/Anthropic/SpaceX and NOT the top three hyperscalers (Amazon, Microsoft, Google). Jensen just figured out a way to rapidly level up the smaller guys against the hyperscalers with their ASICs.",
       "author": "@firstadopter",
@@ -44,7 +135,7 @@
       "published": "2026-08-10T22:56:58+00:00"
     },
     {
-      "text": "SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
+      "text": "RT by @Beth_Kindig: SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086946630448644508",
       "source": "X",
@@ -86,21 +177,14 @@
       "published": "2026-08-10T20:13:28+00:00"
     },
     {
-      "text": "All these stocks hit new 52 WEEK HIGHS at some point today Berkshire Hathaway $BRK.B CrowdStrike $CRWD Palo Alto $PANW Airbnb $ABNB Snowflake $SNOW Bank of America $BAC Target $TGT HP $HPQ SentinelOne $S Dexcom $DXCM James Hardie $JHX Everpure $P 10X Genomics $TXG Fastenal $FAST Halozyme Therapeutics $HALO BioMarin Pharmaceuticals $BMRN Charles Schwab $SCHW Fluor Corp $FLR Bio-Techne $TECH Twilio $TWLO Vertex Pharmaceuticals $VRTX Acadia Pharmaceuticals $ACAD RTX Corp $RTX NetApp $NTAP Natera $NTRA Cheesecake Factory $CAKE Twist Bioscience $TWST Hinge Health $HNGE Victoria's Secret $VSXY Revolution Medicines $RVMD Crinetics Pharmaceuticals $CRNX RingCentral $RNG Liquidia Corp $LQDA ATI Inc $ATI Ternium $TX Oruka Therapeutics $ORKA Charles River Laboratories $CRL Cactus Inc $WHD Victory Capital $VCTR HealthEquity $HQY Laboratory Corp of America $LH Garmin $GRMN Protagonist $PTGX Enact $ACT Science Applications International $SAIC Reliance $RS Teledyne $TDY Bio-Rad $BIO NewMarket $NEU",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2086894604557639788",
-      "source": "X",
-      "published": "2026-08-10T19:17:01+00:00"
-    },
-    {
-      "text": "CoreWeave $CRWV is expanding into Indonesia with three facilities in the country totaling 360MW, marking its first data center presence in the APAC region. $NVDA $AMD",
+      "text": "RT by @Beth_Kindig: CoreWeave $CRWV is expanding into Indonesia with three facilities in the country totaling 360MW, marking its first data center presence in the APAC region. $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086893980763988227",
       "source": "X",
       "published": "2026-08-10T19:14:32+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
+      "text": "Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2086867391326060671",
       "source": "X",
@@ -121,95 +205,11 @@
       "published": "2026-08-10T16:29:49+00:00"
     },
     {
-      "text": "The world’s largest financial groups are working with Nvidia $NVDA to assemble a $500 Billion funding package for AI infrastructure development A consortium of groups including Apollo Global, Blackstone, BlackRock’s Global Infrastructure Partners unit, Brookfield Asset Management, Goldman Sachs and KKR is entering a partnership with Nvidia to invest in the AI build-out - Financial Times",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2086852105462030634",
-      "source": "X",
-      "published": "2026-08-10T16:28:08+00:00"
-    },
-    {
       "text": "☀️ Summer of RTX Laptop Week ☀️ Today's prize spotlight: GIGABYTE AORUS MASTER GeForce RTX 5080. What are you powering up first? 🎮 Game 🎨 Creative app 🤖 Local AI project Tell us below with #RTXPowersPlay!",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2086851878936023264",
       "source": "X",
       "published": "2026-08-10T16:27:14+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: Goldman Sachs' baseline estimate for AI capex from 2026 through 2031 projects annual spending to grow from $765 billion in 2026 to $1.64 trillion in 2031. Cumulative spending is expected to reach $7.6 trillion across compute, data centers, and power infrastructure. $NVDA $AVGO $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2086827839207154065",
-      "source": "X",
-      "published": "2026-08-10T14:51:42+00:00"
-    },
-    {
-      "text": "Great to see @AIatMeta back publishing open models 🙌 Muse Glimmer is a 30B open-weight dense model with a 120K+ context window, built for long-running agents, delivering up to 20K tokens/sec on a single GPU. It’s optimized to run locally across NVIDIA edge, desktop, and workstation AI platforms. Try it with our GPU-accelerated endpoint: https://nvda.ws/45ehAYe",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2086807146143076783",
-      "source": "X",
-      "published": "2026-08-10T13:29:29+00:00"
-    },
-    {
-      "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
-      "author": "@SemiAnalysis_",
-      "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
-      "source": "X",
-      "published": "2026-08-10T06:13:56+00:00"
-    },
-    {
-      "text": "Tune in for a special RTX Play Live with @GeForce_JacobF + @robeytech live from #QuakeCon for a chance to win: 🟢 GeForce RTX 5070 GPU 🟢 GeForce Trading Cards Live at 11AM PT today 📺 http://twitch.tv/nvidia",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2086146982293430766",
-      "source": "X",
-      "published": "2026-08-08T17:46:13+00:00"
-    },
-    {
-      "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2086040693596659932",
-      "source": "X",
-      "published": "2026-08-08T10:43:52+00:00"
-    },
-    {
-      "text": "RT by @nvidia: Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with the infrastructure to build and deploy AI at scale. Read more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx?ncid=so-twit-338765",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
-      "source": "X",
-      "published": "2026-08-08T10:27:23+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Time for the GeForce Garage Case Mod Contest at @QuakeCon! This year the competition is intense! 🤯",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2085925991692587168",
-      "source": "X",
-      "published": "2026-08-08T03:08:05+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Tomorrow! @robeytech I are going live from @QuakeCon with a system build! Also giving away a GeForce RTX 5070 + a bunch of GeForce Trading Cards! Live at 11AM PT at http://www.twitch.tv/nvidia or http://www.twitch.tv/robeytech!",
-      "author": "@GeForce_JacobF",
-      "link": "https://x.com/GeForce_JacobF/status/2085889882564510102",
-      "source": "X",
-      "published": "2026-08-08T00:44:36+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: As we prepare for Qwen 3.8 drop, @NVIDIAAI team led the optimizations in vLLM for Qwen 3.5, setting an exceptional foundation for production serving. This deep deep dive show case the optimizations getting to 25K total tokens/s/gpu on GB200 system. https://vllm.ai/blog/2026-08-06-qwen35-25k-tps",
-      "author": "@vllm_project",
-      "link": "https://x.com/vllm_project/status/2085833225776324903",
-      "source": "X",
-      "published": "2026-08-07T20:59:28+00:00"
-    },
-    {
-      "text": "Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2085816497369178603",
-      "source": "X",
-      "published": "2026-08-07T19:53:00+00:00"
-    },
-    {
-      "text": "Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2085807808558084203",
-      "source": "X",
-      "published": "2026-08-07T19:18:28+00:00"
     }
   ]
 }
