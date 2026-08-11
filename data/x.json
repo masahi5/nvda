@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-08-10T23:07:10+00:00",
+  "updated_at": "2026-08-11T11:11:44+00:00",
   "items": [
     {
-      "text": "急騰する半導体株、「双子」ファンドを別物に https://on.wsj.com/4zcfuFX",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2086950804372459898",
+      "text": "$500 billion will likely go mainly to neoclouds/OpenAI/Anthropic/SpaceX and NOT the top three hyperscalers (Amazon, Microsoft, Google). Jensen just figured out a way to rapidly level up the smaller guys against the hyperscalers with their ASICs.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2086995375102038464",
       "source": "X",
-      "published": "2026-08-10T23:00:20+00:00"
+      "published": "2026-08-11T01:57:26+00:00"
+    },
+    {
+      "text": "Nvidia Scores $500 Billion in Financing for Its Customers. That's A Lot. https://taekim.substack.com/p/nvidia-scores-500-billion-in-financing",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2086991508071190673",
+      "source": "X",
+      "published": "2026-08-11T01:42:04+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: Motif 3 is officially here. Today, we’re releasing Motif 3 Base and Motif 3. Motif 3 Base is our pretrained foundation model, while Motif 3 is built on top of it with post-training using NVIDIA NeMo-RL. Both models were developed with the support of Korea's Ministry of Science and trained on NVIDIA B200 GPUs. With Motif 3, we’re taking our first step into the frontier LLM race. There’s still a long way to go, but we believe we’ve built a model that deserves to be in the race. We’ve shared the details in our technical report and blog post. In collaboration with NVIDIA, we’re also releasing an NVFP4 version of Motif 3. All models will be available on Hugging Face. Links are in the comments.",
+      "author": "@motif_tech",
+      "link": "https://x.com/motif_tech/status/2086985187779649977",
+      "source": "X",
+      "published": "2026-08-11T01:16:57+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: This is a big moment for computing and @NVIDIA. We’ve made the leap from building chips to creating a new investable asset class: AI factory infrastructure. Every company will be powered by it. Every country will build it. Thanks to Larry Fink of @BlackRock, Jon Gray of @blackstone, Bruce Flatt of @Brookfield, David Solomon of @GoldmanSachs, Jim Zelter of @apolloglobal, and Waldemar Szlezak of @KKR_Co for joining me in this historic partnership to build the infrastructure of the AI industrial revolution.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2086976424326693185",
+      "source": "X",
+      "published": "2026-08-11T00:42:08+00:00"
+    },
+    {
+      "text": "Kings of Finance, if you're going to raise hundreds of billions in capital, at least learn how to pronounce Nvidia?! Come on",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2086956151267021164",
+      "source": "X",
+      "published": "2026-08-10T23:21:34+00:00"
     },
     {
       "text": "Nvidia $NVDA CEO Jensen Huang just answered this question ... Is this circular financing? \"This initiative is designed to address that concern. We are bringing independent, long-term institutional capital into the AI infrastructure market. The demand is real: it comes from frontier AI labs, AI-native startups, enterprises, cloud providers and countries building AI services. The capital providers independently underwrite each project — including the customer, demand, utilization, cash flow and residual value. NVIDIA provides the platform; the investors make independent financing decisions. This is the beginning of an open capital market for AI infrastructure.\"",
@@ -30,13 +58,6 @@
       "published": "2026-08-10T22:38:18+00:00"
     },
     {
-      "text": "NVIDIAと金融6社、外部から80兆円調達　AIデータセンター構築支援 https://www.nikkei.com/article/DGXZQOGN108UK0Q6A810C2000000/?n_cid=SNSTW001&n_tw=1786399942",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2086939108732018891",
-      "source": "X",
-      "published": "2026-08-10T22:13:51+00:00"
-    },
-    {
       "text": "R to @nvidia: Read the full announcement: https://nvda.ws/4wnPm8C",
       "author": "@nvidia",
       "link": "https://x.com/nvidia/status/2086936432191705300",
@@ -58,32 +79,11 @@
       "published": "2026-08-10T21:01:09+00:00"
     },
     {
-      "text": "NYダウは反落し60ドル安、原油高を嫌気　エヌビディアが下落 https://www.nikkei.com/article/DGXZQOFL1100I0R10C26A8000000/?n_cid=SNSTW001&n_tw=1786394482",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2086916460752883963",
-      "source": "X",
-      "published": "2026-08-10T20:43:51+00:00"
-    },
-    {
-      "text": "米国株式市場＝ナスダック反落、半導体株が安い　ホルムズ海峡巡る合意への期待後退 http://reut.rs/4gs9q3N http://reut.rs/4gs9q3N",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2086911009730502861",
-      "source": "X",
-      "published": "2026-08-10T20:22:12+00:00"
-    },
-    {
       "text": "Nvidia announces the partnerships. Not many additional details. “NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 billion of third-party capital for the buildout of AI infrastructure over time.” “Under these strategic partnerships, NVIDIA will work with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create dedicated pools of capital at significant scale at attractive rates for NVIDIA customers.” https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2086908814608261557",
       "source": "X",
       "published": "2026-08-10T20:13:28+00:00"
-    },
-    {
-      "text": "エヌビディアと金融大手、5000億ドルのAI資金調達で提携 https://on.wsj.com/3RIgqRL",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2086897073740255724",
-      "source": "X",
-      "published": "2026-08-10T19:26:49+00:00"
     },
     {
       "text": "All these stocks hit new 52 WEEK HIGHS at some point today Berkshire Hathaway $BRK.B CrowdStrike $CRWD Palo Alto $PANW Airbnb $ABNB Snowflake $SNOW Bank of America $BAC Target $TGT HP $HPQ SentinelOne $S Dexcom $DXCM James Hardie $JHX Everpure $P 10X Genomics $TXG Fastenal $FAST Halozyme Therapeutics $HALO BioMarin Pharmaceuticals $BMRN Charles Schwab $SCHW Fluor Corp $FLR Bio-Techne $TECH Twilio $TWLO Vertex Pharmaceuticals $VRTX Acadia Pharmaceuticals $ACAD RTX Corp $RTX NetApp $NTAP Natera $NTRA Cheesecake Factory $CAKE Twist Bioscience $TWST Hinge Health $HNGE Victoria's Secret $VSXY Revolution Medicines $RVMD Crinetics Pharmaceuticals $CRNX RingCentral $RNG Liquidia Corp $LQDA ATI Inc $ATI Ternium $TX Oruka Therapeutics $ORKA Charles River Laboratories $CRL Cactus Inc $WHD Victory Capital $VCTR HealthEquity $HQY Laboratory Corp of America $LH Garmin $GRMN Protagonist $PTGX Enact $ACT Science Applications International $SAIC Reliance $RS Teledyne $TDY Bio-Rad $BIO NewMarket $NEU",
@@ -98,13 +98,6 @@
       "link": "https://x.com/Beth_Kindig/status/2086893980763988227",
       "source": "X",
       "published": "2026-08-10T19:14:32+00:00"
-    },
-    {
-      "text": "米金融各社とエヌビディア、5000億ドルのＡＩ資金調達で提携＝関係筋 http://reut.rs/3S6r199 http://reut.rs/3S6r199",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2086882006932017500",
-      "source": "X",
-      "published": "2026-08-10T18:26:57+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: Anthropic has signed a $10 billion deal with AI infrastructure startup Volta Infra, with the six year deal covering 133MW of $NVDA Vera Rubin capacity, with phase 1 targeted by year-end. $GOOG $AVGO",
@@ -156,13 +149,6 @@
       "published": "2026-08-10T13:29:29+00:00"
     },
     {
-      "text": "急騰する半導体株、「双子」ファンドを別物に 同じ運用方針に見えるインデックスファンドが今年は大きく異なるパフォーマンスを示している。 https://on.wsj.com/3S2MOhP",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2086799801308352625",
-      "source": "X",
-      "published": "2026-08-10T13:00:18+00:00"
-    },
-    {
       "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
       "author": "@SemiAnalysis_",
       "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
@@ -210,6 +196,20 @@
       "link": "https://x.com/vllm_project/status/2085833225776324903",
       "source": "X",
       "published": "2026-08-07T20:59:28+00:00"
+    },
+    {
+      "text": "Monthly AI tokens processed are estimated to be around a current run rate of 11 quadrillion tokens, roughly double Goldman Sachs' May 2026 estimate of 5.6 quadrillion. $NVDA $MSFT $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2085816497369178603",
+      "source": "X",
+      "published": "2026-08-07T19:53:00+00:00"
+    },
+    {
+      "text": "Q2’s reports proved two things for Big Tech: AI monetization is substantially improving, but AI capex remains even higher. While Big Tech grabs the headlines as $1T in capex approaches, the more compelling opportunities lie within those companies standing directly in the path of that capex. https://io-fund.com/ai-stocks/big-tech-ai-revenue-surges-suppliers-win-bigger $MSFT $AMZN $GOOG $META $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2085807808558084203",
+      "source": "X",
+      "published": "2026-08-07T19:18:28+00:00"
     }
   ]
 }
