@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-08-12T22:01:42+00:00",
+  "updated_at": "2026-08-12T23:11:09+00:00",
   "items": [
+    {
+      "text": "今日の株式見通し＝続伸、米ＣＰＩ後の半導体株高を好感 http://reut.rs/3TUWj3k http://reut.rs/3TUWj3k",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2087676411003760702",
+      "source": "X",
+      "published": "2026-08-12T23:03:38+00:00"
+    },
+    {
+      "text": "AMD $AMD CEO Lisa Su on data center growth: “I think we have given a little bit of color on 2027, we believe that the server CPU portion of our data center business will grow by over 70% year-over-year off of a higher base. And we believe the overall segment will grow by over 100%, so we'll more than double due to the data center AI ramping.” $NVDA $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087667578722283957",
+      "source": "X",
+      "published": "2026-08-12T22:28:32+00:00"
+    },
+    {
+      "text": "Love seeing our partners post-training Nemotron 3.5 Lightning for their own domains, tools, and workflows, as well as those offering post-training support ⚡ Check out below to see what they’re building 🧵",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087662769512571010",
+      "source": "X",
+      "published": "2026-08-12T22:09:25+00:00"
+    },
     {
       "text": "Coming Oct 29th with #RTXOn.",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2087619906980508141",
       "source": "X",
       "published": "2026-08-12T19:19:06+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Massive open-weight model drop! Congratulations to @Alibaba_Qwen on releasing the open weights for Qwen3.8-2.4T-A95B, a 2.4T parameter model with 95B active, designed for demanding reasoning and agentic workloads. Out of the box, the model achieves a throughput of 4K+ tokens/second per GPU and 350+ tokens/second per user on NVIDIA GB300 NVL72 in FP8 precision. Read the tech blog: https://nvda.ws/4x7JtgE",
-      "author": "@NVIDIAAIInfra",
-      "link": "https://x.com/NVIDIAAIInfra/status/2087614079481336111",
-      "source": "X",
-      "published": "2026-08-12T18:55:57+00:00"
-    },
-    {
-      "text": "GMが銀行資金で部品｢取り置き｣　半導体不足に備え、7100億円規模 https://www.nikkei.com/article/DGXZQOGN128LI0S6A810C2000000/?n_cid=SNSTW001&n_tw=1786560622",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2087613294114656458",
-      "source": "X",
-      "published": "2026-08-12T18:52:49+00:00"
     },
     {
       "text": "Here are the best CEOs of 2026 according to Glassdoor 🥇Jensen Huang - NVIDIA 🥈 Jason Johnson - Quick Quack Car Wash 🥉 Kevin A. Lobo - Stryker",
@@ -156,25 +163,11 @@
       "published": "2026-08-12T10:52:49+00:00"
     },
     {
-      "text": "RT by @NVIDIAAI: .@NVIDIA Nemotron 3.5 Lightning is now available in the Perplexity Agent API 🎉 An open 30B MoE model with 3B active parameters, built for the high-volume execution layer of always-on agents: tool calls, validation, and subagent work. Pair Nemotron Lightning 3.5 with frontier models like Nemotron Ultra for planning, and let Lightning handle the volume. Start building: https://bit.ly/perplexity_lightning",
-      "author": "@perplexitydevs",
-      "link": "https://x.com/perplexitydevs/status/2087334157156507708",
-      "source": "X",
-      "published": "2026-08-12T00:23:38+00:00"
-    },
-    {
       "text": "AKA A metric shit ton of $NVDA",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2087297411492258068",
       "source": "X",
       "published": "2026-08-11T21:57:37+00:00"
-    },
-    {
-      "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087258724654284971",
-      "source": "X",
-      "published": "2026-08-11T19:23:54+00:00"
     },
     {
       "text": "Anthropic is working with Macquarie and Singapore’s GIC to set up a new data center firm, Theseus Infrastructure, which will develop, operate and lease data center capacity to support Anthropic’s rising capacity needs, starting in the US. $AMZN $GOOG $NVDA",
@@ -198,18 +191,25 @@
       "published": "2026-08-11T18:29:44+00:00"
     },
     {
-      "text": "Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs https://x.com/i/broadcasts/1vJpPNPBDrQJE",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087237881903616194",
-      "source": "X",
-      "published": "2026-08-11T18:01:04+00:00"
-    },
-    {
       "text": "☀️ Laptop Week Prize Spotlight: HP OMEN MAX 16 GeForce RTX 5080 ☀️ You’ve just set up your new PC. What’s the first thing you’re downloading?",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2087211666886754558",
       "source": "X",
       "published": "2026-08-11T16:16:54+00:00"
+    },
+    {
+      "text": "The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087197597769642350",
+      "source": "X",
+      "published": "2026-08-11T15:21:00+00:00"
+    },
+    {
+      "text": "Today, NVIDIA announced Nemotron 3.5 Lightning and NeMo Switchyard — two new open technologies for building faster, more efficient AI systems that can use the right model for each task. Together, they give developers greater control over how and where AI runs.  ⬇️",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2087172786141733067",
+      "source": "X",
+      "published": "2026-08-11T13:42:24+00:00"
     }
   ]
 }
