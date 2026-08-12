@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:35:09+00:00",
+  "updated_at": "2026-08-12T20:21:31+00:00",
   "items": [
     {
       "text": "Coming Oct 29th with #RTXOn.",
@@ -121,13 +121,6 @@
       "published": "2026-08-12T14:39:59+00:00"
     },
     {
-      "text": "Nvidia is now almost $1 Trillion larger than every other public company Nvidia's $NVDA market cap has increased by more than $100 Billion so far in today's early trading",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2087538500056887623",
-      "source": "X",
-      "published": "2026-08-12T13:55:37+00:00"
-    },
-    {
       "text": "$NVDA 800 VDC shipping back half of ‘26. Remember when the FUD on this created a massive sell off. Check your sources. 👏🏻👊🏻",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2087535119510737282",
@@ -177,13 +170,6 @@
       "published": "2026-08-11T21:57:37+00:00"
     },
     {
-      "text": "Dear sellside, ask Coreweave if they are going to be a part of the Nvidia $500B financing partnership platform? Thanks. I can't believe noone has asked this yet.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2087296867885269070",
-      "source": "X",
-      "published": "2026-08-11T21:55:28+00:00"
-    },
-    {
       "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2087258724654284971",
@@ -210,6 +196,20 @@
       "link": "https://x.com/danielnewmanUV/status/2087245093610594679",
       "source": "X",
       "published": "2026-08-11T18:29:44+00:00"
+    },
+    {
+      "text": "Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs https://x.com/i/broadcasts/1vJpPNPBDrQJE",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087237881903616194",
+      "source": "X",
+      "published": "2026-08-11T18:01:04+00:00"
+    },
+    {
+      "text": "☀️ Laptop Week Prize Spotlight: HP OMEN MAX 16 GeForce RTX 5080 ☀️ You’ve just set up your new PC. What’s the first thing you’re downloading?",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087211666886754558",
+      "source": "X",
+      "published": "2026-08-11T16:16:54+00:00"
     }
   ]
 }
