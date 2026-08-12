@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-12T15:27:56+00:00",
+  "updated_at": "2026-08-12T16:25:50+00:00",
   "items": [
+    {
+      "text": "Microsoft $MSFT is reportedly aiming to secure capacity for over 1 million Maia 300 chips, but component supplies and capacity negotiations with TSMC $TSM could constrain that plan. $NVDA $AVGO $MRVL",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087570052317168093",
+      "source": "X",
+      "published": "2026-08-12T16:01:00+00:00"
+    },
+    {
+      "text": "GIGABYTE AORUS MASTER 16 unboxing 👀 This GeForce RTX 50 Series laptop is ready for campus: 🟢 GiMATE smart AI controls 🟢 Iconic WINDFORCE cooling 🟢 16\" 240Hz OLED display",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087567273380679819",
+      "source": "X",
+      "published": "2026-08-12T15:49:57+00:00"
+    },
+    {
+      "text": "Australian AI data center developer Firmus raised $2 billion from Nvidia $NVDA and others in a new funding round, with the capital helping accelerate AI infrastructure buildouts in Australia and the APAC region.",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087565013691023364",
+      "source": "X",
+      "published": "2026-08-12T15:40:59+00:00"
+    },
     {
       "text": "Wow. Props to @_clarktang for writing one of the most insightful pieces of the year. Guest Post: Nvidia Is Speedrunning the Creation of a Synthetic Hyperscaler https://taekim.substack.com/p/nvidia-is-speedrunning-the-creation",
       "author": "@firstadopter",
@@ -100,13 +121,6 @@
       "published": "2026-08-11T21:55:28+00:00"
     },
     {
-      "text": "Man, this Jensen guy may know something about the current state of the AI infrastructure ramp",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2087279303453036757",
-      "source": "X",
-      "published": "2026-08-11T20:45:40+00:00"
-    },
-    {
       "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2087258724654284971",
@@ -196,20 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2087172180249600325",
       "source": "X",
       "published": "2026-08-11T13:40:00+00:00"
-    },
-    {
-      "text": "Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
-      "source": "X",
-      "published": "2026-08-11T13:00:09+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Motif 3 is officially here. Today, we’re releasing Motif 3 Base and Motif 3. Motif 3 Base is our pretrained foundation model, while Motif 3 is built on top of it with post-training using NVIDIA NeMo-RL. Both models were developed with the support of Korea's Ministry of Science and trained on NVIDIA B200 GPUs. With Motif 3, we’re taking our first step into the frontier LLM race. There’s still a long way to go, but we believe we’ve built a model that deserves to be in the race. We’ve shared the details in our technical report and blog post. In collaboration with NVIDIA, we’re also releasing an NVFP4 version of Motif 3. All models will be available on Hugging Face. Links are in the comments.",
-      "author": "@motif_tech",
-      "link": "https://x.com/motif_tech/status/2086985187779649977",
-      "source": "X",
-      "published": "2026-08-11T01:16:57+00:00"
     }
   ]
 }
