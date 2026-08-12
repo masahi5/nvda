@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-08-11T23:12:42+00:00",
+  "updated_at": "2026-08-12T11:14:19+00:00",
   "items": [
     {
-      "text": "日本半導体産業、外資進出で生産基盤に厚み　投資額6兆円規模に https://www.nikkei.com/article/DGXZQOUC100GW0Q6A810C2000000/?n_cid=SNSTW006&n_tw=1786487479",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2087306530961924473",
+      "text": "🙃 CHIPS CHIPS CHIPS! CNBC: \"During Wednesday’s press conference, Tangen emphasized the role the semiconductor sector had played in the fund’s first-half growth. \"Chips, chips, chips, chips,” he said, while standing before a chart demonstrating the best-performing stocks in the portfolio, which included Samsung, SK Hynix, TSMC, ASML, Intel and Nvidia.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087492495638774020",
       "source": "X",
-      "published": "2026-08-11T22:33:51+00:00"
+      "published": "2026-08-12T10:52:49+00:00"
+    },
+    {
+      "text": "R to @firstadopter: World's largest sovereign wealth fund posts record profit, reveals SpaceX stake https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087492497765220455",
+      "source": "X",
+      "published": "2026-08-12T10:52:49+00:00"
+    },
+    {
+      "text": "ヘッジファンド、7月にＡＩ関連株空売り増やす　エヌビディアもロング縮小 http://reut.rs/4grvzQH http://reut.rs/4grvzQH",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2087472293156954188",
+      "source": "X",
+      "published": "2026-08-12T09:32:32+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: .@NVIDIA Nemotron 3.5 Lightning is now available in the Perplexity Agent API 🎉 An open 30B MoE model with 3B active parameters, built for the high-volume execution layer of always-on agents: tool calls, validation, and subagent work. Pair Nemotron Lightning 3.5 with frontier models like Nemotron Ultra for planning, and let Lightning handle the volume. Start building: https://bit.ly/perplexity_lightning",
+      "author": "@perplexitydevs",
+      "link": "https://x.com/perplexitydevs/status/2087334157156507708",
+      "source": "X",
+      "published": "2026-08-12T00:23:38+00:00"
     },
     {
       "text": "AKA A metric shit ton of $NVDA",
@@ -30,25 +51,11 @@
       "published": "2026-08-11T21:30:06+00:00"
     },
     {
-      "text": "「AIインフラ銀行」化するNVIDIA　業界支える与信、リスクは集中 https://www.nikkei.com/article/DGXZQOGN112JI0R10C26A8000000/?n_cid=SNSTW001&n_tw=1786482742",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2087286397170266183",
-      "source": "X",
-      "published": "2026-08-11T21:13:51+00:00"
-    },
-    {
       "text": "Man, this Jensen guy may know something about the current state of the AI infrastructure ramp",
       "author": "@firstadopter",
       "link": "https://x.com/firstadopter/status/2087279303453036757",
       "source": "X",
       "published": "2026-08-11T20:45:40+00:00"
-    },
-    {
-      "text": "ＩＢＭとスタートアップが2.4億ドル契約、エヌビディア半導体でＡＩ基盤構築 http://reut.rs/4zdboNK http://reut.rs/4zdboNK",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2087276058324140484",
-      "source": "X",
-      "published": "2026-08-11T20:32:46+00:00"
     },
     {
       "text": "R to @huggingface: And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ https://huggingface.co/datasets/nvidia/Nemotron-RL-Agentic-Terminal-Pivot-v1-nano35-release",
@@ -58,7 +65,7 @@
       "published": "2026-08-11T19:23:54+00:00"
     },
     {
-      "text": "Anthropic is working with Macquarie and Singapore’s GIC to set up a new data center firm, Theseus Infrastructure, which will develop, operate and lease data center capacity to support Anthropic’s rising capacity needs, starting in the US. $AMZN $GOOG $NVDA",
+      "text": "RT by @Beth_Kindig: Anthropic is working with Macquarie and Singapore’s GIC to set up a new data center firm, Theseus Infrastructure, which will develop, operate and lease data center capacity to support Anthropic’s rising capacity needs, starting in the US. $AMZN $GOOG $NVDA",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2087248766831059235",
       "source": "X",
@@ -100,7 +107,7 @@
       "published": "2026-08-11T16:00:21+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
+      "text": "The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2087197597769642350",
       "source": "X",
@@ -149,7 +156,7 @@
       "published": "2026-08-11T13:41:43+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
+      "text": "Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2087172180249600325",
       "source": "X",
@@ -168,13 +175,6 @@
       "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
       "source": "X",
       "published": "2026-08-11T13:00:09+00:00"
-    },
-    {
-      "text": "$500 billion will likely go mainly to neoclouds/OpenAI/Anthropic/SpaceX and NOT the top three hyperscalers (Amazon, Microsoft, Google). Jensen just figured out a way to rapidly level up the smaller guys against the hyperscalers with their ASICs.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2086995375102038464",
-      "source": "X",
-      "published": "2026-08-11T01:57:26+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: Motif 3 is officially here. Today, we’re releasing Motif 3 Base and Motif 3. Motif 3 Base is our pretrained foundation model, while Motif 3 is built on top of it with post-training using NVIDIA NeMo-RL. Both models were developed with the support of Korea's Ministry of Science and trained on NVIDIA B200 GPUs. With Motif 3, we’re taking our first step into the frontier LLM race. There’s still a long way to go, but we believe we’ve built a model that deserves to be in the race. We’ve shared the details in our technical report and blog post. In collaboration with NVIDIA, we’re also releasing an NVFP4 version of Motif 3. All models will be available on Hugging Face. Links are in the comments.",
