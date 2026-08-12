@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-12T16:25:50+00:00",
+  "updated_at": "2026-08-12T17:26:47+00:00",
   "items": [
+    {
+      "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087576824159297605",
+      "source": "X",
+      "published": "2026-08-12T16:27:54+00:00"
+    },
+    {
+      "text": "Meta $META recently released its first AI coding agent, Muse Code, ramping up competition with OpenAI and Anthropic with Meta saying that “adoption has been exciting and strong.” Meta is said to be using a pay-as-you-go model for pricing. $NVDA $AVGO $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087575085171240988",
+      "source": "X",
+      "published": "2026-08-12T16:21:00+00:00"
+    },
     {
       "text": "Microsoft $MSFT is reportedly aiming to secure capacity for over 1 million Maia 300 chips, but component supplies and capacity negotiations with TSMC $TSM could constrain that plan. $NVDA $AVGO $MRVL",
       "author": "@Beth_Kindig",
@@ -77,13 +91,6 @@
       "link": "https://x.com/firstadopter/status/2087511763725975950",
       "source": "X",
       "published": "2026-08-12T12:09:23+00:00"
-    },
-    {
-      "text": "Nvidia and Apple supplier Foxconn (Hon Hai) just reported earnings, posting better than exected numbers Revenue jumped 54.2% YoY to $29.4B and Net Income came in at $1.9 Billion beating expectations of $1.8B - Bloomberg",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2087501671312114024",
-      "source": "X",
-      "published": "2026-08-12T11:29:17+00:00"
     },
     {
       "text": "🙃 CHIPS CHIPS CHIPS! CNBC: \"During Wednesday’s press conference, Tangen emphasized the role the semiconductor sector had played in the fund’s first-half growth. \"Chips, chips, chips, chips,” he said, while standing before a chart demonstrating the best-performing stocks in the portfolio, which included Samsung, SK Hynix, TSMC, ASML, Intel and Nvidia.\"",
@@ -203,13 +210,6 @@
       "link": "https://x.com/nvidia/status/2087172614896988545",
       "source": "X",
       "published": "2026-08-11T13:41:43+00:00"
-    },
-    {
-      "text": "Envision Energy has commissioned a high-density data center campus in Mongolia that plans to eventually scale up to 2GW and house 1 million accelerators, with the company saying it could deliver up to 10X more compute per square meter than conventional data centers. $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087172180249600325",
-      "source": "X",
-      "published": "2026-08-11T13:40:00+00:00"
     }
   ]
 }
