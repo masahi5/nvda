@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-12T14:17:52+00:00",
+  "updated_at": "2026-08-12T15:27:56+00:00",
   "items": [
+    {
+      "text": "Wow. Props to @_clarktang for writing one of the most insightful pieces of the year. Guest Post: Nvidia Is Speedrunning the Creation of a Synthetic Hyperscaler https://taekim.substack.com/p/nvidia-is-speedrunning-the-creation",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087557184196358559",
+      "source": "X",
+      "published": "2026-08-12T15:09:52+00:00"
+    },
+    {
+      "text": "MUST READ POST. Drop what you are doing and read this RIGHT NOW. Maybe Google Cloud not so hot now. Nvidia is doing an end run to beat the major hyperscalers at their own game. Chess not checkers. \"the twist is that balance sheet edge is eroding in real time. Google just printed its first negative-FCF quarter\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2087551920906916035",
+      "source": "X",
+      "published": "2026-08-12T14:48:57+00:00"
+    },
+    {
+      "text": "R to @nvidia: Read the story: https://nvda.ws/4gt2Ta0",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087549780209914136",
+      "source": "X",
+      "published": "2026-08-12T14:40:27+00:00"
+    },
+    {
+      "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087549663289422297",
+      "source": "X",
+      "published": "2026-08-12T14:39:59+00:00"
+    },
     {
       "text": "Nvidia is now almost $1 Trillion larger than every other public company Nvidia's $NVDA market cap has increased by more than $100 Billion so far in today's early trading",
       "author": "@StockMKTNewz",
@@ -49,13 +77,6 @@
       "link": "https://x.com/firstadopter/status/2087492497765220455",
       "source": "X",
       "published": "2026-08-12T10:52:49+00:00"
-    },
-    {
-      "text": "ヘッジファンド、7月にＡＩ関連株空売り増やす　エヌビディアもロング縮小 http://reut.rs/4grvzQH http://reut.rs/4grvzQH",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2087472293156954188",
-      "source": "X",
-      "published": "2026-08-12T09:32:32+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: .@NVIDIA Nemotron 3.5 Lightning is now available in the Perplexity Agent API 🎉 An open 30B MoE model with 3B active parameters, built for the high-volume execution layer of always-on agents: tool calls, validation, and subagent work. Pair Nemotron Lightning 3.5 with frontier models like Nemotron Ultra for planning, and let Lightning handle the volume. Start building: https://bit.ly/perplexity_lightning",
@@ -149,13 +170,6 @@
       "published": "2026-08-11T13:50:40+00:00"
     },
     {
-      "text": "Nvidia may have foreshadowed the hyperscaler hammer back when it reported earnings and changed its segment reporting: \"Following the rapid evolution in our businesses, we are transitioning to a new reporting framework that better reflects our current and future growth drivers. We will have two market platforms – Data Center and Edge Computing. Within Data Center, we will report two sub-markets, Hyperscale and ACIE which incorporates AI Clouds, Industrial, and Enterprise. Hyperscale will include revenue from the public clouds and the world’s largest consumer internet companies, while ACIE addresses our growth opportunity in diverse AI purpose-built data centers and AI factories across industries and countries.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2087174224548966640",
-      "source": "X",
-      "published": "2026-08-11T13:48:07+00:00"
-    },
-    {
       "text": "R to @NVIDIAAI: As always, NVIDIA Nemotron 3.5 Lightning is open and customizable. This includes weights, data and recipes. Available now on @huggingface 🤗 → https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2087173733823680855",
@@ -196,20 +210,6 @@
       "link": "https://x.com/motif_tech/status/2086985187779649977",
       "source": "X",
       "published": "2026-08-11T01:16:57+00:00"
-    },
-    {
-      "text": "RT by @nvidianewsroom: This is a big moment for computing and @NVIDIA. We’ve made the leap from building chips to creating a new investable asset class: AI factory infrastructure. Every company will be powered by it. Every country will build it. Thanks to Larry Fink of @BlackRock, Jon Gray of @blackstone, Bruce Flatt of @Brookfield, David Solomon of @GoldmanSachs, Jim Zelter of @apolloglobal, and Waldemar Szlezak of @KKR_Co for joining me in this historic partnership to build the infrastructure of the AI industrial revolution.",
-      "author": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2086976424326693185",
-      "source": "X",
-      "published": "2026-08-11T00:42:08+00:00"
-    },
-    {
-      "text": "SanDisk $SNDK CEO David Goeckeler: “We want to get a fair return for our products. I think mid-80s gross margin, I would characterize as a fair return.” $MU $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2086946630448644508",
-      "source": "X",
-      "published": "2026-08-10T22:43:44+00:00"
     }
   ]
 }
