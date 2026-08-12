@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-12T18:25:26+00:00",
+  "updated_at": "2026-08-12T19:35:09+00:00",
   "items": [
+    {
+      "text": "Coming Oct 29th with #RTXOn.",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087619906980508141",
+      "source": "X",
+      "published": "2026-08-12T19:19:06+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: Massive open-weight model drop! Congratulations to @Alibaba_Qwen on releasing the open weights for Qwen3.8-2.4T-A95B, a 2.4T parameter model with 95B active, designed for demanding reasoning and agentic workloads. Out of the box, the model achieves a throughput of 4K+ tokens/second per GPU and 350+ tokens/second per user on NVIDIA GB300 NVL72 in FP8 precision. Read the tech blog: https://nvda.ws/4x7JtgE",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2087614079481336111",
+      "source": "X",
+      "published": "2026-08-12T18:55:57+00:00"
+    },
+    {
+      "text": "GMが銀行資金で部品｢取り置き｣　半導体不足に備え、7100億円規模 https://www.nikkei.com/article/DGXZQOGN128LI0S6A810C2000000/?n_cid=SNSTW001&n_tw=1786560622",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2087613294114656458",
+      "source": "X",
+      "published": "2026-08-12T18:52:49+00:00"
+    },
+    {
+      "text": "Here are the best CEOs of 2026 according to Glassdoor 🥇Jensen Huang - NVIDIA 🥈 Jason Johnson - Quick Quack Car Wash 🥉 Kevin A. Lobo - Stryker",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2087609719737258361",
+      "source": "X",
+      "published": "2026-08-12T18:38:37+00:00"
+    },
+    {
+      "text": "Many people that call this circular financing miss the entry point valuation. $NVDA bought incredibly low in most cases and their book is now worth orders of magnitude more than their initial entry point.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2087608234261794833",
+      "source": "X",
+      "published": "2026-08-12T18:32:43+00:00"
+    },
     {
       "text": "Anthropic signed a $9.1 billion deal with Riot Platforms $RIOT for 191 MW of critical IT load under a 20-year term through 2048, with 96 MW aiming to be delivered by the end of 2027 and the full 191 MW aiming to be delivered by the end of 2028. $NVDA $AMZN $GOOG",
       "author": "@Beth_Kindig",
@@ -175,41 +210,6 @@
       "link": "https://x.com/danielnewmanUV/status/2087245093610594679",
       "source": "X",
       "published": "2026-08-11T18:29:44+00:00"
-    },
-    {
-      "text": "Run Open Models Locally: Nemotron 3 Ultra on DGX Station | Nemotron Labs https://x.com/i/broadcasts/1vJpPNPBDrQJE",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087237881903616194",
-      "source": "X",
-      "published": "2026-08-11T18:01:04+00:00"
-    },
-    {
-      "text": "☀️ Laptop Week Prize Spotlight: HP OMEN MAX 16 GeForce RTX 5080 ☀️ You’ve just set up your new PC. What’s the first thing you’re downloading?",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2087211666886754558",
-      "source": "X",
-      "published": "2026-08-11T16:16:54+00:00"
-    },
-    {
-      "text": "Learn Robot Manipulation with LeRobot and ROS 2 | NVIDIA Jetson AI Lab https://x.com/i/broadcasts/1yGBePezmQLKN",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087207501485969680",
-      "source": "X",
-      "published": "2026-08-11T16:00:21+00:00"
-    },
-    {
-      "text": "The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087197597769642350",
-      "source": "X",
-      "published": "2026-08-11T15:21:00+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: The @NVIDIAAI team delivered a model and routing library that matches frontier performance all while cutting our observed costs by 59% and runtime by 32%. Really remarkable, never been a more fun time to be building applications.",
-      "author": "@eglyman",
-      "link": "https://x.com/eglyman/status/2087174863949619499",
-      "source": "X",
-      "published": "2026-08-11T13:50:40+00:00"
     }
   ]
 }
