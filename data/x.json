@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-13T18:26:32+00:00",
+  "updated_at": "2026-08-13T19:33:52+00:00",
   "items": [
+    {
+      "text": "From Commander Keen and Wolfenstein 3D to DOOM and Quake, John Carmack helped shape PC gaming 🐐 The GOAT stopped by our @QuakeCon booth to check out Quake III Arena with RTX Remix and sign cards from GeForce Trading Cards Series 1.",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087980024070652183",
+      "source": "X",
+      "published": "2026-08-13T19:10:05+00:00"
+    },
     {
       "text": "R to @AIatMeta: Demo + cookbook if you want to try it out yourself 👇 Platform cookbook: https://github.com/meta-models/meta-oss-cookbook/blob/main/platform/nvidia.md Demo/recipe: https://github.com/meta-models/meta-oss-cookbook/tree/main/recipes/sandboxed-agent",
       "author": "@NVIDIAAI",
@@ -203,13 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2087567273380679819",
       "source": "X",
       "published": "2026-08-12T15:49:57+00:00"
-    },
-    {
-      "text": "Australian AI data center developer Firmus raised $2 billion from Nvidia $NVDA and others in a new funding round, with the capital helping accelerate AI infrastructure buildouts in Australia and the APAC region.",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087565013691023364",
-      "source": "X",
-      "published": "2026-08-12T15:40:59+00:00"
     }
   ]
 }
