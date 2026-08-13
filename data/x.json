@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-13T17:27:32+00:00",
+  "updated_at": "2026-08-13T18:26:32+00:00",
   "items": [
+    {
+      "text": "R to @AIatMeta: Demo + cookbook if you want to try it out yourself 👇 Platform cookbook: https://github.com/meta-models/meta-oss-cookbook/blob/main/platform/nvidia.md Demo/recipe: https://github.com/meta-models/meta-oss-cookbook/tree/main/recipes/sandboxed-agent",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087962843484405776",
+      "source": "X",
+      "published": "2026-08-13T18:01:49+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAI: our team ran NVIDIA Nemotron 3.5 Lightning on a single H200 GPU It wrote 2k+ code in 9 sec, and create a matrix style falling green code rain faster than any other models",
+      "author": "@gmi_cloud",
+      "link": "https://x.com/gmi_cloud/status/2087961476195840135",
+      "source": "X",
+      "published": "2026-08-13T17:56:23+00:00"
+    },
+    {
+      "text": "DLSS is powering more games this week, and beyond: 🟢Gears of War: E-Day Open Beta 🟢Phantom Blade Zero 🟢Hell Let Loose: Vietnam 🟢No More Room in Hell 2 (1.0 Update) Learn more: https://nvda.ws/4zeHdWq",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087956562111234064",
+      "source": "X",
+      "published": "2026-08-13T17:36:51+00:00"
+    },
+    {
+      "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4zltqh6",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087952884130365712",
+      "source": "X",
+      "published": "2026-08-13T17:22:14+00:00"
+    },
     {
       "text": "TSMC $TSM could reportedly reach 180,000 wafers per month of 3nm capacity by early Q4, two to three months ahead of market expectations, with the increase driven by strong customer orders. $NVDA $AVGO $AMD $AAPL",
       "author": "@Beth_Kindig",
@@ -28,13 +56,6 @@
       "link": "https://x.com/Beth_Kindig/status/2087926148357591119",
       "source": "X",
       "published": "2026-08-13T15:36:00+00:00"
-    },
-    {
-      "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4cw5yx9",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2087925547321999431",
-      "source": "X",
-      "published": "2026-08-13T15:33:36+00:00"
     },
     {
       "text": "R to @nvidia: Maximize token monetization.",
@@ -189,27 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2087565013691023364",
       "source": "X",
       "published": "2026-08-12T15:40:59+00:00"
-    },
-    {
-      "text": "R to @nvidia: Read the story: https://nvda.ws/4gt2Ta0",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2087549780209914136",
-      "source": "X",
-      "published": "2026-08-12T14:40:27+00:00"
-    },
-    {
-      "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2087549663289422297",
-      "source": "X",
-      "published": "2026-08-12T14:39:59+00:00"
-    },
-    {
-      "text": "$NVDA 800 VDC shipping back half of ‘26. Remember when the FUD on this created a massive sell off. Check your sources. 👏🏻👊🏻",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2087535119510737282",
-      "source": "X",
-      "published": "2026-08-12T13:42:11+00:00"
     }
   ]
 }
