@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-13T20:19:12+00:00",
+  "updated_at": "2026-08-13T21:12:32+00:00",
   "items": [
+    {
+      "text": "Foxconn reported a 54.2% YoY increase in monthly revenue in July to NT$946.5 billion ($29.3 billion) on strong demand for AI servers, with AI servers expected to maintain strong growth momentum in Q3. $NVDA $AMD $TSM",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2088004665807925516",
+      "source": "X",
+      "published": "2026-08-13T20:48:00+00:00"
+    },
+    {
+      "text": "ティアフォー、自動運転のAI半導体を自前で開発　国産体制に道筋 https://www.nikkei.com/article/DGXZQOUC06A5H0W6A800C2000000/?n_cid=SNSTW001&n_tw=1786652122",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2087996822585221231",
+      "source": "X",
+      "published": "2026-08-13T20:16:50+00:00"
+    },
     {
       "text": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to its platform in one day, helping close the gap between imagining a scene and bringing it to life.",
       "author": "@nvidia",
@@ -196,20 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2087594518178635917",
       "source": "X",
       "published": "2026-08-12T17:38:13+00:00"
-    },
-    {
-      "text": "SK Hynix is investing 54 trillion won, or $38.1 billion, to build two new memory fabs in Korea as demand continues to grow, with first capacity expected in 2029. $SKHY $MU $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087589059392647390",
-      "source": "X",
-      "published": "2026-08-12T17:16:31+00:00"
-    },
-    {
-      "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2087576824159297605",
-      "source": "X",
-      "published": "2026-08-12T16:27:54+00:00"
     }
   ]
 }
