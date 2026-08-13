@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-08-13T19:33:52+00:00",
+  "updated_at": "2026-08-13T20:19:12+00:00",
   "items": [
+    {
+      "text": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to its platform in one day, helping close the gap between imagining a scene and bringing it to life.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087991151806521392",
+      "source": "X",
+      "published": "2026-08-13T19:54:18+00:00"
+    },
+    {
+      "text": "R to @nvidia: Discover why the story is becoming the interface: https://nvda.ws/4hwKjip",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087991153358418277",
+      "source": "X",
+      "published": "2026-08-13T19:54:18+00:00"
+    },
     {
       "text": "From Commander Keen and Wolfenstein 3D to DOOM and Quake, John Carmack helped shape PC gaming 🐐 The GOAT stopped by our @QuakeCon booth to check out Quake III Arena with RTX Remix and sign cards from GeForce Trading Cards Series 1.",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2087980024070652183",
       "source": "X",
       "published": "2026-08-13T19:10:05+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Happy 10th Birthday to #NVIDIADGX! 🎉 Over the last decade, DGX has transformed from a single system into the essential blueprint for the AI factory. The AI revolution was ignited the moment Jensen hand-delivered the first DGX-1 AI supercomputer to OpenAI. Thank you to everyone who's been with us on this journey. Here’s to the next 10 years! #DecadeOfDGX #TBT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2087977606872461660",
+      "source": "X",
+      "published": "2026-08-13T19:00:28+00:00"
     },
     {
       "text": "R to @AIatMeta: Demo + cookbook if you want to try it out yourself 👇 Platform cookbook: https://github.com/meta-models/meta-oss-cookbook/blob/main/platform/nvidia.md Demo/recipe: https://github.com/meta-models/meta-oss-cookbook/tree/main/recipes/sandboxed-agent",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2087576824159297605",
       "source": "X",
       "published": "2026-08-12T16:27:54+00:00"
-    },
-    {
-      "text": "Meta $META recently released its first AI coding agent, Muse Code, ramping up competition with OpenAI and Anthropic with Meta saying that “adoption has been exciting and strong.” Meta is said to be using a pay-as-you-go model for pricing. $NVDA $AVGO $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087575085171240988",
-      "source": "X",
-      "published": "2026-08-12T16:21:00+00:00"
-    },
-    {
-      "text": "Microsoft $MSFT is reportedly aiming to secure capacity for over 1 million Maia 300 chips, but component supplies and capacity negotiations with TSMC $TSM could constrain that plan. $NVDA $AVGO $MRVL",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087570052317168093",
-      "source": "X",
-      "published": "2026-08-12T16:01:00+00:00"
-    },
-    {
-      "text": "GIGABYTE AORUS MASTER 16 unboxing 👀 This GeForce RTX 50 Series laptop is ready for campus: 🟢 GiMATE smart AI controls 🟢 Iconic WINDFORCE cooling 🟢 16\" 240Hz OLED display",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2087567273380679819",
-      "source": "X",
-      "published": "2026-08-12T15:49:57+00:00"
     }
   ]
 }
