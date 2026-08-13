@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-08-13T15:29:35+00:00",
+  "updated_at": "2026-08-13T16:26:21+00:00",
   "items": [
+    {
+      "text": "The fight against the Locust Horde is here ⚙️ Play the @GearsofWar: E-Day Open Beta with #RTXON To celebrate, Summer of RTX is dropping a new prize: a GeForce RTX 5080 Founders Edition. Comment #RTXPowersPlay for your chance to WIN.",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2087933941743546520",
+      "source": "X",
+      "published": "2026-08-13T16:06:58+00:00"
+    },
+    {
+      "text": "WAMs and VLAs for Robot Learning | Cosmos Labs https://x.com/i/broadcasts/1wGWjllReVNKQ",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2087932584152186975",
+      "source": "X",
+      "published": "2026-08-13T16:01:34+00:00"
+    },
+    {
+      "text": "SK Hynix, Samsung, and Micron have reportedly already sold out all of their 2027 DRAM and HBM memory capacity. $MU $NVDA $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2087926148357591119",
+      "source": "X",
+      "published": "2026-08-13T15:36:00+00:00"
+    },
+    {
+      "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4cw5yx9",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087925547321999431",
+      "source": "X",
+      "published": "2026-08-13T15:33:36+00:00"
+    },
+    {
+      "text": "R to @nvidia: Maximize token monetization.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087925395915944280",
+      "source": "X",
+      "published": "2026-08-13T15:33:00+00:00"
+    },
+    {
+      "text": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087924679163965756",
+      "source": "X",
+      "published": "2026-08-13T15:30:09+00:00"
+    },
     {
       "text": "Our last broad market update on June 18 called for caution, supported by liquidity and growing divergences. Four days later, semiconductors peaked and fell 25%. This week, we lay out the key levels that must hold, our upside targets, and the one bond trigger to watch. Link in bio. $SPY $NVDA",
       "author": "@Beth_Kindig",
@@ -168,48 +210,6 @@
       "link": "https://x.com/nvidia/status/2087549663289422297",
       "source": "X",
       "published": "2026-08-12T14:39:59+00:00"
-    },
-    {
-      "text": "$NVDA 800 VDC shipping back half of ‘26. Remember when the FUD on this created a massive sell off. Check your sources. 👏🏻👊🏻",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2087535119510737282",
-      "source": "X",
-      "published": "2026-08-12T13:42:11+00:00"
-    },
-    {
-      "text": "Anthropic is working with Macquarie and Singapore’s GIC to set up a new data center firm, Theseus Infrastructure, which will develop, operate and lease data center capacity to support Anthropic’s rising capacity needs, starting in the US. $AMZN $GOOG $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087248766831059235",
-      "source": "X",
-      "published": "2026-08-11T18:44:19+00:00"
-    },
-    {
-      "text": "Microsoft $MSFT is reported to be unveiling its new Maia 300 AI accelerator this fall, and is said to be in talks with TSMC $TSM with production of up to 300,000 chips in 2027. $NVDA $AVGO $MRVL",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087245300251394118",
-      "source": "X",
-      "published": "2026-08-11T18:30:33+00:00"
-    },
-    {
-      "text": "☀️ Laptop Week Prize Spotlight: HP OMEN MAX 16 GeForce RTX 5080 ☀️ You’ve just set up your new PC. What’s the first thing you’re downloading?",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2087211666886754558",
-      "source": "X",
-      "published": "2026-08-11T16:16:54+00:00"
-    },
-    {
-      "text": "The chart below shows reasoning versus non-reasoning token usage on OpenRouter from late 2024 through late 2025. Since the start of 2025, the share of tokens served by reasoning models steadily increased from near zero to more than 60%, highlighting the rapid adoption of reasoning AI models. $NVDA $MSFT $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087197597769642350",
-      "source": "X",
-      "published": "2026-08-11T15:21:00+00:00"
-    },
-    {
-      "text": "Today, NVIDIA announced Nemotron 3.5 Lightning and NeMo Switchyard — two new open technologies for building faster, more efficient AI systems that can use the right model for each task. Together, they give developers greater control over how and where AI runs.  ⬇️",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2087172786141733067",
-      "source": "X",
-      "published": "2026-08-11T13:42:24+00:00"
     }
   ]
 }
