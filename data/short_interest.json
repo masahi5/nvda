@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:12:21+00:00",
+  "updated_at": "2026-08-14T14:12:21+00:00",
   "source": "FINRA via Yahoo Finance",
   "shares_short": 292667375.0,
   "shares_short_prior_month": 310126785.0,
@@ -7,6 +7,6 @@
   "short_ratio": 2.23,
   "short_percent_of_float": 0.0126,
   "shares_outstanding": 24221000000.0,
-  "float_shares": 23204170000.0,
+  "float_shares": 22640794000.0,
   "date_short_interest": "2026-07-31T00:00:00+00:00"
 }
