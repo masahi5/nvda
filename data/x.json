@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-14T18:05:05+00:00",
+  "updated_at": "2026-08-14T19:11:54+00:00",
   "items": [
+    {
+      "text": "R to @NVIDIAAI: Learn more: https://nvda.ws/457eK7l",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339803138101304",
+      "source": "X",
+      "published": "2026-08-14T18:59:43+00:00"
+    },
+    {
+      "text": "ICYMI: Not every step in an agent workflow needs the same model. Meet NVIDIA NeMo Switchyard, a new open-source library for model routing. Use frontier models for complex reasoning and planning, and NVIDIA Nemotron Lightning for high-volume, specialized execution.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339706752983230",
+      "source": "X",
+      "published": "2026-08-14T18:59:20+00:00"
+    },
+    {
+      "text": "The macro framework supporting our defensive stance May-June now suggests our bullish scenario from June 18 is gaining odds. Below, we spell out what this means for AI semis, what levels must hold and one major macro risk that must be contained for this rally to continue. https://io-fund.com/broad-market/ai-dip-buy-sp500-levels-bond-market-risks $SPY $NVDA $QQQ",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2088325853541257684",
+      "source": "X",
+      "published": "2026-08-14T18:04:17+00:00"
+    },
     {
       "text": "Global AI accelerator shipments are now forecast to increase nearly 31% YoY, up from a previous forecast for 28% growth, driven by increasing capex and strong procurement demand for Nvidia’s $NVDA Blackwell and Rubin racks, per TrendForce. $AVGO $AMD $GOOG $AMZN",
       "author": "@Beth_Kindig",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2087925395915944280",
       "source": "X",
       "published": "2026-08-13T15:33:00+00:00"
-    },
-    {
-      "text": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2087924679163965756",
-      "source": "X",
-      "published": "2026-08-13T15:30:09+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAGeForce: Class is back in session. 🍎 Transform your Chromebooks into high-performance GeForce RTX gaming PC this #GFNThursday, plus more games come to the library. 💻 Claim a year of GFN at no cost with Chromebook Fast Pass 👉 https://nvda.ws/4x81dsg",
-      "author": "@NVIDIAGFN",
-      "link": "https://x.com/NVIDIAGFN/status/2087917090871079050",
-      "source": "X",
-      "published": "2026-08-13T15:00:00+00:00"
-    },
-    {
-      "text": "Our last broad market update on June 18 called for caution, supported by liquidity and growing divergences. Four days later, semiconductors peaked and fell 25%. This week, we lay out the key levels that must hold, our upside targets, and the one bond trigger to watch. Link in bio. $SPY $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087913744936427856",
-      "source": "X",
-      "published": "2026-08-13T14:46:43+00:00"
     }
   ]
 }
