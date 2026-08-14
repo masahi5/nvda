@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-14T20:25:19+00:00",
+  "updated_at": "2026-08-14T20:54:29+00:00",
   "items": [
+    {
+      "text": "Brad Gerstner's Altimeter Capital just updated its stock holdings This is everything he owned as of the end of Q2 - NVIDIA $NVDA: 9,413,589 shares, $1.9B - Cerebras $CBRS: 7,225,037 shares, $1.6B - Taiwan Semiconductor $TSM: 1,429,355 shares, $0.7B - Meta Platforms $META: 1,354,990 shares, $0.8B - CoreWeave $CRWV: 6,073,695 shares, $0.6B - Arm Holdings $ARM: 1,641,972 shares, $0.6B - Amazon $AMZN: 2,425,351 shares, $0.6B - Uber Technologies $UBER: 7,372,440 shares, $0.5B - Snowflake $SNOW: 1,926,250 shares, $0.5B - Microsoft $MSFT: 1,268,082 shares, $0.5B - QUALCOMM $QCOM: 1,882,490 shares, $0.3B - SpaceX $SPCX: 1,776,485 shares, $0.3B - Micron $MU: 209,520 shares, $0.2B - Applied Materials $AMAT: 261,950 shares, $0.2B - KLA $KLAC: 578,230 shares, $0.2B - Lam Research $LRCX: 394,080 shares, $0.2B - Robinhood $HOOD: 899,691 shares, $0.09B - Google $GOOGL: 175,180 shares, $0.06B - Synopsys $SNPS: 140,343 shares, $0.06B - Grab Holdings (warrants): 3,502,000 shares, $0.0002B",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2088366360908714474",
+      "source": "X",
+      "published": "2026-08-14T20:45:15+00:00"
+    },
+    {
+      "text": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365553186459873",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "R to @ctnzr: Watch the full conversation: https://nvda.ws/4zkdj3d",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365554469921218",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA owns $21 Billion of SpaceX $SPCX stock",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2088362843926114711",
+      "source": "X",
+      "published": "2026-08-14T20:31:16+00:00"
+    },
     {
       "text": "Data center net margins from token sales are estimated to be ~58% with Nvidia $NVDA Blackwell GPUs, while Rubin-based data centers approach 78%, and Feynman-based data centers could reach roughly 90%, per Morgan Stanley. $AMD $AVGO",
       "author": "@Beth_Kindig",
@@ -182,34 +210,6 @@
       "link": "https://x.com/nvidia/status/2087952884130365712",
       "source": "X",
       "published": "2026-08-13T17:22:14+00:00"
-    },
-    {
-      "text": "TSMC $TSM could reportedly reach 180,000 wafers per month of 3nm capacity by early Q4, two to three months ahead of market expectations, with the increase driven by strong customer orders. $NVDA $AVGO $AMD $AAPL",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087951196669546724",
-      "source": "X",
-      "published": "2026-08-13T17:15:32+00:00"
-    },
-    {
-      "text": "The fight against the Locust Horde is here ⚙️ Play the @GearsofWar: E-Day Open Beta with #RTXON To celebrate, Summer of RTX is dropping a new prize: a GeForce RTX 5080 Founders Edition. Comment #RTXPowersPlay for your chance to WIN.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2087933941743546520",
-      "source": "X",
-      "published": "2026-08-13T16:06:58+00:00"
-    },
-    {
-      "text": "WAMs and VLAs for Robot Learning | Cosmos Labs https://x.com/i/broadcasts/1wGWjllReVNKQ",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087932584152186975",
-      "source": "X",
-      "published": "2026-08-13T16:01:34+00:00"
-    },
-    {
-      "text": "SK Hynix, Samsung, and Micron have reportedly already sold out all of their 2027 DRAM and HBM memory capacity. $MU $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2087926148357591119",
-      "source": "X",
-      "published": "2026-08-13T15:36:00+00:00"
     }
   ]
 }
