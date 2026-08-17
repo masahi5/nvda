@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:40:32+00:00",
+  "updated_at": "2026-08-17T19:58:24+00:00",
   "items": [
     {
       "text": "NVIDIA、オープンAIのデータ施設料を17兆円保証　SBG系が開発 https://www.nikkei.com/article/DGXZQOGN161ZT0W6A810C2000000/?n_cid=SNSTW001&n_tw=1786994662",
@@ -9,32 +9,11 @@
       "published": "2026-08-17T19:26:50+00:00"
     },
     {
-      "text": "CoreWeave $CRWV CEO Mike Intrator: “We expect demand to meaningfully exceed supply for years. In that environment, access to power is only part of the equation.” $NBIS $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089411172382429382",
-      "source": "X",
-      "published": "2026-08-17T17:56:57+00:00"
-    },
-    {
       "text": "エヌビディア、オープンＡＩ施設に最大1050億ドル保証　ＳＢエナジーにも出資 https://reut.rs/4wvVLhS https://reut.rs/4wvVLhS",
       "author": "@ReutersJapan",
       "link": "https://x.com/ReutersJapan/status/2089403501050798319",
       "source": "X",
       "published": "2026-08-17T17:26:28+00:00"
-    },
-    {
-      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @DigitalStormPC Corsa, powered by a GeForce RTX 5080 Founders Edition. What upcoming PC game can’t you wait to play on a new rig? Share your answer with #RTXPowersPlay to enter!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
-      "source": "X",
-      "published": "2026-08-17T16:00:00+00:00"
-    },
-    {
-      "text": "FREE PCs ALL WEEK 👀 Comment #RTXPowersPlay for your first chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089366643600203845",
-      "source": "X",
-      "published": "2026-08-17T15:00:01+00:00"
     },
     {
       "text": "R to @StockMKTNewz: Nvidia has agreed to provide a more than $100B backstop for a huge new OpenAI data centre in Ohio - Financial Times",
@@ -44,11 +23,60 @@
       "published": "2026-08-17T14:18:13+00:00"
     },
     {
-      "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
+      "text": "NVIDIA is going after the frontier labs (AKA OpenAI, Anthropic) AI infrastructure business directly! Womp, womp hyperscalers. Jensen - \"But frontier AI labs are different. Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support. They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently. Their growth is increasingly constrained not by algorithms or customer demand, but by the availability of compute. For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.\" OpenAI – \"SB Energy will build, own, and operate the data center under a 20-year lease to OpenAI and deliver capacity over time. OpenAI will be the customer and will utilize capacity at the site, which will exclusively host NVIDIA AI compute infrastructure.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089355365720654225",
       "source": "X",
-      "published": "2026-08-17T13:24:24+00:00"
+      "published": "2026-08-17T14:15:12+00:00"
+    },
+    {
+      "text": "So is SB Energy a competing neocloud now vs. neoclouds/hyperscalers? \"NVIDIA will invest $1.5 billion in SB Energy, joining existing investors SoftBank Group and OpenAI. The investment supports SB Energy’s continued evolution into a leading AI infrastructure developer\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089349944452755727",
+      "source": "X",
+      "published": "2026-08-17T13:53:39+00:00"
+    },
+    {
+      "text": "I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
+      "source": "X",
+      "published": "2026-08-17T13:15:48+00:00"
+    },
+    {
+      "text": "\"OpenAI has entered into an agreement to secure approximately 8 gigawatts-IT at the PORTS-Pike Technology Campus in Pike County, Ohio, working with SB Energy, NVIDIA, and the U.S. Department of Energy.\" \"The project is expected to create 35,000 construction jobs during its six-year buildout through 2032 and 2,500 long-term operating jobs.\" \"The first 800 megawatts are expected to become available in 2028 largely using existing AEP infrastructure.\" \"SB Energy will build, own, and operate the data center under a 20-year lease to OpenAI and deliver capacity over time. OpenAI will be the customer and will utilize capacity at the site, which will exclusively host NVIDIA AI compute infrastructure.\" \"Separately, NVIDIA will invest $1.5 billion in SB Energy and will provide credit support for the land, power, and shell buildout associated with the initial 4.25 IT-GW.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089336345655230584",
+      "source": "X",
+      "published": "2026-08-17T12:59:37+00:00"
+    },
+    {
+      "text": "R to @firstadopter: blogs.nvidia.com/blog/securi…",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089335064983224620",
+      "source": "X",
+      "published": "2026-08-17T12:54:32+00:00"
+    },
+    {
+      "text": "Jensen Huang: \"Today, we are partnering with SB Energy to secure LPS capacity at the exceptional PORTS-Pike Technology Campus in Portsmouth, Ohio, to host NVIDIA compute. OpenAI will be the tenant.\" \"But frontier AI labs are different. Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support. They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently. Their growth is increasingly constrained not by algorithms or customer demand, but by the availability of compute. For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.\" \"OpenAI will build and operate a world-class AI factory at PORTS-Pike. The AI factory will use NVIDIA’s full-stack DSX AI factory platform, including GPUs, CPUs, networking, and infrastructure software. The initial deployment is expected to provide 4.25 gigawatts of AI factory capacity. Each generation of NVIDIA AI factory systems deployed at PORTS-Pike could represent approximately 1.5 million NVIDIA GPUs, or approximately $150 billion to $200 billion in NVIDIA revenue. Over 20 years, the site can support multiple upgrade cycles. This is the essential economic point: the LPS commitment secures a long-lived AI factory site, while the NVIDIA compute inside can be upgraded repeatedly. Each new generation can deliver greater production, more intelligence and better economics. NVIDIA may also choose to extend the arrangement at PORTS-Pike beyond the initial 4.25 gigawatts to secure the remaining capacity of 3.75 gigawatts.\" \"More broadly, OpenAI has committed to substantial deployments of NVIDIA AI infrastructure through 2030. OpenAI’s existing and planned commitments represent approximately 12 gigawatts of NVIDIA compute, with an opportunity to expand to approximately 16 gigawatts if NVIDIA extends the PORTS-Pike arrangement beyond the initial 4.25 gigawatts. At these levels, the opportunity represents roughly $600 billion of NVIDIA compute through 2030.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089335062189728245",
+      "source": "X",
+      "published": "2026-08-17T12:54:31+00:00"
+    },
+    {
+      "text": "\"NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVIDIA compute. OpenAI will be the customer. SB Energy will build, own and operate the data center under a 20-year lease to OpenAI.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089333429120766419",
+      "source": "X",
+      "published": "2026-08-17T12:48:02+00:00"
+    },
+    {
+      "text": "R to @firstadopter: nvidianews.nvidia.com/news/n…",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2089333431389892924",
+      "source": "X",
+      "published": "2026-08-17T12:48:02+00:00"
     },
     {
       "text": "NVIDIA JUST CONFIRMED ITS OHIO DATA CENTER DEAL WITH OPENAI Nvidia $NVDA will be the exclusive host for AI compute at SB Energy's PORTS-Pike Technology Campus in Pike County, Ohio, built on the site of the old Portsmouth Gaseous Diffusion Plant. OpenAI is the customer, under a 20-year lease with SB Energy building, owning, and operating the data center. Initial capacity: 4.25 IT-GW, with NVIDIA holding an option on another 3.75 IT-GW, bringing the total to 8 IT-GW for OpenAI. Capacity comes online in phases starting 2028. NVIDIA is also investing $1.5 billion directly in SB Energy, joining SoftBank and OpenAI as investors in the company.",
@@ -79,46 +107,25 @@
       "published": "2026-08-17T12:38:25+00:00"
     },
     {
-      "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
+      "text": "Updated: $NVDA investment portfolio. Circular financing bros would say they invest so these customers buy their GPUs. Critical thinkers would say a 300+% return plus deepening partnerships across its supply chain is a savvy use of capital.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2089046529445097671",
       "source": "X",
-      "published": "2026-08-16T23:27:20+00:00"
+      "published": "2026-08-16T17:47:59+00:00"
     },
     {
-      "text": "AMD $AMD: “We expect MI500 to deliver the largest generational leap in instinct history putting us on track to increase inferencing performance more than 2,000 times in just 4 years.” $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089121442499613063",
+      "text": "RT by @danielnewmanUV: FUD Alert $NVDA is reportedly modifying the OpenAI agreement but this headline is misleading. The deal was 1. Always directional 2. A backstop against a 10GW buildout The deal is 1. Starting by now committing to backstopping 5 GW with more potential later. $120 Billion 2. With Chip purchases this deal could rise to $350 Billion. Always read the story folks. Headlines are often full of a lot of fuckery.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2088722218641482152",
       "source": "X",
-      "published": "2026-08-16T22:45:40+00:00"
+      "published": "2026-08-15T20:19:18+00:00"
     },
     {
-      "text": "Meta $META is expected to rely on Nvidia’s $NVDA Blackwell and Rubin racks along with AMD’s $AMD Helios racks in 2026, while substantially accelerating deployment of its custom MTIA chips expected in 2027. $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089090881726906723",
+      "text": "RT by @danielnewmanUV: When Jensen said “the more you buy the more you save,” this is what he meant. And with each generation efficiency gets better and AI cloud providers make more profit on tokens. 👏🏻👀",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2088611316973940835",
       "source": "X",
-      "published": "2026-08-16T20:44:14+00:00"
-    },
-    {
-      "text": "AWS $AMZN is expected to deploy Nvidia’s $NVDA GB300 as its primary GPU platform in 2026 while expanding shipments of its Trainium chips, with further volume growth expected in 2027, per TrendForce. $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089051207817900364",
-      "source": "X",
-      "published": "2026-08-16T18:06:35+00:00"
-    },
-    {
-      "text": "Nscale also has 25,000 active GPUs and 289,000 contracted chips, with 194,000 of those contracted chips being Nvidia’s $NVDA Vera Rubin generation. $MSFT $NBIS $CRWV",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2088697606503288993",
-      "source": "X",
-      "published": "2026-08-15T18:41:30+00:00"
-    },
-    {
-      "text": "Three students. Three brand-new GeForce RTX 50 Series laptops. The ultimate college upgrade for every major. Want us to surprise more students in the future? Comment your university below 👇",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2088656967275290908",
-      "source": "X",
-      "published": "2026-08-15T16:00:01+00:00"
+      "published": "2026-08-15T12:58:37+00:00"
     },
     {
       "text": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
@@ -133,13 +140,6 @@
       "link": "https://x.com/nvidia/status/2088365554469921218",
       "source": "X",
       "published": "2026-08-14T20:42:02+00:00"
-    },
-    {
-      "text": "Data center net margins from token sales are estimated to be ~58% with Nvidia $NVDA Blackwell GPUs, while Rubin-based data centers approach 78%, and Feynman-based data centers could reach roughly 90%, per Morgan Stanley. $AMD $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2088352501590344039",
-      "source": "X",
-      "published": "2026-08-14T19:50:10+00:00"
     },
     {
       "text": "RT by @nvidia: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
@@ -163,39 +163,18 @@
       "published": "2026-08-14T19:00:00+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: The macro framework supporting our defensive stance May-June now suggests our bullish scenario from June 18 is gaining odds. Below, we spell out what this means for AI semis, what levels must hold and one major macro risk that must be contained for this rally to continue. https://io-fund.com/broad-market/ai-dip-buy-sp500-levels-bond-market-risks $SPY $NVDA $QQQ",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2088325853541257684",
+      "text": "R to @NVIDIAAI: Learn more: https://nvda.ws/457eK7l",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339803138101304",
       "source": "X",
-      "published": "2026-08-14T18:04:17+00:00"
+      "published": "2026-08-14T18:59:43+00:00"
     },
     {
-      "text": "Global AI accelerator shipments are now forecast to increase nearly 31% YoY, up from a previous forecast for 28% growth, driven by increasing capex and strong procurement demand for Nvidia’s $NVDA Blackwell and Rubin racks, per TrendForce. $AVGO $AMD $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2088314328311033948",
+      "text": "ICYMI: Not every step in an agent workflow needs the same model. Meet NVIDIA NeMo Switchyard, a new open-source library for model routing. Use frontier models for complex reasoning and planning, and NVIDIA Nemotron Lightning for high-volume, specialized execution.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339706752983230",
       "source": "X",
-      "published": "2026-08-14T17:18:29+00:00"
-    },
-    {
-      "text": "🎒 Back-to-school laptop deals 🎒 Shop the latest student-recommended GeForce RTX 50 Series laptops for every major. Shop Best Buy deals → https://nvda.ws/3Sdql1D",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2088309714522104199",
-      "source": "X",
-      "published": "2026-08-14T17:00:09+00:00"
-    },
-    {
-      "text": "We asked. Students answered. 🎤 We hit campus to ask students about their current laptops and the ONE thing they wish they did better. See the surprise in Part 2.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2088291171030184081",
-      "source": "X",
-      "published": "2026-08-14T15:46:28+00:00"
-    },
-    {
-      "text": "AI data center startup Nscale said Q2 revenue surpassed $100 million, up from $37 million in Q1, with total contracted revenue of more than $51 billion as it prepares for a US IPO as soon as September. $NVDA $MSFT $NBIS $CRWV",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2088255184870728179",
-      "source": "X",
-      "published": "2026-08-14T13:23:28+00:00"
+      "published": "2026-08-14T18:59:20+00:00"
     },
     {
       "text": "R to @LGE_Global: Read more: https://nvda.ws/4czcZnh",
@@ -210,6 +189,27 @@
       "link": "https://x.com/nvidianewsroom/status/2088093291766026650",
       "source": "X",
       "published": "2026-08-14T02:40:10+00:00"
+    },
+    {
+      "text": "Great to welcome @LGE_Global Group Chairman Kwang-mo Koo and LG leaders to NVIDIA as we enter the next chapter of our collaboration. Together, we’re expanding our work across AI infrastructure, physical AI and robotics. We’re excited about what our teams can build together.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088088665058873720",
+      "source": "X",
+      "published": "2026-08-14T02:21:47+00:00"
+    },
+    {
+      "text": "NVIDIA and LG are expanding their collaboration to accelerate the next wave of physical AI. Building on years of work together, @JensenHuang and LG Group Chairman Kwang-mo Koo are advancing joint efforts across AI factories, robotics, and autonomous vehicles — combining LG’s leadership in product engineering and manufacturing with NVIDIA AI infrastructure.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2088087603421569082",
+      "source": "X",
+      "published": "2026-08-14T02:17:34+00:00"
+    },
+    {
+      "text": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088057386384916833",
+      "source": "X",
+      "published": "2026-08-14T00:17:29+00:00"
     }
   ]
 }
