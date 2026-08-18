@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-18T21:45:43+00:00",
+  "updated_at": "2026-08-18T22:51:49+00:00",
   "items": [
+    {
+      "text": "日経平均株価、ＡＩ・半導体関連と金利上昇が重荷（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL190140Z10C26A8000000/?n_cid=SNSTW001&n_tw=1787092402",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2089843456386437262",
+      "source": "X",
+      "published": "2026-08-18T22:34:42+00:00"
+    },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
       "author": "@NVIDIAGeForce",
@@ -191,25 +198,18 @@
       "published": "2026-08-17T12:42:10+00:00"
     },
     {
+      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
+      "source": "X",
+      "published": "2026-08-17T12:38:25+00:00"
+    },
+    {
       "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
       "source": "X",
       "published": "2026-08-16T23:27:20+00:00"
-    },
-    {
-      "text": "AMD $AMD: “We expect MI500 to deliver the largest generational leap in instinct history putting us on track to increase inferencing performance more than 2,000 times in just 4 years.” $NVDA",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089121442499613063",
-      "source": "X",
-      "published": "2026-08-16T22:45:40+00:00"
-    },
-    {
-      "text": "Meta $META is expected to rely on Nvidia’s $NVDA Blackwell and Rubin racks along with AMD’s $AMD Helios racks in 2026, while substantially accelerating deployment of its custom MTIA chips expected in 2027. $AVGO",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089090881726906723",
-      "source": "X",
-      "published": "2026-08-16T20:44:14+00:00"
     }
   ]
 }
