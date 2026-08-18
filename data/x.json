@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-18T16:03:56+00:00",
+  "updated_at": "2026-08-18T16:46:47+00:00",
   "items": [
+    {
+      "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2089750360869233059",
+      "source": "X",
+      "published": "2026-08-18T16:24:46+00:00"
+    },
     {
       "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @FalconNW FragBox, powered by a GeForce RTX 5080 Founders Edition. Which PC game has earned the most hours in your Steam library? Share your answer with #RTXPowersPlay to enter!",
       "author": "@NVIDIAGeForce",
@@ -28,6 +35,13 @@
       "link": "https://x.com/Beth_Kindig/status/2089716402961690783",
       "source": "X",
       "published": "2026-08-18T14:09:50+00:00"
+    },
+    {
+      "text": "True. Favorite open source drop of the summer?",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
+      "source": "X",
+      "published": "2026-08-18T12:43:50+00:00"
     },
     {
       "text": "Cathie Wood and Ark Invest bought 97,970 shares of Nvidia $NVDA today",
@@ -196,20 +210,6 @@
       "link": "https://x.com/Beth_Kindig/status/2088352501590344039",
       "source": "X",
       "published": "2026-08-14T19:50:10+00:00"
-    },
-    {
-      "text": "RT by @nvidia: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
-      "author": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2088350155758313875",
-      "source": "X",
-      "published": "2026-08-14T19:40:51+00:00"
-    },
-    {
-      "text": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next. To our 2026 interns: thank you for spending your summer with us. 💚",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2088346841469379033",
-      "source": "X",
-      "published": "2026-08-14T19:27:41+00:00"
     }
   ]
 }
