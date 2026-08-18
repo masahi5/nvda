@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-18T10:53:05+00:00",
+  "updated_at": "2026-08-18T13:37:09+00:00",
   "items": [
+    {
+      "text": "True. Favorite open source drop of the summer?",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
+      "source": "X",
+      "published": "2026-08-18T12:43:50+00:00"
+    },
     {
       "text": "Cathie Wood and Ark Invest bought 97,970 shares of Nvidia $NVDA today",
       "author": "@StockMKTNewz",
@@ -28,20 +35,6 @@
       "link": "https://x.com/Beth_Kindig/status/2089411172382429382",
       "source": "X",
       "published": "2026-08-17T17:56:57+00:00"
-    },
-    {
-      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @DigitalStormPC Corsa, powered by a GeForce RTX 5080 Founders Edition. What upcoming PC game can’t you wait to play on a new rig? Share your answer with #RTXPowersPlay to enter!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
-      "source": "X",
-      "published": "2026-08-17T16:00:00+00:00"
-    },
-    {
-      "text": "FREE PCs ALL WEEK 👀 Comment #RTXPowersPlay for your first chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089366643600203845",
-      "source": "X",
-      "published": "2026-08-17T15:00:01+00:00"
     },
     {
       "text": "NVIDIA is going after the frontier labs (AKA OpenAI, Anthropic) AI infrastructure business directly! Womp, womp hyperscalers. Jensen - \"But frontier AI labs are different. Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support. They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently. Their growth is increasingly constrained not by algorithms or customer demand, but by the availability of compute. For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.\" OpenAI – \"SB Energy will build, own, and operate the data center under a 20-year lease to OpenAI and deliver capacity over time. OpenAI will be the customer and will utilize capacity at the site, which will exclusively host NVIDIA AI compute infrastructure.\"",
@@ -77,20 +70,6 @@
       "link": "https://x.com/firstadopter/status/2089336345655230584",
       "source": "X",
       "published": "2026-08-17T12:59:37+00:00"
-    },
-    {
-      "text": "R to @firstadopter: blogs.nvidia.com/blog/securi…",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2089335064983224620",
-      "source": "X",
-      "published": "2026-08-17T12:54:32+00:00"
-    },
-    {
-      "text": "Jensen Huang: \"Today, we are partnering with SB Energy to secure LPS capacity at the exceptional PORTS-Pike Technology Campus in Portsmouth, Ohio, to host NVIDIA compute. OpenAI will be the tenant.\" \"But frontier AI labs are different. Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support. They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently. Their growth is increasingly constrained not by algorithms or customer demand, but by the availability of compute. For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.\" \"OpenAI will build and operate a world-class AI factory at PORTS-Pike. The AI factory will use NVIDIA’s full-stack DSX AI factory platform, including GPUs, CPUs, networking, and infrastructure software. The initial deployment is expected to provide 4.25 gigawatts of AI factory capacity. Each generation of NVIDIA AI factory systems deployed at PORTS-Pike could represent approximately 1.5 million NVIDIA GPUs, or approximately $150 billion to $200 billion in NVIDIA revenue. Over 20 years, the site can support multiple upgrade cycles. This is the essential economic point: the LPS commitment secures a long-lived AI factory site, while the NVIDIA compute inside can be upgraded repeatedly. Each new generation can deliver greater production, more intelligence and better economics. NVIDIA may also choose to extend the arrangement at PORTS-Pike beyond the initial 4.25 gigawatts to secure the remaining capacity of 3.75 gigawatts.\" \"More broadly, OpenAI has committed to substantial deployments of NVIDIA AI infrastructure through 2030. OpenAI’s existing and planned commitments represent approximately 12 gigawatts of NVIDIA compute, with an opportunity to expand to approximately 16 gigawatts if NVIDIA extends the PORTS-Pike arrangement beyond the initial 4.25 gigawatts. At these levels, the opportunity represents roughly $600 billion of NVIDIA compute through 2030.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2089335062189728245",
-      "source": "X",
-      "published": "2026-08-17T12:54:31+00:00"
     },
     {
       "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
@@ -142,13 +121,6 @@
       "published": "2026-08-16T18:06:35+00:00"
     },
     {
-      "text": "Updated: $NVDA investment portfolio. Circular financing bros would say they invest so these customers buy their GPUs. Critical thinkers would say a 300+% return plus deepening partnerships across its supply chain is a savvy use of capital.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089046529445097671",
-      "source": "X",
-      "published": "2026-08-16T17:47:59+00:00"
-    },
-    {
       "text": "RT by @danielnewmanUV: FUD Alert $NVDA is reportedly modifying the OpenAI agreement but this headline is misleading. The deal was 1. Always directional 2. A backstop against a 10GW buildout The deal is 1. Starting by now committing to backstopping 5 GW with more potential later. $120 Billion 2. With Chip purchases this deal could rise to $350 Billion. Always read the story folks. Headlines are often full of a lot of fuckery.",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2088722218641482152",
@@ -161,13 +133,6 @@
       "link": "https://x.com/Beth_Kindig/status/2088697606503288993",
       "source": "X",
       "published": "2026-08-15T18:41:30+00:00"
-    },
-    {
-      "text": "Three students. Three brand-new GeForce RTX 50 Series laptops. The ultimate college upgrade for every major. Want us to surprise more students in the future? Comment your university below 👇",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2088656967275290908",
-      "source": "X",
-      "published": "2026-08-15T16:00:01+00:00"
     },
     {
       "text": "RT by @danielnewmanUV: When Jensen said “the more you buy the more you save,” this is what he meant. And with each generation efficiency gets better and AI cloud providers make more profit on tokens. 👏🏻👀",
@@ -210,6 +175,41 @@
       "link": "https://x.com/nvidia/status/2088346841469379033",
       "source": "X",
       "published": "2026-08-14T19:27:41+00:00"
+    },
+    {
+      "text": "RT by @nvidia: It's been an amazing week for open models running on NVIDIA Local AI systems! 👀 Here's a few you’ll want to know about, all ready to run locally on NVIDIA RTX, DGX Spark, DGX Station, and Jetson.",
+      "author": "@NVIDIARTXSpark",
+      "link": "https://x.com/NVIDIARTXSpark/status/2088339875304984672",
+      "source": "X",
+      "published": "2026-08-14T19:00:00+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Learn more: https://nvda.ws/457eK7l",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339803138101304",
+      "source": "X",
+      "published": "2026-08-14T18:59:43+00:00"
+    },
+    {
+      "text": "ICYMI: Not every step in an agent workflow needs the same model. Meet NVIDIA NeMo Switchyard, a new open-source library for model routing. Use frontier models for complex reasoning and planning, and NVIDIA Nemotron Lightning for high-volume, specialized execution.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2088339706752983230",
+      "source": "X",
+      "published": "2026-08-14T18:59:20+00:00"
+    },
+    {
+      "text": "RT by @Beth_Kindig: The macro framework supporting our defensive stance May-June now suggests our bullish scenario from June 18 is gaining odds. Below, we spell out what this means for AI semis, what levels must hold and one major macro risk that must be contained for this rally to continue. https://io-fund.com/broad-market/ai-dip-buy-sp500-levels-bond-market-risks $SPY $NVDA $QQQ",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2088325853541257684",
+      "source": "X",
+      "published": "2026-08-14T18:04:17+00:00"
+    },
+    {
+      "text": "Global AI accelerator shipments are now forecast to increase nearly 31% YoY, up from a previous forecast for 28% growth, driven by increasing capex and strong procurement demand for Nvidia’s $NVDA Blackwell and Rubin racks, per TrendForce. $AVGO $AMD $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2088314328311033948",
+      "source": "X",
+      "published": "2026-08-14T17:18:29+00:00"
     }
   ]
 }
