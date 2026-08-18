@@ -1,11 +1,11 @@
 {
   "symbol": "NVDA",
-  "updated_at": "2026-08-17T22:51:07+00:00",
+  "updated_at": "2026-08-18T10:52:54+00:00",
   "quote": {
     "price": 225.01,
-    "previous_close": 224.72,
-    "change": 0.29,
-    "change_pct": 0.13,
+    "previous_close": 225.15,
+    "change": -0.14,
+    "change_pct": -0.06,
     "currency": "USD",
     "day_high": 227.92,
     "day_low": 224.86
@@ -1318,14 +1318,14 @@
         "high": 227.49,
         "low": 224.5,
         "close": 225.16,
-        "volume": 75504000
+        "volume": 75680900
       },
       {
         "time": 1786939200,
         "open": 226.02,
         "high": 227.92,
         "low": 224.86,
-        "close": 225.01,
+        "close": NaN,
         "volume": 81442206
       }
     ],
@@ -2320,14 +2320,14 @@
         "high": 227.49,
         "low": 224.5,
         "close": 225.16,
-        "volume": 75504000
+        "volume": 75680900
       },
       {
         "time": 1786939200,
         "open": 226.02,
         "high": 227.92,
         "low": 224.86,
-        "close": 225.01,
+        "close": NaN,
         "volume": 81442206
       }
     ],
@@ -4330,14 +4330,14 @@
         "high": 227.49,
         "low": 224.5,
         "close": 225.16,
-        "volume": 75504000
+        "volume": 75680900
       },
       {
         "time": 1786939200,
         "open": 226.02,
         "high": 227.92,
         "low": 224.86,
-        "close": 225.01,
+        "close": NaN,
         "volume": 81442206
       }
     ],
@@ -6428,15 +6428,15 @@
         "high": 227.49,
         "low": 216.2,
         "close": 225.16,
-        "volume": 500274500
+        "volume": 500451400
       },
       {
         "time": 1786939200,
         "open": 226.02,
         "high": 227.92,
         "low": 224.86,
-        "close": 225.01,
-        "volume": 81442206
+        "close": NaN,
+        "volume": 81437577
       }
     ]
   }
