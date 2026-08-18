@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-18T16:46:47+00:00",
+  "updated_at": "2026-08-18T17:21:10+00:00",
   "items": [
+    {
+      "text": "Check out DLSS in more games this week! 🟢Luminary 🟢Mortal Shell II 🟢The Sinking City 2 #RTXOn: https://nvda.ws/3U3Q25u",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089760088907043143",
+      "source": "X",
+      "published": "2026-08-18T17:03:25+00:00"
+    },
     {
       "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
       "author": "@NVIDIAAI",
@@ -42,13 +49,6 @@
       "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
       "source": "X",
       "published": "2026-08-18T12:43:50+00:00"
-    },
-    {
-      "text": "Cathie Wood and Ark Invest bought 97,970 shares of Nvidia $NVDA today",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2089515650179883125",
-      "source": "X",
-      "published": "2026-08-18T00:52:06+00:00"
     },
     {
       "text": "$NVDA is playing in a different league. Strap in for next week. 🚀",
