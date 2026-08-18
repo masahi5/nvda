@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-18T18:28:54+00:00",
+  "updated_at": "2026-08-18T19:07:37+00:00",
   "items": [
+    {
+      "text": "Micron $MU: Customers are “all telling us that the #1 constraint they have today, and this is not just 1 or 2 customers, but a common theme across our customers is not power or real estate or data center capacity or logic wafers. The #1 constraint they have is DRAM.” $NVDA $AMD $SKHY",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089782824379236563",
+      "source": "X",
+      "published": "2026-08-18T18:33:46+00:00"
+    },
+    {
+      "text": "What are you building with open models? Show us what you’re working on and you could be headed to #NVIDIAGTC Berlin. 🎫 Your Golden Ticket includes: → Free conference pass → VIP seating for Jensen’s keynote → Exclusive NVIDIA merch → Access to special events Submissions are open Aug 18 – Sep 10, 2026. Details and how to enter: https://nvda.ws/4wFdunb",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2089782352755212542",
+      "source": "X",
+      "published": "2026-08-18T18:31:53+00:00"
+    },
     {
       "text": "Ask the Experts: What's New in the Nemotron Open Family | Nemotron Labs https://x.com/i/broadcasts/1YxNrbRPRbQxw",
       "author": "@NVIDIAAI",
@@ -107,13 +121,6 @@
       "published": "2026-08-17T15:00:01+00:00"
     },
     {
-      "text": "NVIDIA is going after the frontier labs (AKA OpenAI, Anthropic) AI infrastructure business directly! Womp, womp hyperscalers. Jensen - \"But frontier AI labs are different. Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support. They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently. Their growth is increasingly constrained not by algorithms or customer demand, but by the availability of compute. For these companies, more compute means more intelligence, more products, more users and more revenue. NVIDIA is helping provide the infrastructure that powers this flywheel.\" OpenAI – \"SB Energy will build, own, and operate the data center under a 20-year lease to OpenAI and deliver capacity over time. OpenAI will be the customer and will utilize capacity at the site, which will exclusively host NVIDIA AI compute infrastructure.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2089355365720654225",
-      "source": "X",
-      "published": "2026-08-17T14:15:12+00:00"
-    },
-    {
       "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
@@ -196,13 +203,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2088656967275290908",
       "source": "X",
       "published": "2026-08-15T16:00:01+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: When Jensen said “the more you buy the more you save,” this is what he meant. And with each generation efficiency gets better and AI cloud providers make more profit on tokens. 👏🏻👀",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2088611316973940835",
-      "source": "X",
-      "published": "2026-08-15T12:58:37+00:00"
     },
     {
       "text": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
