@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-19T14:17:13+00:00",
+  "updated_at": "2026-08-19T15:00:27+00:00",
   "items": [
     {
-      "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2090067415124074593",
+      "text": "Nvidia $NVDA is seeking to connect companies with its GPUs to data-center operators with available capacity in the Nordics The Nordics are attracting large AI data-center projects because of access to power and land, as well as a cooler climate - CNBC",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2090083639786643697",
       "source": "X",
-      "published": "2026-08-19T13:24:37+00:00"
+      "published": "2026-08-19T14:29:06+00:00"
     },
     {
       "text": "For 2027, JP Morgan projects total AI accelerator shipments to rise 43% to 23.3 million, with strong growth from Google $GOOG and Amazon $AMZN pushing custom silicon to the majority unit share at 53%. $NVDA $AMD $AVGO",
@@ -37,11 +37,25 @@
       "published": "2026-08-19T11:30:07+00:00"
     },
     {
-      "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 https://on.wsj.com/3SHFHMb",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2089912758749835481",
+      "text": "RT by @nikkei: ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2090024147376116220",
       "source": "X",
-      "published": "2026-08-19T03:10:05+00:00"
+      "published": "2026-08-19T10:32:42+00:00"
+    },
+    {
+      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り　新規上場の宇樹科技は高騰 https://reut.rs/4xOS1cf https://reut.rs/4xOS1cf",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2090016752306438553",
+      "source": "X",
+      "published": "2026-08-19T10:03:19+00:00"
+    },
+    {
+      "text": "サムスン、半導体受託製造を最大15％値上げ　ＡＩ需要急増で＝関係筋 https://reut.rs/3U5Zk0N https://reut.rs/3U5Zk0N",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2090007515257839826",
+      "source": "X",
+      "published": "2026-08-19T09:26:36+00:00"
     },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
@@ -79,20 +93,6 @@
       "published": "2026-08-18T18:33:46+00:00"
     },
     {
-      "text": "What are you building with open models? Show us what you’re working on and you could be headed to #NVIDIAGTC Berlin. 🎫 Your Golden Ticket includes: → Free conference pass → VIP seating for Jensen’s keynote → Exclusive NVIDIA merch → Access to special events Submissions are open Aug 18 – Sep 10, 2026. Details and how to enter: https://nvda.ws/4wFdunb",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089782352755212542",
-      "source": "X",
-      "published": "2026-08-18T18:31:53+00:00"
-    },
-    {
-      "text": "Ask the Experts: What's New in the Nemotron Open Family | Nemotron Labs https://x.com/i/broadcasts/1YxNrbRPRbQxw",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089774355672961036",
-      "source": "X",
-      "published": "2026-08-18T18:00:07+00:00"
-    },
-    {
       "text": "R to @snellzilla4: Full video: https://nvda.ws/4zkaIGp Chassis: Thermaltake TR300 GPU: GeForce RTX 5080 Founders Edition CPU: Ryzen 7 9800X3D Motherboard: ASUS TUF Gaming X870E-Plus RAM: Patriot Viper Elite 5 RGB TUF 32GB (2x16) DDR5-6000 Storage: Patriot Viper PV593 4TB Power: ASUS ROG Loki 1000W Cooling: Bitspower",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2089774330624295270",
@@ -121,13 +121,6 @@
       "published": "2026-08-18T17:03:25+00:00"
     },
     {
-      "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089750360869233059",
-      "source": "X",
-      "published": "2026-08-18T16:24:46+00:00"
-    },
-    {
       "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @FalconNW FragBox, powered by a GeForce RTX 5080 Founders Edition. Which PC game has earned the most hours in your Steam library? Share your answer with #RTXPowersPlay to enter!",
       "author": "@NVIDIAGeForce",
       "link": "https://x.com/NVIDIAGeForce/status/2089741335074861280",
@@ -135,39 +128,11 @@
       "published": "2026-08-18T15:48:54+00:00"
     },
     {
-      "text": "RT by @NVIDIAAI: just because weights are on @huggingface, it doesn't mean a model is fully open! shoutout to @NVIDIAAI and @allen_ai for always dropping everything and putting friendly licenses 🤗",
-      "author": "@mervenoyann",
-      "link": "https://x.com/mervenoyann/status/2089734357456207985",
-      "source": "X",
-      "published": "2026-08-18T15:21:10+00:00"
-    },
-    {
-      "text": "$NVDA reducing HBM in Rubin would ultimately lead to demand for a greater number of required Rubin Systems to deliver the same performance. So you end up selling more racks with less memory to achieve the same thing. The despec doesn’t really address the memory wall, but it would benefit NVIDIA while ultimately the same amount of $MU or other memory would be required.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089720991752835260",
-      "source": "X",
-      "published": "2026-08-18T14:28:04+00:00"
-    },
-    {
       "text": "RT by @Beth_Kindig: CoreWeave $CRWV: “What we are seeing today is that the upside of recontracting is real as we remain largely sold out of prior generations of Nvidia $NVDA GPUs in addition to the current SKUs. As an example, we recently signed an A100 contract that extends into 2029 at an attractive price.” $NBIS $AMD",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089716402961690783",
       "source": "X",
       "published": "2026-08-18T14:09:50+00:00"
-    },
-    {
-      "text": "True. Favorite open source drop of the summer?",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
-      "source": "X",
-      "published": "2026-08-18T12:43:50+00:00"
-    },
-    {
-      "text": "$NVDA is playing in a different league. Strap in for next week. 🚀",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089503623864565874",
-      "source": "X",
-      "published": "2026-08-18T00:04:19+00:00"
     },
     {
       "text": "AI accelerator shipments are forecast to be 16.3 million in 2026, per JP Morgan, up 62% YoY with GPUs from Nvidia $NVDA and AMD $AMD accounting for 58% of total shipments, down from 68% in 2025 as Google leads custom silicon share higher. $AVGO $MRVL $GOOG $AMZN",
@@ -205,11 +170,46 @@
       "published": "2026-08-17T13:24:24+00:00"
     },
     {
-      "text": "RT by @danielnewmanUV: I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
+      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089332080194806236",
       "source": "X",
-      "published": "2026-08-17T13:15:48+00:00"
+      "published": "2026-08-17T12:42:40+00:00"
+    },
+    {
+      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089331953585607127",
+      "source": "X",
+      "published": "2026-08-17T12:42:10+00:00"
+    },
+    {
+      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
+      "source": "X",
+      "published": "2026-08-17T12:38:25+00:00"
+    },
+    {
+      "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
+      "source": "X",
+      "published": "2026-08-16T23:27:20+00:00"
+    },
+    {
+      "text": "AMD $AMD: “We expect MI500 to deliver the largest generational leap in instinct history putting us on track to increase inferencing performance more than 2,000 times in just 4 years.” $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089121442499613063",
+      "source": "X",
+      "published": "2026-08-16T22:45:40+00:00"
+    },
+    {
+      "text": "Meta $META is expected to rely on Nvidia’s $NVDA Blackwell and Rubin racks along with AMD’s $AMD Helios racks in 2026, while substantially accelerating deployment of its custom MTIA chips expected in 2027. $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089090881726906723",
+      "source": "X",
+      "published": "2026-08-16T20:44:14+00:00"
     }
   ]
 }
