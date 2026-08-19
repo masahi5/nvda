@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19T15:44:07+00:00",
+  "updated_at": "2026-08-19T16:03:17+00:00",
   "items": [
+    {
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @maingear MG-1, powered by a GeForce RTX 5080 Founders Edition. Which multiplayer PC game became your squad’s all-time favorite? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2090105757953867821",
+      "source": "X",
+      "published": "2026-08-19T15:56:59+00:00"
+    },
     {
       "text": "Nvidia $NVDA is seeking to connect companies with its GPUs to data-center operators with available capacity in the Nordics The Nordics are attracting large AI data-center projects because of access to power and land, as well as a cooler climate - CNBC",
       "author": "@StockMKTNewz",
@@ -58,11 +65,11 @@
       "published": "2026-08-19T10:03:19+00:00"
     },
     {
-      "text": "サムスン、半導体受託製造を最大15％値上げ　ＡＩ需要急増で＝関係筋 https://reut.rs/3U5Zk0N https://reut.rs/3U5Zk0N",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2090007515257839826",
+      "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089817937708282143",
       "source": "X",
-      "published": "2026-08-19T09:26:36+00:00"
+      "published": "2026-08-18T20:53:17+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: Global copper consumption in data centers is expected to reach 740,000 metric tons in 2026 before rising 75% to 1.3 million metric tons, or 1.3 billion kg, by 2028. $NVDA $APH $CRDO",
@@ -107,6 +114,20 @@
       "published": "2026-08-18T18:00:07+00:00"
     },
     {
+      "text": "R to @snellzilla4: Full video: https://nvda.ws/4zkaIGp Chassis: Thermaltake TR300 GPU: GeForce RTX 5080 Founders Edition CPU: Ryzen 7 9800X3D Motherboard: ASUS TUF Gaming X870E-Plus RAM: Patriot Viper Elite 5 RGB TUF 32GB (2x16) DDR5-6000 Storage: Patriot Viper PV593 4TB Power: ASUS ROG Loki 1000W Cooling: Bitspower",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089774330624295270",
+      "source": "X",
+      "published": "2026-08-18T18:00:01+00:00"
+    },
+    {
+      "text": "RTX PC Week steps up to the plate in the GeForce Garage with @snellzilla4 ⚾ Built to finish the fight, this custom Halo PC combines Spartan-inspired armor, a Commissioner’s Trophy cooling tower, and a GeForce RTX 5080 Founders Edition - a build fit for an ace!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089774326710927719",
+      "source": "X",
+      "published": "2026-08-18T18:00:00+00:00"
+    },
+    {
       "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Intro (01:24) Kimberly joins NVIDIA (05:13) Early healthcare adoption (08:41) Augment not replace (14:35) Inside the future hospital (16:27) Sponsors: Granola | Baker Health (18:38) Why healthcare matters (23:25) Agents unlock workflows (28:53) Clinicians adapting to AI (33:43) Safety and risk reward (40:19) Agents across industry (44:14) Five year predictions (49:53) AI hireable and ROI (54:02) Personal tech habits (55:59) AI etiquette and hacks (58:52) Wrap",
       "author": "@chrissyfarr",
       "link": "https://x.com/chrissyfarr/status/2089762512174797251",
@@ -114,11 +135,25 @@
       "published": "2026-08-18T17:13:03+00:00"
     },
     {
+      "text": "Check out DLSS in more games this week! 🟢Luminary 🟢Mortal Shell II 🟢The Sinking City 2 #RTXOn: https://nvda.ws/3U3Q25u",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089760088907043143",
+      "source": "X",
+      "published": "2026-08-18T17:03:25+00:00"
+    },
+    {
       "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
       "author": "@NVIDIAAI",
       "link": "https://x.com/NVIDIAAI/status/2089750360869233059",
       "source": "X",
       "published": "2026-08-18T16:24:46+00:00"
+    },
+    {
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @FalconNW FragBox, powered by a GeForce RTX 5080 Founders Edition. Which PC game has earned the most hours in your Steam library? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089741335074861280",
+      "source": "X",
+      "published": "2026-08-18T15:48:54+00:00"
     },
     {
       "text": "RT by @NVIDIAAI: just because weights are on @huggingface, it doesn't mean a model is fully open! shoutout to @NVIDIAAI and @allen_ai for always dropping everything and putting friendly licenses 🤗",
@@ -170,46 +205,11 @@
       "published": "2026-08-17T17:56:57+00:00"
     },
     {
-      "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @DigitalStormPC Corsa, powered by a GeForce RTX 5080 Founders Edition. What upcoming PC game can’t you wait to play on a new rig? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
       "source": "X",
-      "published": "2026-08-17T13:24:24+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
-      "source": "X",
-      "published": "2026-08-17T13:15:48+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089332080194806236",
-      "source": "X",
-      "published": "2026-08-17T12:42:40+00:00"
-    },
-    {
-      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089331953585607127",
-      "source": "X",
-      "published": "2026-08-17T12:42:10+00:00"
-    },
-    {
-      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
-      "source": "X",
-      "published": "2026-08-17T12:38:25+00:00"
-    },
-    {
-      "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
-      "source": "X",
-      "published": "2026-08-16T23:27:20+00:00"
+      "published": "2026-08-17T16:00:00+00:00"
     }
   ]
 }
