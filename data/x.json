@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T13:39:15+00:00",
+  "updated_at": "2026-08-19T14:17:13+00:00",
   "items": [
     {
       "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
@@ -35,27 +35,6 @@
       "link": "https://x.com/WSJJapan/status/2090038596816281946",
       "source": "X",
       "published": "2026-08-19T11:30:07+00:00"
-    },
-    {
-      "text": "ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2090024147376116220",
-      "source": "X",
-      "published": "2026-08-19T10:32:42+00:00"
-    },
-    {
-      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り　新規上場の宇樹科技は高騰 https://reut.rs/4xOS1cf https://reut.rs/4xOS1cf",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2090016752306438553",
-      "source": "X",
-      "published": "2026-08-19T10:03:19+00:00"
-    },
-    {
-      "text": "サムスン、半導体受託製造を最大15％値上げ　ＡＩ需要急増で＝関係筋 https://reut.rs/3U5Zk0N https://reut.rs/3U5Zk0N",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2090007515257839826",
-      "source": "X",
-      "published": "2026-08-19T09:26:36+00:00"
     },
     {
       "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 https://on.wsj.com/3SHFHMb",
@@ -210,6 +189,27 @@
       "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
       "source": "X",
       "published": "2026-08-17T16:00:00+00:00"
+    },
+    {
+      "text": "FREE PCs ALL WEEK 👀 Comment #RTXPowersPlay for your first chance to WIN",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089366643600203845",
+      "source": "X",
+      "published": "2026-08-17T15:00:01+00:00"
+    },
+    {
+      "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
+      "source": "X",
+      "published": "2026-08-17T13:24:24+00:00"
+    },
+    {
+      "text": "RT by @danielnewmanUV: I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
+      "source": "X",
+      "published": "2026-08-17T13:15:48+00:00"
     }
   ]
 }
