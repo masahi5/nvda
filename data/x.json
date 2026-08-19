@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19T20:54:45+00:00",
+  "updated_at": "2026-08-19T21:19:42+00:00",
   "items": [
+    {
+      "text": "米マーベルがGoogleにAI半導体　1.9兆円の出資権利も付与 https://www.nikkei.com/article/DGXZQOGN19B950Z10C26A8000000/?n_cid=SNSTW001&n_tw=1787172862",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2090181181362892942",
+      "source": "X",
+      "published": "2026-08-19T20:56:41+00:00"
+    },
     {
       "text": "GeForce Trading Cards S1 have landed at QuakeCon '26 🎴 With 14 designs inspired by GeForce history (plus some surprises), see the community's reactions as they crack open some packs!",
       "author": "@NVIDIAGeForce",
@@ -79,6 +86,13 @@
       "published": "2026-08-19T15:56:59+00:00"
     },
     {
+      "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2090067415124074593",
+      "source": "X",
+      "published": "2026-08-19T13:24:37+00:00"
+    },
+    {
       "text": "For 2027, JP Morgan projects total AI accelerator shipments to rise 43% to 23.3 million, with strong growth from Google $GOOG and Amazon $AMZN pushing custom silicon to the majority unit share at 53%. $NVDA $AMD $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2090052774637555818",
@@ -98,13 +112,6 @@
       "link": "https://x.com/WSJJapan/status/2090038596816281946",
       "source": "X",
       "published": "2026-08-19T11:30:07+00:00"
-    },
-    {
-      "text": "RT by @nikkei: ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
-      "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2090024147376116220",
-      "source": "X",
-      "published": "2026-08-19T10:32:42+00:00"
     },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
@@ -203,13 +210,6 @@
       "link": "https://x.com/mervenoyann/status/2089734357456207985",
       "source": "X",
       "published": "2026-08-18T15:21:10+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: CoreWeave $CRWV: “What we are seeing today is that the upside of recontracting is real as we remain largely sold out of prior generations of Nvidia $NVDA GPUs in addition to the current SKUs. As an example, we recently signed an A100 contract that extends into 2029 at an attractive price.” $NBIS $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089716402961690783",
-      "source": "X",
-      "published": "2026-08-18T14:09:50+00:00"
     }
   ]
 }
