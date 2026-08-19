@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-19T10:52:15+00:00",
+  "updated_at": "2026-08-19T13:39:15+00:00",
   "items": [
+    {
+      "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2090067415124074593",
+      "source": "X",
+      "published": "2026-08-19T13:24:37+00:00"
+    },
+    {
+      "text": "For 2027, JP Morgan projects total AI accelerator shipments to rise 43% to 23.3 million, with strong growth from Google $GOOG and Amazon $AMZN pushing custom silicon to the majority unit share at 53%. $NVDA $AMD $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2090052774637555818",
+      "source": "X",
+      "published": "2026-08-19T12:26:27+00:00"
+    },
+    {
+      "text": "3兆円の米AI半導体新興、エヌビディア出身者を続々獲得 エッチトは、社内にテスト用のミニデータセンターを構築するなどの猛烈な取り組みを経て、今や重要な節目に達した。初の顧客として、秘密主義で知られるクオンツ取引大手ジェーン・ストリートと契約を結んだのだ。 https://on.wsj.com/45ANApG",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2090046129492656447",
+      "source": "X",
+      "published": "2026-08-19T12:00:03+00:00"
+    },
+    {
+      "text": "FT: \"Small batches of Nvidia’s H200 chips have been allowed to enter mainland China, as Beijing tries to aid its leading AI companies in the race to catch up with US rivals. ByteDance and Tencent have each received about 10,000 H200 processors in recent weeks, while a few other Chinese tech groups could soon obtain approval for shipments of similar size, according to two people with knowledge of the matter. The H200 is at least two generations behind Nvidia’s most powerful chips, which Chinese customers are not allowed to buy due to US export controls.\"",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2090040034216882343",
+      "source": "X",
+      "published": "2026-08-19T11:35:49+00:00"
+    },
+    {
+      "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 サムスン電子と韓国の同業SKハイニックスの従業員は、結婚相手として弁護士や医師、会計士に常に一歩及ばない存在だった。しかし韓国の結婚相談所によると、初めて上位グループに追い付きつつあるという。 https://on.wsj.com/468JIw7",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2090038596816281946",
+      "source": "X",
+      "published": "2026-08-19T11:30:07+00:00"
+    },
     {
       "text": "ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
       "author": "@nikkei",
@@ -28,13 +63,6 @@
       "link": "https://x.com/WSJJapan/status/2089912758749835481",
       "source": "X",
       "published": "2026-08-19T03:10:05+00:00"
-    },
-    {
-      "text": "3兆円の米AI半導体新興、エヌビディア出身者を続々獲得 https://on.wsj.com/3U2HxHT",
-      "author": "@WSJJapan",
-      "link": "https://x.com/WSJJapan/status/2089906472800960829",
-      "source": "X",
-      "published": "2026-08-19T02:45:06+00:00"
     },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
@@ -182,34 +210,6 @@
       "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
       "source": "X",
       "published": "2026-08-17T16:00:00+00:00"
-    },
-    {
-      "text": "FREE PCs ALL WEEK 👀 Comment #RTXPowersPlay for your first chance to WIN",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089366643600203845",
-      "source": "X",
-      "published": "2026-08-17T15:00:01+00:00"
-    },
-    {
-      "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
-      "source": "X",
-      "published": "2026-08-17T13:24:24+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
-      "source": "X",
-      "published": "2026-08-17T13:15:48+00:00"
-    },
-    {
-      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089332080194806236",
-      "source": "X",
-      "published": "2026-08-17T12:42:40+00:00"
     }
   ]
 }
