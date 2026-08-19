@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-08-19T17:05:22+00:00",
+  "updated_at": "2026-08-19T17:38:40+00:00",
   "items": [
     {
-      "text": "Sanja Fidler is starting a robotics AI startup with two other former Nvidia AI researchers.",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2090116317084836147",
+      "text": "Marvell $MRVL signed a deal with Google $GOOG covering a range of custom silicon programs attaching to the TPU ecosystem, with Marvell also issuing warrants allowing Google to take up to a $12.2 billion stake in the company. $NVDA $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2090127146610053177",
       "source": "X",
-      "published": "2026-08-19T16:38:57+00:00"
+      "published": "2026-08-19T17:21:59+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Read the technical deep dive on SkillEvaluator: https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090113637591765107",
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @maingear MG-1, powered by a GeForce RTX 5080 Founders Edition. Which multiplayer PC game became your squad’s all-time favorite? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2090105757953867821",
       "source": "X",
-      "published": "2026-08-19T16:28:18+00:00"
-    },
-    {
-      "text": "We benchmarked 300+ NVIDIA verified skills to see how much they actually help agents on real tasks. Same task, same model, same setup. The only difference was whether the agent had the skill. Across the benchmarks, skills improved correctness by 41 points, effectiveness by 39, and efficiency by 35. SkillEvaluator is open source if you want to test your own skills before you ship them.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090113635683340622",
-      "source": "X",
-      "published": "2026-08-19T16:28:17+00:00"
+      "published": "2026-08-19T15:56:59+00:00"
     },
     {
       "text": "Nvidia $NVDA is seeking to connect companies with its GPUs to data-center operators with available capacity in the Nordics The Nordics are attracting large AI data-center projects because of access to power and land, as well as a cooler climate - CNBC",
@@ -51,13 +44,6 @@
       "published": "2026-08-19T12:00:03+00:00"
     },
     {
-      "text": "FT: \"Small batches of Nvidia’s H200 chips have been allowed to enter mainland China, as Beijing tries to aid its leading AI companies in the race to catch up with US rivals. ByteDance and Tencent have each received about 10,000 H200 processors in recent weeks, while a few other Chinese tech groups could soon obtain approval for shipments of similar size, according to two people with knowledge of the matter. The H200 is at least two generations behind Nvidia’s most powerful chips, which Chinese customers are not allowed to buy due to US export controls.\"",
-      "author": "@firstadopter",
-      "link": "https://x.com/firstadopter/status/2090040034216882343",
-      "source": "X",
-      "published": "2026-08-19T11:35:49+00:00"
-    },
-    {
       "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 サムスン電子と韓国の同業SKハイニックスの従業員は、結婚相手として弁護士や医師、会計士に常に一歩及ばない存在だった。しかし韓国の結婚相談所によると、初めて上位グループに追い付きつつあるという。 https://on.wsj.com/468JIw7",
       "author": "@WSJJapan",
       "link": "https://x.com/WSJJapan/status/2090038596816281946",
@@ -79,6 +65,13 @@
       "published": "2026-08-19T10:03:19+00:00"
     },
     {
+      "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089817937708282143",
+      "source": "X",
+      "published": "2026-08-18T20:53:17+00:00"
+    },
+    {
       "text": "RT by @Beth_Kindig: Global copper consumption in data centers is expected to reach 740,000 metric tons in 2026 before rising 75% to 1.3 million metric tons, or 1.3 billion kg, by 2028. $NVDA $APH $CRDO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089806319716868339",
@@ -86,60 +79,39 @@
       "published": "2026-08-18T20:07:08+00:00"
     },
     {
-      "text": "R to @nvidia: Learn more: https://nvda.ws/3SFVsTO",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089804530628059547",
-      "source": "X",
-      "published": "2026-08-18T20:00:01+00:00"
-    },
-    {
-      "text": "Creator Crafted. Game Ready. NVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089804526970642920",
-      "source": "X",
-      "published": "2026-08-18T20:00:00+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: Micron $MU: Customers are “all telling us that the #1 constraint they have today, and this is not just 1 or 2 customers, but a common theme across our customers is not power or real estate or data center capacity or logic wafers. The #1 constraint they have is DRAM.” $NVDA $AMD $SKHY",
+      "text": "Micron $MU: Customers are “all telling us that the #1 constraint they have today, and this is not just 1 or 2 customers, but a common theme across our customers is not power or real estate or data center capacity or logic wafers. The #1 constraint they have is DRAM.” $NVDA $AMD $SKHY",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089782824379236563",
       "source": "X",
       "published": "2026-08-18T18:33:46+00:00"
     },
     {
-      "text": "What are you building with open models? Show us what you’re working on and you could be headed to #NVIDIAGTC Berlin. 🎫 Your Golden Ticket includes: → Free conference pass → VIP seating for Jensen’s keynote → Exclusive NVIDIA merch → Access to special events Submissions are open Aug 18 – Sep 10, 2026. Details and how to enter: https://nvda.ws/4wFdunb",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089782352755212542",
+      "text": "R to @snellzilla4: Full video: https://nvda.ws/4zkaIGp Chassis: Thermaltake TR300 GPU: GeForce RTX 5080 Founders Edition CPU: Ryzen 7 9800X3D Motherboard: ASUS TUF Gaming X870E-Plus RAM: Patriot Viper Elite 5 RGB TUF 32GB (2x16) DDR5-6000 Storage: Patriot Viper PV593 4TB Power: ASUS ROG Loki 1000W Cooling: Bitspower",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089774330624295270",
       "source": "X",
-      "published": "2026-08-18T18:31:53+00:00"
+      "published": "2026-08-18T18:00:01+00:00"
     },
     {
-      "text": "Ask the Experts: What's New in the Nemotron Open Family | Nemotron Labs https://x.com/i/broadcasts/1YxNrbRPRbQxw",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089774355672961036",
+      "text": "RTX PC Week steps up to the plate in the GeForce Garage with @snellzilla4 ⚾ Built to finish the fight, this custom Halo PC combines Spartan-inspired armor, a Commissioner’s Trophy cooling tower, and a GeForce RTX 5080 Founders Edition - a build fit for an ace!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089774326710927719",
       "source": "X",
-      "published": "2026-08-18T18:00:07+00:00"
+      "published": "2026-08-18T18:00:00+00:00"
     },
     {
-      "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Intro (01:24) Kimberly joins NVIDIA (05:13) Early healthcare adoption (08:41) Augment not replace (14:35) Inside the future hospital (16:27) Sponsors: Granola | Baker Health (18:38) Why healthcare matters (23:25) Agents unlock workflows (28:53) Clinicians adapting to AI (33:43) Safety and risk reward (40:19) Agents across industry (44:14) Five year predictions (49:53) AI hireable and ROI (54:02) Personal tech habits (55:59) AI etiquette and hacks (58:52) Wrap",
-      "author": "@chrissyfarr",
-      "link": "https://x.com/chrissyfarr/status/2089762512174797251",
+      "text": "Check out DLSS in more games this week! 🟢Luminary 🟢Mortal Shell II 🟢The Sinking City 2 #RTXOn: https://nvda.ws/3U3Q25u",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089760088907043143",
       "source": "X",
-      "published": "2026-08-18T17:13:03+00:00"
+      "published": "2026-08-18T17:03:25+00:00"
     },
     {
-      "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089750360869233059",
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @FalconNW FragBox, powered by a GeForce RTX 5080 Founders Edition. Which PC game has earned the most hours in your Steam library? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089741335074861280",
       "source": "X",
-      "published": "2026-08-18T16:24:46+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: just because weights are on @huggingface, it doesn't mean a model is fully open! shoutout to @NVIDIAAI and @allen_ai for always dropping everything and putting friendly licenses 🤗",
-      "author": "@mervenoyann",
-      "link": "https://x.com/mervenoyann/status/2089734357456207985",
-      "source": "X",
-      "published": "2026-08-18T15:21:10+00:00"
+      "published": "2026-08-18T15:48:54+00:00"
     },
     {
       "text": "$NVDA reducing HBM in Rubin would ultimately lead to demand for a greater number of required Rubin Systems to deliver the same performance. So you end up selling more racks with less memory to achieve the same thing. The despec doesn’t really address the memory wall, but it would benefit NVIDIA while ultimately the same amount of $MU or other memory would be required.",
@@ -154,13 +126,6 @@
       "link": "https://x.com/Beth_Kindig/status/2089716402961690783",
       "source": "X",
       "published": "2026-08-18T14:09:50+00:00"
-    },
-    {
-      "text": "True. Favorite open source drop of the summer?",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
-      "source": "X",
-      "published": "2026-08-18T12:43:50+00:00"
     },
     {
       "text": "$NVDA is playing in a different league. Strap in for next week. 🚀",
@@ -184,6 +149,20 @@
       "published": "2026-08-17T17:56:57+00:00"
     },
     {
+      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @DigitalStormPC Corsa, powered by a GeForce RTX 5080 Founders Edition. What upcoming PC game can’t you wait to play on a new rig? Share your answer with #RTXPowersPlay to enter!",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089381740175302730",
+      "source": "X",
+      "published": "2026-08-17T16:00:00+00:00"
+    },
+    {
+      "text": "FREE PCs ALL WEEK 👀 Comment #RTXPowersPlay for your first chance to WIN",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2089366643600203845",
+      "source": "X",
+      "published": "2026-08-17T15:00:01+00:00"
+    },
+    {
       "text": "Cerebras $CBRS CEO Andrew Feldman: “I think early on, the neoclouds were very focused on Nvidia $NVDA. I think as the business has become clearer to investors, there are neoclouds that are diversifying and find themselves less dependent on one hardware vendor.” $AMD $NBIS $CRWV",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089342581440204953",
@@ -198,18 +177,39 @@
       "published": "2026-08-17T13:15:48+00:00"
     },
     {
-      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089332080194806236",
+      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
       "source": "X",
-      "published": "2026-08-17T12:42:40+00:00"
+      "published": "2026-08-17T12:38:25+00:00"
     },
     {
-      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089331953585607127",
+      "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
       "source": "X",
-      "published": "2026-08-17T12:42:10+00:00"
+      "published": "2026-08-16T23:27:20+00:00"
+    },
+    {
+      "text": "AMD $AMD: “We expect MI500 to deliver the largest generational leap in instinct history putting us on track to increase inferencing performance more than 2,000 times in just 4 years.” $NVDA",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089121442499613063",
+      "source": "X",
+      "published": "2026-08-16T22:45:40+00:00"
+    },
+    {
+      "text": "Meta $META is expected to rely on Nvidia’s $NVDA Blackwell and Rubin racks along with AMD’s $AMD Helios racks in 2026, while substantially accelerating deployment of its custom MTIA chips expected in 2027. $AVGO",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089090881726906723",
+      "source": "X",
+      "published": "2026-08-16T20:44:14+00:00"
+    },
+    {
+      "text": "AWS $AMZN is expected to deploy Nvidia’s $NVDA GB300 as its primary GPU platform in 2026 while expanding shipments of its Trainium chips, with further volume growth expected in 2027, per TrendForce. $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089051207817900364",
+      "source": "X",
+      "published": "2026-08-16T18:06:35+00:00"
     }
   ]
 }
