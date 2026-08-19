@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-08-19T17:58:03+00:00",
+  "updated_at": "2026-08-19T18:36:14+00:00",
   "items": [
+    {
+      "text": "Next up: RTX PC Week enters the GeForce Garage with @Zedd 🎶 Inspired by TELOS, this custom PC brings the album’s stained-glass artwork to life with a copper hardline cooling loop and a GeForce RTX 5090 Founders Edition.",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2090136890234015887",
+      "source": "X",
+      "published": "2026-08-19T18:00:42+00:00"
+    },
+    {
+      "text": "R to @Zedd: GPU: GeForce RTX 5090 Motherboard: ROG CROSSHAIR X870E HERO CPU: Ryzen 7 9800X3D RAM: 96GB (2x48) Corsair Vengeance RGB DDR5-6000 Storage: 2x Samsung 990 Pro 4TB Power: Corsair HX12000i Watercooling: Bitspower",
+      "author": "@NVIDIAGeForce",
+      "link": "https://x.com/NVIDIAGeForce/status/2090136892536750196",
+      "source": "X",
+      "published": "2026-08-19T18:00:42+00:00"
+    },
     {
       "text": "Marvell $MRVL signed a deal with Google $GOOG covering a range of custom silicon programs attaching to the TPU ecosystem, with Marvell also issuing warrants allowing Google to take up to a $12.2 billion stake in the company. $NVDA $AVGO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2090127146610053177",
       "source": "X",
       "published": "2026-08-19T17:21:59+00:00"
+    },
+    {
+      "text": "Sanja Fidler is starting a robotics AI startup with two other former Nvidia AI researchers.",
+      "author": "@firstadopter",
+      "link": "https://x.com/firstadopter/status/2090116317084836147",
+      "source": "X",
+      "published": "2026-08-19T16:38:57+00:00"
     },
     {
       "text": "R to @NVIDIAAI: Read the technical deep dive on SkillEvaluator: https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
@@ -65,11 +86,11 @@
       "published": "2026-08-19T11:30:07+00:00"
     },
     {
-      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り　新規上場の宇樹科技は高騰 https://reut.rs/4xOS1cf https://reut.rs/4xOS1cf",
-      "author": "@ReutersJapan",
-      "link": "https://x.com/ReutersJapan/status/2090016752306438553",
+      "text": "RT by @nikkei: ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
+      "author": "@nikkei",
+      "link": "https://x.com/nikkei/status/2090024147376116220",
       "source": "X",
-      "published": "2026-08-19T10:03:19+00:00"
+      "published": "2026-08-19T10:32:42+00:00"
     },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
@@ -189,27 +210,6 @@
       "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
       "source": "X",
       "published": "2026-08-18T12:43:50+00:00"
-    },
-    {
-      "text": "$NVDA is playing in a different league. Strap in for next week. 🚀",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089503623864565874",
-      "source": "X",
-      "published": "2026-08-18T00:04:19+00:00"
-    },
-    {
-      "text": "AI accelerator shipments are forecast to be 16.3 million in 2026, per JP Morgan, up 62% YoY with GPUs from Nvidia $NVDA and AMD $AMD accounting for 58% of total shipments, down from 68% in 2025 as Google leads custom silicon share higher. $AVGO $MRVL $GOOG $AMZN",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089455444175581350",
-      "source": "X",
-      "published": "2026-08-17T20:52:52+00:00"
-    },
-    {
-      "text": "RT by @Beth_Kindig: CoreWeave $CRWV CEO Mike Intrator: “We expect demand to meaningfully exceed supply for years. In that environment, access to power is only part of the equation.” $NBIS $NVDA $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089411172382429382",
-      "source": "X",
-      "published": "2026-08-17T17:56:57+00:00"
     }
   ]
 }
