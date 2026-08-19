@@ -1,19 +1,40 @@
 {
-  "updated_at": "2026-08-19T21:48:55+00:00",
+  "updated_at": "2026-08-19T22:51:56+00:00",
   "items": [
+    {
+      "text": "3兆円の米AI半導体新興、エヌビディア出身者を続々獲得 共同創業者たちは半導体業界への参入が遅かったかもしれないが、米新興企業エッチトには業界の豊富な専門知識を持つ人材がそろっている。従業員約400人のうち約15％が業界リーダーのエヌビディアで勤務した経験がある。 https://on.wsj.com/4ijnYoA",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2090204689384067536",
+      "source": "X",
+      "published": "2026-08-19T22:30:06+00:00"
+    },
+    {
+      "text": "R to @NVIDIAAI: Check out NVIDIA cuOpt on GitHub and let us know what you build with it: https://github.com/NVIDIA/cuopt",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2090195315517436403",
+      "source": "X",
+      "published": "2026-08-19T21:52:51+00:00"
+    },
+    {
+      "text": "NVIDIA cuOpt is the fastest open source solver on Hans Mittelmann benchmarks across three optimization problem classes.",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2090193774643446117",
+      "source": "X",
+      "published": "2026-08-19T21:46:44+00:00"
+    },
+    {
+      "text": "RT by @nvidia: 10x more tokens/second per megawatt as measured by @CoreWeave on NVIDIA Vera Rubin platform. That performance reflects a bigger shift in AI infrastructure economics: building AI factories that efficiently turn compute into tokens, and tokens into revenue. It takes extreme co-design across the full stack, combined with an open ecosystem built to innovate and scale. Dion Harris connects the economics to the technology with 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software and security. ➡️ https://nvda.ws/4qAS4WT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2090192599868928297",
+      "source": "X",
+      "published": "2026-08-19T21:42:04+00:00"
+    },
     {
       "text": "米マーベルがGoogleにAI半導体　1.9兆円の出資権利も付与 https://www.nikkei.com/article/DGXZQOGN19B950Z10C26A8000000/?n_cid=SNSTW001&n_tw=1787172862",
       "author": "@nikkei",
       "link": "https://x.com/nikkei/status/2090181181362892942",
       "source": "X",
       "published": "2026-08-19T20:56:41+00:00"
-    },
-    {
-      "text": "GeForce Trading Cards S1 have landed at QuakeCon '26 🎴 With 14 designs inspired by GeForce history (plus some surprises), see the community's reactions as they crack open some packs!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2090180311187357978",
-      "source": "X",
-      "published": "2026-08-19T20:53:14+00:00"
     },
     {
       "text": "Delays have the largest negative impact on AI data center lifecycle value, with a 1.5-year delay reducing value by 8.9% and a one-year delay reducing value by 5.5%. Changes in power costs, taxes, tariffs, depreciation, and natural gas prices have smaller effects, highlighting timely deployment as a key driver of AI data center returns, per Carnegie Endowment. $NVDA $GOOG $AMZN $MSFT $META",
@@ -35,20 +56,6 @@
       "link": "https://x.com/Beth_Kindig/status/2090145185820774693",
       "source": "X",
       "published": "2026-08-19T18:33:39+00:00"
-    },
-    {
-      "text": "Next up: RTX PC Week enters the GeForce Garage with @Zedd 🎶 Inspired by TELOS, this custom PC brings the album’s stained-glass artwork to life with a copper hardline cooling loop and a GeForce RTX 5090 Founders Edition.",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2090136890234015887",
-      "source": "X",
-      "published": "2026-08-19T18:00:42+00:00"
-    },
-    {
-      "text": "R to @Zedd: GPU: GeForce RTX 5090 Motherboard: ROG CROSSHAIR X870E HERO CPU: Ryzen 7 9800X3D RAM: 96GB (2x48) Corsair Vengeance RGB DDR5-6000 Storage: 2x Samsung 990 Pro 4TB Power: Corsair HX12000i Watercooling: Bitspower",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2090136892536750196",
-      "source": "X",
-      "published": "2026-08-19T18:00:42+00:00"
     },
     {
       "text": "Marvell $MRVL signed a deal with Google $GOOG covering a range of custom silicon programs attaching to the TPU ecosystem, with Marvell also issuing warrants allowing Google to take up to a $12.2 billion stake in the company. $NVDA $AVGO",
@@ -79,13 +86,6 @@
       "published": "2026-08-19T16:28:17+00:00"
     },
     {
-      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @maingear MG-1, powered by a GeForce RTX 5080 Founders Edition. Which multiplayer PC game became your squad’s all-time favorite? Share your answer with #RTXPowersPlay to enter!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2090105757953867821",
-      "source": "X",
-      "published": "2026-08-19T15:56:59+00:00"
-    },
-    {
       "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2090067415124074593",
@@ -112,13 +112,6 @@
       "link": "https://x.com/WSJJapan/status/2090038596816281946",
       "source": "X",
       "published": "2026-08-19T11:30:07+00:00"
-    },
-    {
-      "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089817937708282143",
-      "source": "X",
-      "published": "2026-08-18T20:53:17+00:00"
     },
     {
       "text": "RT by @Beth_Kindig: Global copper consumption in data centers is expected to reach 740,000 metric tons in 2026 before rising 75% to 1.3 million metric tons, or 1.3 billion kg, by 2028. $NVDA $APH $CRDO",
@@ -163,32 +156,11 @@
       "published": "2026-08-18T18:00:07+00:00"
     },
     {
-      "text": "R to @snellzilla4: Full video: https://nvda.ws/4zkaIGp Chassis: Thermaltake TR300 GPU: GeForce RTX 5080 Founders Edition CPU: Ryzen 7 9800X3D Motherboard: ASUS TUF Gaming X870E-Plus RAM: Patriot Viper Elite 5 RGB TUF 32GB (2x16) DDR5-6000 Storage: Patriot Viper PV593 4TB Power: ASUS ROG Loki 1000W Cooling: Bitspower",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089774330624295270",
-      "source": "X",
-      "published": "2026-08-18T18:00:01+00:00"
-    },
-    {
-      "text": "RTX PC Week steps up to the plate in the GeForce Garage with @snellzilla4 ⚾ Built to finish the fight, this custom Halo PC combines Spartan-inspired armor, a Commissioner’s Trophy cooling tower, and a GeForce RTX 5080 Founders Edition - a build fit for an ace!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089774326710927719",
-      "source": "X",
-      "published": "2026-08-18T18:00:00+00:00"
-    },
-    {
       "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Intro (01:24) Kimberly joins NVIDIA (05:13) Early healthcare adoption (08:41) Augment not replace (14:35) Inside the future hospital (16:27) Sponsors: Granola | Baker Health (18:38) Why healthcare matters (23:25) Agents unlock workflows (28:53) Clinicians adapting to AI (33:43) Safety and risk reward (40:19) Agents across industry (44:14) Five year predictions (49:53) AI hireable and ROI (54:02) Personal tech habits (55:59) AI etiquette and hacks (58:52) Wrap",
       "author": "@chrissyfarr",
       "link": "https://x.com/chrissyfarr/status/2089762512174797251",
       "source": "X",
       "published": "2026-08-18T17:13:03+00:00"
-    },
-    {
-      "text": "Check out DLSS in more games this week! 🟢Luminary 🟢Mortal Shell II 🟢The Sinking City 2 #RTXOn: https://nvda.ws/3U3Q25u",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089760088907043143",
-      "source": "X",
-      "published": "2026-08-18T17:03:25+00:00"
     },
     {
       "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
@@ -198,18 +170,46 @@
       "published": "2026-08-18T16:24:46+00:00"
     },
     {
-      "text": "RTX PC Week — FREE PC DROP 🔔 WIN this custom @FalconNW FragBox, powered by a GeForce RTX 5080 Founders Edition. Which PC game has earned the most hours in your Steam library? Share your answer with #RTXPowersPlay to enter!",
-      "author": "@NVIDIAGeForce",
-      "link": "https://x.com/NVIDIAGeForce/status/2089741335074861280",
-      "source": "X",
-      "published": "2026-08-18T15:48:54+00:00"
-    },
-    {
       "text": "RT by @NVIDIAAI: just because weights are on @huggingface, it doesn't mean a model is fully open! shoutout to @NVIDIAAI and @allen_ai for always dropping everything and putting friendly licenses 🤗",
       "author": "@mervenoyann",
       "link": "https://x.com/mervenoyann/status/2089734357456207985",
       "source": "X",
       "published": "2026-08-18T15:21:10+00:00"
+    },
+    {
+      "text": "$NVDA reducing HBM in Rubin would ultimately lead to demand for a greater number of required Rubin Systems to deliver the same performance. So you end up selling more racks with less memory to achieve the same thing. The despec doesn’t really address the memory wall, but it would benefit NVIDIA while ultimately the same amount of $MU or other memory would be required.",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2089720991752835260",
+      "source": "X",
+      "published": "2026-08-18T14:28:04+00:00"
+    },
+    {
+      "text": "RT by @Beth_Kindig: CoreWeave $CRWV: “What we are seeing today is that the upside of recontracting is real as we remain largely sold out of prior generations of Nvidia $NVDA GPUs in addition to the current SKUs. As an example, we recently signed an A100 contract that extends into 2029 at an attractive price.” $NBIS $AMD",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089716402961690783",
+      "source": "X",
+      "published": "2026-08-18T14:09:50+00:00"
+    },
+    {
+      "text": "True. Favorite open source drop of the summer?",
+      "author": "@NVIDIAAI",
+      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
+      "source": "X",
+      "published": "2026-08-18T12:43:50+00:00"
+    },
+    {
+      "text": "$NVDA is playing in a different league. Strap in for next week. 🚀",
+      "author": "@danielnewmanUV",
+      "link": "https://x.com/danielnewmanUV/status/2089503623864565874",
+      "source": "X",
+      "published": "2026-08-18T00:04:19+00:00"
+    },
+    {
+      "text": "AI accelerator shipments are forecast to be 16.3 million in 2026, per JP Morgan, up 62% YoY with GPUs from Nvidia $NVDA and AMD $AMD accounting for 58% of total shipments, down from 68% in 2025 as Google leads custom silicon share higher. $AVGO $MRVL $GOOG $AMZN",
+      "author": "@Beth_Kindig",
+      "link": "https://x.com/Beth_Kindig/status/2089455444175581350",
+      "source": "X",
+      "published": "2026-08-17T20:52:52+00:00"
     }
   ]
 }
