@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-08-18T22:51:49+00:00",
+  "updated_at": "2026-08-19T10:52:15+00:00",
   "items": [
     {
-      "text": "日経平均株価、ＡＩ・半導体関連と金利上昇が重荷（先読み株式相場） https://www.nikkei.com/article/DGXZQOFL190140Z10C26A8000000/?n_cid=SNSTW001&n_tw=1787092402",
+      "text": "ノリタケがPFAS除去装置、半導体工場の環境汚染防ぐ　水の処理量減 https://www.nikkei.com/article/DGXZQOFD2356N0T20C26A7000000/?n_cid=SNSTW001&n_tw=1787135482",
       "author": "@nikkei",
-      "link": "https://x.com/nikkei/status/2089843456386437262",
+      "link": "https://x.com/nikkei/status/2090024147376116220",
       "source": "X",
-      "published": "2026-08-18T22:34:42+00:00"
+      "published": "2026-08-19T10:32:42+00:00"
+    },
+    {
+      "text": "中国・香港株式市場・大引け＝中国株下落、半導体・ロボット関連に売り　新規上場の宇樹科技は高騰 https://reut.rs/4xOS1cf https://reut.rs/4xOS1cf",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2090016752306438553",
+      "source": "X",
+      "published": "2026-08-19T10:03:19+00:00"
+    },
+    {
+      "text": "サムスン、半導体受託製造を最大15％値上げ　ＡＩ需要急増で＝関係筋 https://reut.rs/3U5Zk0N https://reut.rs/3U5Zk0N",
+      "author": "@ReutersJapan",
+      "link": "https://x.com/ReutersJapan/status/2090007515257839826",
+      "source": "X",
+      "published": "2026-08-19T09:26:36+00:00"
+    },
+    {
+      "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 https://on.wsj.com/3SHFHMb",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2089912758749835481",
+      "source": "X",
+      "published": "2026-08-19T03:10:05+00:00"
+    },
+    {
+      "text": "3兆円の米AI半導体新興、エヌビディア出身者を続々獲得 https://on.wsj.com/3U2HxHT",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2089906472800960829",
+      "source": "X",
+      "published": "2026-08-19T02:45:06+00:00"
     },
     {
       "text": "📍ICYMI: Around QuakeCon 2026 with @GeForce_JacobF: 🟢 24/7 BYOC hall 🟢 GeForce Garage PC Mod Contest 🟢 Custom GeForce RTX builds 🟢 GeForce Trading Cards S1 + more! Drop your favorite part below!",
@@ -16,7 +44,7 @@
       "published": "2026-08-18T20:53:17+00:00"
     },
     {
-      "text": "Global copper consumption in data centers is expected to reach 740,000 metric tons in 2026 before rising 75% to 1.3 million metric tons, or 1.3 billion kg, by 2028. $NVDA $APH $CRDO",
+      "text": "RT by @Beth_Kindig: Global copper consumption in data centers is expected to reach 740,000 metric tons in 2026 before rising 75% to 1.3 million metric tons, or 1.3 billion kg, by 2028. $NVDA $APH $CRDO",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089806319716868339",
       "source": "X",
@@ -107,13 +135,6 @@
       "published": "2026-08-18T15:21:10+00:00"
     },
     {
-      "text": "Bank of America said that Nvidia $NVDA shares could be trading at a discount of as much as 50%, The bank’s conceptual sum-of-parts analysis on Nvidia’s free cash flow shows that the stock trades at a 34% to 50% discount",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2089733686329479464",
-      "source": "X",
-      "published": "2026-08-18T15:18:30+00:00"
-    },
-    {
       "text": "$NVDA reducing HBM in Rubin would ultimately lead to demand for a greater number of required Rubin Systems to deliver the same performance. So you end up selling more racks with less memory to achieve the same thing. The despec doesn’t really address the memory wall, but it would benefit NVIDIA while ultimately the same amount of $MU or other memory would be required.",
       "author": "@danielnewmanUV",
       "link": "https://x.com/danielnewmanUV/status/2089720991752835260",
@@ -142,7 +163,7 @@
       "published": "2026-08-18T00:04:19+00:00"
     },
     {
-      "text": "RT by @Beth_Kindig: AI accelerator shipments are forecast to be 16.3 million in 2026, per JP Morgan, up 62% YoY with GPUs from Nvidia $NVDA and AMD $AMD accounting for 58% of total shipments, down from 68% in 2025 as Google leads custom silicon share higher. $AVGO $MRVL $GOOG $AMZN",
+      "text": "AI accelerator shipments are forecast to be 16.3 million in 2026, per JP Morgan, up 62% YoY with GPUs from Nvidia $NVDA and AMD $AMD accounting for 58% of total shipments, down from 68% in 2025 as Google leads custom silicon share higher. $AVGO $MRVL $GOOG $AMZN",
       "author": "@Beth_Kindig",
       "link": "https://x.com/Beth_Kindig/status/2089455444175581350",
       "source": "X",
@@ -189,27 +210,6 @@
       "link": "https://x.com/nvidia/status/2089332080194806236",
       "source": "X",
       "published": "2026-08-17T12:42:40+00:00"
-    },
-    {
-      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
-      "author": "@nvidia",
-      "link": "https://x.com/nvidia/status/2089331953585607127",
-      "source": "X",
-      "published": "2026-08-17T12:42:10+00:00"
-    },
-    {
-      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
-      "author": "@nvidianewsroom",
-      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
-      "source": "X",
-      "published": "2026-08-17T12:38:25+00:00"
-    },
-    {
-      "text": "Nvidia $NVDA is said to invest up to $3 billion in power infrastructure developer Lancium, owner of the land and electrical infrastructure for the Stargate campus in Texas, with an initial $2 billion investment reportedly giving Nvidia a 20% stake in the firm. $ORCL $AMD",
-      "author": "@Beth_Kindig",
-      "link": "https://x.com/Beth_Kindig/status/2089131927471022429",
-      "source": "X",
-      "published": "2026-08-16T23:27:20+00:00"
     }
   ]
 }
