@@ -1,159 +1,173 @@
 {
-  "updated_at": "2026-08-20T19:31:03+00:00",
+  "updated_at": "2026-08-20T20:44:49+00:00",
   "items": [
     {
-      "text": "Cosmos 3 Post-Training in Action With Aigen and Linker Vision | Cosmos Labs https://x.com/i/broadcasts/1oKMvNQVkYnGQ",
+      "text": "All these stocks hit new 52 WEEK HIGHS at some point today Coca-Cola $KO Argenx $ARGX Waters $WAT Bio-Rad Laboratories $BIO Praxis Precision Medicines $PRAX Marathon Petroleum $MPC Valero Energy $VLO Nordson $NDSN Laboratory Corp of America $LH Natera $NTRA Targa Resources $TRGP Charles River Laboratories $CRL IQVIA $IQV Quest Diagnostics $DGX Phillips 66 $PSX Illumina $ILMN Diamondback Energy $FANG WEX $WEX Becton Dickinson $BDX Glaukos $GKOS Repligen $RGEN EOG Resources $EOG Chord Energy $CHRD Twist Bioscience $TWST ConocoPhillips $COP Revvity $RVTY SEI Investments $SEIC Kaspi $KSPI Canadian Pacific Kansas City $CP BHP $BHP LandBridge $LB Darling International $DAR Ovintiv $OVV 10x Genomics $TXG Royalty Pharma $RPRX Kinetik Holdings $KNTK Instacart $CART SM Energy $SM SSR Mining $SSRM Cenovus Energy $CVE Chime Financial $CHYM Oscar Health $OSCR Permian Resources $PR Ecopetrol $EC Ultrapar Participações $UGP",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2090520505191379385",
+      "source": "X",
+      "published": "2026-08-20T19:25:03+00:00"
+    },
+    {
+      "text": "NVIDIA $NVDA IS PLANNING SMALL-BATCH SHIPMENTS OF A NEW AI CHIP BUILT SPECIFICALLY FOR CHINA BY THE END OF THE YEAR Several Chinese customers have already placed orders. The chip is a China-specific variant of Nvidia's LPU, a new chip that works alongside Nvidia's GPUs to speed up AI chatbot processing - The Information",
+      "author": "@StockMKTNewz",
+      "link": "https://x.com/StockMKTNewz/status/2090485916078874748",
+      "source": "X",
+      "published": "2026-08-20T17:07:36+00:00"
+    },
+    {
+      "text": "韓国の半導体オタク、婚活市場で人気急上昇の訳 https://on.wsj.com/4x9gpW6",
+      "author": "@WSJJapan",
+      "link": "https://x.com/WSJJapan/status/2090333030179037288",
+      "source": "X",
+      "published": "2026-08-20T07:00:05+00:00"
+    },
+    {
+      "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+      "author": "@SemiAnalysis_",
+      "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
+      "source": "X",
+      "published": "2026-08-10T06:13:56+00:00"
+    },
+    {
+      "text": "Reminder ❗️ Our developer team has moved. For the latest updates be sure to follow @NVIDIAAI. See you there!",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2054268772782141748",
+      "source": "X",
+      "published": "2026-05-12T18:33:36+00:00"
+    },
+    {
+      "text": "Dev Community Live: SJSU Hackathon Winners – Building Impactful Agents https://x.com/i/broadcasts/1YxNrZLXXBVxw",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2049647387879383546",
+      "source": "X",
+      "published": "2026-04-30T00:29:52+00:00"
+    },
+    {
+      "text": "Pinned: If you’re seeing this, you should be following @NVIDIAAI. Our developer team has moved next door to @NVIDIAAI. Join us there to stay up to date on the latest products, models, deep dives, and more. Thanks to everyone who’s been with us here. We hope to see soon 💚",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2049546875980644436",
+      "source": "X",
+      "published": "2026-04-29T17:50:28+00:00"
+    },
+    {
+      "text": "Scaling NemoClaw: Roadmap, OpenClaw Collaboration, and Real‑World Integration | Nemotron Labs https://x.com/i/broadcasts/1RKjpzVnOwaJw",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2049187072293118412",
+      "source": "X",
+      "published": "2026-04-28T18:00:44+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAIDev: Meet Nemotron 3 Nano Omni 👋 Our latest addition to the Nemotron family is the highest efficiency, open multimodal model with leading accuracy. 30B parameters. 256K context length. 🧵👇",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090469297097433394",
+      "link": "https://x.com/NVIDIAAI/status/2049159441870717428",
       "source": "X",
-      "published": "2026-08-20T16:01:34+00:00"
+      "published": "2026-04-28T16:10:57+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Check out NVIDIA cuOpt on GitHub and let us know what you build with it: https://github.com/NVIDIA/cuopt",
+      "text": "RT by @NVIDIAAIDev: 📊 Day 0 performance is here: DeepSeek-V4-Pro running on NVIDIA Blackwell Ultra. Using @vllm_project's Day 0 recipe, we’ve captured the initial performance Pareto for DeepSeek’s flagship 1M long-context model. This curve highlights the baseline for balancing AI factory throughput with real-time user interactivity. This is just the starting line. Expect these numbers to climb as we optimize the full co-design stack, including: • NVFP4 & Dynamo • Optimized CUDA kernels • Advanced parallelization techniques and beyond Read the full technical deep dive: https://nvda.ws/4u0gCcc",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090195315517436403",
+      "link": "https://x.com/NVIDIAAI/status/2047823093578518758",
       "source": "X",
-      "published": "2026-08-19T21:52:51+00:00"
+      "published": "2026-04-24T23:40:46+00:00"
     },
     {
-      "text": "NVIDIA cuOpt is the fastest open source solver on Hans Mittelmann benchmarks across three optimization problem classes.",
+      "text": "RT by @NVIDIAAIDev: Happy Friday! We just put DeepSeek-V4-Pro up on http://build.nvidia.com. It’s the world’s largest open source model at 1.6T parameters, and you can run it for free running on NVIDIA Blackwell GPUs. Try the NVIDIA NIM API → https://build.nvidia.com/deepseek-ai/deepseek-v4-pro?ncid=so-twit-300913",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090193774643446117",
+      "link": "https://x.com/NVIDIAAI/status/2047790185002217760",
       "source": "X",
-      "published": "2026-08-19T21:46:44+00:00"
+      "published": "2026-04-24T21:30:00+00:00"
     },
     {
-      "text": "R to @NVIDIAAI: Read the technical deep dive on SkillEvaluator: https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
+      "text": "RT by @NVIDIAAIDev: ✨ DeepSeek-V4 is here — a million-token context, 1.6T parameter powerhouse optimized for agentic workflows. Out of the box, on DeepSeek-V4-Pro, NVIDIA Blackwell Ultra delivers over 150 TPS/user interactivity for agentic workflows. And we’re just getting started. Expect these performance figures to climb higher as we implement Dynamo, NVFP4, and advanced parallelization techniques. Start building today with @lmsysorg and @vllm_project",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090113637591765107",
+      "link": "https://x.com/NVIDIAAI/status/2047765637808664759",
       "source": "X",
-      "published": "2026-08-19T16:28:18+00:00"
+      "published": "2026-04-24T19:52:28+00:00"
     },
     {
-      "text": "We benchmarked 300+ NVIDIA verified skills to see how much they actually help agents on real tasks. Same task, same model, same setup. The only difference was whether the agent had the skill. Across the benchmarks, skills improved correctness by 41 points, effectiveness by 39, and efficiency by 35. SkillEvaluator is open source if you want to test your own skills before you ship them.",
+      "text": "DGX Spark Live: Ask the Experts - Gemma 4 on DGX Spark https://x.com/i/broadcasts/1mxPaLRezpgKN",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2047737571367948790",
+      "source": "X",
+      "published": "2026-04-24T18:00:56+00:00"
+    },
+    {
+      "text": "Nemotron Hackathon Winners - S Korea https://x.com/i/broadcasts/1dGYljNNWYDKX",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2047480946891559395",
+      "source": "X",
+      "published": "2026-04-24T01:01:12+00:00"
+    },
+    {
+      "text": "What’s possible with Gemma 4 + DGX Spark? Tune in Friday as NVIDIA and Google DeepMind experts walk through vision translation, long-context document Q&A, and real-time code gen demos live. Bring your questions. 📆 Friday, April 24 at 11:00 AM PDT Add to schedule ➡️ https://nvda.ws/4cuvGcl",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2047450443899367543",
+      "source": "X",
+      "published": "2026-04-23T23:00:00+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAIDev: Massive congrats to the team at @OpenAI 💚 Moving the frontier forward isn’t easy, and GPT-5.5 does exactly that, with impressive performance across agentic coding, research tasks, and beyond.",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2090113635683340622",
+      "link": "https://x.com/NVIDIAAI/status/2047377730019422355",
       "source": "X",
-      "published": "2026-08-19T16:28:17+00:00"
+      "published": "2026-04-23T18:11:03+00:00"
     },
     {
-      "text": "RT by @NVIDIAAI: As expected DGX Station absolutely crushes serving Qwen3.8-27B at BF16 (full weight) 2,713+ tok/s peak aggregate 88 tok/s single stream Like a datacenter in my living room",
-      "author": "@alecqfong",
-      "link": "https://x.com/alecqfong/status/2089847417571365269",
+      "text": "RT by @NVIDIAAIDev: I’ve had access to Codex2 and GPT 5.5 for about 2 weeks now OpenAI just collison-installed all of NVIDIA lol They set up a lab like a Genius Bar so everyone could get set up w Codex 2 With the CLIs we’ve been building, non-technical coworkers seemed to have the biggest unlock Our stack: • We rolled out cloud VMs for every employee. Simple rule, agents get their own computers just like employees. If something goes wrong we can freeze it and get a stack trace. • Codex team has been super responsive. Codex 2 now supports any cloud vm, quickly picks up ssh config. Non-technical users just paste a prompt we gave them to edit ssh config • Internally built CLIs + those vetted by security get automatically loaded in cloud VMs. Teams wake up to new capabilities daily now. NVIDIA already moved fast now we’re rippin 🤙",
+      "author": "@NaderLikeLadder",
+      "link": "https://x.com/NaderLikeLadder/status/2047377586058306001",
       "source": "X",
-      "published": "2026-08-18T22:50:26+00:00"
+      "published": "2026-04-23T18:10:29+00:00"
     },
     {
-      "text": "What are you building with open models? Show us what you’re working on and you could be headed to #NVIDIAGTC Berlin. 🎫 Your Golden Ticket includes: → Free conference pass → VIP seating for Jensen’s keynote → Exclusive NVIDIA merch → Access to special events Submissions are open Aug 18 – Sep 10, 2026. Details and how to enter: https://nvda.ws/4wFdunb",
+      "text": "RT by @NVIDIAAIDev: I have had early access to GPT 5.5 for over a week now. And have been cooking with @NaderLikeLadder and the Codex team at NVIDIA HQ on how to roll it out to all of our employees. As a developer, our lives change every couple months. Now, the same is happening for all knowledge workers. I use Codex + 5.5 to complete features end to end, including updating linear tickets, reviewing PRs, and even tagging people in slack ;) But I also use it to summarize meetings from transcripts, read my email and give me action items, and create visualizations of data to help the company make informed decisions. OpenAI continues to uplevel everyone professionally with their tools, powered by NVIDIA hardware to accelerate them.",
+      "author": "@Baxate",
+      "link": "https://x.com/Baxate/status/2047377459767816333",
+      "source": "X",
+      "published": "2026-04-23T18:09:59+00:00"
+    },
+    {
+      "text": "CUDA Live: Scaling HPC with Multi-GPU Communication Libraries https://x.com/i/broadcasts/1dGYljNbXEvKX",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2047374838235537473",
+      "source": "X",
+      "published": "2026-04-23T17:59:34+00:00"
+    },
+    {
+      "text": "RT by @NVIDIAAIDev: 🌍💚 Happy Earth Day. We are spotlighting five projects where AI is helping solve some of the Earth’s greatest challenges. Check them out below . . . 🧵👇 ⛈️ Earth-2 climate simulation 🦧 Endangered species conservation ♻️ Robots sorting recyclables 🌊 Tsunami warnings 🌌 Earth observation insights",
       "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089782352755212542",
+      "link": "https://x.com/NVIDIAAI/status/2046977238839558411",
       "source": "X",
-      "published": "2026-08-18T18:31:53+00:00"
+      "published": "2026-04-22T15:39:39+00:00"
     },
     {
-      "text": "Ask the Experts: What's New in the Nemotron Open Family | Nemotron Labs https://x.com/i/broadcasts/1YxNrbRPRbQxw",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089774355672961036",
+      "text": "RT by @NVIDIAAIDev: we needed those gpus",
+      "author": "@gabeeegoooh",
+      "link": "https://x.com/gabeeegoooh/status/2046681056896831959",
       "source": "X",
-      "published": "2026-08-18T18:00:07+00:00"
+      "published": "2026-04-21T20:02:44+00:00"
     },
     {
-      "text": "We just released TensorRT Model Connect in Public Preview. You can take a supported @huggingface model to end-to-end TensorRT inference in just two commands. No intermediate ONNX export, and the resulting bundle can run through native C++ APIs. We also built the entire project with @OpenAIDevs Codex agents, with humans directing and reviewing the work. That includes model implementations, performance tuning, tests, integrations, and docs. It’s open source, so go try it out, dig into the implementations, or contribute support for a new model: https://github.com/NVIDIA/TensorRT-Model-Connect",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089750360869233059",
+      "text": "How to Contribute to Open Source - Live on NVIDIANemoClaw | Nemotron Labs https://x.com/i/broadcasts/1aKbdbLvXAXJX",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2046650091641897469",
       "source": "X",
-      "published": "2026-08-18T16:24:46+00:00"
+      "published": "2026-04-21T17:59:41+00:00"
     },
     {
-      "text": "RT by @NVIDIAAI: just because weights are on @huggingface, it doesn't mean a model is fully open! shoutout to @NVIDIAAI and @allen_ai for always dropping everything and putting friendly licenses 🤗",
-      "author": "@mervenoyann",
-      "link": "https://x.com/mervenoyann/status/2089734357456207985",
+      "text": "OpenShell v0.0.34 🧩 live sandbox policy updates 🖥️ install-vm now installs the gateway and VM driver, with new --driver-dir support 🛠️ sandbox get now shows the active runtime polic 🔒 supervisor seccomp improvements and HTTP normalization Update sandbox policy without restarting the runtime. https://github.com/NVIDIA/OpenShell/releases/tag/v0.0.34",
+      "author": "@NVIDIAAIDev",
+      "link": "https://x.com/NVIDIAAIDev/status/2046626003318186291",
       "source": "X",
-      "published": "2026-08-18T15:21:10+00:00"
+      "published": "2026-04-21T16:23:58+00:00"
     },
     {
-      "text": "True. Favorite open source drop of the summer?",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2089694760797872595",
+      "text": "RT by @NVIDIAAIDev: [현장 생중계: Nemotron Developer Day, 해커톤 현장에 오신 것을 환영합니다! 👋] 오늘 오전, 열띤 해커톤의 시작과 함께 Nemotron Developer Days의 막이 올랐습니다. 🚀 이른 아침부터 시작된 해커톤 현장은 벌써부터 긴장감이 가득한데요. 등록 데스크를 가득 메운 참석자들의 모습에서, Nemotron 모델을 통해 연구와 개발의 새로운 가능성을 확인하려는 진지한 기대감을 엿볼 수 있습니다. 단순한 기술 공유를 넘어 실질적인 툴킷을 통해 AI 생태계를 확장해 나갈 오늘 현장, 그 생생한 순간들을 사진으로 만나보세요! 📷💚 #NemotronDeveloperDay",
+      "author": "@NVIDIAKorea",
+      "link": "https://x.com/NVIDIAKorea/status/2046475864896860314",
       "source": "X",
-      "published": "2026-08-18T12:43:50+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
-      "author": "@JensenHuang",
-      "link": "https://x.com/JensenHuang/status/2088350155758313875",
-      "source": "X",
-      "published": "2026-08-14T19:40:51+00:00"
-    },
-    {
-      "text": "R to @NVIDIAAI: Learn more: https://nvda.ws/457eK7l",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2088339803138101304",
-      "source": "X",
-      "published": "2026-08-14T18:59:43+00:00"
-    },
-    {
-      "text": "ICYMI: Not every step in an agent workflow needs the same model. Meet NVIDIA NeMo Switchyard, a new open-source library for model routing. Use frontier models for complex reasoning and planning, and NVIDIA Nemotron Lightning for high-volume, specialized execution.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2088339706752983230",
-      "source": "X",
-      "published": "2026-08-14T18:59:20+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: Introducing Context-Matched Distillation (CMD) for fast, controllable autoregressive video generation. CMD supports frame-wise and chunk-wise generation along with precise camera conditioning. 🌟 Project Page: https://hmrishavbandy.github.io/cmd-site 🌟 Paper Link: https://arxiv.org/abs/2608.13391",
-      "author": "@hmrishavbandy",
-      "link": "https://x.com/hmrishavbandy/status/2088305170790637976",
-      "source": "X",
-      "published": "2026-08-14T16:42:06+00:00"
-    },
-    {
-      "text": "R to @AIatMeta: Demo + cookbook if you want to try it out yourself 👇 Platform cookbook: https://github.com/meta-models/meta-oss-cookbook/blob/main/platform/nvidia.md Demo/recipe: https://github.com/meta-models/meta-oss-cookbook/tree/main/recipes/sandboxed-agent",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087962843484405776",
-      "source": "X",
-      "published": "2026-08-13T18:01:49+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: our team ran NVIDIA Nemotron 3.5 Lightning on a single H200 GPU It wrote 2k+ code in 9 sec, and create a matrix style falling green code rain faster than any other models",
-      "author": "@gmi_cloud",
-      "link": "https://x.com/gmi_cloud/status/2087961476195840135",
-      "source": "X",
-      "published": "2026-08-13T17:56:23+00:00"
-    },
-    {
-      "text": "WAMs and VLAs for Robot Learning | Cosmos Labs https://x.com/i/broadcasts/1wGWjllReVNKQ",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087932584152186975",
-      "source": "X",
-      "published": "2026-08-13T16:01:34+00:00"
-    },
-    {
-      "text": "Attn @cursor_ai devs 👀 Your agents can now tap into 300+ NVIDIA skills across 30+ products.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087887993025843391",
-      "source": "X",
-      "published": "2026-08-13T13:04:23+00:00"
-    },
-    {
-      "text": "RT by @NVIDIAAI: NVIDIA Nemotron 3.5 Lightning is now available on Nebius Token Factory. It combines a 30B hybrid MoE architecture with 3B active parameters and text-in/text-out I/O. The open 30B MoE model helps always-on agents complete specialized tasks faster and can be adapted for domain-specific accuracy across use cases including financial services, cybersecurity, telecom, and retail. Start building: https://tokenfactory.nebius.com/endpoints?modals=endpoint-details&model-id=nvidia/Nemotron-3_5-Lightning",
-      "author": "@nebiustf",
-      "link": "https://x.com/nebiustf/status/2087171374712308174",
-      "source": "X",
-      "published": "2026-08-11T13:36:48+00:00"
-    },
-    {
-      "text": "Pinned: Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
-      "source": "X",
-      "published": "2026-08-11T13:00:09+00:00"
-    },
-    {
-      "text": "Great to see @AIatMeta back publishing open models 🙌 Muse Glimmer is a 30B open-weight dense model with a 120K+ context window, built for long-running agents, delivering up to 20K tokens/sec on a single GPU. It’s optimized to run locally across NVIDIA edge, desktop, and workstation AI platforms. Try it with our GPU-accelerated endpoint: https://nvda.ws/45ehAYe",
-      "author": "@NVIDIAAI",
-      "link": "https://x.com/NVIDIAAI/status/2086807146143076783",
-      "source": "X",
-      "published": "2026-08-10T13:29:29+00:00"
+      "published": "2026-04-21T06:27:22+00:00"
     }
   ]
 }
