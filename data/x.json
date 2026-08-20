@@ -1,12 +1,145 @@
 {
-  "updated_at": "2026-08-20T15:03:02+00:00",
+  "updated_at": "2026-08-20T16:27:05+00:00",
   "items": [
     {
-      "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
-      "author": "@SemiAnalysis_",
-      "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
+      "text": "RT by @nvidia: 10x more tokens/second per megawatt as measured by @CoreWeave on NVIDIA Vera Rubin platform. That performance reflects a bigger shift in AI infrastructure economics: building AI factories that efficiently turn compute into tokens, and tokens into revenue. It takes extreme co-design across the full stack, combined with an open ecosystem built to innovate and scale. Dion Harris connects the economics to the technology with 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software and security. ➡️ https://nvda.ws/4qAS4WT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2090192599868928297",
       "source": "X",
-      "published": "2026-08-10T06:13:56+00:00"
+      "published": "2026-08-19T21:42:04+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more: https://nvda.ws/3SFVsTO",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089804530628059547",
+      "source": "X",
+      "published": "2026-08-18T20:00:01+00:00"
+    },
+    {
+      "text": "Creator Crafted. Game Ready. NVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089804526970642920",
+      "source": "X",
+      "published": "2026-08-18T20:00:00+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Intro (01:24) Kimberly joins NVIDIA (05:13) Early healthcare adoption (08:41) Augment not replace (14:35) Inside the future hospital (16:27) Sponsors: Granola | Baker Health (18:38) Why healthcare matters (23:25) Agents unlock workflows (28:53) Clinicians adapting to AI (33:43) Safety and risk reward (40:19) Agents across industry (44:14) Five year predictions (49:53) AI hireable and ROI (54:02) Personal tech habits (55:59) AI etiquette and hacks (58:52) Wrap",
+      "author": "@chrissyfarr",
+      "link": "https://x.com/chrissyfarr/status/2089762512174797251",
+      "source": "X",
+      "published": "2026-08-18T17:13:03+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089332080194806236",
+      "source": "X",
+      "published": "2026-08-17T12:42:40+00:00"
+    },
+    {
+      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089331953585607127",
+      "source": "X",
+      "published": "2026-08-17T12:42:10+00:00"
+    },
+    {
+      "text": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365553186459873",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "R to @ctnzr: Watch the full conversation: https://nvda.ws/4zkdj3d",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365554469921218",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "RT by @nvidia: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2088350155758313875",
+      "source": "X",
+      "published": "2026-08-14T19:40:51+00:00"
+    },
+    {
+      "text": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next. To our 2026 interns: thank you for spending your summer with us. 💚",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088346841469379033",
+      "source": "X",
+      "published": "2026-08-14T19:27:41+00:00"
+    },
+    {
+      "text": "RT by @nvidia: It's been an amazing week for open models running on NVIDIA Local AI systems! 👀 Here's a few you’ll want to know about, all ready to run locally on NVIDIA RTX, DGX Spark, DGX Station, and Jetson.",
+      "author": "@NVIDIARTXSpark",
+      "link": "https://x.com/NVIDIARTXSpark/status/2088339875304984672",
+      "source": "X",
+      "published": "2026-08-14T19:00:00+00:00"
+    },
+    {
+      "text": "R to @LGE_Global: Read more: https://nvda.ws/4czcZnh",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088095122831622569",
+      "source": "X",
+      "published": "2026-08-14T02:47:26+00:00"
+    },
+    {
+      "text": "Great to welcome @LGE_Global Group Chairman Kwang-mo Koo and LG leaders to NVIDIA as we enter the next chapter of our collaboration. Together, we’re expanding our work across AI infrastructure, physical AI and robotics. We’re excited about what our teams can build together.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088088665058873720",
+      "source": "X",
+      "published": "2026-08-14T02:21:47+00:00"
+    },
+    {
+      "text": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088057386384916833",
+      "source": "X",
+      "published": "2026-08-14T00:17:29+00:00"
+    },
+    {
+      "text": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to its platform in one day, helping close the gap between imagining a scene and bringing it to life.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087991151806521392",
+      "source": "X",
+      "published": "2026-08-13T19:54:18+00:00"
+    },
+    {
+      "text": "R to @nvidia: Discover why the story is becoming the interface: https://nvda.ws/4hwKjip",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087991153358418277",
+      "source": "X",
+      "published": "2026-08-13T19:54:18+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Happy 10th Birthday to #NVIDIADGX! 🎉 Over the last decade, DGX has transformed from a single system into the essential blueprint for the AI factory. The AI revolution was ignited the moment Jensen hand-delivered the first DGX-1 AI supercomputer to OpenAI. Thank you to everyone who's been with us on this journey. Here’s to the next 10 years! #DecadeOfDGX #TBT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2087977606872461660",
+      "source": "X",
+      "published": "2026-08-13T19:00:28+00:00"
+    },
+    {
+      "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4zltqh6",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087952884130365712",
+      "source": "X",
+      "published": "2026-08-13T17:22:14+00:00"
+    },
+    {
+      "text": "R to @nvidia: Maximize token monetization.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087925395915944280",
+      "source": "X",
+      "published": "2026-08-13T15:33:00+00:00"
+    },
+    {
+      "text": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2087924679163965756",
+      "source": "X",
+      "published": "2026-08-13T15:30:09+00:00"
     }
   ]
 }
