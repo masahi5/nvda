@@ -1,40 +1,12 @@
 {
-  "updated_at": "2026-08-20T14:19:32+00:00",
+  "updated_at": "2026-08-20T15:03:02+00:00",
   "items": [
     {
-      "text": "When you hear Hyperscaler capex numbers rising toward a trillion (not including neoclouds) and then realize 40% of the total goes to $NVDA. You really have to wonder how so many have faded NVIDIA. 👀👏🏻",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2090260710668345545",
+      "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+      "author": "@SemiAnalysis_",
+      "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
       "source": "X",
-      "published": "2026-08-20T02:12:43+00:00"
-    },
-    {
-      "text": "Everyone sharing this token price chart as “AI demand is collapsing” is reading one line of a three-line story. So I’ve taken a shot at fixing it with the three lines that matter and make it a more objective read → Token prices (Silicon Data, via Bloomberg): round-tripped, flat over 9 months → H100 compute cost (Silicon Data, SemiAnalysis): UP 27%, capacity sold out. → Token volume (OpenRouter): UP ~7x, and that’s the paid sliver of a market Google alone runs at more than 3.2 quadrillion tokens/month Flat prices + rising input costs + exploding volume = deflation by engineering, not weak demand. Also, new architectures Blackwell, MI, Rubin etc all offer greater token efficiency versus H100. Margin growth slows/stalls but should improve as capacity is brought online. The falling line isn’t the bust. It’s the buildout working. Second image is the original chart. Attribution in the footnotes.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2090067415124074593",
-      "source": "X",
-      "published": "2026-08-19T13:24:37+00:00"
-    },
-    {
-      "text": "$NVDA reducing HBM in Rubin would ultimately lead to demand for a greater number of required Rubin Systems to deliver the same performance. So you end up selling more racks with less memory to achieve the same thing. The despec doesn’t really address the memory wall, but it would benefit NVIDIA while ultimately the same amount of $MU or other memory would be required.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089720991752835260",
-      "source": "X",
-      "published": "2026-08-18T14:28:04+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: I disagree. Almost every major AI breakthrough out of China has been trained primarily on $NVDA. A free flow of our leading edge GPUs would expedite China’s dominance in AI and models the same way it has in robotics, autonomy, and drones. Policy to slow and/or constrain the flow of leading edge chips as well as WFE/Lithography has slowed China meaningfully. Its recent breakthroughs like Kimi K3 are NVIDIA powered with the support of American frontier models and to China’s credit some meaningful breakthroughs in model delivery. And its GPU/XPU production remains limited without the most advanced tooling. The world’s economic leadership will be decided on AI leadership. China, even if we opened the door to NVIDIA would never have sat idle and became dependent on U.S. innovation, but rather would have had parallel work streams, like it does today. Only we would have made it much easier. The N minus 2 strategy is the best. We can provide 2 generation old American GPUs/Systems to China. Otherwise we are handing global economic leadership to China—Again. 🇺🇸",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089340420299878748",
-      "source": "X",
-      "published": "2026-08-17T13:15:48+00:00"
-    },
-    {
-      "text": "RT by @danielnewmanUV: Updated: $NVDA investment portfolio. Circular financing bros would say they invest so these customers buy their GPUs. Critical thinkers would say a 300+% return plus deepening partnerships across its supply chain is a savvy use of capital.",
-      "author": "@danielnewmanUV",
-      "link": "https://x.com/danielnewmanUV/status/2089046529445097671",
-      "source": "X",
-      "published": "2026-08-16T17:47:59+00:00"
+      "published": "2026-08-10T06:13:56+00:00"
     }
   ]
 }
