@@ -1,19 +1,215 @@
 {
-  "updated_at": "2026-08-20T21:10:19+00:00",
+  "updated_at": "2026-08-20T21:41:56+00:00",
   "items": [
     {
-      "text": "All these stocks hit new 52 WEEK HIGHS at some point today Coca-Cola $KO Argenx $ARGX Waters $WAT Bio-Rad Laboratories $BIO Praxis Precision Medicines $PRAX Marathon Petroleum $MPC Valero Energy $VLO Nordson $NDSN Laboratory Corp of America $LH Natera $NTRA Targa Resources $TRGP Charles River Laboratories $CRL IQVIA $IQV Quest Diagnostics $DGX Phillips 66 $PSX Illumina $ILMN Diamondback Energy $FANG WEX $WEX Becton Dickinson $BDX Glaukos $GKOS Repligen $RGEN EOG Resources $EOG Chord Energy $CHRD Twist Bioscience $TWST ConocoPhillips $COP Revvity $RVTY SEI Investments $SEIC Kaspi $KSPI Canadian Pacific Kansas City $CP BHP $BHP LandBridge $LB Darling International $DAR Ovintiv $OVV 10x Genomics $TXG Royalty Pharma $RPRX Kinetik Holdings $KNTK Instacart $CART SM Energy $SM SSR Mining $SSRM Cenovus Energy $CVE Chime Financial $CHYM Oscar Health $OSCR Permian Resources $PR Ecopetrol $EC Ultrapar Participações $UGP",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2090520505191379385",
+      "text": "R to @MTSlive: Learn more: https://nvda.ws/4gaeJpr",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2090548393051578558",
       "source": "X",
-      "published": "2026-08-20T19:25:03+00:00"
+      "published": "2026-08-20T21:15:52+00:00"
     },
     {
-      "text": "NVIDIA $NVDA IS PLANNING SMALL-BATCH SHIPMENTS OF A NEW AI CHIP BUILT SPECIFICALLY FOR CHINA BY THE END OF THE YEAR Several Chinese customers have already placed orders. The chip is a China-specific variant of Nvidia's LPU, a new chip that works alongside Nvidia's GPUs to speed up AI chatbot processing - The Information",
-      "author": "@StockMKTNewz",
-      "link": "https://x.com/StockMKTNewz/status/2090485916078874748",
+      "text": "The right model depends on the task. NVIDIA NeMo Switchyard helps developers route each agent workflow step across a chosen model pool based on their own quality, latency and cost criteria. Kari Briski joins @MTSlive to explain why agent workflows need model routing.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2090548358868070801",
       "source": "X",
-      "published": "2026-08-20T17:07:36+00:00"
+      "published": "2026-08-20T21:15:43+00:00"
+    },
+    {
+      "text": "Awesome to see the first NVIDIA Vera Rubin racks powering @OpenAI 's training stack. Together, we’re building the accelerated computing infrastructure to advance frontier AI.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2090473127658570184",
+      "source": "X",
+      "published": "2026-08-20T16:16:47+00:00"
+    },
+    {
+      "text": "RT by @nvidia: 10x more tokens/second per megawatt as measured by @CoreWeave on NVIDIA Vera Rubin platform. That performance reflects a bigger shift in AI infrastructure economics: building AI factories that efficiently turn compute into tokens, and tokens into revenue. It takes extreme co-design across the full stack, combined with an open ecosystem built to innovate and scale. Dion Harris connects the economics to the technology with 5 critical questions every AI infrastructure leader should be asking across compute, networking, storage, software and security. ➡️ https://nvda.ws/4qAS4WT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2090192599868928297",
+      "source": "X",
+      "published": "2026-08-19T21:42:04+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more: https://nvda.ws/3SFVsTO",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089804530628059547",
+      "source": "X",
+      "published": "2026-08-18T20:00:01+00:00"
+    },
+    {
+      "text": "Creator Crafted. Game Ready. NVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089804526970642920",
+      "source": "X",
+      "published": "2026-08-18T20:00:00+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Intro (01:24) Kimberly joins NVIDIA (05:13) Early healthcare adoption (08:41) Augment not replace (14:35) Inside the future hospital (16:27) Sponsors: Granola | Baker Health (18:38) Why healthcare matters (23:25) Agents unlock workflows (28:53) Clinicians adapting to AI (33:43) Safety and risk reward (40:19) Agents across industry (44:14) Five year predictions (49:53) AI hireable and ROI (54:02) Personal tech habits (55:59) AI etiquette and hacks (58:52) Wrap",
+      "author": "@chrissyfarr",
+      "link": "https://x.com/chrissyfarr/status/2089762512174797251",
+      "source": "X",
+      "published": "2026-08-18T17:13:03+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Shopee just published the results of building its own frontier LLM, which now powers use cases from search and personalization to supply chain. Compass, Shopee's specialized model for Southeast Asian ecommerce, scaled from 3 billion to 340 billion monthly API tokens in eight months on our AI factory stack. It includes NVIDIA Megatron-Core for pretraining, NVIDIA NeMo framework for post-training, and TensorRT-LLM for inference, running across NVIDIA A100, H100, and RTX PRO 6000 Blackwell GPUs. Results: ✅ Compass API tokens scale 113x in eight months ✅ 50x faster fraud detection at 90% lower processing cost Read the customer story. https://nvda.ws/4ghGs6y",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2089735534025625923",
+      "source": "X",
+      "published": "2026-08-18T15:25:51+00:00"
+    },
+    {
+      "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089332080194806236",
+      "source": "X",
+      "published": "2026-08-17T12:42:40+00:00"
+    },
+    {
+      "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2089331953585607127",
+      "source": "X",
+      "published": "2026-08-17T12:42:10+00:00"
+    },
+    {
+      "text": "NEWS: NVIDIA guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to exclusively host NVIDIA AI compute. The campus will create tens of thousands of jobs and invest hundreds of millions in the community. Read the release ➡️ https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2089331010060091497",
+      "source": "X",
+      "published": "2026-08-17T12:38:25+00:00"
+    },
+    {
+      "text": "Can openness make AI safer? @ctnzr makes the case: more people evaluating a technology means more scrutiny and more people helping make it safer.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365553186459873",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "R to @ctnzr: Watch the full conversation: https://nvda.ws/4zkdj3d",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088365554469921218",
+      "source": "X",
+      "published": "2026-08-14T20:42:02+00:00"
+    },
+    {
+      "text": "RT by @nvidia: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2088350155758313875",
+      "source": "X",
+      "published": "2026-08-14T19:40:51+00:00"
+    },
+    {
+      "text": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next. To our 2026 interns: thank you for spending your summer with us. 💚",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088346841469379033",
+      "source": "X",
+      "published": "2026-08-14T19:27:41+00:00"
+    },
+    {
+      "text": "RT by @nvidia: It's been an amazing week for open models running on NVIDIA Local AI systems! 👀 Here's a few you’ll want to know about, all ready to run locally on NVIDIA RTX, DGX Spark, DGX Station, and Jetson.",
+      "author": "@NVIDIARTXSpark",
+      "link": "https://x.com/NVIDIARTXSpark/status/2088339875304984672",
+      "source": "X",
+      "published": "2026-08-14T19:00:00+00:00"
+    },
+    {
+      "text": "R to @LGE_Global: Read more: https://nvda.ws/4czcZnh",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088095122831622569",
+      "source": "X",
+      "published": "2026-08-14T02:47:26+00:00"
+    },
+    {
+      "text": "R to @nvidianewsroom: Read more about our @nvidia and @LGE_Global collaboration: https://www.prnewswire.com/news-releases/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t-302851583.html",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2088093291766026650",
+      "source": "X",
+      "published": "2026-08-14T02:40:10+00:00"
+    },
+    {
+      "text": "Great to welcome @LGE_Global Group Chairman Kwang-mo Koo and LG leaders to NVIDIA as we enter the next chapter of our collaboration. Together, we’re expanding our work across AI infrastructure, physical AI and robotics. We’re excited about what our teams can build together.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088088665058873720",
+      "source": "X",
+      "published": "2026-08-14T02:21:47+00:00"
+    },
+    {
+      "text": "NVIDIA and LG are expanding their collaboration to accelerate the next wave of physical AI. Building on years of work together, @JensenHuang and LG Group Chairman Kwang-mo Koo are advancing joint efforts across AI factories, robotics, and autonomous vehicles — combining LG’s leadership in product engineering and manufacturing with NVIDIA AI infrastructure.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2088087603421569082",
+      "source": "X",
+      "published": "2026-08-14T02:17:34+00:00"
+    },
+    {
+      "text": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+      "author": "@nvidia",
+      "link": "https://x.com/nvidia/status/2088057386384916833",
+      "source": "X",
+      "published": "2026-08-14T00:17:29+00:00"
+    },
+    {
+      "text": "RT by @nvidia: Happy 10th Birthday to #NVIDIADGX! 🎉 Over the last decade, DGX has transformed from a single system into the essential blueprint for the AI factory. The AI revolution was ignited the moment Jensen hand-delivered the first DGX-1 AI supercomputer to OpenAI. Thank you to everyone who's been with us on this journey. Here’s to the next 10 years! #DecadeOfDGX #TBT",
+      "author": "@NVIDIAAIInfra",
+      "link": "https://x.com/NVIDIAAIInfra/status/2087977606872461660",
+      "source": "X",
+      "published": "2026-08-13T19:00:28+00:00"
+    },
+    {
+      "text": "Today, NVIDIA announced Nemotron 3.5 Lightning and NeMo Switchyard — two new open technologies for building faster, more efficient AI systems that can use the right model for each task. Together, they give developers greater control over how and where AI runs.  ⬇️",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2087172786141733067",
+      "source": "X",
+      "published": "2026-08-11T13:42:24+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: This is a big moment for computing and @NVIDIA. We’ve made the leap from building chips to creating a new investable asset class: AI factory infrastructure. Every company will be powered by it. Every country will build it. Thanks to Larry Fink of @BlackRock, Jon Gray of @blackstone, Bruce Flatt of @Brookfield, David Solomon of @GoldmanSachs, Jim Zelter of @apolloglobal, and Waldemar Szlezak of @KKR_Co for joining me in this historic partnership to build the infrastructure of the AI industrial revolution.",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2086976424326693185",
+      "source": "X",
+      "published": "2026-08-11T00:42:08+00:00"
+    },
+    {
+      "text": "NEWS: NVIDIA is partnering with @apolloglobal, @BlackRock, @blackstone, @brookfield, @GoldmanSachs and @KKR_Co to establish AI compute infrastructure financing platforms to mobilize over $500B of third-party capital. Read the release: https://nvda.ws/4wSHJI4",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2086920814520066549",
+      "source": "X",
+      "published": "2026-08-10T21:01:09+00:00"
+    },
+    {
+      "text": "Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with the infrastructure to build and deploy AI at scale. Read more: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx?ncid=so-twit-338765",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
+      "source": "X",
+      "published": "2026-08-08T10:27:23+00:00"
+    },
+    {
+      "text": "NVIDIA is joining @NSF’s new $100M State and Regional AI Infrastructure Hubs program to expand access to advanced computing, data, software, and expertise. Together, we can help accelerate research, strengthen AI education, & prepare students for the AI economy. https://nvda.ws/4gcECEY",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084675932074192915",
+      "source": "X",
+      "published": "2026-08-04T16:20:48+00:00"
+    },
+    {
+      "text": "RT by @nvidianewsroom: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "author": "@JensenHuang",
+      "link": "https://x.com/JensenHuang/status/2084656303046332747",
+      "source": "X",
+      "published": "2026-08-04T15:02:48+00:00"
+    },
+    {
+      "text": "R to @Cisco: More contributions are coming. When members publish reusable mitigations, the ecosystem can inspect, adapt, and improve them, helping security evolve as AI advances. See what alliance members are building ⬇️ https://nvda.ws/4hhQ57r",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084631137943503048",
+      "source": "X",
+      "published": "2026-08-04T13:22:48+00:00"
+    },
+    {
+      "text": "R to @Cisco: @CrowdStrike is fine-tuning open models for cyber defense. Its testing has demonstrated 96% query accuracy, filtering real security events from noise and enabling faster response.",
+      "author": "@nvidianewsroom",
+      "link": "https://x.com/nvidianewsroom/status/2084630991646159005",
+      "source": "X",
+      "published": "2026-08-04T13:22:13+00:00"
     }
   ]
 }
