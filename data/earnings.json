@@ -1,19 +1,19 @@
 {
-  "quarter": "FY2027 Q1",
-  "period_end": "2026-04-26",
-  "report_date": "2026-05-20",
-  "summary": "売上高は過去最高の $81.6B（前年比 +85%、前期比 +20%）。データセンターが牽引し、Blackwell 製品の量産と InfiniBand / Spectrum-X / NVLink 需要が拡大。非GAAP粗利率は 75.0% と高水準を維持し、Q2 ガイダンスは約 $91B。四半期配当を $0.01→$0.25 に引き上げ、$80B の自社株買い枠を追加した。",
+  "quarter": "FY2027 Q2",
+  "period_end": "2026-07-26",
+  "report_date": "2026-08-26",
+  "summary": "売上高は $96.2B（前年比 +106%、前期比 +18%）と初の$90B台。データセンターが $89.0B（前年比 +117%）と全体の9割超を占め、AIインフラ需要が引き続き牽引した。粗利率は GAAP/非GAAP ともに 75.0% を維持し、Q3 ガイダンスは約$108B（±2%）。ただし中国向けデータセンター計算製品の売上は見通しに一切織り込んでいない。",
   "highlights": [
-    { "label": "売上高", "value": "$81.6B", "note": "前年比 +85% / 過去最高" },
-    { "label": "データセンター売上", "value": "$75.2B", "note": "前年比 +92%" },
-    { "label": "ネットワーキング", "value": "$14.8B", "note": "前年比 +199% / 過去最高" },
-    { "label": "非GAAP EPS", "value": "$1.87", "note": "GAAP $2.39" },
-    { "label": "非GAAP粗利率", "value": "75.0%", "note": "GAAP 74.9%" },
-    { "label": "Q2ガイダンス", "value": "約$91B", "note": "売上見通し" }
+    { "label": "売上高", "value": "$96.2B", "note": "前年比 +106% / 前期比 +18%" },
+    { "label": "データセンター売上", "value": "$89.0B", "note": "前年比 +117%" },
+    { "label": "非GAAP EPS", "value": "$2.22", "note": "GAAP $2.46（前年比 +120% / +128%）" },
+    { "label": "非GAAP粗利率", "value": "75.0%", "note": "GAAP 75.0%（前年比 +2.5pt）" },
+    { "label": "Q3ガイダンス", "value": "約$108B", "note": "±2% / 中国向けDC計算売上は非計上" },
+    { "label": "株主還元", "value": "約$26.0B", "note": "自社株買い+配当。次回配当 $0.25（10/1）" }
   ],
   "sources": [
-    { "label": "NVIDIA公式プレスリリース", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027" },
-    { "label": "投資家向け (IR)", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx" }
+    { "label": "NVIDIA公式プレスリリース", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027" },
+    { "label": "投資家向け (IR)", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx" }
   ],
-  "updated_at": "2026-06-14"
+  "updated_at": "2026-08-27"
 }
