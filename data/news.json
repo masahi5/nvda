@@ -1,125 +1,185 @@
 {
-  "updated_at": "2026-09-17T17:24:50+00:00",
+  "updated_at": "2026-09-17T20:27:18+00:00",
   "items": [
     {
-      "title": "Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz",
-      "link": "https://www.fool.com/investing/2026/09/17/why-oracle-stock-jumped-6-today-on-openai-funding/?.tsrc=rss",
+      "title": "Intel Soars 9% On A Memory Deal That Doesn’t Exist Yet",
+      "link": "https://app.moby.co/home/news/news-intel-soars-9-on-a-memory-deal-that-doesnt-exist-yet?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-09-17T17:16:51+00:00"
+      "published": "2026-09-17T20:19:27+00:00"
     },
     {
-      "title": "Why IonQ Stock Popped Today",
-      "link": "https://www.fool.com/investing/2026/09/17/why-ionq-stock-popped-today/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T17:08:15+00:00"
+      "title": "NVIDIA Tokenized Stock Rises On CEO Jensen Huang's Optimistic Forecast - MarketForces Africa",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjkxWVoycjJwZlZRcTZhQXB5Mk9uNVE3U2xBazFqY2JGTmZQQ3BnV2JUTWJialhCeU9nUHExSVJydE9nNzctRzU5WnBHSkFNbTEzR0xGWmRMT21MTE0zNkE1Q2tmX0xDaGlZZmtSYktZeU1GVmJJbzh5YXFoNHdYbXFxUnVBX1J6Rkc2dUQwWTlXZS1PVlRRQ2pmek0?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T20:10:44+00:00"
     },
     {
-      "title": "Generac, Nebius, CoreWeave, Nokia, Lucid, Paramount, and More Stocks That Explain Today’s Market",
-      "link": "https://finance.yahoo.com/m/36b88880-e3f9-3336-bfc3-edbb83a6653d/generac%2C-nebius%2C-coreweave%2C.html?.tsrc=rss",
+      "title": "Warren Buffett Called This 1 ETF the Best Choice for Most Investors -- and History Approves",
+      "link": "https://www.fool.com/investing/2026/09/17/warren-buffett-called-this-1-etf-the-best-choice/?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-09-17T17:07:00+00:00"
+      "published": "2026-09-17T20:05:00+00:00"
+    },
+    {
+      "title": "NVDA Looks 43.8% Undervalued on GF Value™ as CEO Projects Massive Chip Sales Growth - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWphTk5seXdVdUEwcWFjZGpuSURlRzN2dXZXZjdOcGRqWWFSTkVmLUN3SHdaTVVmVU5HYjd0S3BmaW51QlZxRC12Wmc1T1lqZkJHRWlfdlFCQ0gyUzZzWVk3RHJYZmdIN3lRZ1JjV19jQ2hVNl9nbkl2bDFIbGdkVnR1RHRzODR0NHV0QlZnWmxwLTJ0LWxzSnF6UEFmVTlEeHhfTEdDS0hRbzJCYmxOcmo1blVXbC1nQ1VV?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T20:02:53+00:00"
+    },
+    {
+      "title": "Will 2026 Doom and Gloom Lead to Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:52:00+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Retakes Key Level; Ad Platform Provider Hits Highs (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/dd537ea9-d49e-3b94-874c-ef12aa1ee375/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:47:03+00:00"
+    },
+    {
+      "title": "Should You Buy Medtronic Stock as Its Hugo Surgical Robot Gains Ground?",
+      "link": "https://www.fool.com/investing/2026/09/17/should-you-buy-medtronic-as-its-hugo-surgical/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:43:00+00:00"
+    },
+    {
+      "title": "SMR Developer Holtec Just Cancelled Its IPO. Should NuScale Power and Oklo Investors Panic?",
+      "link": "https://www.fool.com/investing/2026/09/17/smr-developer-holtec-just-cancelled-its-ipo-should-nuscale-power-and-oklo-investors-panic/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:37:03+00:00"
+    },
+    {
+      "title": "Nvidia Stock Rises. Jensen Huang Sees Chip Sales Doubling in 2027 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTTUyYnhacnBRVENqenYtLVhORGQzSnFDTUpibXVWNVVLRkF1VzFubWJ2MjBqX2dRUkZnNWRYY2FfSWxtQ3VhbU1kYU9DcVVaenUyRlV1dmRTVlNfazNRYzBlMlFweDY0SUhldko0b1lIdDFkR19EaDI0cTJrU1dzQmdJYVhSU2FBOVpyaUN5eEVXUEtjY09Ed0NIS2p6WmxfVE82NTlybVhmaTE5YTdTa1NpdlV6WUlRM0FuS2szVWxmQQ?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T19:29:38+00:00"
+    },
+    {
+      "title": "Nvidia Stock Rises. Jensen Huang Sees Chip Sales Doubling in 2027",
+      "link": "https://finance.yahoo.com/technology/articles/nvidia-stock-rises-jensen-huang-192938458.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:29:38+00:00"
+    },
+    {
+      "title": "3 Stocks to Buy if You Believe the AI Power Crunch Is Just Getting Started",
+      "link": "https://www.fool.com/investing/2026/09/17/3-stocks-to-buy-if-you-believe-the-ai-power-crunch/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:25:00+00:00"
+    },
+    {
+      "title": "3 Big Misconceptions About the 4% Rule You Need to Get to the Bottom Of",
+      "link": "https://www.fool.com/retirement/2026/09/17/3-big-misconceptions-about-the-4-rule-you-need-to/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:18:00+00:00"
+    },
+    {
+      "title": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
+      "link": "https://247wallst.com/investing/2026/09/17/jim-cramer-presses-openai-cfo-on-ai-spending-6-stocks-are-riding-on-what-happens-next/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:17:15+00:00"
+    },
+    {
+      "title": "How Verizon’s Expanded 6G Innovation Forum Could Reshape the Network Platform Story for VZ Investors",
+      "link": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:15:52+00:00"
+    },
+    {
+      "title": "If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52",
+      "link": "https://247wallst.com/investing/etf/2026/09/17/if-qqq-repeats-its-last-decade-100000-at-40-could-hit-1-million-by-52/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:05:36+00:00"
+    },
+    {
+      "title": "Why Nvidia-Backed Nebius Group Stock Skyrocketed Thursday Morning - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2NCZWtxaDJPdjJrV1ZhRTVXMzNMMzNaNl9VN3NCWkg4ZWNWUmx4cTJYTEtyX1pJSUg2bHR4MlBYTU9zdkpySDcyaWVCdW1jeWIzVXpUenFhQ3ctMnpuRHRRV2lpdTJsRXduaHZRblVmSi15ejNvSGNHazE2NmVSRThDTXZkQ3UtSURPekVESjhrakZ6RWlSOQ?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T19:04:15+00:00"
+    },
+    {
+      "title": "NVDA Looks 43.8% Undervalued on GF Value™ Amid Strong GF Score™ - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZm9PY2c0RXZWYU80UV8wa1ltbFRVNzZTWHZJRlNNdjMxOU5pUVFfOFdSU2lYdmlwWF9vTlAycTRVSE9fS0QyWFN5WlY4eFhkamRiMldTei0yTTRIYXdZZnJfdl9qRXRhcmJ4cE1HZGdIR25Qai1mcFMtZGNaUEhGd2plZWVWU2ZiRFJpRDdjejVneE1MV2RxWGxfbHhXaTg?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T19:02:49+00:00"
+    },
+    {
+      "title": "Nvidia Stock Rises. Jensen Huang Sees Chip Sales Doubling in 202 - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTlLbFd4c1h2MEJTVldHZXZaNUw2cFg3WDBRR21YUFFzS3g3bnJncHZmTzQ2WHBVS1FyaXVpVDQzUE9kQUYwLTVkVUEzeWprZHc2Mi04Y1dFWVNuaXVrQzVOcTlOY1EzRTVkemYxNmJEaWRMX1JZUkplZGQ4TUxZX0pkMkpMMDI3RUpVQjFEdGhDT3kxcjRVanhqTmdWSEYwZEc1dkR3?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T19:02:48+00:00"
+    },
+    {
+      "title": "Top 5 Tech Stocks Built to Weather Higher Interest Rates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-tech-stocks-built-190200111.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:02:00+00:00"
+    },
+    {
+      "title": "Jensen Huang Just Gave Nvidia Investors a Reason to Look Past Blackwell",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-just-gave-nvidia-190121339.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:01:21+00:00"
+    },
+    {
+      "title": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
+      "link": "https://www.fool.com/investing/2026/09/17/why-investors-may-want-to-buy-procter-gamble/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T19:01:00+00:00"
+    },
+    {
+      "title": "Huang says Nvidia’s chip sales will double next year",
+      "link": "https://finance.yahoo.com/technology/articles/huang-says-nvidia-chip-sales-185957725.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T18:59:57+00:00"
+    },
+    {
+      "title": "Nearly 90% of the Fortune 100 Now Use Sundar Pichai's Gemini Enterprise Tool. Here's Why That Adoption Rate Matters for Alphabet Investors.",
+      "link": "https://www.fool.com/investing/2026/09/17/nearly-90-of-the-fortune-100-now-use-gemini/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T18:57:00+00:00"
+    },
+    {
+      "title": "Why Nvidia-Backed Nebius Group Stock Skyrocketed Thursday Morning - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOXFSZHhmc3RDM3lNUTdZUWR5dGNNd3FEOTZpRDloUGNKVmN3Z1pDdmZjMEE0VWUwSk9MazNkbU16NG9MLV95UlA1N05EMGF0c0lhZzhzVmFvMEN4aF9yazV3X2d6aFo5d0FlQXl6dldVa19iR1c1ajlEQmgzakRldHlaQklXR1VjdkNFRHlJQnFaSk93a3Y3czhjMA?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T18:51:34+00:00"
+    },
+    {
+      "title": "Why Nvidia-Backed Nebius Group Stock Skyrocketed Thursday Morning",
+      "link": "https://www.fool.com/investing/2026/09/17/why-nvidia-backed-nebius-group-stock-skyrocketed-t/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T18:51:34+00:00"
+    },
+    {
+      "title": "The 3 Charts That Show Rivian Could Soar",
+      "link": "https://www.fool.com/investing/2026/09/17/the-3-charts-that-show-rivian-could-soar/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-09-17T18:50:00+00:00"
     },
     {
       "title": "Palantir CEO Karp Says the Quiet Part Out Loud in the AI Risk Debate",
       "link": "https://finance.yahoo.com/m/10e356a4-6a01-30cb-a39a-a8a6ed32f9bc/palantir-ceo-karp-says-the.html?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-09-17T17:06:00+00:00"
+      "published": "2026-09-17T18:42:00+00:00"
     },
     {
-      "title": "airBaltic Is Shrinking. Ryanair Is Moving In.",
-      "link": "https://app.moby.co/home/news/news-airbaltic-is-shrinking-ryanair-is-moving-in?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:58:23+00:00"
+      "title": "Nvidia’s CUDA-Q Logical Extends Its Quantum Software Moat, But the Hardware Timeline Remains Uncertain - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnlNYlozX1dlN2NnNXRXcGREWEp1RGE4Y1JUT1g4c2tQakdyeWVsTS1jVVI2aDNVT3BKYUJrVGZwV0hRRFV0bmRxSWZ5ZDZhUlVmN3kzZlFqLUM2T1dSR09wN0pEUmdxWVEwM05BR2JRbHRGY2tRMXY2bVhRSG1FQWlMRW4tOGE4WmQ4YVFRRy1QbTZvekR0ZA?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T18:37:19+00:00"
     },
     {
-      "title": "$10,000 in Nebius When It Returned to Trading in 2024 Is Worth About $105,000 Now",
-      "link": "https://www.fool.com/investing/2026/09/17/usd10-000-in-nebius-when-it-returned-to-trading-in-2024-is-worth-about-usd105-000-now/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:58:01+00:00"
+      "title": "Nvidia cloud partner crosses major compute threshold - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90N0hLUUU2QzNKVGFPNFRpMzdtZW1sS1B5VG9MYVdiVkE5SHJTTHRHSG9wTElJbTVYbWZvX250U2U5RmNZY2ZfVE9va1hmOWVyQ0NfYUFfOGx6VGFSVUpPLTkyY19RbjRnQ0RsVVdLT1p4ek1tZmtfTHdqM2kwTjA?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T18:17:00+00:00"
     },
     {
-      "title": "NVDA Stock Gains 2% — Jensen Huang Expects Chip Sales To Double Next Year",
-      "link": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-gains-2-jensen-huang-expects-chip-sales-to-double-next-year/cZtruMKRBdg?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:53:41+00:00"
-    },
-    {
-      "title": "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says.",
-      "link": "https://www.fool.com/investing/2026/09/17/stock-market-sell-off-is-it-really-safe-to-invest/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:50:00+00:00"
-    },
-    {
-      "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound",
-      "link": "https://finance.yahoo.com/m/c04c7815-41c6-3fb6-9a52-2b9916a1105e/amd-leads-chip-stocks-higher.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:41:50+00:00"
-    },
-    {
-      "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:38:51+00:00"
-    },
-    {
-      "title": "CEO Claims Investors Got It Wrong on $30 Billion Shortfall as ON Stock Plummets 9%",
-      "link": "https://247wallst.com/investing/2026/09/17/ceo-claims-investors-got-it-wrong-on-30-billion-shortfall-as-on-stock-plummets-9/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:35:16+00:00"
-    },
-    {
-      "title": "3 Financial Stocks Whose Dividends Survived the Last Recession Intact",
-      "link": "https://www.fool.com/investing/2026/09/17/3-financial-stocks-whose-dividends-survived-the/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:35:00+00:00"
-    },
-    {
-      "title": "Market Indexes Bounce Back From the Fed's Rate Hike",
-      "link": "https://www.fool.com/investing/2026/09/17/market-indexes-bounce-back-from-the-feds-rate-hike/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:34:27+00:00"
-    },
-    {
-      "title": "How To Protect Yourself From The Looming AI-Stock Crash",
-      "link": "https://finance.yahoo.com/m/19d7e5de-596d-3f8d-af37-e78f6b7e2cd9/how-to-protect-yourself-from.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:30:04+00:00"
-    },
-    {
-      "title": "Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.",
-      "link": "https://www.fool.com/investing/2026/09/17/over-the-past-90-days-40-of-altcoins-are-outperfor/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:25:00+00:00"
-    },
-    {
-      "title": "CoreWeave Falls 17.4% in 3 Months as Funding Risks Test AI Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-falls-17-4-3-162400858.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:24:00+00:00"
-    },
-    {
-      "title": "CoreWeave's Rubin Deployment Broadens Its Next-Gen AI Cloud Offering",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-rubin-deployment-broadens-next-162300321.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:23:00+00:00"
-    },
-    {
-      "title": "3 Dividend Stocks to Buy Now With Yields Over 3%",
-      "link": "https://www.fool.com/investing/2026/09/17/3-dividend-stocks-to-buy-now-with-yields-over-3/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:12:00+00:00"
-    },
-    {
-      "title": "Nvidia Expects Chip Sales to Double in 2027",
-      "link": "https://247wallst.com/investing/2026/09/17/nvidia-expects-chip-sales-to-double-in-2027/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:10:01+00:00"
-    },
-    {
-      "title": "Greg Abel Exited a Consumer Brand Warren Buffett Backed for 6 Straight Quarters. Here's Why That Was the Wrong Move.",
-      "link": "https://www.fool.com/investing/2026/09/17/greg-abel-exited-a-consumer-brand-warren-buffett/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-09-17T16:05:00+00:00"
+      "title": "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now) - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQempDOEpmcXpCZ1pENkJVVWNmSDNXTUZpbVFlUEl4bFEtVl9ZbEw3dkNvbVZIb2FGV00xZ1g5c2RLbnBlRTNwY0dpYXlEQ3dhX2VIVXhBREpuZG4tNEEtM0p5U19KWURHckFwb0lfOTNBZUo0aUpJUHNEaVVMeEFickxYejgxUWtKZWhmYVE0b0xRb1JnUXI4?oc=5",
+      "source": "Google News",
+      "published": "2026-09-17T18:10:09+00:00"
     }
   ]
 }
