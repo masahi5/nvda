@@ -1,41 +1,173 @@
 {
-  "updated_at": "2026-10-16T17:08:06+00:00",
+  "updated_at": "2026-10-16T19:56:26+00:00",
   "items": [
     {
-      "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
+      "title": "Warren Buffett's Berkshire Compounded at 19.7% a Year Between 1965 and 2025, Nearly Double the S&P 500's 10.5% Annual Return. Can Investors Still Apply That Playbook Today?",
+      "link": "https://www.fool.com/investing/2026/10/16/warren-buffetts-berkshire-compounded-at-197-a-year/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:43:00+00:00"
+    },
+    {
+      "title": "CoreWeave, Nebius, and Neoclouds Sink as Market Fear Index Closes in on ‘Extreme Fear’",
+      "link": "https://247wallst.com/videos/coreweave-nebius-and-neoclouds-sink-as-market-fear-index-closes-in-on-extreme-fear/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:37:15+00:00"
+    },
+    {
+      "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
+      "link": "https://247wallst.com/videos/apple-is-now-the-top-performing-magnificent-7-stock-in-2026-heres-why-its-beating-nvidia-tesla-and-amazon/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:34:26+00:00"
+    },
+    {
+      "title": "Danaher (DHR) Teams Up To Bring AI Into Scientific Research Workflows",
+      "link": "https://finance.yahoo.com/technology/ai/articles/danaher-dhr-teams-bring-ai-191550485.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:15:50+00:00"
+    },
+    {
+      "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFZXS2NSRjh5QWZqZEdEckpXelhfdGZtWTIyNDVOSWNQck9IVnB2OHRwbkRUbUZzVHlnM3pKXzc0bDRmUzJpcktzZ1RsMWlBMEd3SzFWa0FPR3lFbzlJUVhsbTZaZW42cmtrQnh1MkJpQXRua05sMEhlM18zLVVzMG1pODR0dGRQY1gtMW1iY2t6WDlNUjdLOA?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T19:15:00+00:00"
+    },
+    {
+      "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
+      "link": "https://www.fool.com/investing/2026/10/16/not-nvidia-not-taiwan-semi-this-equipment-maker-is/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:15:00+00:00"
+    },
+    {
+      "title": "Pfizer Just Declared Its 352nd Straight Quarterly Dividend. Is the 6% Yield Safe?",
+      "link": "https://www.fool.com/investing/2026/10/16/pfizer-just-declared-its-352nd-straight-quarterly/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:13:00+00:00"
+    },
+    {
+      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+      "link": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:10:31+00:00"
+    },
+    {
+      "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin? - TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T19:09:25+00:00"
+    },
+    {
+      "title": "ExxonMobil’s Refining Profits Are Set to Jump $4.5 Billion. Here’s What XOM Investors Need to Know.",
+      "link": "https://www.fool.com/investing/2026/10/16/exxonmobils-refining-profits-are-set-to-jump-45-billion-heres-what-xom-investors-need-to-know/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:05:01+00:00"
+    },
+    {
+      "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin?",
+      "link": "https://www.tikr.com/blog/germany-confirms-its-nvidia-ai-deal-will-any-of-huangs-2-billion-europe-pledge-land-in-berlin?ref=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:03:51+00:00"
+    },
+    {
+      "title": "MSCI Gets Ready to Show Saylor’s Strategy the Door",
+      "link": "https://app.moby.co/home/news/news-msci-gets-ready-to-show-saylors-strategy-the-door?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T19:03:31+00:00"
+    },
+    {
+      "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T19:01:19+00:00"
+    },
+    {
+      "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T18:58:00+00:00"
+    },
+    {
+      "title": "Forget Zepbound: 3 Newer Drugs That Could Power Eli Lilly's Next Leg Higher",
+      "link": "https://www.fool.com/investing/2026/10/16/forget-zepbound-3-newer-drugs-that-could-power-eli/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:58:00+00:00"
+    },
+    {
+      "title": "Top Midday Gainers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-gainers-185436187.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:54:36+00:00"
+    },
+    {
+      "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T18:51:00+00:00"
+    },
+    {
+      "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DUl9KNHBqS0ptOTZhdUJWWTQwcV84Yk0xbXVUTU5iTGYtMWs4OUZNS3RmcmExTFJ5ZmJDSjVCb19FaVpYOXV6YThsSmJmSklqRDJsLWhPUTZBUEdKMWR5RWx3T213X2hONDhrRU9rcUZQRmlvdUxILXlEUDB0dw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T18:51:00+00:00"
+    },
+    {
+      "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+      "link": "https://www.fool.com/investing/2026/10/16/jensen-huangs-nvidia-lost-200-billion-in-value-aft/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:51:00+00:00"
+    },
+    {
+      "title": "Dutch Bros Has Lost a Third of Its Value in 2026. Is It Time to Buy?",
+      "link": "https://www.fool.com/investing/2026/10/16/dutch-bros-has-lost-a-third-of-its-value-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:36:12+00:00"
+    },
+    {
+      "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T18:29:24+00:00"
+    },
+    {
+      "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales?",
+      "link": "https://finance.yahoo.com/technology/articles/nvidia-nvda-paid-software-earnings-182924722.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:29:24+00:00"
+    },
+    {
+      "title": "Investing.com’s stocks of the week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182345485.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:23:45+00:00"
+    },
+    {
+      "title": "From 2009 to 2026 and Beyond, Apple Has Remained 1 of the Most Valuable Companies in the World: Here's the Most Important Takeaway for Investors",
+      "link": "https://www.fool.com/investing/2026/10/16/2026-beyond-apple-most-valuable-company/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-16T18:20:00+00:00"
+    },
+    {
+      "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T17:54:22+00:00"
+    },
+    {
+      "title": "Nvidia Stocks Slip 0.7% Although RTX Spark Opens a $2,599 Local-AI Channel - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzZUS285cXBXWDVwXzJicWFzRVUzLVpoX3NOSDVycjQzcDV5bFo3ZG00RmRibGhkY3NKUFRmZEFiRzZjTlVGNzFTZ1p1RHdpMktnRGJhckNkVU8xcGE4OGFGMGl4bmhfaGtoTGlyTVdjdFRidVVXRHNNNVNBSDlsekJjR0ZRU1NsQWViNWd4WTU?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T17:53:30+00:00"
+    },
+    {
+      "title": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWxxd1NjdXgtZExobEY3MWZ0VmVjY05fNmlWbFU2VjRFaF9kckNnMmd5dUJ2cDBMcFVWLUV6dE16c0czRlhsVnRNSDRLaHBTMV9XcE9WUEhHV1YtSGJOQWRJOTdMcnZEaVdTWnhsNFJKTDk2bkxPbU5TRXlRUFpEdU52dm5Zd2UzNkpJdnJwc0YtbkR3VXhPVXAyQlVZcGFuazBMSUFRSS1xU3JmWmdlcUVn?oc=5",
+      "source": "Google News",
+      "published": "2026-10-16T17:06:00+00:00"
+    },
+    {
+      "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5",
       "source": "Google News",
-      "published": "2026-10-16T17:03:02+00:00"
-    },
-    {
-      "title": "M&T Bank Corporation Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-mt-bank-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:53:05+00:00"
-    },
-    {
-      "title": "The Travelers Companies, Inc. Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-the-travelers-companies-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:48:54+00:00"
-    },
-    {
-      "title": "Regions Financial Corporation Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-regions-financial-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:47:15+00:00"
-    },
-    {
-      "title": "Citizens Financial Group, Inc. Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-citizens-financial-group-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:44:54+00:00"
-    },
-    {
-      "title": "China Moves to Control AI Tech Exports While Taiwan Cracks Down on Smuggling",
-      "link": "https://finance.yahoo.com/m/8cb5837f-fc27-3215-a920-c6d40bd4f264/china-moves-to-control-ai.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:37:00+00:00"
+      "published": "2026-10-16T17:01:54+00:00"
     },
     {
       "title": "Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",
@@ -44,142 +176,10 @@
       "published": "2026-10-16T16:33:09+00:00"
     },
     {
-      "title": "CoreWeave Rides Rollercoaster Despite ARK's Wood, Nvidia Support",
-      "link": "https://finance.yahoo.com/m/2326df5a-e202-3b65-90ca-888b14733471/coreweave-rides-rollercoaster.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:31:56+00:00"
-    },
-    {
-      "title": "If I Had $5,000 to Put Toward Just 1 Dividend Stock, This Would Be It",
-      "link": "https://www.fool.com/investing/2026/10/16/if-i-had-5000-to-put-toward-just-1-dividend-stock/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:25:00+00:00"
-    },
-    {
-      "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump",
-      "link": "https://finance.yahoo.com/m/b0063e4a-8b26-3acc-bc9c-738ed70e787d/why-nvidia-stock-can-defy-the.html?.tsrc=rss",
-      "source": "Yahoo Finance",
+      "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5",
+      "source": "Google News",
       "published": "2026-10-16T16:23:00+00:00"
-    },
-    {
-      "title": "Why Alcoa Stock Popped on Friday",
-      "link": "https://www.fool.com/investing/2026/10/16/why-alcoa-stock-popped-on-friday/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:21:18+00:00"
-    },
-    {
-      "title": "Prediction: $3,000 Invested in SpaceX Will Be Worth This Much by 2030",
-      "link": "https://www.fool.com/investing/2026/10/16/prediction-3000-invested-in-spacex-will-be-worth-t/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:20:00+00:00"
-    },
-    {
-      "title": "Tesla Just Unveiled a Flying Car That Leverages SpaceX Technology. Is This the Next Big Catalyst For the Stock?",
-      "link": "https://www.fool.com/investing/2026/10/16/tesla-just-unveiled-a-flying-car-that-leverages-spacex-technology-is-this-the-next-big-catalyst-for-the-stock/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:15:01+00:00"
-    },
-    {
-      "title": "Which stocks will weather the AI correction? The Motley Fool's Bill Mann weighs in",
-      "link": "https://www.thestreet.com/investing/nvidia-adobe-and-the-ai-debt-test-to-watch-the-motley-fools-bill-mann-weighs-in?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:13:00+00:00"
-    },
-    {
-      "title": "Stocks struggle to bounce back from AI angst-fuelled rout",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-tech-bounces-020836295.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:01:29+00:00"
-    },
-    {
-      "title": "The Buying Opportunities Hidden in the Chip Stock Chaos",
-      "link": "https://finance.yahoo.com/m/136e8117-2708-3443-bd31-32ba12df1b57/the-buying-opportunities.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:01:00+00:00"
-    },
-    {
-      "title": "The Next AI Stock Wall Street Is Starting to Pay Attention To",
-      "link": "https://247wallst.com/investing/2026/10/16/the-next-ai-stock-wall-street-is-starting-to-pay-attention-to/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T16:00:51+00:00"
-    },
-    {
-      "title": "Novo Nordisk and Eli Lilly Just Got Some Fantastic News",
-      "link": "https://www.fool.com/investing/2026/10/16/novo-nordisk-and-eli-lilly-just-got-some-fantastic/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T15:52:00+00:00"
-    },
-    {
-      "title": "NVIDIA stock could rise 80% to $400 by 2027 wit... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3hmZVZQb3I4SnMxOTV6ajBobVNsRVp1NE9sU19hVkx1ZnBOWGkxUWdkSGE3ajRyd0NrWkJtd2ZLQkFpR3NvOFZhTVExbjdTcjllYXdRNEJXWXgxaUdoWHdqemo3ZExtcE9oajVuWE81UUx2cFpCejc5b21jV3dBMWRoX2JPbnNtUWc?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T15:43:45+00:00"
-    },
-    {
-      "title": "2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)",
-      "link": "https://www.fool.com/investing/2026/10/16/2-tech-stocks-to-buy-now-and-hold-for-a-decade/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T15:37:00+00:00"
-    },
-    {
-      "title": "Billionaire Ray Dalio Says an AI-Fueled $4.4 Trillion Debt Crisis Is Coming",
-      "link": "https://247wallst.com/investing/2026/10/16/billionaire-ray-dalio-says-an-ai-fueled-4-4-trillion-debt-crisis-is-coming/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T15:32:06+00:00"
-    },
-    {
-      "title": "AI Cloud Spending Is Splitting Companies Into the Funded and the Stretched",
-      "link": "https://www.fool.com/investing/2026/10/16/ai-cloud-spending-is-splitting-companies-into-the/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T15:31:00+00:00"
-    },
-    {
-      "title": "ナム・ボラは、Nvidiaから300％の利益を得た後、「経済の天才」になりたいと考えている。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFBrZ0hReWRrRG82Y0l3VnZYQ2hCR2VnVWJ2bVYwNXJMMjBSS3MxVXU5VTFxdi1faXI3dUp4NXJ5V3RHTnZjRmJUeV9SNUFtcENocng0T1pHNHNzVmFTOWpldHY2SXV4YnFubUdWMVdqeW5BdS1tWDZZR1VTV29IU19QbWRhOTJVS3J1U3o3ZWNJaUFnY1QwM2xuRkx4ZFRUc2xidHBpS1dVQUpX?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-10-16T15:29:38+00:00"
-    },
-    {
-      "title": "Nvidia (NVDA) Expands Nemotron As $4 Billion Texas Supply Push Meets Customer Debt Stress - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T15:12:33+00:00"
-    },
-    {
-      "title": "The AI Supercycle Isn’t Slowing Down, and Nvidia’s Compute Moat Just Got Deeper. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDV4bFdqSGd6d1pFY2pQMGJDb3dRcE1UTlFodTNLbzNfUmJFRWZvZ1hnVDh5T3p3U0pLLXlMQ25INWdmUDVjSk52dG9qcmJyYS1xaDZkTFRoeXI0azN1c3RPNVNWcDEyZGJRM21KbUZpY0Q5M01KUmhTT0lfSjlienZ0RFFEMG1lV3pHZEE3WlNYLWVxZ3FN?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T14:45:46+00:00"
-    },
-    {
-      "title": "The AI Supercycle Isn’t Slowing Down, and Nvidia’s Compute Moat Just Got Deeper. - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53djczRVBaT3dNaTZxVzFLTFJheG1wR0tCSExWLUROY1lNNUUwdGlJeFQ1ZnBGSWxKcU54eUNpZGI1andXQ2Vib0F1emNsTHJxSnR5UEFtdUZTTDdKVXVmT2diVGJMMTZqUnA2VzdmSm9VTGo4RndQR3hURQ?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T14:45:46+00:00"
-    },
-    {
-      "title": "What Nvidia’s $235 billion stock buybacks program says about inequality in the AI economy - Oxfam",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T14:39:49+00:00"
-    },
-    {
-      "title": "Nvidia Debuts 3 Open Nemotron Models, 4GB to 120B [2026] - https://tech-insider.org/",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWEViMFBKbl9oX1l4c29yeTFCcEtQUE5NZEZldE82V2FnM3dCd1pmNlZnbEljcThGb3B0czJCNG5LaEtOem5xbkxlYUFoUlV4NUVHRWFrOGtsNFNFa2dOek9BaGxfTGpCdUVXTjhjQUs?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T14:36:14+00:00"
-    },
-    {
-      "title": "Tech Analyst Dan Ives Sees Nvidia (NVDA) Dip as Buying Opportuni - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVE1uemZoOU1mQXd6SjZ3QjlhSnR4NHA1YkI5YWo2Xy1pYXd2VVNjODg1UFhhM0RsOTJqNWswX3VrV2ZkQnZOdFJyZFdlYnJSbXFfVlNHbXlzNFkxcHdXUHEtTFFGUVBYNGdyc1lkckNNa2dXLWo3VmdJWXVhNnhpSGxLUElsRXdaY0pnSUM2bXlCWmtabE1TSk5FMGRxanAtZGlPeVdCSjlqSzhid2FoNVY3eUNUcTIydW8yLUJub0FnRXc?oc=5",
-      "source": "Google News",
-      "published": "2026-10-16T14:25:17+00:00"
-    },
-    {
-      "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zVjZiSWQwTXJYOVNKVDg1T29OalF4dHdTdllIQ1NTSXRTczJTTWJJOTh1TVJ1REs2WUplSEJCZm5zLVJiNTFlRDdrc1YzbkcydGdKbzhaVE5ub29NaWxmVUNGOUZzeHZHMVFNZ3U5eVR6dWpWdTFfYkkycTU?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-10-16T14:14:17+00:00"
     }
   ]
 }
