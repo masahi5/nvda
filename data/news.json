@@ -1,107 +1,131 @@
 {
-  "updated_at": "2026-10-20T20:53:34+00:00",
+  "updated_at": "2026-10-20T23:34:51+00:00",
   "items": [
+    {
+      "title": "2 Stocks to Buy From the 5 That Make Up Roughly 61.5% of Berkshire Hathaway's Portfolio",
+      "link": "https://www.fool.com/investing/2026/10/20/2-stocks-to-buy-from-the-5-that-make-up-roughly-61/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T23:25:00+00:00"
+    },
+    {
+      "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
+      "link": "https://www.fool.com/investing/2026/10/20/openai-is-reportedly-raising-usd30-billion-which-chip-stock-gains-the-most/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T23:13:12+00:00"
+    },
+    {
+      "title": "Why MSCI Stock Soared Today",
+      "link": "https://www.fool.com/investing/2026/10/20/why-msci-stock-soared-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T23:10:21+00:00"
+    },
+    {
+      "title": "Could Investing $5,000 in Redwire Stock Make You a Millionaire?",
+      "link": "https://www.fool.com/investing/2026/10/20/could-investing-5000-in-redwire-stock-make-you-a-m/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:50:00+00:00"
+    },
+    {
+      "title": "Why CBRE Stock Triumphed on Tuesday",
+      "link": "https://www.fool.com/investing/2026/10/20/why-cbre-stock-triumphed-on-tuesday/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:38:07+00:00"
+    },
+    {
+      "title": "Why Hasbro Stock Jumped Today",
+      "link": "https://www.fool.com/investing/2026/10/20/why-hasbro-stock-jumped-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:32:47+00:00"
+    },
+    {
+      "title": "This Nuclear Stock Could Be Your Ticket to Millionaire Status -- and It Didn't Even Need to Build a Reactor First",
+      "link": "https://www.fool.com/investing/2026/10/20/this-nuclear-stock-could-be-your-ticket-to-million/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:25:00+00:00"
+    },
+    {
+      "title": "Netflix Cut Its Ad Revenue Forecast by $300 Million. Does That Matter More Than Its Earnings Beat?",
+      "link": "https://www.fool.com/investing/2026/10/20/netflix-cut-its-ad-revenue-forecast-by-300-million-does-that-matter-more-than-its-earnings-beat/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:23:12+00:00"
+    },
+    {
+      "title": "CEO Elon Musk Just Gave SpaceX Investors Great News",
+      "link": "https://www.fool.com/investing/2026/10/20/ceo-elon-musk-just-gave-spacex-investors-great-news/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:19:01+00:00"
+    },
+    {
+      "title": "3 Stocks That Can Benefit From SpaceX’s Surprise Q3 Earnings - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjdORF9OWW1nSkl5NExRdkgzdEVoZ2Z0S19TQXFKeF84SDlQeS1OZUVsbGFmSjdpbThKZGVYV3JwSGlxM0Zvak5HeW1NMklwcVNqa0NIX3lsMWYxaFdUU1VXZ1Zva0FUZzlwN1pPM3A0QTBCb2g2bHlYRFpNZUNiQktodlhLQWhZZ3kzSkEwa2t6ZjhEYWFMTHhJVzRyUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-10-20T22:16:05+00:00"
+    },
+    {
+      "title": "3 Stocks That Can Benefit From SpaceX’s Surprise Q3 Earnings",
+      "link": "https://beincrypto.com/spacex-ai-spending-shock-3-stocks-upside/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:16:05+00:00"
+    },
+    {
+      "title": "The Moment Jensen Huang Realized Nvidia 'Won't Have to Die' Came After a Call From This CEO: 'For the Whole Time, 30 Years…'",
+      "link": "https://finance.yahoo.com/technology/ai/articles/moment-jensen-huang-realized-nvidia-221554282.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:15:54+00:00"
+    },
+    {
+      "title": "Amazon vs Alphabet: Which \"Magnificent Seven\" Stock Is the Better Buy Right Now?",
+      "link": "https://www.fool.com/investing/2026/10/20/amazon-vs-alphabet-which-magnificent-seven-stock-is-the-better-buy-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T22:15:02+00:00"
+    },
+    {
+      "title": "Why Dime Commercial Bancshares Stock Rocked the Market Today",
+      "link": "https://www.fool.com/investing/2026/10/20/why-dime-commercial-bancshares-stock-rocked-the-market-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:59:41+00:00"
+    },
+    {
+      "title": "Goldman Sachs Is Paying Up to $2.25 Billion for a $30 Billion ETF Business. Is That Enough to Lift the Stock Back to a Record by 2028?",
+      "link": "https://www.fool.com/investing/2026/10/20/goldman-sachs-is-paying-up-to-225-billion-for-a-30/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:50:00+00:00"
+    },
+    {
+      "title": "SpaceX Crushes Q3 with Some Help From Musk",
+      "link": "https://app.moby.co/home/news/news-spacex-crushes-q3-with-some-help-from-musk?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:32:39+00:00"
+    },
+    {
+      "title": "Major gold holder backs NVIDIA challenger",
+      "link": "https://www.thestreet.com/crypto/business/major-gold-holder-backs-nvidia-challenger?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:28:00+00:00"
+    },
+    {
+      "title": "The U.S. Army Is Spending $2.2 Billion on Micro Nuclear Reactors. This Stock Could Benefit.",
+      "link": "https://www.fool.com/investing/2026/10/20/the-us-army-is-spending-22-billion-on-micro-nuclea/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:25:00+00:00"
+    },
+    {
+      "title": "Archer vs Joby: What's the Better eVTOL Stock to Buy Right Now?",
+      "link": "https://www.fool.com/investing/2026/10/20/archer-vs-joby-what-s-the-better-evtol-stock-to-buy-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-20T21:10:01+00:00"
+    },
+    {
+      "title": "時価総額1位で5兆ドル超え！エヌビディア株に10年前100万円投資していたら今いくら？ | 資産運用・経済 - Mocha（モカ） - FP Cafe",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBqcFM0LUNyZ2l0UkNMaV9BXzZnVGlDTEFzbGVBRDhhbHNEdnlGVldmS1JzYW9LYzhWdlBIR1VYRVdmQQ?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-10-20T21:00:59+00:00"
+    },
     {
       "title": "【エヌビディア・オプション取引が活況】10月20日に取引高184.39万枚、未決済建玉1,503.69万枚 - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWpzbjlURlRLRG4tZVkydWh3d2xIVU9oRm4tYkNwWHBNWVpIcnlSQlRFdGVrZmtVRTc4YVE2ZjAya0ZXRkRXYnpiWkMzV3BrLXJJNWNhXzZ2alZkbWZMOHEta3p5aS0yY2lUVDhmb0RfZHNyLVZyOTI4emszSHlqUm1RNmVjREJGYnczY3gxUXRpOWd1NnRDWUc2NkRydzA?oc=5",
       "source": "Googleニュース",
       "published": "2026-10-20T20:35:19+00:00"
-    },
-    {
-      "title": "ETF Balances NVIDIA, Alphabet AI Gains with Treasury Stability - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZk93Tk5remdraEdhSmE0TkVpcUtndUdmMHhDTENRdUlTdDVPdVNCNnhEUGI1YVdBREsxRWt6bVlJWmlpRmJpbmx3bU5WdzdUejVkU19td3FVakczbUw4MmlLV3luSDhPcVBwWW40LVZkRE9FdHNWMG5hWEVxa3FXTHhvOU92Ymtyd0xmZWpR?oc=5",
-      "source": "Google News",
-      "published": "2026-10-20T20:34:57+00:00"
-    },
-    {
-      "title": "Unretired at 68 and the Paycheck Is Back? These 3 ETFs Decide What the New Money Should Do",
-      "link": "https://247wallst.com/investing/etf/2026/10/20/unretired-at-68-and-the-paycheck-is-back-these-3-etfs-decide-what-the-new-money-should-do/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:33:22+00:00"
-    },
-    {
-      "title": "Chevron Is Pouring Billions Into Venezuela. Here's the 1 Number Investors Should Watch.",
-      "link": "https://www.fool.com/investing/2026/10/20/chevron-is-pouring-billions-into-venezuela-heres-t/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:25:00+00:00"
-    },
-    {
-      "title": "SpaceX's Q3 revenue beats expectations: Earnings breakdown",
-      "link": "https://finance.yahoo.com/video/spacexs-q3-revenue-beats-expectations-earnings-breakdown-202124163.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:21:24+00:00"
-    },
-    {
-      "title": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in 2027",
-      "link": "https://www.fool.com/investing/2026/10/20/got-500-1-cryptocurrency-to-buy-hand-over-fist-in/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:21:00+00:00"
-    },
-    {
-      "title": "BlackRock Is Building a Bitcoin ETF for Investors Who Can't Stomach the Swings",
-      "link": "https://www.fool.com/investing/2026/10/20/blackrock-pbit-bitcoin-etf-aims-to-tame-the-swings/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:09:01+00:00"
-    },
-    {
-      "title": "Amazon Stock Costs More Than the Market. I'd Still Buy It for the Next 5 Years.",
-      "link": "https://www.fool.com/investing/2026/10/20/amazon-stock-costs-more-than-the-market-i-d-still-buy-it-for-the-next-5-years/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:07:01+00:00"
-    },
-    {
-      "title": "Prediction: Apple’s Stock Is Due for a Reality Check on Nov. 2",
-      "link": "https://www.fool.com/investing/2026/10/20/prediction-apples-stock-is-due-for-a-reality-check/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:03:00+00:00"
-    },
-    {
-      "title": "AI Stocks: SpaceX 2027 Data Center Expansion Could Be Game Changer",
-      "link": "https://finance.yahoo.com/m/e47e6de4-e781-3181-adf7-c5685c0abf10/ai-stocks%3A-spacex-2027-data.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T20:02:28+00:00"
-    },
-    {
-      "title": "3 High-Yielding Dividend Stocks That Investors Can Safely Buy and Hold for Years",
-      "link": "https://www.fool.com/investing/2026/10/20/3-high-yielding-dividend-stocks-that-investors-can-safely-buy-and-hold-for-years/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:53:01+00:00"
-    },
-    {
-      "title": "Should You Invest $1,000 in PayPal (PYPL) Right Now?",
-      "link": "https://www.fool.com/investing/2026/10/20/should-you-invest-number-in-financial-stock-right/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:50:00+00:00"
-    },
-    {
-      "title": "Amazon stockpiles Nvidia AI hardware ahead of power availability -Business Insider",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amazon-stockpiles-nvidia-ai-hardware-194615746.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:46:15+00:00"
-    },
-    {
-      "title": "Anthropic Is in Talks for Another $45 Billion AI Deal. Nvidia Could Be a Big Winner.",
-      "link": "https://www.fool.com/investing/2026/10/20/anthropic-is-in-talks-for-another-45-billion-ai-deal-nvidia-could-be-a-big-winner/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:44:01+00:00"
-    },
-    {
-      "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E?oc=5",
-      "source": "Google News",
-      "published": "2026-10-20T19:42:49+00:00"
-    },
-    {
-      "title": "Amazon’s $350 target rests on an AI bet beyond the cloud",
-      "link": "https://www.thestreet.com/investing/amazons-350-target-rests-on-an-ai-bet-beyond-the-cloud?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:37:00+00:00"
-    },
-    {
-      "title": "Prediction: Micron Could Turn a $5,000 Investment Into This by 2030",
-      "link": "https://www.fool.com/investing/2026/10/20/prediction-micron-could-turn-a-5000-investment-int/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:33:00+00:00"
     },
     {
       "title": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up - Yahoo Finance",
@@ -110,28 +134,16 @@
       "published": "2026-10-20T19:29:12+00:00"
     },
     {
-      "title": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-amazon-buying-more-192912711.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:29:12+00:00"
+      "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E?oc=5",
+      "source": "Google News",
+      "published": "2026-10-20T19:23:31+00:00"
     },
     {
-      "title": "Why Vicor Shares Are Soaring Today",
-      "link": "https://www.fool.com/investing/2026/10/20/why-vicor-shares-are-soaring-today/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:20:14+00:00"
-    },
-    {
-      "title": "This Stock Pays Me Nearly 8% a Year, and I Can't Stop Buying It",
-      "link": "https://www.fool.com/investing/2026/10/20/this-stock-pays-me-nearly-8-a-year-and-i-can-t-stop-buying-it/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:07:01+00:00"
-    },
-    {
-      "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now",
-      "link": "https://www.fool.com/investing/2026/10/20/3-artificial-intelligence-ai-stocks-that-look-like-great-buys-right-now/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T19:05:02+00:00"
+      "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-20T19:08:00+00:00"
     },
     {
       "title": "NVIDIAも注目の光部品、米3Mがアマゾンと大型契約 株価一時6%高 - 日本経済新聞",
@@ -140,22 +152,10 @@
       "published": "2026-10-20T18:54:44+00:00"
     },
     {
-      "title": "Investment summit: German government strikes AI deal with Nvidia",
-      "link": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-20T18:44:06+00:00"
-    },
-    {
       "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5",
       "source": "Google News",
       "published": "2026-10-20T18:41:00+00:00"
-    },
-    {
-      "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw?oc=5",
-      "source": "Google News",
-      "published": "2026-10-20T18:32:42+00:00"
     },
     {
       "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - Yahoo Finance",
