@@ -1,11 +1,35 @@
 {
-  "updated_at": "2026-10-22T23:58:16+00:00",
+  "updated_at": "2026-10-23T00:50:18+00:00",
   "items": [
+    {
+      "title": "Does CoreWeave (CRWV) Change The Enterprise AI Case With New Security Tools?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-coreweave-crwv-change-enterprise-002132717.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-23T00:21:32+00:00"
+    },
+    {
+      "title": "Why Lockheed Martin Stock Soared Today",
+      "link": "https://www.fool.com/investing/2026/10/22/why-lockheed-martin-stock-soared-today/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-23T00:20:44+00:00"
+    },
+    {
+      "title": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
+      "link": "https://www.fool.com/investing/2026/10/22/what-higher-interest-rates-mean-for-dividend-stock/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-10-23T00:20:00+00:00"
+    },
     {
       "title": "Why Micron Stock Dropped on Thursday",
       "link": "https://www.fool.com/investing/2026/10/22/why-micron-stock-dropped-on-thursday/?.tsrc=rss",
       "source": "Yahoo Finance",
       "published": "2026-10-22T22:49:01+00:00"
+    },
+    {
+      "title": "What Nvidia’s $235 billion stock buybacks program says about inequality in the AI economy - Oxfam America",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHloM2tsZTJvWTVsWDJBMjU2VnhlYWxnS1M2ZHl4TWJtdDFJWE5KOTFEdGFGSDkyZ3FnMFhaekxBUlpJaG9wdDM5VW9UMTctNnRMcEp1UUlRZUZLLVZWWFVkd1FEaFlyRENFekRzQm16TF9Kc2Q4VngwQmFkZ3Y5UDZzSGRPdVlySGRGdnlkZnlhLVloc0NUdndtaXY5MzU4X0ItcTU3cUJNcW1aT0YtZFRuTTlyS1BUcnVpYWNkTGd2VjJQeHo4WXlvSE5jTUJwaUh5X3NjMTFuRl9xY1pJQw?oc=5",
+      "source": "Google News",
+      "published": "2026-10-22T22:40:26+00:00"
     },
     {
       "title": "Nvidia CEO's new plan could dramatically reshape the AI race",
@@ -104,34 +128,16 @@
       "published": "2026-10-22T21:09:01+00:00"
     },
     {
-      "title": "Lindsay Corporation Q4 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lindsay-corporation-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-22T21:08:41+00:00"
-    },
-    {
-      "title": "Is IonQ a Millionaire-Maker Stock?",
-      "link": "https://www.fool.com/investing/2026/10/22/is-ionq-a-millionaire-maker-stock/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-22T21:04:00+00:00"
-    },
-    {
-      "title": "Dover Corporation Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-dover-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-10-22T21:03:12+00:00"
+      "title": "エヌビディア【NVDA】：株価・株式情報 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xcERaYlUwR2Rhb0pfZnNyNExXTmhkeHd5MjVsSTNwdG9tR041dE1hYkdPSGswOTFranNkVW85U0cwQ25CaGh0bzJEbnk3UkU?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-10-22T20:32:31+00:00"
     },
     {
       "title": "Is Nvidia a Top Quantum Computing Stock? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWlMU2xIY282dXc0VE03UHZhLXZIZ2VSUlNlOGtrZEptc3o5VWVOR1FuaWdOVHJsLXNmX2J6ZlFpRWJ0clk5d21qZzV0Y085a1ZwWU1oWlg2UUF1WWVQTURKT2dzaWNaVmpaa0NyWWstaWtuZ0pJMFl5andJNWtjcGdjeUp5X1ZXMVUyc3pRYVZTQzZtTE04MUFyMVdXMHFs?oc=5",
       "source": "Google News",
       "published": "2026-10-22T20:14:00+00:00"
-    },
-    {
-      "title": "SpaceX Says It’s on Pace to Bring 200,000 Nvidia Chips Online a Month. Here’s Why Jensen Huang Calls GPU-Backed Loans “the Big Idea” - TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMDM0bDVmMjNRM2VZZm1CQzhaLWVRRFFXOUI2TXNVNDhFYzNBczBLcU53VnlYTDhjOWZORHBDWDBhOFhXUGlDNS1tOFBRLWs3QTRFdUNyaGd1dGs4emJDTVd6T3ZRSHUtQ1o3X01SY3cyMFBBUVVkZ0NlODFSZmlwLUFNSFZEY0t0WDluREtZdGJHbVFsTzA0OFd1THRTQjVKdlF6aDdoNmt4M1BhYVBXVlBJVl9PTkhwaUl3Q0dKb2J5bzVIVkJ5UU5jNlNzYzRvVzVjZXNOeGhLWnVURlJwOFNNVjVSR0E?oc=5",
-      "source": "Google News",
-      "published": "2026-10-22T20:04:20+00:00"
     },
     {
       "title": "Is Nvidia a Top Quantum Computing Stock? - The Motley Fool",
@@ -174,12 +180,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVV2TTA4YXdzRGRHLWxNcDluMXhJRGFqQTJzbFAwNk5ZRkdMRzZycjI0a2ltUV9rVnNSWWJWVEs3R2V4RlFxQnM3T3IxaHVELVJnclZqVVNBc3FIZGFDdUdiRWwza05ST2dkckppbVY4ZjA2bGtEbWVvdWZKTUw1NUlOZHd3N2RuUElJR1M4dEtnUQ?oc=5",
       "source": "Google News",
       "published": "2026-10-22T18:11:36+00:00"
-    },
-    {
-      "title": "BNP Paribas Delivers Bullish Message for Nvidia Stock Investors - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmRxVXM0OWU5bnBvRHo2b2U2bjBpUWcwWHQxMmR2MHVQeUJ5WDdFOGFxeU1DNWdFUTJEemNEeExNd09YN2VYZ0hvSGdFWXBrN3JpTzQwX2t2RmNBaTc5RVlQbGV0eXY2SlJwMzVGWlhFVnF2eFE0SkpTWUdFYTN1dXdjaVFVVkNYcEo1czZMbHg3VFFWa0dlYzBHMjJWUkF6VHBJSg?oc=5",
-      "source": "Google News",
-      "published": "2026-10-22T18:00:53+00:00"
     }
   ]
 }
