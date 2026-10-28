@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-28T01:32:51+00:00",
+  "updated_at": "2026-10-28T16:44:00+00:00",
   "source": "FINRA via Yahoo Finance",
-  "shares_short": 311389688.0,
-  "shares_short_prior_month": 298301619.0,
-  "shares_short_change_pct": 4.39,
-  "short_ratio": 2.75,
-  "short_percent_of_float": 0.0134000005,
+  "shares_short": 301622687.0,
+  "shares_short_prior_month": 294225803.0,
+  "shares_short_change_pct": 2.51,
+  "short_ratio": 2.84,
+  "short_percent_of_float": 0.012999999,
   "shares_outstanding": 24147000000.0,
   "float_shares": 23133108000.0,
-  "date_short_interest": "2026-09-30T00:00:00+00:00"
+  "date_short_interest": "2026-10-15T00:00:00+00:00"
 }
