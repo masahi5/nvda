@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18T18:55:41+00:00",
+  "updated_at": "2026-11-18T21:02:42+00:00",
   "metrics": {
-    "trailingPE": 19.245258,
-    "forwardPE": 9.176392,
-    "marketCap": 3675897724928.0,
+    "trailingPE": 19.084703,
+    "forwardPE": 9.0910845,
+    "marketCap": 3645231071232.0,
     "trailingEps": 7.91,
-    "forwardEps": 16.58931,
+    "forwardEps": 16.60528,
     "pegRatio": 0.189,
     "profitMargins": 0.63663,
     "revenueGrowth": 1.059
