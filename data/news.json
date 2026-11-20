@@ -1,11 +1,83 @@
 {
-  "updated_at": "2026-11-20T02:17:18+00:00",
+  "updated_at": "2026-11-20T03:39:40+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Techs Slide, Anthropic Retreats After Ugly Market Reversal To New Lows",
+      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T03:32:34+00:00"
+    },
+    {
+      "title": "SpaceX lenders seek safeguards against Musk sending AI chips into space - FT",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-lenders-seek-safeguards-against-031830082.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T03:18:30+00:00"
+    },
+    {
+      "title": "AI株急落はエヌビディア騒動のせい…？ 日経6万円割れを招いた“真犯人”とは - ビジネス+IT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLTkJYZWVDMUkyQjRKQWU1aXhPUFBaSEQ1Z2RoVkl5N1JqbXlHaWQtN093RTN2UFBwbXJRTVVidHBjWm5SZ1cwVFltVmxMS0k?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-20T03:10:00+00:00"
+    },
+    {
+      "title": "Tech takes a beating as AI trade comes unstuck despite Anthropic surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-takes-beating-ai-trade-030257717.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T03:02:57+00:00"
+    },
+    {
+      "title": "エヌビディア向け強い電子機器株に2度目の買いサイン点灯 - 四季報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VcUJZRVBkZEFUZ045aVkzd0NGczZ1TUs4aTVuRUZtbmJMa2Y2T0dnMWg1MzF6WEJBdkloU2J4VFFfQ1MxUDU5czJka1YtVllRT2NFc2pzQQ?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-20T03:00:00+00:00"
+    },
+    {
+      "title": "Nasdaq, Dow, S&P 500 Futures Slip As Anthropic’s Record Debut Fails To Lift AI Stocks: SLV, GLD, AMD, NVDA In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-nasdaq-dow-futures-fell-anthropic-ipo-ai-trade-amd-nvda/cNbSGu0R9KR?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T02:48:14+00:00"
+    },
+    {
+      "title": "AI規制が注目される中でのエヌビディア決算 マーケットへの影響と今後の注目点を解説 野村證券・村山誠 - 野村證券",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FTml5TktwbFpFeFRqejhsNXdJRUFkc3RCbmpvYWVQdjI2LTFzNGx1UHVSM2RHSG5FdWVTRGFmVGtsOElqZFFyRXlTaTk5RnkzWjc5SFZyQzVGdGFVaFpN?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-20T02:40:45+00:00"
+    },
+    {
+      "title": "IBM Stock Is Down About 23% in 2026. Here's Where I Think It Will Be in 2030.",
+      "link": "https://www.fool.com/investing/2026/11/19/ibm-stock-is-down-about-23-in-2026-here-s-where-i-think-it-will-be-in-2030/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T02:24:01+00:00"
+    },
+    {
+      "title": "Michael Burry Says He Warned on AI With NVIDIA and CoreWeave: Big Short Déjà Vu?",
+      "link": "https://beincrypto.com/michael-burry-warned-nvidia-coreweave-nebius/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T02:19:22+00:00"
+    },
+    {
+      "title": "Michael Burry Says He Warned on AI With NVIDIA and CoreWeave: Big Short Déjà Vu? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDcwTy0wck1Zc2c5S3lSUzVwV19laHNOYmNjcTJWR0UxVzIxclk5c2ozZGFzM1Rha3NYWGxsWFlXWERyd1hWaDhSWDhkRnMwWDNHYzVqSTUzXy1DVkltVjY4RTdhUmVCenpYVjBIUGFVdGxKYk1LYXNuR1hUUkZpVzRHWm0zc1ZkSm01OFd3WjJLM0lTR0tuWA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-20T02:19:00+00:00"
+    },
+    {
+      "title": "Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ai-data-center-021420909.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-20T02:14:20+00:00"
+    },
     {
       "title": "Disney Just Raised Its Dividend 33% and Guided to Double-Digit EPS Growth. Here’s What Its Results Mean for Investors.",
       "link": "https://www.fool.com/investing/2026/11/19/disney-just-raised-its-dividend-33-and-guided-to-double-digit-eps-growth-here-s-what-its-results-mean-for-investors/?.tsrc=rss",
       "source": "Yahoo Finance",
       "published": "2026-11-20T02:05:18+00:00"
+    },
+    {
+      "title": "エヌビディア、四半期売上高が初の1000億ドル突破 ジェンスン・フアン氏の3.58%保有が示す支配権の課題 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBySjBzR1Y3TDVEX1VNNnl5YXNwVDFHX1MtMzZuaXpVXzFoSHVkWFBzRnVxNmxwbzY3TC1Ea3ZHbXBZaFV6TS1UQ0N0QzhMXzZpd00yREk1N0tRZGV0Z3kzN1JseG5VSEV4TmtIWkxNQmRscWFV?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-20T02:05:00+00:00"
     },
     {
       "title": "Here's Why Anthropic's IPO Was a Historic Success",
@@ -20,16 +92,22 @@
       "published": "2026-11-20T02:00:00+00:00"
     },
     {
-      "title": "Dow Jones Futures: Techs Slide, Anthropic Retreats After Ugly Market Reversal To New Lows",
-      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
+      "title": "Nikkei Slides 4% as Anthropic's Debut Triggers AI Sell-Off in Tokyo",
+      "link": "https://beincrypto.com/nikkei-225-falls-anthropic-ipo-softbank/?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-11-20T01:55:32+00:00"
+      "published": "2026-11-20T01:50:08+00:00"
     },
     {
       "title": "History Says This Brilliant ETF Could Help You Turn $500 Per Month Into $784,100 While Barely Lifting a Finger.",
       "link": "https://www.fool.com/investing/2026/11/19/history-says-this-brilliant-etf-could-help-you-turn-usd500-per-month-into-usd784-100-while-barely-lifting-a-finger/?.tsrc=rss",
       "source": "Yahoo Finance",
       "published": "2026-11-20T01:48:02+00:00"
+    },
+    {
+      "title": "US approved sale of Nvidia and AMD chips to Chinese companies - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5",
+      "source": "Google News",
+      "published": "2026-11-20T01:40:22+00:00"
     },
     {
       "title": "California attorney general subpoenas Nvidia over chips, former CEO's affair",
@@ -50,6 +128,12 @@
       "published": "2026-11-20T01:25:30+00:00"
     },
     {
+      "title": "Why Nvidia's sell-off could be a buying opportunity (with a catch) - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2VjaXpVcGM0N3puRHB0b0JRcGJvTDh1TjhqS0NlUlRJU3daMlFPdm5XZWxxaktIQk9FYVpYVU01RER3UVJERXRFT1NCb1l0YmxFemJOTm9BTUxad2txY2hCWjA3bUFhOVE2TmhtTTJlcGNuWDlkaXJTS0NhejN4Vllid1ItdEkwamxBMWplOHVmWlBlS3c?oc=5",
+      "source": "Google News",
+      "published": "2026-11-20T01:25:00+00:00"
+    },
+    {
       "title": "Should You Avoid MercadoLibre (MELI) Stock, Even Now That It's Near a 52-Week Low?",
       "link": "https://www.fool.com/investing/2026/11/19/should-you-avoid-mercadolibre-meli-stock-even-now/?.tsrc=rss",
       "source": "Yahoo Finance",
@@ -68,34 +152,16 @@
       "published": "2026-11-20T01:10:37+00:00"
     },
     {
-      "title": "Why Universal Technical Institute Stock Tanked on Thursday",
-      "link": "https://www.fool.com/investing/2026/11/19/why-universal-technical-institute-stock-tanked-on-thursday/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T01:06:21+00:00"
-    },
-    {
       "title": "トランプ氏、9月にエヌビディア株やスペースX株を購入―資産報告書で判明 - 財経新聞",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jMkdzeWR4UF96NUVVRmxOS0JFRGJiZ1FWX2FtY0lIRDBnRUtWeFdHWW5EWHZiZDEyZkY5N2thdWd0U3BHV1M0WDJoNDU3Y3dxZnJsdGFkRjVXNzlOMmFiSXNWTdIBaEFVX3lxTE9wTHV5MEpleDczd1FtLWRSVEZNUUh5by1SN1E4dzJfb0xGdnB2UDByYTZRWUFvWjJYdDNEZDJqamJTdGxTSVZ0UGFtS1RVUlkxbDNpdFZ3NXlsZ09XYWhPVU1ERTZIZnJR?oc=5",
       "source": "Googleニュース",
       "published": "2026-11-20T01:06:09+00:00"
     },
     {
-      "title": "Why Is BILL Stock Going Up?",
-      "link": "https://www.trefis.com/stock/bill/articles/626273/why-is-bill-stock-going-up/2026-11-19?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T01:04:34+00:00"
-    },
-    {
-      "title": "Alibaba Group Holding Accused of Hiding Ties to Suspected Spy in Nvidia Scandal, Lawsuit Says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-holding-accused-hiding-010413571.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T01:04:13+00:00"
-    },
-    {
-      "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw",
-      "link": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T01:03:36+00:00"
+      "title": "NVIDIAにカリフォルニア州検察が召喚状 中国へのチップ流出と決算開示が二大調査焦点 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FX3BWT0R3MWp6ZUtuUlFqUF9sblpTQTVhSFNUem5xWjE4cUFYcmU5Y3p0VjBiMmlXZ29peHZCRkM1OXZhVXBQRUctQUU1V0JwTEo4UlV5aWh5OGJ5Q25WbHdaNlRkSVJrTlFDcDFIQnZRSVRn?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-20T01:06:00+00:00"
     },
     {
       "title": "Michael Burry Says He Tried to Warn You About Nvidia, CoreWeave and Nebius. Here's What the 'Big Short' Investor Saw - Yahoo Finance",
@@ -104,82 +170,16 @@
       "published": "2026-11-20T01:03:00+00:00"
     },
     {
-      "title": "The market could fall 10-12% — stocks to buy and sell now",
-      "link": "https://www.thestreet.com/video/the-market-could-fall-10-12-stock-to-buy-and-sell-now?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T01:00:46+00:00"
-    },
-    {
       "title": "AI半導体90万個、対中輸出承認＝米政権がエヌビディア製など―下院委(時事通信) - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjhYUzdjbTFLUTlBdUd5UUZneVdqekdrMDlmQXRzcUk2blV2bmpsZjltWjYtaHZRdEJ2QU45cjBRczVFbklJRXJkWU1GbGlwQW9QMDU4WXVhUExxTHZkSlMyX2ozRkNieFhHUHRpeXdxQmllOURTVmhmaVR3TDdzUnNpNjFqRUU?oc=5",
       "source": "Googleニュース",
       "published": "2026-11-20T01:00:35+00:00"
     },
     {
-      "title": "Is Your VOO Fund Secretly An AI Bet?",
-      "link": "https://www.trefis.com/stock/voo/articles/626646/is-your-voo-fund-secretly-an-ai-bet/2026-11-19?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T00:58:20+00:00"
-    },
-    {
-      "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club",
-      "link": "https://www.fool.com/investing/2026/11/19/1-unstoppable-stock-to-buy-before-it-joins-hot-tickers-in-the-1-3-trillion-club/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-20T00:52:02+00:00"
-    },
-    {
       "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxZUTZVZndtUFl3QkI1ZFdXV2tvWDBhNnlFR0hTZnVvMmFESl93X25RN3VUWGNiWkg0Zmc2TzEtSkVNM3N0bk14MmxBRkJ2MHBMNUQ5VjVkcmhtZmczekM3dko0ckhnb2xtNU5wc09MLUctekdxaElWU0VJZmw3Y1RYVnpBU0I5aU04WlN4Y0ZnLTBpZUFINFNB?oc=5",
       "source": "Google News",
       "published": "2026-11-20T00:52:00+00:00"
-    },
-    {
-      "title": "対中AIサーバー迂回事件、エヌビディア前営業トップに波及―空売り筋がレポート - 財経新聞",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nclhOMzBtcDRpeGt4enRoUm5nWWgzTzhPVjlleWtuV3N0cTVEci1oYU1seDBJYmZBcGROaE0wbUFJUk9sS1hpWDVORkFDbGROZnhsYzVtT0xLWFY1Nk9nWVAtNNIBaEFVX3lxTE9fX3JhQmc1OFpheVh3b1p4NlhqQUcxeW8yUjZzR1pEOXZ4SlBFRmc1NDJGYVhOTlZKcHB1V1R1U1RHUmVhbFZqRzJmTU04UEFWdDdSZHh1RW0wZWVvblg2Z0RtQ29WbjJL?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-20T00:43:11+00:00"
-    },
-    {
-      "title": "US approved sale of Nvidia and AMD chips to Chinese companies - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTZTNmxkcXpZN2hrOFVhQlFhR1dfVVQ3ZkRCdVFVVi1mWGZfTTBjdDJ2S1JtV19ISjBOdll0YlduVEtMODFHUDhlY1FDRzZVaWVjdWd5RnlpTlh5cXk1VjBENmJWNjRFMG5VX1B4NkVNYlFyY3p2cmZka3RHYjRlakRvYkk?oc=5",
-      "source": "Google News",
-      "published": "2026-11-20T00:42:44+00:00"
-    },
-    {
-      "title": "トランプ氏、9月にエヌビディア株26.5万ドルを高値で購入 開示文書で政策と利益相反の議論再燃 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FZ3JYbWJtZ0VHckVic0VMVVRFSmVndWtEcUFtWGFhSFgwQVZWZDlidFBXRnctSy1KUHV3UkVPdVVaNEdRY0pGdmtUOEJoczJDNWRsMzE3bnJHVjhIcU4tdl9DSW56UHNvRUl3M0JVYUJCMlRz?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-20T00:38:45+00:00"
-    },
-    {
-      "title": "Trump Bought Up to $265,000 of Nvidia Stock at September Highs, Disclosure Revives Policy Conflict-of-Interest Questions - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcDk1ejlPU25tSDZOenJpUjlGS0pjR1ZpQkRVNEplcWZkVUtuMm41Z0tQQkRCdzV4YXhsaXZkczlmOW0yejNidGNqUlZqaGdIaGRzN0REZUFrdGl5OFBuSlNyX1pGRjZDaTdfX0xLX0lWU2daTVE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-20T00:36:00+00:00"
-    },
-    {
-      "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVYwUXVYXzJRbm5VcEtwTUZNakFrV1FpeTJQNWpDRDZVQjZZM3RYb0prOGxzNFVCajFqZTlIR3ZOWlQ3cnp3Yk5CVDNfUks3WU1kQ2VxOHkyQlAwUWQ0NG1hRjBpRU1wWkNwc1ZKaXExN2xFQlpwVzlSMjBFSGZMSHExR0NGbU5Na3BlR2VjRy1oRWY1dGNjUU9hQ05MM0F6SjBUM25UN1BXWktmOHdYMGM1REwxU0tGWGJpdGxTbw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-20T00:32:00+00:00"
-    },
-    {
-      "title": "トランプ氏、9月にエヌビディア株最大26.5万ドル購入＝開示資料 - ニューズウィーク日本版",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVFo0WTRDekFvclN4cTBRODBWaUd0bHFvejZvNURCR2Noc1g2bkEzcDlaS21LTDlTZ1lubGpWdkxmVXlvdFVzTEh0UWpNN3VKX3I4ODdET2JxUQ?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-20T00:30:00+00:00"
-    },
-    {
-      "title": "トランプ氏、9月にエヌビディア株最大26.5万ドル購入＝開示資料 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNEI2VFBicXdNTVBoNzR2aXFtRkdmVnVaYjRNZXQxZVFHcWl2OGFNNnJGR2RDNHQ2aHZVRG0zWXdHU215OHdockVreEZGMHM4eHVBV0FCNDRtYVEydjN0LTNuMWRvSkdNcFNaS01sdGN5Yko3eUgwamRaMTRSYUU?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-20T00:30:00+00:00"
-    },
-    {
-      "title": "California Attorney General Issues Investigative Subpoena to Nvidia - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JnZlB6YVZ4SGVkcGZoWFc3eWVGdjY2T3g2ZXhoZ2NrcXd5NjZNTUx0ZE9wZ2I0Uk9fNGxyal9pWnZYdS0wa0tKYUlpem5PSllfSWFueWw3VnY5aVM1andIeTZadW1ZSEduazNsWTNXemlITUpDV0R1d3N1WU9aNG9JSk1kSklNTlBHTXlCb2ttZ3otUW95Zld4YWlQS3pNbjdn?oc=5",
-      "source": "Google News",
-      "published": "2026-11-20T00:01:00+00:00"
     }
   ]
 }
