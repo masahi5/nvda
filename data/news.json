@@ -1,23 +1,173 @@
 {
-  "updated_at": "2026-11-25T20:00:07+00:00",
+  "updated_at": "2026-11-25T22:05:17+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Reverses For 275-Point Gain; This Ad Firm Breaks Out (Live Coverage)",
+      "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:55:28+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Swings Into A Win; Anthropic Almost Retakes Its IPO Price",
       "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-11-25T19:57:02+00:00"
+      "published": "2026-11-25T21:51:14+00:00"
     },
     {
-      "title": "Walmart+ Members Spend 4 Times As Much As Non-Members. The Retailer’s New $120 Bundle Could Unlock More Growth.",
-      "link": "https://www.fool.com/investing/2026/11/25/walmart-members-spend-4-times-as-much-as-non-members-the-retailer-s-new-usd120-bundle-could-unlock-more-growth/?.tsrc=rss",
+      "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+      "link": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-11-25T19:50:02+00:00"
+      "published": "2026-11-25T21:51:01+00:00"
     },
     {
-      "title": "Why Lucid Stock Is Moving in Reverse Today",
-      "link": "https://www.fool.com/investing/2026/11/25/why-lucid-stock-is-moving-in-reverse-today/?.tsrc=rss",
+      "title": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+      "link": "https://www.fool.com/investing/2026/11/25/is-berkshire-hathaway-stock-a-buy-if-the-fed-keeps-raising-rates/?.tsrc=rss",
       "source": "Yahoo Finance",
-      "published": "2026-11-25T19:38:59+00:00"
+      "published": "2026-11-25T21:50:02+00:00"
+    },
+    {
+      "title": "US stocks end mostly down as bargain-hunting tempers hit to AI shares",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:49:19+00:00"
+    },
+    {
+      "title": "Deere & Company Q4 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-deere-company-q4-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:44:49+00:00"
+    },
+    {
+      "title": "The Dividend ETF I'd Choose to to Generate $500 a Month in Passive Income",
+      "link": "https://www.fool.com/investing/2026/11/25/the-dividend-etf-id-choose-to-to-generate-500-a-month-in-passive-income/?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:35:02+00:00"
+    },
+    {
+      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T21:32:42+00:00"
+    },
+    {
+      "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-213222387.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:32:22+00:00"
+    },
+    {
+      "title": "Nasdaq Plunges 4.6% Before Dramatic Rebound. Wall Street Faces A Triple Threat From AI, Inflation And Trump Tariffs.",
+      "link": "https://www.ibtimes.com/us-stocks-recover-ai-inflation-tariff-selloff-3810199?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:29:34+00:00"
+    },
+    {
+      "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1B3bHNsUzdYc1J2TWdmZXpoVHhNOV9RZzN1NV81WVpRZklfZXNQbUZqcmVoLVhuSkx5MWxvVVBUQlQ0WDliU2xoMkZycU9GTjBaeFhyNGxNLWhEUzBlVEFWWk1ITzgxUlhjM0h0OFNaS2tUcjN5S3RYQTdWSFRFR2Z0UFJyN2lJUmlyS2Rmb19YYTR2eHMzUy1TamhTN3VMWkx6aWJqUTNOa21zSzVZMUVMNjdjYnNzR1lCZFVR?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T21:28:03+00:00"
+    },
+    {
+      "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
+      "link": "https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:28:03+00:00"
+    },
+    {
+      "title": "The Biggest Earnings Winners Grind Sandisk And Dell Into The Dust",
+      "link": "https://finance.yahoo.com/m/e45ffa23-8286-379b-b6e0-081e46a83f75/the-biggest-earnings-winners.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:27:31+00:00"
+    },
+    {
+      "title": "Nvidia CEO's comeback fuels debate over misogyny and impunity for the rich and powerful - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXBwN2dRNk9DT3RHOHFraXdZb0xCMjQ2VXNiNjRjcXE2b18waG54Z1BkTFFRUkVieHA4VDRuV3NXb21NQ2FoNGVrY0hGOWM2dG15NjAxVC1wOEdqcU00NWg3TDlvRlNudTZtZEhoTnpuX1gyMTVUZGo0dUhobXk2X0ozZ2t6TGszVGlpVHpKRlRPWnpWWVhoTGVEYTZ6cWlS0gGmAUFVX3lxTE9xOEI5bWN1STBoWXNub3JQS3RTY0RVUzYzRE9ZTXJweEdCS1dWeFZxV1RRTk9RZGQ1VUlleURDSmEzdkZFMUM4dG1BUFZra1ppRklsdGVJM0NzTkVDY2ZRN2F3TEN3UXRscEdvc24yUDVocmFvVnJWM2lDcGo1U180LXNUN0pKalVtbHo1eVpTenpSZjlvRVVhYTVDVWMwOENKWUd4M0E?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T21:24:54+00:00"
+    },
+    {
+      "title": "How major US stock indexes fared Wednesday 11/25/2026",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211718440.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:17:18+00:00"
+    },
+    {
+      "title": "These 5 Tech Stocks are Sidestepping the AI Downturn",
+      "link": "https://finance.yahoo.com/m/d635c9d7-dbc8-3f44-bc94-e186ec33e2bd/these-5-tech-stocks-are.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:16:00+00:00"
+    },
+    {
+      "title": "Why Is Credo Stock Going Up?",
+      "link": "https://www.trefis.com/stock/crdo/articles/628617/why-is-credo-stock-going-up/2026-11-25?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:13:32+00:00"
+    },
+    {
+      "title": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/apple-aapl-pushes-back-24-211147818.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "published": "2026-11-25T21:11:47+00:00"
+    },
+    {
+      "title": "米S&P、NVIDIAを格下げ方向 ファンCEO騒動で企業統治に懸念 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jQU1yeWZqX2VYbjlGUlZsY1dxNU1sQndPTzdMc1RyTGVtZlhGVld6WWMtRDJwMm1BYjNDdHFFWFJvbkRoUkROQlRvZVBoUml4YWtldXlBTjdVS05wQ2s4VklnWGRHMTEyRUJiUg?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-25T21:09:36+00:00"
+    },
+    {
+      "title": "Vance says Nvidia's Jensen Huang isn't under investigation and doesn't need a pardon - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRmJMV3dtejhaOWFLQ19MU2VROG1BVm5OOFh1MkNzWmlsUkctbXJBM0Mtekx1M2tZYldCb0pveDlDZGxjSW1TZWJOUUQyQlVWelhaTllsMkgxcDZXZTNBUXhMcDF0VVBTT2ZjOUtWckVxQXFFdDR1RExMUlo?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T20:46:16+00:00"
+    },
+    {
+      "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSW1VTjZHMTM4LWRZT292cVltYmZJSUd5clVvOTZjQ3c5MlNxZEhnaFVyVzVTWlNMRHBmQ1JoYXJCRlRDQmgxRXQ0ZWlqRmVkTk9Yb01taVJYVnAyZ1NUSzBuQlFsVXd1WmV5bGZNLUl0OWd4ckNrY0lHanA2TjRIdTNwenhCWHh0M3NEWkEybEtxZ1FIN3FhRUdxV2VUNnNCTVNteC0wblBwNV9H?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T20:33:02+00:00"
+    },
+    {
+      "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T20:27:35+00:00"
+    },
+    {
+      "title": "As Nvidia stock fluctuates and talk of an AI bubble heats up, here's what you need to know about saving for retirement - www.marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFQ5UlUxem1PQWhBYnBCbW45X2JSNnBoN3dISjRSTDhZRGJqRVh2bGdXdDFlbkIwOHdRYmN4OGdNRHhOeGRmUEtoQmRhM0RSQVowQm9Pc1ZTWUNxMWhWejFOSkwzYnhOVjcxY2pOeHVsZHJfc1V6RGRmMGEySmtiQUh0WFJxdE90eVBLZnJMUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T20:19:28+00:00"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang reportedly had fourth affair, at minimum - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ER2NhemVFUW1NQktrU1hPNXY3VlBIUHhlNm1zYkV3WllWNWd3WUZWcG9LandyMTVzR2FoRGxMd3BzNlRDZjNRYjhibVl0dl96OTZzSV9FM0M5bmRpZE11eVBBNHphR013M1NjRVl3ZGVoOGY5WXBPRGZB?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T20:12:02+00:00"
+    },
+    {
+      "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-25T19:56:16+00:00"
+    },
+    {
+      "title": "エヌビディア復帰初日のジェンスン・フアン氏、毎日90分の心理療法を告白 「会社は私がいなくても回る」と直言 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05VU9wOUl6ZHo4NldZcHRWb2Y2T3FYbHlFNTllWHplOEdObXFEZ1cxd0U2ZDJmV1Q0TW9aR01jSTdmLWQ3NVBOM3JFZFdtT0JoZTl6VDRhNDhvY2NXZVNxaVNIN0pYaTlQanI0SjBTUG5DWGNm?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-25T19:55:00+00:00"
+    },
+    {
+      "title": "S&P、ガバナンス不足を理由にエヌビディアをクレジットウォッチ・ネガティブに格下げ方向で指定、1段階引き下げリスクを指摘 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tNml6aDVRMXNGR09NemVHVE1KUGtEX1dRc1BOOFNaNC1EcTlaSFpYd0NtTzZ0RkI0YWN1QWM5WHJXbUJHUklrVnBxQjhGNFJzUkZTY1RMajQzYVRTRjU4eDJKMExvc0JWOGNXVjg5QTNlTDBL?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-25T19:55:00+00:00"
+    },
+    {
+      "title": "Ｓ＆Ｐ、エヌビディアを格下げ方向で見直し ガバナンス巡るリスク指摘(ロイター) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVpuWjZuRkozRm5lbmpLYjhWUjhINFpqSWNLM2pCYVBZdmNLUnFSR3ZYblpGVXJVbk91QjNyTGM0MUF2VEMtZWZRYW5GaXpwVVNNOHAyZ0ZFODFJZDBtVlB0cVktMWJleXQ0TXp4RS14eVM3Q3AxNFRFUFkxXzVxNEtkUXd5dW8?oc=5",
+      "source": "Googleニュース",
+      "published": "2026-11-25T19:39:56+00:00"
     },
     {
       "title": "UPDATE: California teacher pension fund vulnerable to stock market’s Nvidia-fueled AI turmoil - EdSource",
@@ -26,160 +176,10 @@
       "published": "2026-11-25T19:37:11+00:00"
     },
     {
-      "title": "Abercrombie & Fitch Grew Sales for the 16th Straight Quarter as Earnings Jumped 62%. Here's What's Behind the Streak.",
-      "link": "https://www.fool.com/investing/2026/11/25/abercrombie-fitch-grew-sales-for-the-16th-straight-quarter-as-earnings-jumped-62-heres-whats-behind-the-streak/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:36:02+00:00"
-    },
-    {
-      "title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:30:00+00:00"
-    },
-    {
       "title": "トランプ氏のNVIDIA株、評価額2.8億円超増の試算 ファン氏復帰の日 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVWpVUG9TSFRYcVhrWEc2LWh6QjNLRW5qdi1OamhUVzhQMmU5WU9QNDh5WnZpbGtRLXZFcmdQbElVOVlZR3BSMzc2d0plbDMtb0t3QzJzeVN3ZmlueFVuSWNGNjltWThVbl9hTQ?oc=5",
       "source": "Googleニュース",
       "published": "2026-11-25T19:29:11+00:00"
-    },
-    {
-      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:28:54+00:00"
-    },
-    {
-      "title": "S&P puts NVIDIA on CreditWatch over governance concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-puts-nvidia-creditwatch-over-192625970.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:26:25+00:00"
-    },
-    {
-      "title": "Goldman Sachs Sees 52 More GW of Data Center Power in 2028. These 3 Stocks Look Best Positioned to Cash In.",
-      "link": "https://www.fool.com/investing/2026/11/25/goldman-sachs-sees-52-more-gw-of-data-center-power-in-2028-these-3-stocks-look-best-positioned-to-cash-in/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:26:11+00:00"
-    },
-    {
-      "title": "Vance says Nvidia's Jensen Huang isn't under investigation and doesn't need a pardon - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRmJMV3dtejhaOWFLQ19MU2VROG1BVm5OOFh1MkNzWmlsUkctbXJBM0Mtekx1M2tZYldCb0pveDlDZGxjSW1TZWJOUUQyQlVWelhaTllsMkgxcDZXZTNBUXhMcDF0VVBTT2ZjOUtWckVxQXFFdDR1RExMUlo?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T19:25:27+00:00"
-    },
-    {
-      "title": "Nvidia is cheap on paper, so why won't the market buy it?",
-      "link": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:22:15+00:00"
-    },
-    {
-      "title": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron.",
-      "link": "https://www.fool.com/investing/2026/11/25/david-tepper-sold-all-of-his-amd-stock-his-biggest-position-is-micron/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:20:02+00:00"
-    },
-    {
-      "title": "This Strategist Still Sees the S&P 500 Hitting 10,000",
-      "link": "https://finance.yahoo.com/m/f24bf1b4-b64e-35a6-8dc1-c6ce8ed67405/this-strategist-still-sees.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:20:00+00:00"
-    },
-    {
-      "title": "Why Alphabet Stock Is Down Today",
-      "link": "https://www.fool.com/investing/2026/11/25/why-alphabet-stock-is-down-today/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:15:01+00:00"
-    },
-    {
-      "title": "Michael Burry Loads Up on 3 Chinese Stocks; Sticks to Nvidia Bearish Bet - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUNHTm9Qakozcnczd2hxR21qUFRnYjBORTFjY09lblpNQnVSQ29kTFBDSFMzM1RiVUFFWTVrd2d4V05UMW1TTTJxSVlVYmxOOWczSHlQNDU0X09JVGxzVGdSeU05NDBKSERpc21IejNneXdieXZwTDZSdVhYdkxDb2NSSVFYMGtWZ0hNWksybjdkVVl1TkdLaFN3?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T19:13:45+00:00"
-    },
-    {
-      "title": "Michael Burry Loads Up on 3 Chinese Stocks; Sticks to Nvidia Bearish Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-loads-3-chinese-191345318.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:13:45+00:00"
-    },
-    {
-      "title": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T19:10:41+00:00"
-    },
-    {
-      "title": "Why Did Nvidia Stock Jump So Much?",
-      "link": "https://www.trefis.com/stock/nvda/articles/628615/why-did-nvidia-stock-jump-so-much/2026-11-25?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:07:03+00:00"
-    },
-    {
-      "title": "Tech stock sell-off persists as AI fears outweigh Huang’s Nvidia return",
-      "link": "https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "published": "2026-11-25T19:06:38+00:00"
-    },
-    {
-      "title": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQm9yOWVOVWZaUlRWN1gtT0Z0MGRCcGpWamg4UnNvOTZtQ2hrcmh5WmdjeXczNHFwSEJINmFvMnAtZGVVOHFXc29SUzQ3WkQ0ZmNQdi05TmpOR0kta0tyd24wOXhlbGN4QjVOZW4xRVhkSTRKdDRBWVNremNjQUM2RERtamZPR0RXNnFGTmxpdjZXMTA0Z3cxcFNoRzVoWWVpUW5NVEg4V2w1MzBRZG1WQi1McFZiQ3Awam52Z0htUU1WTm5jVGkwZjZRNkRPTDYzU3ZIVFhvYXNlSkpsdjNmOHlrdlROc09SZ3c?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T19:03:16+00:00"
-    },
-    {
-      "title": "AI相場に冷や水、欧州株全面安 エヌビディア熱狂の反動で東京市場は2100円安 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wcVVDcjBPSW5xYnhtWHhwMEtraHRXcnlmaUlwb0M4UjFhLUJJcmExZXNCdTJUM0tBdlpkNW1UQnFBSEdGSTNMdGRYZ1VPTFN6WWtJYXVrTGsxUGsxeTFrMVdWVnlMVVlVdE5reDFTOGZPR3hf?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-25T18:55:00+00:00"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang reportedly had fourth affair, at minimum - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ER2NhemVFUW1NQktrU1hPNXY3VlBIUHhlNm1zYkV3WllWNWd3WUZWcG9LandyMTVzR2FoRGxMd3BzNlRDZjNRYjhibVl0dl96OTZzSV9FM0M5bmRpZE11eVBBNHphR013M1NjRVl3ZGVoOGY5WXBPRGZB?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:53:56+00:00"
-    },
-    {
-      "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmtSaTA4azkycF9kUE9vTHd0aTVMcUZHOGhRRS1rdjBOZ2kzVEl6TUJEVGZvblBvakU3ZW5nUFVqTWlodW4xcGdtVWF3SjAtUXk1RDdjbjltbFY1TFBDRnRLTk1kcFBoQTBSMWRHN3RCYWJUOHhXaTJ2cFR1NVQwNmdsYU5RVTVwT0dKUGxNRHRscTBYXzZockVOLW5WOHZPaENxZk1fTEM1NUt5SUJNUlo3Z25mandlejJqQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:53:34+00:00"
-    },
-    {
-      "title": "Why Nvidia Stock Is Falling Again - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnZYQmNDcUVPbkdnb3J6b2xpMU9DVFFqbTNBdDFnTUk2cDBHbTNXQnBuVk9vRWVVdmYwN3dCWjF5RTZRSXV3dENOVGRnLU9BYjkxelMxNi1jRVpneUVmOEdoVjVSUGszREFxNE0xVjM2b2FlOXF5UDJQV0VEVEJra2lCeC1iZUpIQmF1SnZpWklreDQ2MVpjZG90NA?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:53:02+00:00"
-    },
-    {
-      "title": "NVDA Stock Alert: Nvidia CEO Jensen Huang Rejects Calls for Succession Plan - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXJWand6UFg5NXNWaDlxWVlsVkZ1aENyYmw5b2cwQ2VKQ3dua2V6Vm1JLTFYdzQzUGVCWFIxdVhfY2RvdzYxQ0RON1RqeHNlWUdPTFM1UkppY08zM1pFM3hMZDBFcTJ0SDVfOHFPTDR2azVJM0JseVdFUWxxSWQ2akFmRjB0TzlSUFF0ZlBtUzIzM1JfLU9nT1RwdmcyOTZnRWs4RTIxZEFXNHlGcURTVlhYVTZ1eWItUlE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:45:32+00:00"
-    },
-    {
-      "title": "Market sell-off eases up, but AI doubts, tariffs and inflation still weigh down stocks - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlpRc1pWbUlBRjhqREZ5aFk5SDJUMjEzOWtOeEZCd19aRnhneEJKaHRFSnQ1TGhTVzEtRmdySjZfdV9MUjVOZmxiN016Qkc5aXNUcEktOHUxUElnX2p6RDk5ZG95Z3hvb3B0bmR3THpRaUJ4bDVOalFaaXV1c2J1RXlnT2o1bXZ1WEI5XzBSQU5pLVBhbTlZNUlXX0hhY2UteDYzbnNB?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:36:31+00:00"
-    },
-    {
-      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-25T18:32:52+00:00"
-    },
-    {
-      "title": "エヌビディア、暗号資産マイニング収益の開示巡る株主訴訟で2.9億ドル支払いへ - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tZUFMb0FZcjNjUWI4LUItNGlqUlZWV2F1Sm1pbkZJTlNpNjQ5YVo4Ull0LW9oXzJvbmVmT1JhZWxPUGMycWI1XzAwNHVseF9vU1JIMVZERldGZGo0Nl9WMHpicWxXVDdLR1BxcDU3TlJnNnhW?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-25T18:25:00+00:00"
-    },
-    {
-      "title": "AI関連株が連鎖安、ナスダック100は1日で238兆円消失も 巨額投資の採算性に疑念 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSG9tZFZhUUhLTE9KME83eW5ZSHg3M1ByVXFxdlA3Zm1GOGIydFNWUkpqM2FCODFGdFNuc0Z0RklEa3BubWRZNXRIVjJSYmtvNVlFTTRMem1VaWZCVEZWZWpud0xOcHdyNlRodVg1NFBBRjA3?oc=5",
-      "source": "Googleニュース",
-      "published": "2026-11-25T18:25:00+00:00"
     }
   ]
 }
